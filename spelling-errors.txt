@@ -1,6 +1,8 @@
+analytics
 BrAPI
 BrapiCoordinatorSelby
 BrapMan
 DSFAS
 NIFA
+QBMS
 Selby
