@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-21" />
   <meta name="citation_publication_date" content="2023-03-21" />
   <meta property="article:published_time" content="2023-03-21" />
-  <meta name="dc.modified" content="2023-03-21T17:57:34+00:00" />
-  <meta property="article:modified_time" content="2023-03-21T17:57:34+00:00" />
+  <meta name="dc.modified" content="2023-03-21T18:00:25+00:00" />
+  <meta property="article:modified_time" content="2023-03-21T18:00:25+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/348ca72907c58b8e4a686db738117c255755238f/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/348ca72907c58b8e4a686db738117c255755238f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/348ca72907c58b8e4a686db738117c255755238f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cde10894ff24925d59b126b87ed91eba67d64be7/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cde10894ff24925d59b126b87ed91eba67d64be7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cde10894ff24925d59b126b87ed91eba67d64be7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/348ca72907c58b8e4a686db738117c255755238f/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/cde10894ff24925d59b126b87ed91eba67d64be7/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@348ca72](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/348ca72907c58b8e4a686db738117c255755238f)
+from [plantbreeding/BrAPI-Manuscript2@cde1089](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/cde10894ff24925d59b126b87ed91eba67d64be7)
 on March 21, 2023.
 </em></small>
 
@@ -107,9 +107,17 @@ This manuscript describes updates and outlook for the current version of BrAPI.
 
 ## Introduction
 
-DIGITAL ECOSYSTEM
+The Breeding API (BrAPI) project is an effort to enable interoperability among plant breeding databases [@doi:10.1093/bioinformatics/btz190].
 
-Justification for a second paper
+* DIGITAL ECOSYSTEM
+* Justification for a second paper
+* Highlight Community Growth
+* Hackathons
+* sabbaticals
+* Updates for V2
+ * Auth Data Access Control - super simplified - highlight data privacy and security elements
+ * Project structure - Modules 
+ * Standardization of endpoints across objects - said in a non-tech way
 
 
 ## Success Stories
@@ -125,6 +133,17 @@ Justification for a second paper
 	* Project Explanation
 	* BrAPI integration
 	* Layman description how it can help breeding program
+
+
+Discussion - how can BrAPI help breeders (specifically small breeders)
+* Looking ahead - what needs to be done further
+* Analytics
+* HDP
+* GraphQL?
+* Field mgmt - treatments etc
+* Drones, image processing, HTP
+* ChatGPT integration - BreedersGPT
+* Weather & soil - why it won’t be in BrAPI
 
 
 ## References {.page_break_before}

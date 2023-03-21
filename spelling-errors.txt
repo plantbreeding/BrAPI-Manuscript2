@@ -1,8 +1,16 @@
-analytics
+Analytics
+Auth
 BrAPI
 BrapiCoordinatorSelby
 BrapMan
+BreedersGPT
+ChatGPT
 DSFAS
+GraphQL
+Hackathons
+HDP
+HTP
+mgmt
 NIFA
 QBMS
 Selby

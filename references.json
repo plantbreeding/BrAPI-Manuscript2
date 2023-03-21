@@ -1,1 +1,258 @@
-[]
+[
+  {
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "20",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:sec>\n                  <jats:title>Motivation</jats:title>\n                  <jats:p>Modern genomic breeding methods rely heavily on very large amounts of phenotyping and genotyping data, presenting new challenges in effective data management and integration. Recently, the size and complexity of datasets have increased significantly, with the result that data are often stored on multiple systems. As analyses of interest increasingly require aggregation of datasets from diverse sources, data exchange between disparate systems becomes a challenge.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>To facilitate interoperability among breeding applications, we present the public plant Breeding Application Programming Interface (BrAPI). BrAPI is a standardized web service API specification. The development of BrAPI is a collaborative, community-based initiative involving a growing global community of over a hundred participants representing several dozen institutions and companies. Development of such a standard is recognized as critical to a number of important large breeding system initiatives as a foundational technology. The focus of the first version of the API is on providing services for connecting systems and retrieving basic breeding data including germplasm, study, observation, and marker data. A number of BrAPI-enabled applications, termed BrAPPs, have been written, that take advantage of the emerging support of BrAPI by many databases.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Availability and implementation</jats:title>\n                  <jats:p>More information on BrAPI, including links to the specification, test suites, BrAPPs, and sample implementations is available at https://brapi.org/. The BrAPI specification and the developer tools are provided as free and open source.</jats:p>\n               </jats:sec>",
+    "DOI": "10.1093/bioinformatics/btz190",
+    "type": "article-journal",
+    "page": "4147-4155",
+    "source": "Crossref",
+    "title": "BrAPI—an application programming interface for plant breeding applications",
+    "volume": "35",
+    "author": [
+      {
+        "given": "Peter",
+        "family": "Selby"
+      },
+      {
+        "given": "Rafael",
+        "family": "Abbeloos"
+      },
+      {
+        "given": "Jan Erik",
+        "family": "Backlund"
+      },
+      {
+        "given": "Martin",
+        "family": "Basterrechea Salido"
+      },
+      {
+        "given": "Guillaume",
+        "family": "Bauchet"
+      },
+      {
+        "given": "Omar E",
+        "family": "Benites-Alfaro"
+      },
+      {
+        "given": "Clay",
+        "family": "Birkett"
+      },
+      {
+        "given": "Viana C",
+        "family": "Calaminos"
+      },
+      {
+        "given": "Pierre",
+        "family": "Carceller"
+      },
+      {
+        "given": "Guillaume",
+        "family": "Cornut"
+      },
+      {
+        "given": "Bruno",
+        "family": "Vasques Costa"
+      },
+      {
+        "given": "Jeremy D",
+        "family": "Edwards"
+      },
+      {
+        "given": "Richard",
+        "family": "Finkers"
+      },
+      {
+        "given": "Star",
+        "family": "Yanxin Gao"
+      },
+      {
+        "given": "Mehmood",
+        "family": "Ghaffar"
+      },
+      {
+        "given": "Philip",
+        "family": "Glaser"
+      },
+      {
+        "given": "Valentin",
+        "family": "Guignon"
+      },
+      {
+        "given": "Puthick",
+        "family": "Hok"
+      },
+      {
+        "given": "Andrzej",
+        "family": "Kilian"
+      },
+      {
+        "given": "Patrick",
+        "family": "König"
+      },
+      {
+        "given": "Jack Elendil B",
+        "family": "Lagare"
+      },
+      {
+        "given": "Matthias",
+        "family": "Lange"
+      },
+      {
+        "given": "Marie-Angélique",
+        "family": "Laporte"
+      },
+      {
+        "given": "Pierre",
+        "family": "Larmande"
+      },
+      {
+        "given": "David S",
+        "family": "LeBauer"
+      },
+      {
+        "given": "David A",
+        "family": "Lyon"
+      },
+      {
+        "given": "David S",
+        "family": "Marshall"
+      },
+      {
+        "given": "Dave",
+        "family": "Matthews"
+      },
+      {
+        "given": "Iain",
+        "family": "Milne"
+      },
+      {
+        "given": "Naymesh",
+        "family": "Mistry"
+      },
+      {
+        "given": "Nicolas",
+        "family": "Morales"
+      },
+      {
+        "given": "Lukas A",
+        "family": "Mueller"
+      },
+      {
+        "given": "Pascal",
+        "family": "Neveu"
+      },
+      {
+        "given": "Evangelia",
+        "family": "Papoutsoglou"
+      },
+      {
+        "given": "Brian",
+        "family": "Pearce"
+      },
+      {
+        "given": "Ivan",
+        "family": "Perez-Masias"
+      },
+      {
+        "given": "Cyril",
+        "family": "Pommier"
+      },
+      {
+        "given": "Ricardo H",
+        "family": "Ramírez-González"
+      },
+      {
+        "given": "Abhishek",
+        "family": "Rathore"
+      },
+      {
+        "given": "Angel Manica",
+        "family": "Raquel"
+      },
+      {
+        "given": "Sebastian",
+        "family": "Raubach"
+      },
+      {
+        "given": "Trevor",
+        "family": "Rife"
+      },
+      {
+        "given": "Kelly",
+        "family": "Robbins"
+      },
+      {
+        "given": "Mathieu",
+        "family": "Rouard"
+      },
+      {
+        "given": "Chaitanya",
+        "family": "Sarma"
+      },
+      {
+        "given": "Uwe",
+        "family": "Scholz"
+      },
+      {
+        "given": "Guilhem",
+        "family": "Sempéré"
+      },
+      {
+        "given": "Paul D",
+        "family": "Shaw"
+      },
+      {
+        "given": "Reinhard",
+        "family": "Simon"
+      },
+      {
+        "given": "Nahuel",
+        "family": "Soldevilla"
+      },
+      {
+        "given": "Gordon",
+        "family": "Stephen"
+      },
+      {
+        "given": "Qi",
+        "family": "Sun"
+      },
+      {
+        "given": "Clarysabel",
+        "family": "Tovar"
+      },
+      {
+        "given": "Grzegorz",
+        "family": "Uszynski"
+      },
+      {
+        "given": "Maikel",
+        "family": "Verouden"
+      },
+      {}
+    ],
+    "container-title": "Bioinformatics",
+    "language": "en",
+    "editor": [
+      {
+        "given": "Jonathan",
+        "family": "Wren"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          23
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gjgxxr",
+    "PMCID": "PMC6792114",
+    "PMID": "30903186",
+    "id": "QfGEJ6km",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/bioinformatics/btz190"
+  }
+]
