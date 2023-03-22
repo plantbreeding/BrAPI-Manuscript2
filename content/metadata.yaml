@@ -17,3 +17,12 @@ authors:
     funders:
       - NIFA-DSFAS 2022-67021-37024
     corresponding: true
+  - github: trife
+    name: Trevor "Cool Kid" Rife
+    initials: TR
+    orcid: 0000-0002-5974-6523
+    email: twrife@clemson.edu
+    affiliations:
+      - Clemson University
+    funders: []
+    corresponding: false
