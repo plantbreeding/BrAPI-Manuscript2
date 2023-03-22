@@ -9,6 +9,9 @@ content/03.success.md:7:BrAPI
 content/03.success.md:10:analytics
 content/03.success.md:10:QBMS
 content/03.success.md:12:BrAPI
+content/03.success.md:15:brapi
+content/03.success.md:15:brapi
+content/03.success.md:17:BrAPI
 content/04.discussion.md:3:BrAPI
 content/04.discussion.md:5:Analytics
 content/04.discussion.md:6:HDP

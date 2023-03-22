@@ -1,6 +1,6 @@
 analytics
 Auth
-BrAPI
+brapi
 BrapiCoordinatorSelby
 BrapMan
 BreedersGPT
