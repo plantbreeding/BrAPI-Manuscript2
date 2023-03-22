@@ -1,4 +1,4 @@
-analytics
+Analytics
 Auth
 brapi
 BrapiCoordinatorSelby
@@ -14,3 +14,4 @@ mgmt
 NIFA
 QBMS
 Selby
+trife

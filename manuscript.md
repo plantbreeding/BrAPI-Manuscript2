@@ -8,6 +8,7 @@ lang: en-US
 date-meta: '2023-03-22'
 author-meta:
 - Peter "BrapMan" Selby
+- Trevor "Cool Kid" Rife
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -22,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-22" />
   <meta name="citation_publication_date" content="2023-03-22" />
   <meta property="article:published_time" content="2023-03-22" />
-  <meta name="dc.modified" content="2023-03-22T17:26:56+00:00" />
-  <meta property="article:modified_time" content="2023-03-22T17:26:56+00:00" />
+  <meta name="dc.modified" content="2023-03-22T18:41:54+00:00" />
+  <meta property="article:modified_time" content="2023-03-22T18:41:54+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -33,15 +34,18 @@ header-includes: |
   <meta name="citation_author" content="Peter &#34;BrapMan&#34; Selby" />
   <meta name="citation_author_institution" content="Cornell University" />
   <meta name="citation_author_orcid" content="0000-0001-7151-4445" />
+  <meta name="citation_author" content="Trevor &#34;Cool Kid&#34; Rife" />
+  <meta name="citation_author_institution" content="Clemson University" />
+  <meta name="citation_author_orcid" content="0000-0002-5974-6523" />
   <link rel="canonical" href="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="og:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="twitter:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/b6195ae8f723f9b0a974fb712cd26df953033fa1/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/b6195ae8f723f9b0a974fb712cd26df953033fa1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/b6195ae8f723f9b0a974fb712cd26df953033fa1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/aa316470e09d263d8b7d7766b845b587142ec659/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/aa316470e09d263d8b7d7766b845b587142ec659/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/aa316470e09d263d8b7d7766b845b587142ec659/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +67,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/b6195ae8f723f9b0a974fb712cd26df953033fa1/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/aa316470e09d263d8b7d7766b845b587142ec659/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@b6195ae](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/b6195ae8f723f9b0a974fb712cd26df953033fa1)
+from [plantbreeding/BrAPI-Manuscript2@aa31647](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/aa316470e09d263d8b7d7766b845b587142ec659)
 on March 22, 2023.
 </em></small>
 
@@ -85,6 +89,17 @@ on March 22, 2023.
   <small>
      Cornell University
      · Funded by NIFA-DSFAS 2022-67021-37024
+  </small>
+
++ **Trevor "Cool Kid" Rife**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-5974-6523](https://orcid.org/0000-0002-5974-6523)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [trife](https://github.com/trife)
+    <br>
+  <small>
+     Clemson University
   </small>
 
 
