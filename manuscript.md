@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2023-03-22'
+date-meta: '2023-06-05'
 author-meta:
 - Peter "BrapMan" Selby
 - Trevor "Cool Kid" Rife
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI 2" />
   <meta property="og:title" content="BrAPI 2" />
   <meta property="twitter:title" content="BrAPI 2" />
-  <meta name="dc.date" content="2023-03-22" />
-  <meta name="citation_publication_date" content="2023-03-22" />
-  <meta property="article:published_time" content="2023-03-22" />
-  <meta name="dc.modified" content="2023-03-22T18:41:54+00:00" />
-  <meta property="article:modified_time" content="2023-03-22T18:41:54+00:00" />
+  <meta name="dc.date" content="2023-06-05" />
+  <meta name="citation_publication_date" content="2023-06-05" />
+  <meta property="article:published_time" content="2023-06-05" />
+  <meta name="dc.modified" content="2023-06-05T18:35:55+00:00" />
+  <meta property="article:modified_time" content="2023-06-05T18:35:55+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -43,9 +43,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/aa316470e09d263d8b7d7766b845b587142ec659/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/aa316470e09d263d8b7d7766b845b587142ec659/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/aa316470e09d263d8b7d7766b845b587142ec659/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/3ab36c1fb4f3aa63f02bccc54a6091616226d25a/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/3ab36c1fb4f3aa63f02bccc54a6091616226d25a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/3ab36c1fb4f3aa63f02bccc54a6091616226d25a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,10 +67,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/aa316470e09d263d8b7d7766b845b587142ec659/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/3ab36c1fb4f3aa63f02bccc54a6091616226d25a/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@aa31647](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/aa316470e09d263d8b7d7766b845b587142ec659)
-on March 22, 2023.
+from [plantbreeding/BrAPI-Manuscript2@3ab36c1](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/3ab36c1fb4f3aa63f02bccc54a6091616226d25a)
+on June 5, 2023.
 </em></small>
 
 
