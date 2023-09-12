@@ -16,7 +16,8 @@ was focused on the technical aspects of BrAPI and its potential. This manuscript
 ## Helpful Links
 
 + [Manuscript Content Folder](content)
-+ [**HTML manuscript**](https://plantbreeding.github.io/BrAPI-Manuscript2/)
-+ [**PDF manuscript**](https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf)
++ [Markdown Formatting Cheat Sheet](content/formatting_help)
++ [HTML manuscript](https://plantbreeding.github.io/BrAPI-Manuscript2/)
++ [PDF manuscript](https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf)
 + [Manubot README](Manubot-README.md)
 + [Manubot Usage Instructions](USAGE.md)
