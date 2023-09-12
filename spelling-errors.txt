@@ -1,5 +1,5 @@
-analytics
-BrAPI
+Analytics
+brapi
 BrapiCoordinatorSelby
 BrapMan
 BreedersGPT
@@ -7,6 +7,7 @@ ChatGPT
 CLI
 datasets
 DSFAS
+ERD
 Genotyping
 Germplasm
 GraphQL
