@@ -1,5 +1,4 @@
-analytics
-anf
+Analytics
 BIMS
 BMS
 BrAPI

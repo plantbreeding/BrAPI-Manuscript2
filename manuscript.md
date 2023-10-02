@@ -1,11 +1,13 @@
 ---
-title: BrAPI 2
+title: BrAPI Success Stories
 keywords:
-- markdown
-- publishing
-- manubot
+- brapi
+- breeding
+- api
+- standards
+- community
 lang: en-US
-date-meta: '2023-09-22'
+date-meta: '2023-10-02'
 author-meta:
 - Peter "BrapMan" Selby
 - Trevor "Cool Kid" Rife
@@ -16,15 +18,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="BrAPI 2" />
-  <meta name="citation_title" content="BrAPI 2" />
-  <meta property="og:title" content="BrAPI 2" />
-  <meta property="twitter:title" content="BrAPI 2" />
-  <meta name="dc.date" content="2023-09-22" />
-  <meta name="citation_publication_date" content="2023-09-22" />
-  <meta property="article:published_time" content="2023-09-22" />
-  <meta name="dc.modified" content="2023-09-22T20:54:56+00:00" />
-  <meta property="article:modified_time" content="2023-09-22T20:54:56+00:00" />
+  <meta name="dc.title" content="BrAPI Success Stories" />
+  <meta name="citation_title" content="BrAPI Success Stories" />
+  <meta property="og:title" content="BrAPI Success Stories" />
+  <meta property="twitter:title" content="BrAPI Success Stories" />
+  <meta name="dc.date" content="2023-10-02" />
+  <meta name="citation_publication_date" content="2023-10-02" />
+  <meta property="article:published_time" content="2023-10-02" />
+  <meta name="dc.modified" content="2023-10-02T18:58:37+00:00" />
+  <meta property="article:modified_time" content="2023-10-02T18:58:37+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -43,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cf320be2bcce4fbe7751411e54e8d3ed03a329b4/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cf320be2bcce4fbe7751411e54e8d3ed03a329b4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cf320be2bcce4fbe7751411e54e8d3ed03a329b4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/87668bbd8eb50d77c3e71c6e45dd3285da9c6097/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/87668bbd8eb50d77c3e71c6e45dd3285da9c6097/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/87668bbd8eb50d77c3e71c6e45dd3285da9c6097/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,10 +69,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/cf320be2bcce4fbe7751411e54e8d3ed03a329b4/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/87668bbd8eb50d77c3e71c6e45dd3285da9c6097/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@cf320be](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/cf320be2bcce4fbe7751411e54e8d3ed03a329b4)
-on September 22, 2023.
+from [plantbreeding/BrAPI-Manuscript2@87668bb](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/87668bbd8eb50d77c3e71c6e45dd3285da9c6097)
+on October 2, 2023.
 </em></small>
 
 
@@ -221,14 +223,18 @@ As the project has matured, a formal project leadership structure became increas
 * Analytics
 * HDP
 * GraphQL?
-* Field mgmt - treatments etc
+* Field management - treatments etc
 * Drones, image processing, HTP
 * ChatGPT integration - BreedersGPT
 * Weather & soil - why it won’t be in BrAPI -->
 
 ### BrAPI for Breeders and Scientists
 
-The BrAPI technical specification document is meant to be read and used by software developers. However, the purpose of the specification, and the community around it, is to make things faster, easier, and cheaper for the breeders and scientists working to make the world a better place. BrAPI offers a convenient path to automation and data integration for software tools in the breeding domain. All of the example use cases described above can be achieved with manual effort, moving and editing data files by hand. When the basic structure anf flow of data becomes automated, breeders and scientists can spend more time focussing on the science and doing what they do best. For many, the ultimate goal is the development of a digital ecosystem: a collection of software tools and applications that can all work together seamlessly. In this digital ecosystem, data is collected digitally from the beginning, reducing as much human error as possible. The data is checked by quality control and stored automatically, then can be sent to any internal tool or external lab for further analysis with just the click of a button. 
+The BrAPI technical specification document is meant to be read and used by software developers. However, the purpose of the specification, and the community around it, is to make things faster, easier, and cheaper for the breeders and scientists working to make the world a better place. BrAPI offers a convenient path to automation and data integration for software tools in the breeding domain. All of the example use cases described above can be achieved with manual effort, moving and editing data files by hand. When the basic structure and flow of data becomes automated, breeders and scientists can spend more time focussing on the science and doing what they do best. For many, the ultimate goal is the development of a digital ecosystem: a collection of software tools and applications that can all work together seamlessly. In this digital ecosystem, data is collected digitally from the beginning, reducing as much human error as possible. The data is checked by quality control and stored automatically, then can be sent to any internal tool or external lab for further analysis with just the click of a button. This idea might sound too good to be true, but as more tools start sharing a universal data standard, automating data flow becomes easier, and the community gets closer to total interoperability. 
+
+### Looking Ahead
+
+The BrAPI specification will continue to grow, enabling more use cases and new types of data. 
 
 
 ## Conclusions and Impact

@@ -88,8 +88,8 @@ content/04.discussion.md:3:BrAPI
 content/04.discussion.md:5:Analytics
 content/04.discussion.md:11:BrAPI
 content/04.discussion.md:13:BrAPI
-content/04.discussion.md:15:anf
 content/04.discussion.md:15:BrAPI
 content/04.discussion.md:15:BrAPI
 content/04.discussion.md:15:focussing
+content/04.discussion.md:19:BrAPI
 content/05.conclusions.md:4:BrAPI
