@@ -19,7 +19,7 @@ Everyone in the BrAPI Community is welcome and encouraged to contribute to this 
 2. Create an [ISSUE](https://github.com/plantbreeding/BrAPI-Manuscript2/issues/new) with your edits.
 3. Send edits directly to @BrapiCoordinatorSelby via [email](mailto:brapicoordinatorselby@gmail.com) or [Slack](https://plantbreedingapi.slack.com).
 
-If you would like to be recognized as a co-author, please add your details to the file [/content/metadata.yaml](https://github.com/plantbreeding/BrAPI-Manuscript2/blob/main/content/metadata.yaml). Again you can do this with a pull request, and issue, or by contacting @BrapiCoordinatorSelby directly. 
+If you would like to be recognized as a co-author, please add your details to the file [/content/metadata.yaml](https://github.com/plantbreeding/BrAPI-Manuscript2/blob/main/content/metadata.yaml). Again you can do this with a pull request, an issue, or by contacting @BrapiCoordinatorSelby directly. 
 
 ## Helpful Links
 
