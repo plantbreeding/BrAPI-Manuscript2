@@ -22,7 +22,7 @@ Genotyping
 Germplasm
 GIGWA
 hackathon
-Hackathons
+hackathons
 interoperable
 JSON
 MGIS
