@@ -28,3 +28,23 @@ authors:
       - Clemson University
     funders: []
     corresponding: false
+  - github: imilne
+    name: Iain Milne
+    initials: IM
+    orcid: 0000-0002-4126-0859
+    email: iain.milne@hutton.ac.uk
+    affiliations:
+      - The James Hutton Institute
+    funders: []
+    corresponding: false
+  - github: Batbaby91
+    name: Becky Smith
+    initials: BS
+    orcid: null
+    email: becky.smith@hutton.ac.uk
+    affiliations:
+      - The James Hutton Institute
+    funders: []
+    corresponding: false
+
+
