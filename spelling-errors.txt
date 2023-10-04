@@ -1,7 +1,8 @@
-Analytics
+analytics
+Batbaby
 BIMS
 BMS
-BrAPI
+brapi
 BrapiCoordinatorSelby
 BrapMan
 BrAPPs
@@ -23,6 +24,8 @@ Germplasm
 GIGWA
 hackathon
 hackathons
+Iain
+imilne
 interoperable
 JSON
 MGIS
