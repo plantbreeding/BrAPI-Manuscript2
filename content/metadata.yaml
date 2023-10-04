@@ -28,3 +28,12 @@ authors:
       - Clemson University
     funders: []
     corresponding: false
+  - github: sebastian-raubach
+    name: Sebastian "Baz" Raubach
+    initials: SR
+    orcid: 0000-0001-5659-247X
+    email: sebastian.raubach@hutton.ac.uk
+    affiliations:
+      - The James Hutton Institute
+    funders: []
+    corresponding: false
