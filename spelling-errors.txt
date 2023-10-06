@@ -1,5 +1,6 @@
-analytics
+Analytics
 Batbaby
+Baz
 BIMS
 BMS
 brapi
@@ -35,5 +36,6 @@ Phenospex
 Phenotyping
 programmatically
 QBMS
+Raubach
 Selby
 trife

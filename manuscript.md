@@ -7,10 +7,11 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2023-10-04'
+date-meta: '2023-10-06'
 author-meta:
 - Peter "BrapMan" Selby
 - Trevor "Cool Kid" Rife
+- Sebastian "Baz" Raubach
 - Iain Milne
 - Becky Smith
 header-includes: |
@@ -24,11 +25,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2023-10-04" />
-  <meta name="citation_publication_date" content="2023-10-04" />
-  <meta property="article:published_time" content="2023-10-04" />
-  <meta name="dc.modified" content="2023-10-04T16:03:58+00:00" />
-  <meta property="article:modified_time" content="2023-10-04T16:03:58+00:00" />
+  <meta name="dc.date" content="2023-10-06" />
+  <meta name="citation_publication_date" content="2023-10-06" />
+  <meta property="article:published_time" content="2023-10-06" />
+  <meta name="dc.modified" content="2023-10-06T17:08:17+00:00" />
+  <meta property="article:modified_time" content="2023-10-06T17:08:17+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -41,6 +42,9 @@ header-includes: |
   <meta name="citation_author" content="Trevor &#34;Cool Kid&#34; Rife" />
   <meta name="citation_author_institution" content="Clemson University" />
   <meta name="citation_author_orcid" content="0000-0002-5974-6523" />
+  <meta name="citation_author" content="Sebastian &#34;Baz&#34; Raubach" />
+  <meta name="citation_author_institution" content="The James Hutton Institute" />
+  <meta name="citation_author_orcid" content="0000-0001-5659-247X" />
   <meta name="citation_author" content="Iain Milne" />
   <meta name="citation_author_institution" content="The James Hutton Institute" />
   <meta name="citation_author_orcid" content="0000-0002-4126-0859" />
@@ -53,9 +57,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/934995f25abe8bd4ab5a5d7c8f096cd19165e5c6/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/934995f25abe8bd4ab5a5d7c8f096cd19165e5c6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/934995f25abe8bd4ab5a5d7c8f096cd19165e5c6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/599b7a809e30317a447b3b6ccb8cde8b0959acce/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/599b7a809e30317a447b3b6ccb8cde8b0959acce/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/599b7a809e30317a447b3b6ccb8cde8b0959acce/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -77,10 +81,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/934995f25abe8bd4ab5a5d7c8f096cd19165e5c6/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/599b7a809e30317a447b3b6ccb8cde8b0959acce/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@934995f](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/934995f25abe8bd4ab5a5d7c8f096cd19165e5c6)
-on October 4, 2023.
+from [plantbreeding/BrAPI-Manuscript2@599b7a8](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/599b7a809e30317a447b3b6ccb8cde8b0959acce)
+on October 6, 2023.
 </em></small>
 
 
@@ -110,6 +114,17 @@ on October 4, 2023.
     <br>
   <small>
      Clemson University
+  </small>
+
++ **Sebastian "Baz" Raubach**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0001-5659-247X](https://orcid.org/0000-0001-5659-247X)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [sebastian-raubach](https://github.com/sebastian-raubach)
+    <br>
+  <small>
+     The James Hutton Institute
   </small>
 
 + **Iain Milne**
@@ -211,6 +226,13 @@ As the project has matured, a formal project leadership structure became increas
 * future related use cases, areas to improve
 
 ### Data Management (DeltaBreed, BMS, Breedbase, BIMS, Germinate, PHIS, etc)
+
+* General use case description(s)
+* Specific tool examples 
+* Alternate solutions/ why is it better with BrAPI
+* future related use cases, areas to improve
+
+### Data visualization (Flapjack, Helium, Tassel, etc)
 
 * General use case description(s)
 * Specific tool examples 
