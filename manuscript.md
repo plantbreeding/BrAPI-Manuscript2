@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2023-10-06'
+date-meta: '2023-10-13'
 author-meta:
 - Peter "BrapMan" Selby
 - Trevor "Cool Kid" Rife
@@ -25,11 +25,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2023-10-06" />
-  <meta name="citation_publication_date" content="2023-10-06" />
-  <meta property="article:published_time" content="2023-10-06" />
-  <meta name="dc.modified" content="2023-10-06T17:08:17+00:00" />
-  <meta property="article:modified_time" content="2023-10-06T17:08:17+00:00" />
+  <meta name="dc.date" content="2023-10-13" />
+  <meta name="citation_publication_date" content="2023-10-13" />
+  <meta property="article:published_time" content="2023-10-13" />
+  <meta name="dc.modified" content="2023-10-13T08:31:18+00:00" />
+  <meta property="article:modified_time" content="2023-10-13T08:31:18+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -57,9 +57,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/599b7a809e30317a447b3b6ccb8cde8b0959acce/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/599b7a809e30317a447b3b6ccb8cde8b0959acce/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/599b7a809e30317a447b3b6ccb8cde8b0959acce/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8c3c2d6e76368252c80d66eb19960a1b07ea9023/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8c3c2d6e76368252c80d66eb19960a1b07ea9023/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8c3c2d6e76368252c80d66eb19960a1b07ea9023/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -81,10 +81,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/599b7a809e30317a447b3b6ccb8cde8b0959acce/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/8c3c2d6e76368252c80d66eb19960a1b07ea9023/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@599b7a8](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/599b7a809e30317a447b3b6ccb8cde8b0959acce)
-on October 6, 2023.
+from [plantbreeding/BrAPI-Manuscript2@8c3c2d6](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/8c3c2d6e76368252c80d66eb19960a1b07ea9023)
+on October 13, 2023.
 </em></small>
 
 
@@ -231,6 +231,12 @@ As the project has matured, a formal project leadership structure became increas
 * Specific tool examples 
 * Alternate solutions/ why is it better with BrAPI
 * future related use cases, areas to improve
+
+### Federated Data Management Infrastructures (AGENT, INCREASING, EURISCO, DataPLANT, NFDI4BioDiversity, FAIRAgro)
+* General use case description(s) -  AgrosystemIntegration of germplasm collections in context of data trustee models among private economy and public research, integration of ex-situ genbanks (EU H2020 projects AGENT, INCREASING), integrated agrosystems and plant research infrastructure) 
+* Specific tool examples - BraPI endponts for AGENT, IPK-Genbank, MIAPPE ISA-TAB2BRAPI service
+* Alternate solutions/ why is it better with BrAPI - Schema.ORG lightweight meta data harvesting, ARCs as collaborative data decoration, API and publication pipeline
+* future related use cases, areas to improve - LIMS to BrAPI proxies
 
 ### Data visualization (Flapjack, Helium, Tassel, etc)
 
