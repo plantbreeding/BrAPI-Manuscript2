@@ -29,8 +29,8 @@ header-includes: |
   <meta name="dc.date" content="2024-02-20" />
   <meta name="citation_publication_date" content="2024-02-20" />
   <meta property="article:published_time" content="2024-02-20" />
-  <meta name="dc.modified" content="2024-02-20T18:27:43+00:00" />
-  <meta property="article:modified_time" content="2024-02-20T18:27:43+00:00" />
+  <meta name="dc.modified" content="2024-02-20T18:30:25+00:00" />
+  <meta property="article:modified_time" content="2024-02-20T18:30:25+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -61,9 +61,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0ca66056ae70193566f5519e92ee973cc67c2c16/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0ca66056ae70193566f5519e92ee973cc67c2c16/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0ca66056ae70193566f5519e92ee973cc67c2c16/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/fb9b2182b9b7ed27d8f70c6e3789170928a936b8/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/fb9b2182b9b7ed27d8f70c6e3789170928a936b8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/fb9b2182b9b7ed27d8f70c6e3789170928a936b8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -85,9 +85,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/0ca66056ae70193566f5519e92ee973cc67c2c16/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/fb9b2182b9b7ed27d8f70c6e3789170928a936b8/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@0ca6605](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/0ca66056ae70193566f5519e92ee973cc67c2c16)
+from [plantbreeding/BrAPI-Manuscript2@fb9b218](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/fb9b2182b9b7ed27d8f70c6e3789170928a936b8)
 on February 20, 2024.
 </em></small>
 
@@ -240,7 +240,7 @@ As the project has matured, a formal project leadership structure became increas
 * Alternate solutions/ why is it better with BrAPI
 * future related use cases, areas to improve
 
-### Data Management (DeltaBreed, BMS, Breedbase, BIMS, Germinate, PHIS, etc)
+### Data Management (DeltaBreed, BMS, Breedbase, BIMS, Germinate, PHIS, [brapi sync](https://github.com/IntegratedBreedingPlatform/brapi-sync), etc)
 
 * General use case description(s)
 * Specific tool examples 
@@ -269,8 +269,9 @@ Indeed, as PHIS offers BrAPI-compliant Web Services, this greatly simplifies the
 
 
 ### Federated Data Management Infrastructures (AGENT, INCREASING, EURISCO, DataPLANT, NFDI4BioDiversity, FAIRAgro)
-* General use case description(s) -  AgrosystemIntegration of germplasm collections in context of data trustee models among private economy and public research, integration of ex-situ genbanks (EU H2020 projects AGENT, INCREASING), integrated agrosystems and plant research infrastructure) 
-* Specific tool examples - BraPI endponts for AGENT, IPK-Genbank, MIAPPE ISA-TAB2BRAPI service
+
+* General use case description(s) -  AgrosystemIntegration of germplasm collections in context of data trustee models among private economy and public research, integration of ex-situ genebanks (EU H2020 projects AGENT, INCREASING), integrated agrosystems and plant research infrastructure
+* Specific tool examples - BraPI endpoints for AGENT, IPK-Genebank, MIAPPE ISA-TAB2BRAPI service
 * Alternate solutions/ why is it better with BrAPI - Schema.ORG lightweight meta data harvesting, ARCs as collaborative data decoration, API and publication pipeline
 * future related use cases, areas to improve - LIMS to BrAPI proxies
 
@@ -296,13 +297,6 @@ To meet this demand, many breeding management systems have developed customized 
 In the QBMS development team, we have identified a technical barrier between the breeding management systems' BrAPI interface and the scientists who create analysis scripts and pipelines. This barrier arises from the complexity of managing API backend processes, such as authentication, tokens, TCP/IP protocol, JSON format, pagination, stateless calls, asynchronous communication, database IDs, and more. To bridge this gap, we have developed the QBMS R package. This package abstracts the technical complexities, providing breeders (our end users) with stateful action verbs/functions that are familiar to them when navigating their GUI systems. This enables them to query and extract data into a standard data frame structure, consistent with their use of R language, one of the most common statistical tools in the breeding community.
 
 Since its release on the official CRAN repository in October 2021, the QBMS R package has garnered over 7250 downloads. Several tools, such as MrBean, rely on the QBMS package as their source data adapter. Moreover, the community has started building extended solutions on top of it. QBMS can serve as a cornerstone in the breeding modernization revolution by providing access to actionable data and enabling the creation of dashboards to reduce the time between harvest and decision-making for the next breeding cycle.
-  
-### [brapi sync](https://github.com/IntegratedBreedingPlatform/brapi-sync)
-
-* General use case description(s)
-* Specific tool examples 
-* Alternate solutions/ why is it better with BrAPI
-* future related use cases, areas to improve
   
 ### Sample Submission (DArT) and Genotype DBs (MGIS, GIGWA)
 
@@ -333,11 +327,13 @@ Since its release on the official CRAN repository in October 2021, the QBMS R pa
 
 ### BrAPI for Breeders and Scientists
 
-The BrAPI technical specification document is meant to be read and used by software developers. However, the purpose of the specification, and the community around it, is to make things faster, easier, and cheaper for the breeders and scientists working to make the world a better place. BrAPI offers a convenient path to automation and data integration for software tools in the breeding domain. All of the example use cases described above can be achieved with manual effort, moving and editing data files by hand. When the basic structure and flow of data becomes automated, breeders and scientists can spend more time focussing on the science and doing what they do best. For many, the ultimate goal is the development of a digital ecosystem: a collection of software tools and applications that can all work together seamlessly. In this digital ecosystem, data is collected digitally from the beginning, reducing as much human error as possible. The data is checked by quality control and stored automatically, then can be sent to any internal tool or external lab for further analysis with just the click of a button. This idea might sound too good to be true, but as more tools start sharing a universal data standard, automating data flow becomes easier, and the community gets closer to total interoperability. 
+The BrAPI technical specification document is meant to be read and used by software developers. However, the purpose of the specification, and the community around it, is to make things faster, easier, and cheaper for the breeders and scientists working to make the world a better place. BrAPI offers a convenient path to automation and data integration for software tools in the breeding domain. All of the example use cases described above can be achieved with manual effort, moving and editing data files by hand. However, when the basic structure and flow of data becomes automated, breeders and scientists can spend less time on data management and more time focussing on the science, doing what they do best. For many, the ultimate goal is the development of a digital ecosystem: a collection of software tools and applications that can all work together seamlessly. In this digital ecosystem, data is collected digitally from the beginning, reducing as much human error as possible. The data is checked by quality control and stored automatically, then can be sent to any internal tool or external lab for further analysis with just the click of a button. This idea might sound too good to be true, but as more tools start sharing a universal data standard, automating data flow becomes easier, and the community gets closer to total interoperability. 
 
 ### Looking Ahead
 
-The BrAPI specification will continue to grow, enabling more use cases and new types of data. 
+The BrAPI specification will continue to grow, enabling more use cases and new types of data. These new use cases might include newer scientific techniques and technologies. Things like drone imaging data, spectroscopy, LIDAR, metabolomics, transcriptomics, high-throughput phenotyping, and machine learning analysis. All of these technologies can open new avenues for research and development of new crop varieties. All of these technologies also generate more data, and require data sharing between different software applications and data repositories. The BrAPI project leadership and community is committed to building the standards to support these new use cases as they arrive and become accepted by the scientific community. In fact, small groups within the BrAPI community have already start building generic data models and communication standards for many of the technologies listed above. These community efforts will eventually become part of the BrAPI standard in a future version of the specification document. 
+
+
 
 
 ## Conclusions and Impact
