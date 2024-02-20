@@ -29,8 +29,8 @@ header-includes: |
   <meta name="dc.date" content="2024-02-20" />
   <meta name="citation_publication_date" content="2024-02-20" />
   <meta property="article:published_time" content="2024-02-20" />
-  <meta name="dc.modified" content="2024-02-20T18:26:27+00:00" />
-  <meta property="article:modified_time" content="2024-02-20T18:26:27+00:00" />
+  <meta name="dc.modified" content="2024-02-20T18:27:43+00:00" />
+  <meta property="article:modified_time" content="2024-02-20T18:27:43+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -61,9 +61,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f12e37ededbebad398c0e5075f9b2a4feda2c39e/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f12e37ededbebad398c0e5075f9b2a4feda2c39e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f12e37ededbebad398c0e5075f9b2a4feda2c39e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0ca66056ae70193566f5519e92ee973cc67c2c16/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0ca66056ae70193566f5519e92ee973cc67c2c16/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0ca66056ae70193566f5519e92ee973cc67c2c16/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -85,9 +85,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/f12e37ededbebad398c0e5075f9b2a4feda2c39e/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/0ca66056ae70193566f5519e92ee973cc67c2c16/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@f12e37e](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/f12e37ededbebad398c0e5075f9b2a4feda2c39e)
+from [plantbreeding/BrAPI-Manuscript2@0ca6605](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/0ca66056ae70193566f5519e92ee973cc67c2c16)
 on February 20, 2024.
 </em></small>
 
@@ -287,6 +287,15 @@ Indeed, as PHIS offers BrAPI-compliant Web Services, this greatly simplifies the
 * Specific tool examples 
 * Alternate solutions/ why is it better with BrAPI
 * future related use cases, areas to improve
+
+Modern breeding programs can utilize data management systems to maintain both phenotypic and genotypic data. Numerous systems are available for adoption. To fully leverage the benefits of digitalization in this ecosystem, breeders need to utilize data from different sources to make efficient data-driven decisions. With increased computational power at their disposal, scientists can construct more advanced analysis pipelines by combining various data sources.
+
+<!-- This paragraph may be redundant, look to consolidate or remove -->
+To meet this demand, many breeding management systems have developed customized built-in analysis pipelines. However, these pipelines are static and may not accommodate evolving needs. As a result, API interfaces have been developed to facilitate data communication with other systems. The Breeding API (BrAPI) project specifies a standardized interface for plant phenotype/genotype databases, enabling them to share data with crop breeding applications. This promotes interoperability among plant breeding databases and allows third-party plugins to integrate with the ecosystem, delivering added value.
+
+In the QBMS development team, we have identified a technical barrier between the breeding management systems' BrAPI interface and the scientists who create analysis scripts and pipelines. This barrier arises from the complexity of managing API backend processes, such as authentication, tokens, TCP/IP protocol, JSON format, pagination, stateless calls, asynchronous communication, database IDs, and more. To bridge this gap, we have developed the QBMS R package. This package abstracts the technical complexities, providing breeders (our end users) with stateful action verbs/functions that are familiar to them when navigating their GUI systems. This enables them to query and extract data into a standard data frame structure, consistent with their use of R language, one of the most common statistical tools in the breeding community.
+
+Since its release on the official CRAN repository in October 2021, the QBMS R package has garnered over 7250 downloads. Several tools, such as MrBean, rely on the QBMS package as their source data adapter. Moreover, the community has started building extended solutions on top of it. QBMS can serve as a cornerstone in the breeding modernization revolution by providing access to actionable data and enabling the creation of dashboards to reduce the time between harvest and decision-making for the next breeding cycle.
   
 ### [brapi sync](https://github.com/IntegratedBreedingPlatform/brapi-sync)
 
