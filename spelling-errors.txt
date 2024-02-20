@@ -6,7 +6,7 @@ Batbaby
 Baz
 BIMS
 BMS
-brapi
+BrAPI
 BrapiCoordinatorSelby
 BrapMan
 BrAPPs
@@ -33,7 +33,7 @@ Genotyping
 Germplasm
 GIGWA
 hackathon
-hackathons
+Hackathons
 Iain
 imilne
 inrae
@@ -46,9 +46,13 @@ MGIS
 MIAPPE
 NFDI
 NIFA
+ontologies
+OpenSILEX
 Phenoapps
+PHENOME
 Phenospex
 Phenotyping
+PHIS’s
 programmatically
 QBMS
 Raubach
