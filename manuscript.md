@@ -30,8 +30,8 @@ header-includes: |
   <meta name="dc.date" content="2024-02-20" />
   <meta name="citation_publication_date" content="2024-02-20" />
   <meta property="article:published_time" content="2024-02-20" />
-  <meta name="dc.modified" content="2024-02-20T20:28:38+00:00" />
-  <meta property="article:modified_time" content="2024-02-20T20:28:38+00:00" />
+  <meta name="dc.modified" content="2024-02-20T22:25:12+00:00" />
+  <meta property="article:modified_time" content="2024-02-20T22:25:12+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -65,9 +65,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/b04c91f1e6ac1cfaeece780e87015ce0cb82d345/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/b04c91f1e6ac1cfaeece780e87015ce0cb82d345/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/b04c91f1e6ac1cfaeece780e87015ce0cb82d345/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d436fc3ac7c27b83f332bd7b0dcd85903f82b91e/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d436fc3ac7c27b83f332bd7b0dcd85903f82b91e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d436fc3ac7c27b83f332bd7b0dcd85903f82b91e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -89,9 +89,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/b04c91f1e6ac1cfaeece780e87015ce0cb82d345/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/d436fc3ac7c27b83f332bd7b0dcd85903f82b91e/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@b04c91f](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/b04c91f1e6ac1cfaeece780e87015ce0cb82d345)
+from [plantbreeding/BrAPI-Manuscript2@d436fc3](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/d436fc3ac7c27b83f332bd7b0dcd85903f82b91e)
 on February 20, 2024.
 </em></small>
 
@@ -281,12 +281,12 @@ High-throughput phenotyping has been gaining significant traction lately as a wa
 When the raw images have been processed through the standardization pipelines in ImageBreed, useful phenotypes can be extracted from the images. The BrAPI standard is used to push these phenotypes back to a central breeding database where they can be analyzed with other data. In addition to this, ImageBreed also has the option to use BrAPI to upload the raw images to the central breeding database, or any other BrAPI compatible long term storage service. The BrAPI models in the current version of the standard (V2.1) are rudimentary, but effective. The ImageBreed team has put in some work to enhance the BrAPI image data standards. 
 
 
-### Data Management (DeltaBreed, BMS, Breedbase, BIMS, Germinate, PHIS, [brapi sync](https://github.com/IntegratedBreedingPlatform/brapi-sync), etc)
+### Data Management 
 
-* General use case description(s)
+<!-- * General use case description(s)
 * Specific tool examples 
 * Alternate solutions/ why is it better with BrAPI
-* future related use cases, areas to improve
+* future related use cases, areas to improve -->
 
 #### PHIS 
 
@@ -309,29 +309,93 @@ The fact that data within a PHIS instance can be queried through BrAPI services 
 
 Indeed, as PHIS offers BrAPI-compliant Web Services, this greatly simplifies the integration and data exchange with other European information systems that handle phenotyping data. The adherence to BrAPI standards ensures a common interface and compatibility, facilitating seamless communication and collaboration between PHIS and other systems within the European context. This interoperability not only streamlines data sharing but also promotes a more cohesive and effective approach to managing and utilizing phenotyping data across diverse platforms and research initiatives in the European scientific community.
 
+#### DeltaBreed
 
-### Federated Data Management Infrastructures (AGENT, INCREASING, EURISCO, DataPLANT, NFDI4BioDiversity, FAIRAgro)
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+DeltaBreed is tool built almost entirely based on the BrAPI standard.
+
+#### BMS
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+[brapi sync](https://github.com/IntegratedBreedingPlatform/brapi-sync) and other things
+
+#### Breedbase
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+Since the inception of BrAPI in 2014, the Breedbase group has been a heavy contributor to the BrAPI community.
+
+#### BIMS
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+BIMS is relatively new to the BrPAI community, with their primary focus being a link to the Field Book mobile data collection app.
+
+#### Germinate
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+Germinate is a combination breeding database and germplasm management database. 
+
+
+### Federated Data Management Infrastructures
+<!-- 
+(AGENT, INCREASING, EURISCO, DataPLANT, NFDI4BioDiversity, FAIRAgro)
 
 * General use case description(s) -  AgrosystemIntegration of germplasm collections in context of data trustee models among private economy and public research, integration of ex-situ genebanks (EU H2020 projects AGENT, INCREASING), integrated agrosystems and plant research infrastructure
 * Specific tool examples - BraPI endpoints for AGENT, IPK-Genebank, MIAPPE ISA-TAB2BRAPI service
 * Alternate solutions/ why is it better with BrAPI - Schema.ORG lightweight meta data harvesting, ARCs as collaborative data decoration, API and publication pipeline
-* future related use cases, areas to improve - LIMS to BrAPI proxies
+* future related use cases, areas to improve - LIMS to BrAPI proxies -->
+
+#### AGENT
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+BraPI endpoints for AGENT
+
+#### IPK-Genebank
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+Agrosystem Integration of germplasm collections in context of data trustee models among private economy and public research, integration of ex-situ genebanks (EU H2020 projects AGENT, INCREASING), integrated agrosystems and plant research infrastructure
+
+#### MIAPPE ISA-TAB2BRAPI service
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+MIAPPE and BrAPI are designed to be inter-compatible. ISA-TAB is a file based implementation of MIAPPE. The ISA-TAB2BRAPI service is a converter between the ISA-TAB files and the BrAPI RESTful endpoints.
 
 
-### Data visualization (Flapjack, Helium, Tassel, etc)
-
+### Data visualization 
+<!-- 
 * General use case description(s)
 * Specific tool examples 
 * Alternate solutions/ why is it better with BrAPI
-* future related use cases, areas to improve
+* future related use cases, areas to improve -->
+
+#### Flapjack
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+Flapjack is a desktop application for visualizing and analyzing genotype data. Data can be easily imported into Flapjack from any BrAPI compatible data source with genotype data available. Flapjack Bytes is the smaller, web based counterpart to Flapjack, which can be imbedded into a database website and provide the visualizations online. 
+
+#### Helium
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+Helium is a platform for reviewing and managing pedigree data. It is BrAPI enabled, so pedigree data can be viewed straight from a database. 
+
+#### Tassel
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+I don't know much about Tassel or its BrAPI compliance. This is filler text for the layout of the manuscript.
+
+#### Trait Selector BrAPP
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+BrAPPs are simple tools developed by the BrAPI community that are entirely reliant on BrAPI for their data requirements. This means a single BrAPI can be shared and used by many organizations, as long as those organizations have the standard BrAPI endpoints available. For example, the Trait Selector BrAPP is used to search and select useful traits, using a visual aid to help the user find exactly what they need. The BrAPP relies only on the BrAPI Trait endpoints to function, so any data resources with a the Trait endpoints available can add this tool to their system.
 
 
-### Analytics (QBMS, Mr Bean, etc)
-
+### Analytics
+<!-- 
 * General use case description(s)
 * Specific tool examples 
 * Alternate solutions/ why is it better with BrAPI
-* future related use cases, areas to improve
+* future related use cases, areas to improve -->
+
+#### QBMS
 
 Modern breeding programs can utilize data management systems to maintain both phenotypic and genotypic data. Numerous systems are available for adoption. To fully leverage the benefits of digitalization in this ecosystem, breeders need to utilize data from different sources to make efficient data-driven decisions. With increased computational power at their disposal, scientists can construct more advanced analysis pipelines by combining various data sources.
 
@@ -342,21 +406,61 @@ In the QBMS development team, we have identified a technical barrier between the
 
 Since its release on the official CRAN repository in October 2021, the QBMS R package has garnered over 7250 downloads. Several tools, such as MrBean, rely on the QBMS package as their source data adapter. Moreover, the community has started building extended solutions on top of it. QBMS can serve as a cornerstone in the breeding modernization revolution by providing access to actionable data and enabling the creation of dashboards to reduce the time between harvest and decision-making for the next breeding cycle.
 
+#### Mr. Bean
 
-### Sample Submission (DArT) and Genotype DBs (MGIS, GIGWA)
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+Mr. Bean is an analytics and visualization tool. Mr. Bean has a data import tool which can pull data directly from a BrAPI compatible source. 
 
-* General use case description(s)
+#### G-Crunch
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+G-Crunch is a new general analysis pipeline tool, meant for automated, production level, analysis tasks. Part of that automation relies on BrAPI to access data. 
+
+
+### Samples and Genotypes
+
+<!-- * General use case description(s)
 * Specific tool examples 
 * Alternate solutions/ why is it better with BrAPI
-* future related use cases, areas to improve
+* future related use cases, areas to improve -->
+
+#### DArT Sample Submission
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+The DArT genotyping lab is heavily used world wide when it comes to plant genotyping. Developers at DArT have worked with the BrAPI community to establish a standard API for sending sample metadata to the lab before genotyping. This eliminates much of the human error involved with sending samples to en external lab. 
+
+#### MGIS
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+MGIS has germplasm and genotype data stored for many musa accessions. Through BrAPI, users are able to access this data directly from MusaBase, for use in specific experiments. 
+
+#### GIGWA
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+GIGWA is an efficient storage system for genotype variant data. GIGWA uses BrAPI to query specific variant data out of the database. This allows for more efficient data transfer and analysis. Instead of transferring whole massive files, specific pieces, samples, markers, or chunks of data can be retrieved. 
 
 
-### Data Portal (FAIDARE, Phenospex?, etc) 
+### Data Portal
 
-* General use case description(s)
+<!-- * General use case description(s)
 * Specific tool examples 
 * Alternate solutions/ why is it better with BrAPI
-* future related use cases, areas to improve
+* future related use cases, areas to improve -->
+
+#### FAIDARE
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+FAIDARE is an indexing and search portal for the wider breeding community. While it can extract data from various sources via a flat file, the preferred method uses the BrAPI standard APIs. As data is added or updated in data repositories around the world, FAIDARE keeps its index up to date automatically through BrAPI.
+
+#### Phenospex - HortControl
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+HortControl, developed by Phenospex, is a data repository. HortControl has a BrAPI implementation to be used to automate workflows and analytics software. 
+
+#### GLIS
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+GLIS is a service for creating DOIs for agricultural purposes. It also holds basic germplasm information about each accession when a DOI is created for one. GLIS is BrAPI compatible, allowing external searches on the large GLIS database. 
 
 
 ## Discussion
