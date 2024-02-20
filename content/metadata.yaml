@@ -28,6 +28,24 @@ authors:
       - Clemson University
     funders: []
     corresponding: false
+  - github: khaled-alshamaa
+    name: Khaled Al-Shamaa
+    initials: KA
+    orcid: ""
+    email: khaled.alshamaa@gmail.com
+    affiliations:
+      - ICARDA
+    funders: []
+    corresponding: false
+  - github: Isabelle-inrae
+    name: Isabelle Alic
+    initials: IA
+    orcid: 0000-0002-8961-6068
+    email: isabelle.alic@inrae.fr
+    affiliations:
+      - INRAE
+    funders: []
+    corresponding: false
   - github: sebastian-raubach
     name: Sebastian "Baz" Raubach
     initials: SR
@@ -53,15 +71,6 @@ authors:
     email: becky.smith@hutton.ac.uk
     affiliations:
       - The James Hutton Institute
-    funders: []
-    corresponding: false
-  - github: Isabelle-inrae
-    name: Isabelle Alic
-    initials: IA
-    orcid: 0000-0002-8961-6068
-    email: isabelle.alic@inrae.fr
-    affiliations:
-      - INRAE
     funders: []
     corresponding: false
 
