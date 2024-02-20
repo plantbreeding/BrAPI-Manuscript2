@@ -30,8 +30,8 @@ header-includes: |
   <meta name="dc.date" content="2024-02-20" />
   <meta name="citation_publication_date" content="2024-02-20" />
   <meta property="article:published_time" content="2024-02-20" />
-  <meta name="dc.modified" content="2024-02-20T18:57:21+00:00" />
-  <meta property="article:modified_time" content="2024-02-20T18:57:21+00:00" />
+  <meta name="dc.modified" content="2024-02-20T20:28:38+00:00" />
+  <meta property="article:modified_time" content="2024-02-20T20:28:38+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -65,9 +65,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/821e605ae30995445f0183e6626ca21a1472199e/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/821e605ae30995445f0183e6626ca21a1472199e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/821e605ae30995445f0183e6626ca21a1472199e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/b04c91f1e6ac1cfaeece780e87015ce0cb82d345/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/b04c91f1e6ac1cfaeece780e87015ce0cb82d345/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/b04c91f1e6ac1cfaeece780e87015ce0cb82d345/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -89,9 +89,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/821e605ae30995445f0183e6626ca21a1472199e/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/b04c91f1e6ac1cfaeece780e87015ce0cb82d345/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@821e605](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/821e605ae30995445f0183e6626ca21a1472199e)
+from [plantbreeding/BrAPI-Manuscript2@b04c91f](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/b04c91f1e6ac1cfaeece780e87015ce0cb82d345)
 on February 20, 2024.
 </em></small>
 
@@ -251,12 +251,34 @@ As the project has matured, a formal project leadership structure became increas
 Below are a number of short success stories from the BrAPI community. These tools, applications, and infrastructure projects serve as another indicator of community growth and success over the past 5-10 years. These stories clearly illustrate all the different ways the BrAPI Standard can be used productively and in practice. 
 
 
-### Data Collection (Field Book, Climmob, other Phenoapps, etc)
+### Data Collection 
+<!-- (Field Book, Climmob, other Phenoapps, ImageBreed, etc) -->
 
-* General use case description(s)
+<!-- * General use case description(s)
 * Specific tool examples 
 * Alternate solutions/ why is it better with BrAPI
-* future related use cases, areas to improve
+* future related use cases, areas to improve -->
+
+#### Field Book
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+Phenotypic data collection is an essential part of the breeding process. Historically, gathering data in the field was done with pen and paper, or perhaps some version of a digital spreadsheet. The abundance and prevalence of smart phones has allowed the Field Book mobile app to enhance data collection. Field Book can create well formed digital observation records from the moment they are taken. This can improve the efficiency of data collection and reduce human error. 
+
+BrAPI was able to take things a step further by automating the flow of data from the Field Book mobile app to a central database server. In this work flow, data is collected and stored completely digitally with little-to-no human involvement. 
+
+#### ClimMob
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+Not all data can be collected by a single person, or even by a single organization. ClimMob is a tool to easily allow citizen scientists to assist in the data collection process. Although this data may not be as detailed as a focused scientific program, it can be very useful to collect simple data from a wide range of locations and environments.
+
+When it comes to BrAPI compatibility, ClimMob follows the same patterns established by Field Book. During a survey, all the farmer collected data is stored in a central ClimMob node. When the survey is complete, all the data is uploaded automatically via BrAPI to a central breeding database for long term storage and analysis. 
+
+#### ImageBreed
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+High-throughput phenotyping has been gaining significant traction lately as a way to collect lots of data very quickly. Image collection from unmanned arial and ground vehicles (UAVs and UGVs) are a great way to collect a lot of raw data all at once, then analyze it later. ImageBreed is a image collection pipeline tool to support regular use of UAVs and UGVs. 
+
+When the raw images have been processed through the standardization pipelines in ImageBreed, useful phenotypes can be extracted from the images. The BrAPI standard is used to push these phenotypes back to a central breeding database where they can be analyzed with other data. In addition to this, ImageBreed also has the option to use BrAPI to upload the raw images to the central breeding database, or any other BrAPI compatible long term storage service. The BrAPI models in the current version of the standard (V2.1) are rudimentary, but effective. The ImageBreed team has put in some work to enhance the BrAPI image data standards. 
 
 
 ### Data Management (DeltaBreed, BMS, Breedbase, BIMS, Germinate, PHIS, [brapi sync](https://github.com/IntegratedBreedingPlatform/brapi-sync), etc)
