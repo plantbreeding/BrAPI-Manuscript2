@@ -55,4 +55,13 @@ authors:
       - The James Hutton Institute
     funders: []
     corresponding: false
+  - github: Isabelle-inrae
+    name: Isabelle Alic
+    initials: IA
+    orcid: 0000-0002-8961-6068
+    email: isabelle.alic@inrae.fr
+    affiliations:
+      - INRAE
+    funders: []
+    corresponding: false
 
