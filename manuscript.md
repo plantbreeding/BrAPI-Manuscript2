@@ -29,8 +29,8 @@ header-includes: |
   <meta name="dc.date" content="2024-02-20" />
   <meta name="citation_publication_date" content="2024-02-20" />
   <meta property="article:published_time" content="2024-02-20" />
-  <meta name="dc.modified" content="2024-02-20T18:30:25+00:00" />
-  <meta property="article:modified_time" content="2024-02-20T18:30:25+00:00" />
+  <meta name="dc.modified" content="2024-02-20T18:41:48+00:00" />
+  <meta property="article:modified_time" content="2024-02-20T18:41:48+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -61,9 +61,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/fb9b2182b9b7ed27d8f70c6e3789170928a936b8/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/fb9b2182b9b7ed27d8f70c6e3789170928a936b8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/fb9b2182b9b7ed27d8f70c6e3789170928a936b8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d71f1b2f5f5a326618be8e1e11097866be4baf14/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d71f1b2f5f5a326618be8e1e11097866be4baf14/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d71f1b2f5f5a326618be8e1e11097866be4baf14/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -85,9 +85,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/fb9b2182b9b7ed27d8f70c6e3789170928a936b8/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/d71f1b2f5f5a326618be8e1e11097866be4baf14/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@fb9b218](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/fb9b2182b9b7ed27d8f70c6e3789170928a936b8)
+from [plantbreeding/BrAPI-Manuscript2@d71f1b2](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/d71f1b2f5f5a326618be8e1e11097866be4baf14)
 on February 20, 2024.
 </em></small>
 
@@ -233,6 +233,56 @@ As the project has matured, a formal project leadership structure became increas
 
 6+/- success stories highlighting BrAPI usefulness in breeding cycle. Perhaps reference the original BrAPI paper where possible use cases were proposed. 
 
+
+### Data Collection (Field Book, Climmob, other Phenoapps, etc)
+
+* General use case description(s)
+* Specific tool examples 
+* Alternate solutions/ why is it better with BrAPI
+* future related use cases, areas to improve
+
+
+### Data Management (DeltaBreed, BMS, Breedbase, BIMS, Germinate, PHIS, [brapi sync](https://github.com/IntegratedBreedingPlatform/brapi-sync), etc)
+
+* General use case description(s)
+* Specific tool examples 
+* Alternate solutions/ why is it better with BrAPI
+* future related use cases, areas to improve
+
+#### PHIS 
+
+The Hybrid Phenotyping Information System ([PHIS](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15385)), based on the [OpenSILEX](https://github.com/OpenSILEX/) framework, assumes responsibility for the systematic collection and management of data from phenotyping and high-throughput phenotyping experiments on a day-to-day basis. PHIS has the ability to efficiently store, organize and manage a wide range of data sets, including images, spectra and growth curves. This functionality extends to data at multiple spatial and temporal scales, from leaf to canopy, from a variety of sources such as field and greenhouse environments.
+
+A key feature of PHIS is the unambiguous identification of all objects and traits within an experiment, establishing consistent relationships between them through the application of ontologies and semantics. This approach is designed to adapt to variations in experimental conditions, whether in the field or in controlled environments. PHIS's ontology-driven architecture emerges as a robust tool for integrating and managing data derived from diverse experiments and platforms, facilitating the creation of meaningful relationships between objects and augmenting datasets with relevant knowledge and metadata.
+
+Furthermore, PHIS adheres to the Minimal Information About a Plant Phenotyping Experiment ([MIAPPE](https://doi.org/10.1111/nph.16544)) and the Breeding API (BrAPI) standards. 
+
+The system recommends specific naming conventions, fostering a standardized approach for users to declare their resources. Notably, PHIS is widely adopted by various experimental platforms of the national [PHENOME](https://www.phenome-emphasis.fr/) and European [EMPHASIS](https://emphasis.plant-phenotyping.eu/) infrastructure, serving as a hub for data management. 
+Moreover, dedicated instances of PHIS have been established for the explicit purpose of resource sharing, encompassing projects, genetic resources, and variables, thereby fostering collaborative engagement and the dissemination of knowledge pertaining to studied concepts.
+
+##### PHIS & BrAPI
+
+PHIS offers a RESTful API designed to streamline interaction with data within a platform. Within this API, various services aligning with the Breeding API (BrAPI) standards have been implemented, encompassing the Core, Phenotyping, and Germplasm modules. Comprehensive documentation for these services is available on the PHIS Swagger interface. This integration with Swagger ensures that users can easily access, understand, and utilize the functionalities provided by the BrAPI-compliant web services, fostering transparency and facilitating effective engagement with the PHIS platform.
+
+The design and development of PHIS have been meticulously tailored, incorporating the explicit constraint of aligning with BrAPI requirements. This intentional alignment ensures that PHIS adheres to the specified standards and protocols outlined by the Breeding API (BrAPI), thereby fostering seamless integration and compatibility with BrAPI-compliant systems and platforms. This prerequisite served as a substantial foundation for formalizing the data model, simultaneously facilitating compatibility with other standards, such as MIAPPE. Thus, by consciously incorporating BrAPI requirements into its structure, PHIS not only meets the phenotyping domain standards but also enhances its capacity for interoperability and effective collaboration within the broader context of plant breeding and related domains.
+
+The fact that data within a PHIS instance can be queried through BrAPI services makes the indexing of PHIS in [FAIDARE](https://urgi.versailles.inra.fr/faidare/) very easy to implement.
+
+Indeed, as PHIS offers BrAPI-compliant Web Services, this greatly simplifies the integration and data exchange with other European information systems that handle phenotyping data. The adherence to BrAPI standards ensures a common interface and compatibility, facilitating seamless communication and collaboration between PHIS and other systems within the European context. This interoperability not only streamlines data sharing but also promotes a more cohesive and effective approach to managing and utilizing phenotyping data across diverse platforms and research initiatives in the European scientific community.
+
+
+### Federated Data Management Infrastructures (AGENT, INCREASING, EURISCO, DataPLANT, NFDI4BioDiversity, FAIRAgro)
+
+* General use case description(s) -  AgrosystemIntegration of germplasm collections in context of data trustee models among private economy and public research, integration of ex-situ genebanks (EU H2020 projects AGENT, INCREASING), integrated agrosystems and plant research infrastructure
+* Specific tool examples - BraPI endpoints for AGENT, IPK-Genebank, MIAPPE ISA-TAB2BRAPI service
+* Alternate solutions/ why is it better with BrAPI - Schema.ORG lightweight meta data harvesting, ARCs as collaborative data decoration, API and publication pipeline
+* future related use cases, areas to improve - LIMS to BrAPI proxies
+
+
+## Success Stories
+
+6+/- success stories highlighting BrAPI usefulness in breeding cycle. Perhaps reference the original BrAPI paper where possible use cases were proposed. 
+
 ### Data Collection (Field Book, Climmob, other Phenoapps, etc)
 
 * General use case description(s)
@@ -304,6 +354,39 @@ Since its release on the official CRAN repository in October 2021, the QBMS R pa
 * Specific tool examples 
 * Alternate solutions/ why is it better with BrAPI
 * future related use cases, areas to improve
+
+### Data Portal (FAIDARE, Phenospex?, etc) 
+
+* General use case description(s)
+* Specific tool examples 
+* Alternate solutions/ why is it better with BrAPI
+* future related use cases, areas to improve
+
+
+### Analytics (QBMS, Mr Bean, etc)
+
+* General use case description(s)
+* Specific tool examples 
+* Alternate solutions/ why is it better with BrAPI
+* future related use cases, areas to improve
+
+Modern breeding programs can utilize data management systems to maintain both phenotypic and genotypic data. Numerous systems are available for adoption. To fully leverage the benefits of digitalization in this ecosystem, breeders need to utilize data from different sources to make efficient data-driven decisions. With increased computational power at their disposal, scientists can construct more advanced analysis pipelines by combining various data sources.
+
+<!-- This paragraph may be redundant, look to consolidate or remove -->
+To meet this demand, many breeding management systems have developed customized built-in analysis pipelines. However, these pipelines are static and may not accommodate evolving needs. As a result, API interfaces have been developed to facilitate data communication with other systems. The Breeding API (BrAPI) project specifies a standardized interface for plant phenotype/genotype databases, enabling them to share data with crop breeding applications. This promotes interoperability among plant breeding databases and allows third-party plugins to integrate with the ecosystem, delivering added value.
+
+In the QBMS development team, we have identified a technical barrier between the breeding management systems' BrAPI interface and the scientists who create analysis scripts and pipelines. This barrier arises from the complexity of managing API backend processes, such as authentication, tokens, TCP/IP protocol, JSON format, pagination, stateless calls, asynchronous communication, database IDs, and more. To bridge this gap, we have developed the QBMS R package. This package abstracts the technical complexities, providing breeders (our end users) with stateful action verbs/functions that are familiar to them when navigating their GUI systems. This enables them to query and extract data into a standard data frame structure, consistent with their use of R language, one of the most common statistical tools in the breeding community.
+
+Since its release on the official CRAN repository in October 2021, the QBMS R package has garnered over 7250 downloads. Several tools, such as MrBean, rely on the QBMS package as their source data adapter. Moreover, the community has started building extended solutions on top of it. QBMS can serve as a cornerstone in the breeding modernization revolution by providing access to actionable data and enabling the creation of dashboards to reduce the time between harvest and decision-making for the next breeding cycle.
+
+
+### Sample Submission (DArT) and Genotype DBs (MGIS, GIGWA)
+
+* General use case description(s)
+* Specific tool examples 
+* Alternate solutions/ why is it better with BrAPI
+* future related use cases, areas to improve
+
 
 ### Data Portal (FAIDARE, Phenospex?, etc) 
 

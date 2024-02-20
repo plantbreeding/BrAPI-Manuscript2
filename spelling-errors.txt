@@ -39,7 +39,7 @@ hackathon
 Hackathons
 Iain
 imilne
-inrae
+INRAE
 interoperable
 IPK
 ISA
@@ -58,11 +58,11 @@ Phenoapps
 PHENOME
 Phenospex
 phenotypic
-Phenotyping
+phenotyping
 PHIS’s
 programmatically
 QBMS
-raubach
+Raubach
 Selby
 situ
 stateful
