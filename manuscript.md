@@ -7,13 +7,14 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2023-10-13'
+date-meta: '2024-02-20'
 author-meta:
 - Peter "BrapMan" Selby
 - Trevor "Cool Kid" Rife
 - Sebastian "Baz" Raubach
 - Iain Milne
 - Becky Smith
+- Isabelle Alic
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -25,11 +26,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2023-10-13" />
-  <meta name="citation_publication_date" content="2023-10-13" />
-  <meta property="article:published_time" content="2023-10-13" />
-  <meta name="dc.modified" content="2023-10-13T08:31:18+00:00" />
-  <meta property="article:modified_time" content="2023-10-13T08:31:18+00:00" />
+  <meta name="dc.date" content="2024-02-20" />
+  <meta name="citation_publication_date" content="2024-02-20" />
+  <meta property="article:published_time" content="2024-02-20" />
+  <meta name="dc.modified" content="2024-02-20T18:26:02+00:00" />
+  <meta property="article:modified_time" content="2024-02-20T18:26:02+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -51,15 +52,18 @@ header-includes: |
   <meta name="citation_author" content="Becky Smith" />
   <meta name="citation_author_institution" content="The James Hutton Institute" />
   <meta name="citation_author_orcid" content="0000-0002-8968-3383" />
+  <meta name="citation_author" content="Isabelle Alic" />
+  <meta name="citation_author_institution" content="INRAE" />
+  <meta name="citation_author_orcid" content="0000-0002-8961-6068" />
   <link rel="canonical" href="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="og:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="twitter:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8c3c2d6e76368252c80d66eb19960a1b07ea9023/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8c3c2d6e76368252c80d66eb19960a1b07ea9023/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8c3c2d6e76368252c80d66eb19960a1b07ea9023/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/a7c2147ba62988c9ce10e9fa51474c14fb0aa5e5/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/a7c2147ba62988c9ce10e9fa51474c14fb0aa5e5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/a7c2147ba62988c9ce10e9fa51474c14fb0aa5e5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -81,10 +85,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/8c3c2d6e76368252c80d66eb19960a1b07ea9023/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/a7c2147ba62988c9ce10e9fa51474c14fb0aa5e5/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@8c3c2d6](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/8c3c2d6e76368252c80d66eb19960a1b07ea9023)
-on October 13, 2023.
+from [plantbreeding/BrAPI-Manuscript2@a7c2147](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/a7c2147ba62988c9ce10e9fa51474c14fb0aa5e5)
+on February 20, 2024.
 </em></small>
 
 
@@ -147,6 +151,17 @@ on October 13, 2023.
     <br>
   <small>
      The James Hutton Institute
+  </small>
+
++ **Isabelle Alic**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-8961-6068](https://orcid.org/0000-0002-8961-6068)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [Isabelle-inrae](https://github.com/Isabelle-inrae)
+    <br>
+  <small>
+     INRAE
   </small>
 
 

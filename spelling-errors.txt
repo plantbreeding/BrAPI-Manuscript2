@@ -1,11 +1,12 @@
 AgrosystemIntegration
 agrosystems
+Alic
 Analytics
 Batbaby
 Baz
 BIMS
 BMS
-BrAPI
+brapi
 BrapiCoordinatorSelby
 BrapMan
 BrAPPs
@@ -32,9 +33,10 @@ Genotyping
 Germplasm
 GIGWA
 hackathon
-Hackathons
+hackathons
 Iain
 imilne
+inrae
 interoperable
 IPK
 ISA
