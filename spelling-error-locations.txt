@@ -159,8 +159,10 @@ content/03.03.federation-infrastructure.md:18:agrosystems
 content/03.03.federation-infrastructure.md:18:genebanks
 content/03.03.federation-infrastructure.md:18:germplasm
 content/03.03.federation-infrastructure.md:18:situ
+content/03.03.federation-infrastructure.md:20:BrAPI
 content/03.03.federation-infrastructure.md:20:ISA
 content/03.03.federation-infrastructure.md:20:MIAPPE
+content/03.03.federation-infrastructure.md:23:BrAPI
 content/03.03.federation-infrastructure.md:23:BrAPI
 content/03.03.federation-infrastructure.md:23:BrAPI
 content/03.03.federation-infrastructure.md:23:ISA
@@ -189,6 +191,10 @@ content/03.04.visualization.md:31:BrAPI
 content/03.04.visualization.md:31:BrAPI
 content/03.04.visualization.md:31:DArTView
 content/03.04.visualization.md:31:genotype
+content/03.04.visualization.md:33:DivBrowse
+content/03.04.visualization.md:36:BrAPI
+content/03.04.visualization.md:36:DivBrowse
+content/03.04.visualization.md:36:genotype
 content/03.05.analytics.md:1:Analytics
 content/03.05.analytics.md:5:BrAPI
 content/03.05.analytics.md:8:QBMS

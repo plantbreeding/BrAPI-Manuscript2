@@ -2,7 +2,7 @@ Agrosystem
 agrosystems
 Alic
 alshamaa
-Analytics
+analytics
 APIs
 arial
 backend
@@ -26,6 +26,7 @@ DArTView
 datasets
 DeltaBreed
 digitalization
+DivBrowse
 DOIs
 DSFAS
 ERD
@@ -36,8 +37,8 @@ genebanks
 genotype
 Genotypes
 genotypic
-Genotyping
-germplasm
+genotyping
+Germplasm
 GIGWA
 GLIS
 hackathon
@@ -49,7 +50,7 @@ ICARDA
 ImageBreed
 imbedded
 imilne
-inrae
+INRAE
 interoperable
 IPK
 ISA
@@ -68,13 +69,13 @@ OpenSILEX
 PHENOME
 Phenospex
 phenotypes
-phenotypic
+Phenotypic
 Phenotyping
 PHG
 PHIS’s
 programmatically
 QBMS
-Raubach
+raubach
 Selby
 Shamaa
 situ

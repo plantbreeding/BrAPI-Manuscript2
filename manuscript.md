@@ -31,8 +31,8 @@ header-includes: |
   <meta name="dc.date" content="2024-02-21" />
   <meta name="citation_publication_date" content="2024-02-21" />
   <meta property="article:published_time" content="2024-02-21" />
-  <meta name="dc.modified" content="2024-02-21T19:28:01+00:00" />
-  <meta property="article:modified_time" content="2024-02-21T19:28:01+00:00" />
+  <meta name="dc.modified" content="2024-02-21T19:41:01+00:00" />
+  <meta property="article:modified_time" content="2024-02-21T19:41:01+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -67,9 +67,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/7d41af144f69824a6b6334fc8801b324d5754e0c/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/7d41af144f69824a6b6334fc8801b324d5754e0c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/7d41af144f69824a6b6334fc8801b324d5754e0c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ebf66ecb1f633626ae55b0df5256d6898f558d76/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ebf66ecb1f633626ae55b0df5256d6898f558d76/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ebf66ecb1f633626ae55b0df5256d6898f558d76/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -91,9 +91,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/7d41af144f69824a6b6334fc8801b324d5754e0c/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/ebf66ecb1f633626ae55b0df5256d6898f558d76/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@7d41af1](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/7d41af144f69824a6b6334fc8801b324d5754e0c)
+from [plantbreeding/BrAPI-Manuscript2@ebf66ec](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/ebf66ecb1f633626ae55b0df5256d6898f558d76)
 on February 21, 2024.
 </em></small>
 
@@ -363,10 +363,10 @@ BraPI endpoints for AGENT
 <!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
 Agrosystem Integration of germplasm collections in context of data trustee models among private economy and public research, integration of ex-situ genebanks (EU H2020 projects AGENT, INCREASING), integrated agrosystems and plant research infrastructure
 
-#### MIAPPE ISA-TAB2BRAPI service
+#### MIAPPE "BrAPI to ISA" service
 
 <!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-MIAPPE and BrAPI are designed to be inter-compatible. ISA-TAB is a file based implementation of MIAPPE. The ISA-TAB2BRAPI service is a converter between the ISA-TAB files and the BrAPI RESTful endpoints.
+MIAPPE and BrAPI are designed to be inter-compatible. ISA-TAB is a file based implementation of MIAPPE. The "BrAPI to ISA" service is a converter between the ISA-TAB files and the BrAPI RESTful endpoints.
 
 
 ### Data visualization 
@@ -400,6 +400,11 @@ BrAPPs are simple tools developed by the BrAPI community that are entirely relia
 
 <!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
 DArTView is a desktop application for visualizing genotype variant data and looking for trends or correlations. It is newly BrAPI compatible and can use BrAPI as an input data source.
+
+#### DivBrowse
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+DivBrowse is a BrAPI compatible tool for visualizing genotype variant data. 
 
 
 ### Analytics
