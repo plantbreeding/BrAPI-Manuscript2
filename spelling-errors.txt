@@ -2,7 +2,7 @@ Agrosystem
 agrosystems
 Alic
 alshamaa
-analytics
+Analytics
 APIs
 arial
 backend
@@ -10,7 +10,7 @@ Batbaby
 Baz
 BIMS
 BMS
-brapi
+BrAPI
 BrapiCoordinatorSelby
 BrapMan
 BrAPP
@@ -22,6 +22,7 @@ CLI
 ClimMob
 COVID
 CRAN
+DArTView
 datasets
 DeltaBreed
 digitalization
@@ -35,8 +36,8 @@ genebanks
 genotype
 Genotypes
 genotypic
-genotyping
-Germplasm
+Genotyping
+germplasm
 GIGWA
 GLIS
 hackathon
@@ -53,7 +54,7 @@ interoperable
 IPK
 ISA
 JSON
-khaled
+Khaled
 LIDAR
 metabolomics
 MGIS
@@ -67,13 +68,13 @@ OpenSILEX
 PHENOME
 Phenospex
 phenotypes
-Phenotypic
+phenotypic
 Phenotyping
 PHG
 PHIS’s
 programmatically
 QBMS
-raubach
+Raubach
 Selby
 Shamaa
 situ

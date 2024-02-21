@@ -184,6 +184,11 @@ content/03.04.visualization.md:26:BrAPI
 content/03.04.visualization.md:26:BrAPP
 content/03.04.visualization.md:26:BrAPP
 content/03.04.visualization.md:26:BrAPPs
+content/03.04.visualization.md:28:DArTView
+content/03.04.visualization.md:31:BrAPI
+content/03.04.visualization.md:31:BrAPI
+content/03.04.visualization.md:31:DArTView
+content/03.04.visualization.md:31:genotype
 content/03.05.analytics.md:1:Analytics
 content/03.05.analytics.md:5:BrAPI
 content/03.05.analytics.md:8:QBMS

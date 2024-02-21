@@ -31,8 +31,8 @@ header-includes: |
   <meta name="dc.date" content="2024-02-21" />
   <meta name="citation_publication_date" content="2024-02-21" />
   <meta property="article:published_time" content="2024-02-21" />
-  <meta name="dc.modified" content="2024-02-21T19:10:37+00:00" />
-  <meta property="article:modified_time" content="2024-02-21T19:10:37+00:00" />
+  <meta name="dc.modified" content="2024-02-21T19:28:01+00:00" />
+  <meta property="article:modified_time" content="2024-02-21T19:28:01+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -67,9 +67,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f146adfafed11799c83fd5af034fc05cce37885c/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f146adfafed11799c83fd5af034fc05cce37885c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f146adfafed11799c83fd5af034fc05cce37885c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/7d41af144f69824a6b6334fc8801b324d5754e0c/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/7d41af144f69824a6b6334fc8801b324d5754e0c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/7d41af144f69824a6b6334fc8801b324d5754e0c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -91,9 +91,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/f146adfafed11799c83fd5af034fc05cce37885c/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/7d41af144f69824a6b6334fc8801b324d5754e0c/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@f146adf](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/f146adfafed11799c83fd5af034fc05cce37885c)
+from [plantbreeding/BrAPI-Manuscript2@7d41af1](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/7d41af144f69824a6b6334fc8801b324d5754e0c)
 on February 21, 2024.
 </em></small>
 
@@ -395,6 +395,11 @@ I don't know much about Tassel or its BrAPI compliance. This is filler text for 
 
 <!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
 BrAPPs are simple tools developed by the BrAPI community that are entirely reliant on BrAPI for their data requirements. This means a single BrAPI can be shared and used by many organizations, as long as those organizations have the standard BrAPI endpoints available. For example, the Trait Selector BrAPP is used to search and select useful traits, using a visual aid to help the user find exactly what they need. The BrAPP relies only on the BrAPI Trait endpoints to function, so any data resources with a the Trait endpoints available can add this tool to their system.
+
+#### DArTView
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+DArTView is a desktop application for visualizing genotype variant data and looking for trends or correlations. It is newly BrAPI compatible and can use BrAPI as an input data source.
 
 
 ### Analytics
