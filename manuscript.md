@@ -31,8 +31,8 @@ header-includes: |
   <meta name="dc.date" content="2024-02-21" />
   <meta name="citation_publication_date" content="2024-02-21" />
   <meta property="article:published_time" content="2024-02-21" />
-  <meta name="dc.modified" content="2024-02-21T17:20:18+00:00" />
-  <meta property="article:modified_time" content="2024-02-21T17:20:18+00:00" />
+  <meta name="dc.modified" content="2024-02-21T19:10:37+00:00" />
+  <meta property="article:modified_time" content="2024-02-21T19:10:37+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,7 +47,6 @@ header-includes: |
   <meta name="citation_author_orcid" content="0000-0002-5974-6523" />
   <meta name="citation_author" content="Khaled Al-Shamaa" />
   <meta name="citation_author_institution" content="ICARDA" />
-  <meta name="citation_author_orcid" content="" />
   <meta name="citation_author" content="Isabelle Alic" />
   <meta name="citation_author_institution" content="INRAE" />
   <meta name="citation_author_orcid" content="0000-0002-8961-6068" />
@@ -68,9 +67,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/c3012d7de55f8ca84d7e5e9ea3aeb8c1d431b821/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/c3012d7de55f8ca84d7e5e9ea3aeb8c1d431b821/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/c3012d7de55f8ca84d7e5e9ea3aeb8c1d431b821/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f146adfafed11799c83fd5af034fc05cce37885c/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f146adfafed11799c83fd5af034fc05cce37885c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f146adfafed11799c83fd5af034fc05cce37885c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -92,9 +91,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/c3012d7de55f8ca84d7e5e9ea3aeb8c1d431b821/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/f146adfafed11799c83fd5af034fc05cce37885c/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@c3012d7](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/c3012d7de55f8ca84d7e5e9ea3aeb8c1d431b821)
+from [plantbreeding/BrAPI-Manuscript2@f146adf](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/f146adfafed11799c83fd5af034fc05cce37885c)
 on February 21, 2024.
 </em></small>
 
@@ -129,8 +128,6 @@ on February 21, 2024.
 
 + **Khaled Al-Shamaa**
   <br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [](https://orcid.org/)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [khaled-alshamaa](https://github.com/khaled-alshamaa)
     <br>
@@ -339,7 +336,7 @@ Since the inception of BrAPI in 2014, the Breedbase group has been a heavy contr
 #### BIMS
 
 <!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-BIMS is relatively new to the BrPAI community, with their primary focus being a link to the Field Book mobile data collection app.
+BIMS is relatively new to the BrAPI community, with their primary focus being a link to the Field Book mobile data collection app.
 
 #### Germinate
 
@@ -450,6 +447,11 @@ MGIS has germplasm and genotype data stored for many musa accessions. Through Br
 
 <!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
 GIGWA is an efficient storage system for genotype variant data. GIGWA uses BrAPI to query specific variant data out of the database. This allows for more efficient data transfer and analysis. Instead of transferring whole massive files, specific pieces, samples, markers, or chunks of data can be retrieved. 
+
+#### PHG
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+The Practical Haplotype Graph (PHG) project allows the review and analysis of genotype data in a different format. The data stored in the PHG system is accessible through BrAPI, making it compatible with older existing analysis pipelines. 
 
 
 ### Data Portal

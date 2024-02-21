@@ -138,7 +138,7 @@ content/03.02.data-management.md:42:BrAPI
 content/03.02.data-management.md:42:Breedbase
 content/03.02.data-management.md:44:BIMS
 content/03.02.data-management.md:47:BIMS
-content/03.02.data-management.md:47:BrPAI
+content/03.02.data-management.md:47:BrAPI
 content/03.02.data-management.md:52:germplasm
 content/03.03.federation-infrastructure.md:5:agrosystems
 content/03.03.federation-infrastructure.md:5:genebanks
@@ -225,6 +225,12 @@ content/03.06.samples-and-genotypes.md:21:BrAPI
 content/03.06.samples-and-genotypes.md:21:genotype
 content/03.06.samples-and-genotypes.md:21:GIGWA
 content/03.06.samples-and-genotypes.md:21:GIGWA
+content/03.06.samples-and-genotypes.md:23:PHG
+content/03.06.samples-and-genotypes.md:26:BrAPI
+content/03.06.samples-and-genotypes.md:26:genotype
+content/03.06.samples-and-genotypes.md:26:Haplotype
+content/03.06.samples-and-genotypes.md:26:PHG
+content/03.06.samples-and-genotypes.md:26:PHG
 content/03.07.data-portals.md:5:BrAPI
 content/03.07.data-portals.md:8:FAIDARE
 content/03.07.data-portals.md:11:APIs
