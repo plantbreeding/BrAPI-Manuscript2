@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-02-20'
+date-meta: '2024-02-21'
 author-meta:
 - Peter "BrapMan" Selby
 - Trevor "Cool Kid" Rife
@@ -16,6 +16,7 @@ author-meta:
 - Sebastian "Baz" Raubach
 - Iain Milne
 - Becky Smith
+- Chaney Courtney
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -27,11 +28,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-02-20" />
-  <meta name="citation_publication_date" content="2024-02-20" />
-  <meta property="article:published_time" content="2024-02-20" />
-  <meta name="dc.modified" content="2024-02-20T22:25:12+00:00" />
-  <meta property="article:modified_time" content="2024-02-20T22:25:12+00:00" />
+  <meta name="dc.date" content="2024-02-21" />
+  <meta name="citation_publication_date" content="2024-02-21" />
+  <meta property="article:published_time" content="2024-02-21" />
+  <meta name="dc.modified" content="2024-02-21T17:20:18+00:00" />
+  <meta property="article:modified_time" content="2024-02-21T17:20:18+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -59,15 +60,17 @@ header-includes: |
   <meta name="citation_author" content="Becky Smith" />
   <meta name="citation_author_institution" content="The James Hutton Institute" />
   <meta name="citation_author_orcid" content="0000-0002-8968-3383" />
+  <meta name="citation_author" content="Chaney Courtney" />
+  <meta name="citation_author_institution" content="Clemson University" />
   <link rel="canonical" href="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="og:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="twitter:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d436fc3ac7c27b83f332bd7b0dcd85903f82b91e/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d436fc3ac7c27b83f332bd7b0dcd85903f82b91e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d436fc3ac7c27b83f332bd7b0dcd85903f82b91e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/c3012d7de55f8ca84d7e5e9ea3aeb8c1d431b821/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/c3012d7de55f8ca84d7e5e9ea3aeb8c1d431b821/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/c3012d7de55f8ca84d7e5e9ea3aeb8c1d431b821/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -89,10 +92,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/d436fc3ac7c27b83f332bd7b0dcd85903f82b91e/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/c3012d7de55f8ca84d7e5e9ea3aeb8c1d431b821/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@d436fc3](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/d436fc3ac7c27b83f332bd7b0dcd85903f82b91e)
-on February 20, 2024.
+from [plantbreeding/BrAPI-Manuscript2@c3012d7](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/c3012d7de55f8ca84d7e5e9ea3aeb8c1d431b821)
+on February 21, 2024.
 </em></small>
 
 
@@ -177,6 +180,15 @@ on February 20, 2024.
     <br>
   <small>
      The James Hutton Institute
+  </small>
+
++ **Chaney Courtney**
+  <br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [chaneylc](https://github.com/chaneylc)
+    <br>
+  <small>
+     Clemson University
   </small>
 
 

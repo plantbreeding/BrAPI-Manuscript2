@@ -2,7 +2,7 @@ Agrosystem
 agrosystems
 Alic
 alshamaa
-Analytics
+analytics
 APIs
 arial
 backend
@@ -10,7 +10,7 @@ Batbaby
 Baz
 BIMS
 BMS
-BrAPI
+brapi
 BrapiCoordinatorSelby
 BrapMan
 BrAPP
@@ -18,6 +18,7 @@ BrAPPs
 BRAVA
 Breedbase
 BrPAI
+chaneylc
 CLI
 ClimMob
 COVID
@@ -40,7 +41,7 @@ Germplasm
 GIGWA
 GLIS
 hackathon
-hackathons
+Hackathons
 HortControl
 Iain
 ICARDA
@@ -52,7 +53,7 @@ interoperable
 IPK
 ISA
 JSON
-Khaled
+khaled
 LIDAR
 metabolomics
 MGIS
@@ -66,7 +67,7 @@ OpenSILEX
 PHENOME
 Phenospex
 phenotypes
-phenotypic
+Phenotypic
 Phenotyping
 PHIS’s
 programmatically
