@@ -73,4 +73,12 @@ authors:
       - The James Hutton Institute
     funders: []
     corresponding: false
+  - github: chaneylc
+    name: Chaney Courtney
+    initials: CC
+    email: ccourtn@clemson.edu
+    affiliations:
+      - Clemson University
+    funders: []
+    corresponding: false
 
