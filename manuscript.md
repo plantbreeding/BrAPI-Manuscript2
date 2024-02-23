@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-02-21'
+date-meta: '2024-02-23'
 author-meta:
 - Peter "BrapMan" Selby
 - Trevor "Cool Kid" Rife
@@ -28,11 +28,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-02-21" />
-  <meta name="citation_publication_date" content="2024-02-21" />
-  <meta property="article:published_time" content="2024-02-21" />
-  <meta name="dc.modified" content="2024-02-21T19:41:01+00:00" />
-  <meta property="article:modified_time" content="2024-02-21T19:41:01+00:00" />
+  <meta name="dc.date" content="2024-02-23" />
+  <meta name="citation_publication_date" content="2024-02-23" />
+  <meta property="article:published_time" content="2024-02-23" />
+  <meta name="dc.modified" content="2024-02-23T21:51:53+00:00" />
+  <meta property="article:modified_time" content="2024-02-23T21:51:53+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -67,9 +67,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ebf66ecb1f633626ae55b0df5256d6898f558d76/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ebf66ecb1f633626ae55b0df5256d6898f558d76/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ebf66ecb1f633626ae55b0df5256d6898f558d76/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/172704ccfbfbefb18f2d18059e1fbd2da92c557e/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/172704ccfbfbefb18f2d18059e1fbd2da92c557e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/172704ccfbfbefb18f2d18059e1fbd2da92c557e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -91,10 +91,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/ebf66ecb1f633626ae55b0df5256d6898f558d76/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/172704ccfbfbefb18f2d18059e1fbd2da92c557e/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@ebf66ec](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/ebf66ecb1f633626ae55b0df5256d6898f558d76)
-on February 21, 2024.
+from [plantbreeding/BrAPI-Manuscript2@172704c](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/172704ccfbfbefb18f2d18059e1fbd2da92c557e)
+on February 23, 2024.
 </em></small>
 
 
@@ -320,8 +320,23 @@ Indeed, as PHIS offers BrAPI-compliant Web Services, this greatly simplifies the
 
 #### DeltaBreed
 
-<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-DeltaBreed is tool built almost entirely based on the BrAPI standard.
+<!-- Shawn Y.-->
+DeltaBreed is an open-source data management system designed and developed by Breeding Insight to support USDA-ARS specialty crop and animal breeders. DeltaBreed is a unified system for managing breeding data that connects a variety of BrAPI applications (see list below). BrAPI integration allows the complexity underlying interoperability to be hidden, shielding users from multifactorial differences between diverse applications. DeltaBreed, adhering to the BrAPI model, establishes data standards and validations for users and provides a singular framework for data management and user training.
+
+DeltaBreed users need not be aware of BrAPI or the specifics of underlying applications but will notice that BrAPI interoperability reduces the need for human-mediated file transfers and data manipulation. Field Book users, for example, can connect to their DeltaBreed program, authenticate, and pull studies and traits directly from DeltaBreed to Field Book on their data collection device. The subsequent step of pushing observations from Field Book to DeltaBreed is straightforward via BrAPI, but will not be implemented until repeated observation handling workflows are established to differentiate and validate repeated observations, such as accidental repeats, overwrite requests, time-series observations, and repeated sub-entity measures. Users can expect DeltaBreed observation handling to become more seamless with future development.
+
+**DeltaBreed Connected Applications**
+<< Submission is expected April 2024. We may need to trim this aspirational list down to reality in final edits.>>
+
++ BIMS <https://www.breedwithbims.org/>
++ BrAPI Java Server <https://test-server.brapi.org/brapi/v2/>
++ BrAPI Sync <https://github.com/IntegratedBreedingPlatform/brapi-sync>
++ BreedBase <https://breedbase.org/>
++ Diversity Arrays Technologies (DArT) genotyping services
++ Field Book <https://play.google.com/store/apps/details?id=com.fieldbook.tracker>
++ Gigwa <https://gigwa.southgreen.fr/gigwa/>
++ Mr Bean <https://github.com/AparicioJohan/MrBeanApp>
++ Pedigree Viewer <https://github.com/solgenomics/BrAPI-Pedigree-Viewer>
 
 #### BMS
 
@@ -460,8 +475,10 @@ GIGWA is an efficient storage system for genotype variant data. GIGWA uses BrAPI
 
 #### PHG
 
-<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-The Practical Haplotype Graph (PHG) project allows the review and analysis of genotype data in a different format. The data stored in the PHG system is accessible through BrAPI, making it compatible with older existing analysis pipelines. 
+<!-- Lynn J. -->
+The Practical Haplotype Graph (PHG) is a graph-based computational framework that represents large-scale genetic variation and is optimized for plant breeding and genetics.  Using a pangenome approach, each PHG stores haplotypes (the sequence of part of an individual chromosome) to represent the collected genes of a species.  This allows for a simplified approach for dealing with large scale variation in plant genomes.  The PHG pipeline provides support for a range of genomic analyses and allows for the use of graph data to impute complete genomes from low density sequence or variant data.
+
+Users access the crop databases either with direct calls to the PHG embedded server or indirectly using the rPHG library from an R environment.  The PHG server accepts BrAPI endpoint queries to return information on sample lists and the variants used to define the graph's haplotypes.  In addition, PHG users utilize the BrAPI variantsets endpoint query to return links to VCF files containing haplotype data. Work on the PHG is ongoing.  We expect to support additional BrAPI endpoints that allow for slicing genotypic data based on samples and regions.
 
 
 ### Data Portal
