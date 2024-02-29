@@ -18,6 +18,10 @@ author-meta:
 - Cyril Pommier
 - Becky Smith
 - Chaney Courtney
+- Zachary Miller
+- Terry Casstevens
+- Sook Jung
+- Taein Lee
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -32,8 +36,8 @@ header-includes: |
   <meta name="dc.date" content="2024-02-29" />
   <meta name="citation_publication_date" content="2024-02-29" />
   <meta property="article:published_time" content="2024-02-29" />
-  <meta name="dc.modified" content="2024-02-29T21:09:23+00:00" />
-  <meta property="article:modified_time" content="2024-02-29T21:09:23+00:00" />
+  <meta name="dc.modified" content="2024-02-29T21:21:31+00:00" />
+  <meta property="article:modified_time" content="2024-02-29T21:21:31+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -66,15 +70,27 @@ header-includes: |
   <meta name="citation_author_orcid" content="0000-0002-8968-3383" />
   <meta name="citation_author" content="Chaney Courtney" />
   <meta name="citation_author_institution" content="Clemson University" />
+  <meta name="citation_author" content="Zachary Miller" />
+  <meta name="citation_author_institution" content="Cornell University" />
+  <meta name="citation_author_orcid" content="0000-0002-5454-4527" />
+  <meta name="citation_author" content="Terry Casstevens" />
+  <meta name="citation_author_institution" content="Cornell University" />
+  <meta name="citation_author_orcid" content="0000-0001-7602-0487" />
+  <meta name="citation_author" content="Sook Jung" />
+  <meta name="citation_author_institution" content="Department of Horticulture, Washington State University" />
+  <meta name="citation_author_orcid" content="0000-0003-3968-2769" />
+  <meta name="citation_author" content="Taein Lee" />
+  <meta name="citation_author_institution" content="Department of Horticulture, Washington State University" />
+  <meta name="citation_author_orcid" content="0000-0002-2000-2586" />
   <link rel="canonical" href="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="og:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="twitter:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/7bafa2d2c3a66e34f8cd7a087496339c08eb0f08/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/7bafa2d2c3a66e34f8cd7a087496339c08eb0f08/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/7bafa2d2c3a66e34f8cd7a087496339c08eb0f08/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/838c21cfb2bae42f8511dd75468c931bea0ed267/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/838c21cfb2bae42f8511dd75468c931bea0ed267/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/838c21cfb2bae42f8511dd75468c931bea0ed267/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -96,9 +112,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/7bafa2d2c3a66e34f8cd7a087496339c08eb0f08/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/838c21cfb2bae42f8511dd75468c931bea0ed267/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@7bafa2d](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/7bafa2d2c3a66e34f8cd7a087496339c08eb0f08)
+from [plantbreeding/BrAPI-Manuscript2@838c21c](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/838c21cfb2bae42f8511dd75468c931bea0ed267)
 on February 29, 2024.
 </em></small>
 
@@ -203,6 +219,48 @@ on February 29, 2024.
     <br>
   <small>
      Clemson University
+  </small>
+
++ **Zachary Miller**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-5454-4527](https://orcid.org/0000-0002-5454-4527)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [zrm22](https://github.com/zrm22)
+    <br>
+  <small>
+     Cornell University
+  </small>
+
++ **Terry Casstevens**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0001-7602-0487](https://orcid.org/0000-0001-7602-0487)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [tcasstevens](https://github.com/tcasstevens)
+    <br>
+  <small>
+     Cornell University
+  </small>
+
++ **Sook Jung**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0003-3968-2769](https://orcid.org/0000-0003-3968-2769)
+    <br>
+  <small>
+     Department of Horticulture, Washington State University
+  </small>
+
++ **Taein Lee**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-2000-2586](https://orcid.org/0000-0002-2000-2586)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [leetaei](https://github.com/leetaei)
+    <br>
+  <small>
+     Department of Horticulture, Washington State University
   </small>
 
 
@@ -367,8 +425,7 @@ Since the inception of BrAPI in 2014, the Breedbase group has been a heavy contr
 
 #### BIMS
 
-<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-BIMS is relatively new to the BrAPI community, with their primary focus being a link to the Field Book mobile data collection app.
+BIMS (Breeding Information Management System) [https://doi.org/10.1093/database/baab054] is a free, secure, and online breeding management system which allows breeders to store, manage, archive, and analyze their private breeding program data. BIMS enables individual breeders to have complete control of their own breeding data along with access to tools such as data import/export, data analysis and data archiving for their germplasm, phenotype, genotype, and image data. BIMS is currently implemented in five community databases, the Genome Database for Rosaceae [https://doi.org/10.1093/nar/gky1000], CottonGEN [https://doi.org/10.3390/plants10122805], the Citrus Genome Database, the Pulse Crop Database, and the Genome Database for Vaccinium, as well as a crop-independent website, <https://breedwithbims.org>. BIMS in these five community databases enables individual breeders to import publicly available data so that they can utilize public data in their breeding program. BIMS utilizes the Android App Field Book, enabling seamless data transfer between BIMS and the Field Book App through either files or BrAPI. Data transfer through BrAPI between BIMS and other resources such as BreedBase, GIGWA, and Breeder Genomics Hub is also on the way. 
 
 #### Germinate
 

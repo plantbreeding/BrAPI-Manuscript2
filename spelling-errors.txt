@@ -2,7 +2,7 @@ Agrosystem
 agrosystems
 Alic
 alshamaa
-Analytics
+analytics
 ANR
 APIs
 arial
@@ -16,16 +16,18 @@ BioinfOmics
 Bioinformatics
 Biologie
 BMS
-brapi
+BrAPI
 BrapiCoordinatorSelby
 BrapMan
 BrAPP
 BrAPPs
 BRAVA
-Breedbase
+BreedBase
+Casstevens
 chaneylc
 CLI
 ClimMob
+CottonGEN
 COVID
 cpommier
 CRAN
@@ -51,7 +53,7 @@ Germplasm
 Gigwa
 GLIS
 hackathon
-Hackathons
+hackathons
 haplotype
 haplotypes
 HortControl
@@ -66,7 +68,8 @@ interoperable
 IPK
 ISA
 JSON
-Khaled
+khaled
+leetaei
 LIDAR
 metabolomics
 MGIS
@@ -79,7 +82,7 @@ NIFA
 ontologies
 OpenSILEX
 pangenome
-PHENOME
+Phenome
 Phenospex
 phenotypes
 Phenotypic
@@ -89,7 +92,8 @@ PHIS’s
 Pommier
 programmatically
 QBMS
-raubach
+Raubach
+Rosaceae
 rPHG
 Saclay
 Santé
@@ -97,6 +101,8 @@ Selby
 Shamaa
 situ
 stateful
+Taein
+tcasstevens
 TCP
 transcriptomics
 trife
@@ -104,5 +110,7 @@ UAVs
 UGVs
 Université
 URGI
+Vaccinium
 variantsets
 VCF
+zrm
