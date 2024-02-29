@@ -9,9 +9,9 @@ keywords:
   - community
 lang: en-US
 authors:
-  - github: BrapiCoordinatorSelby
-    name: Peter "BrapMan" Selby
+  - name: Peter "BrapMan" Selby
     initials: PS
+    github: BrapiCoordinatorSelby
     orcid: 0000-0001-7151-4445
     email: ps664@cornell.edu
     affiliations:
@@ -19,53 +19,53 @@ authors:
     funders:
       - NIFA-DSFAS 2022-67021-37024
     corresponding: true
-  - github: trife
-    name: Trevor "Cool Kid" Rife
+  - name: Trevor "Cool Kid" Rife
     initials: TR
+    github: trife
     orcid: 0000-0002-5974-6523
     email: twrife@clemson.edu
     affiliations:
       - Clemson University
     funders: []
     corresponding: false
-  - github: khaled-alshamaa
-    name: Khaled Al-Shamaa
+  - name: Khaled Al-Shamaa
     initials: KA
+    github: khaled-alshamaa
     email: khaled.alshamaa@gmail.com
     affiliations:
       - ICARDA
     funders: []
     corresponding: false
-  - github: Isabelle-inrae
-    name: Isabelle Alic
+  - name: Isabelle Alic
     initials: IA
+    github: Isabelle-inrae
     orcid: 0000-0002-8961-6068
     email: isabelle.alic@inrae.fr
     affiliations:
       - INRAE
     funders: []
     corresponding: false
-  - github: sebastian-raubach
-    name: Sebastian "Baz" Raubach
+  - name: Sebastian "Baz" Raubach
     initials: SR
+    github: sebastian-raubach
     orcid: 0000-0001-5659-247X
     email: sebastian.raubach@hutton.ac.uk
     affiliations:
       - The James Hutton Institute
     funders: []
     corresponding: false
-  - github: imilne
-    name: Iain Milne
+  - name: Iain Milne
     initials: IM
+    github: imilne
     orcid: 0000-0002-4126-0859
     email: iain.milne@hutton.ac.uk
     affiliations:
       - The James Hutton Institute
     funders: []
     corresponding: false
-  - github: cpommier
-    name: Cyril Pommier
+  - name: Cyril Pommier
     initials: CP
+    github: cpommier
     orcid: 0000-0002-9040-8733
     email: cyril.pommier@inrae.fr
     affiliations:
@@ -74,21 +74,57 @@ authors:
     funders: 
       - French Infrastructure en Biologie Santé ‘Phenome-FPPN’ supported by the French National Research Agency (ANR-11-INBS-0012)
     corresponding: false
-  - github: Batbaby91
-    name: Becky Smith
+  - name: Becky Smith
     initials: BS
+    github: Batbaby91
     orcid: 0000-0002-8968-3383
     email: becky.smith@hutton.ac.uk
     affiliations:
       - The James Hutton Institute
     funders: []
     corresponding: false
-  - github: chaneylc
-    name: Chaney Courtney
+  - name: Chaney Courtney
+    github: chaneylc
     initials: CC
     email: ccourtn@clemson.edu
     affiliations:
       - Clemson University
     funders: []
     corresponding: false
+  - name: Zachary Miller
+    initials: ZM
+    email: zrm22@cornell.edu
+    github: zrm22
+    orcid: 0000-0002-5454-4527
+    affiliations:
+      - Cornell University
+    funders: []
+    corresponding: false
+  - name: Terry Casstevens
+    initials: TC
+    email: tmc46@cornell.edu
+    github: tcasstevens
+    orcid: 0000-0001-7602-0487
+    affiliations: 
+      - Cornell University
+    funders: []
+    corresponding: false
+  - name: Sook Jung
+    initials: SJ
+    email: sook_jung@wsu.edu
+    orcid: 0000-0003-3968-2769
+    affiliations: 
+      - Department of Horticulture, Washington State University
+    funders: []
+    corresponding: false
+  - name: Taein Lee
+    initials: TL
+    email: taein_lee@hotmail.com
+    github: leetaei
+    orcid: 0000-0002-2000-2586
+    affiliations: 
+      - Department of Horticulture, Washington State University
+    funders: []
+    corresponding: false
+
 
