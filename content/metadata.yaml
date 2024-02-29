@@ -63,6 +63,17 @@ authors:
       - The James Hutton Institute
     funders: []
     corresponding: false
+  - github: cpommier
+    name: Cyril Pommier
+    initials: CP
+    orcid: 0000-0002-9040-8733
+    email: cyril.pommier@inrae.fr
+    affiliations:
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+    funders: 
+      - French Infrastructure en Biologie Santé ‘Phenome-FPPN’ supported by the French National Research Agency (ANR-11-INBS-0012)
+    corresponding: false
   - github: Batbaby91
     name: Becky Smith
     initials: BS
