@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-02-23'
+date-meta: '2024-02-29'
 author-meta:
 - Peter "BrapMan" Selby
 - Trevor "Cool Kid" Rife
@@ -15,6 +15,7 @@ author-meta:
 - Isabelle Alic
 - Sebastian "Baz" Raubach
 - Iain Milne
+- Cyril Pommier
 - Becky Smith
 - Chaney Courtney
 header-includes: |
@@ -28,11 +29,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-02-23" />
-  <meta name="citation_publication_date" content="2024-02-23" />
-  <meta property="article:published_time" content="2024-02-23" />
-  <meta name="dc.modified" content="2024-02-23T21:51:53+00:00" />
-  <meta property="article:modified_time" content="2024-02-23T21:51:53+00:00" />
+  <meta name="dc.date" content="2024-02-29" />
+  <meta name="citation_publication_date" content="2024-02-29" />
+  <meta property="article:published_time" content="2024-02-29" />
+  <meta name="dc.modified" content="2024-02-29T21:09:23+00:00" />
+  <meta property="article:modified_time" content="2024-02-29T21:09:23+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -56,6 +57,10 @@ header-includes: |
   <meta name="citation_author" content="Iain Milne" />
   <meta name="citation_author_institution" content="The James Hutton Institute" />
   <meta name="citation_author_orcid" content="0000-0002-4126-0859" />
+  <meta name="citation_author" content="Cyril Pommier" />
+  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France" />
+  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
+  <meta name="citation_author_orcid" content="0000-0002-9040-8733" />
   <meta name="citation_author" content="Becky Smith" />
   <meta name="citation_author_institution" content="The James Hutton Institute" />
   <meta name="citation_author_orcid" content="0000-0002-8968-3383" />
@@ -67,9 +72,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/172704ccfbfbefb18f2d18059e1fbd2da92c557e/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/172704ccfbfbefb18f2d18059e1fbd2da92c557e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/172704ccfbfbefb18f2d18059e1fbd2da92c557e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/7bafa2d2c3a66e34f8cd7a087496339c08eb0f08/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/7bafa2d2c3a66e34f8cd7a087496339c08eb0f08/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/7bafa2d2c3a66e34f8cd7a087496339c08eb0f08/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -91,10 +96,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/172704ccfbfbefb18f2d18059e1fbd2da92c557e/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/7bafa2d2c3a66e34f8cd7a087496339c08eb0f08/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@172704c](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/172704ccfbfbefb18f2d18059e1fbd2da92c557e)
-on February 23, 2024.
+from [plantbreeding/BrAPI-Manuscript2@7bafa2d](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/7bafa2d2c3a66e34f8cd7a087496339c08eb0f08)
+on February 29, 2024.
 </em></small>
 
 
@@ -166,6 +171,18 @@ on February 23, 2024.
     <br>
   <small>
      The James Hutton Institute
+  </small>
+
++ **Cyril Pommier**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-9040-8733](https://orcid.org/0000-0002-9040-8733)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [cpommier](https://github.com/cpommier)
+    <br>
+  <small>
+     Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
+     · Funded by French Infrastructure en Biologie Santé ‘Phenome-FPPN’ supported by the French National Research Agency (ANR-11-INBS-0012)
   </small>
 
 + **Becky Smith**

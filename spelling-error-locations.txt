@@ -3,6 +3,7 @@ content/01.abstract.md:4:BrAPI
 content/01.abstract.md:6:BrAPI
 content/02.introduction.md:8:Hackathons
 content/02.introduction.md:17:datasets
+content/02.introduction.md:19:bioinformatics
 content/02.introduction.md:19:BrAPI
 content/02.introduction.md:19:BrAPI
 content/02.introduction.md:19:BrAPI
@@ -122,6 +123,7 @@ content/03.02.data-management.md:23:phenotyping
 content/03.02.data-management.md:25:BrAPI
 content/03.02.data-management.md:25:faidare
 content/03.02.data-management.md:25:FAIDARE
+content/03.02.data-management.md:25:urgi
 content/03.02.data-management.md:27:BrAPI
 content/03.02.data-management.md:27:BrAPI
 content/03.02.data-management.md:27:phenotyping
