@@ -36,8 +36,8 @@ header-includes: |
   <meta name="dc.date" content="2024-02-29" />
   <meta name="citation_publication_date" content="2024-02-29" />
   <meta property="article:published_time" content="2024-02-29" />
-  <meta name="dc.modified" content="2024-02-29T21:21:31+00:00" />
-  <meta property="article:modified_time" content="2024-02-29T21:21:31+00:00" />
+  <meta name="dc.modified" content="2024-02-29T22:00:04+00:00" />
+  <meta property="article:modified_time" content="2024-02-29T22:00:04+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -88,9 +88,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/838c21cfb2bae42f8511dd75468c931bea0ed267/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/838c21cfb2bae42f8511dd75468c931bea0ed267/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/838c21cfb2bae42f8511dd75468c931bea0ed267/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/33af47f71b3fba2a27bd70b3a00e45cf68190776/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/33af47f71b3fba2a27bd70b3a00e45cf68190776/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/33af47f71b3fba2a27bd70b3a00e45cf68190776/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -112,9 +112,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/838c21cfb2bae42f8511dd75468c931bea0ed267/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/33af47f71b3fba2a27bd70b3a00e45cf68190776/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@838c21c](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/838c21cfb2bae42f8511dd75468c931bea0ed267)
+from [plantbreeding/BrAPI-Manuscript2@33af47f](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/33af47f71b3fba2a27bd70b3a00e45cf68190776)
 on February 29, 2024.
 </em></small>
 
@@ -425,7 +425,7 @@ Since the inception of BrAPI in 2014, the Breedbase group has been a heavy contr
 
 #### BIMS
 
-BIMS (Breeding Information Management System) [https://doi.org/10.1093/database/baab054] is a free, secure, and online breeding management system which allows breeders to store, manage, archive, and analyze their private breeding program data. BIMS enables individual breeders to have complete control of their own breeding data along with access to tools such as data import/export, data analysis and data archiving for their germplasm, phenotype, genotype, and image data. BIMS is currently implemented in five community databases, the Genome Database for Rosaceae [https://doi.org/10.1093/nar/gky1000], CottonGEN [https://doi.org/10.3390/plants10122805], the Citrus Genome Database, the Pulse Crop Database, and the Genome Database for Vaccinium, as well as a crop-independent website, <https://breedwithbims.org>. BIMS in these five community databases enables individual breeders to import publicly available data so that they can utilize public data in their breeding program. BIMS utilizes the Android App Field Book, enabling seamless data transfer between BIMS and the Field Book App through either files or BrAPI. Data transfer through BrAPI between BIMS and other resources such as BreedBase, GIGWA, and Breeder Genomics Hub is also on the way. 
+BIMS (Breeding Information Management System) [@doi:10.1093/database/baab054] is a free, secure, and online breeding management system which allows breeders to store, manage, archive, and analyze their private breeding program data. BIMS enables individual breeders to have complete control of their own breeding data along with access to tools such as data import/export, data analysis and data archiving for their germplasm, phenotype, genotype, and image data. BIMS is currently implemented in five community databases, the Genome Database for Rosaceae [@doi:10.1093/nar/gky1000], CottonGEN [@doi:10.3390/plants10122805], the Citrus Genome Database, the Pulse Crop Database, and the Genome Database for Vaccinium, as well as a crop-independent website, <https://breedwithbims.org>. BIMS in these five community databases enables individual breeders to import publicly available data so that they can utilize public data in their breeding program. BIMS utilizes the Android App Field Book, enabling seamless data transfer between BIMS and the Field Book App through either files or BrAPI. Data transfer through BrAPI between BIMS and other resources such as BreedBase, GIGWA, and Breeder Genomics Hub is also on the way. 
 
 #### Germinate
 
