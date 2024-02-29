@@ -36,8 +36,8 @@ header-includes: |
   <meta name="dc.date" content="2024-02-29" />
   <meta name="citation_publication_date" content="2024-02-29" />
   <meta property="article:published_time" content="2024-02-29" />
-  <meta name="dc.modified" content="2024-02-29T22:00:04+00:00" />
-  <meta property="article:modified_time" content="2024-02-29T22:00:04+00:00" />
+  <meta name="dc.modified" content="2024-02-29T22:27:49+00:00" />
+  <meta property="article:modified_time" content="2024-02-29T22:27:49+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -88,9 +88,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/33af47f71b3fba2a27bd70b3a00e45cf68190776/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/33af47f71b3fba2a27bd70b3a00e45cf68190776/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/33af47f71b3fba2a27bd70b3a00e45cf68190776/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/bbbe0c0843123d36f9b7701e83725d4f9c401dc7/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/bbbe0c0843123d36f9b7701e83725d4f9c401dc7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/bbbe0c0843123d36f9b7701e83725d4f9c401dc7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -112,9 +112,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/33af47f71b3fba2a27bd70b3a00e45cf68190776/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/bbbe0c0843123d36f9b7701e83725d4f9c401dc7/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@33af47f](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/33af47f71b3fba2a27bd70b3a00e45cf68190776)
+from [plantbreeding/BrAPI-Manuscript2@bbbe0c0](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/bbbe0c0843123d36f9b7701e83725d4f9c401dc7)
 on February 29, 2024.
 </em></small>
 
@@ -564,8 +564,12 @@ Users access the crop databases either with direct calls to the PHG embedded ser
 
 #### FAIDARE
 
-<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-FAIDARE is an indexing and search portal for the wider breeding community. While it can extract data from various sources via a flat file, the preferred method uses the BrAPI standard APIs. As data is added or updated in data repositories around the world, FAIDARE keeps its index up to date automatically through BrAPI.
+<!-- Peter S: Stub paragraph. Cyril P, first draft-->
+FAIDARE (https://urgi.versailles.inrae.fr/faidare/) is a data discovery portal providing a biologist friendly search system over a global federation of 33 plant research databases. It allows to identify data resources using a full text approach completed with domain specific filters and to link back to the original database for visualisaiton, analysis and download. For instance, it is possible to search for "wheat drought" then to refine the search to the "Triticum aestivum" taxon and yield compononent traits such as "Thousand Grain Wheight". The indexed data types are very broad and include genomic features, such as genes or transposable elements, selected bibliography, QTL, markers, genetic variation studies, phenomic studies and plant genetic resources ie germplasms. This inclusiveness is achieved thanks to a two stage indexation data model. The most generic one provides basic search functionalities and relies on five fields : name, link back URL, data type, species and exhaustive description. The filtering is directly tied to some of those fields. Therefore, to provide more advanced filtering, FAIDARE is also providing a second stage indexation mechanism by taking advantage of BrAPi endpoints to get more detailled metadata on genotyping and phenotyping studies as well as germplasms. In parralel, FAIDARE provides a previsualisaiton of germplasm and studies using dedicated cards.
+The indexation mechanism relies on a dedicated public software (https://github.com/elixir-europe/plant-brapi-etl-faidare) that allows data resources manager to request the indexation of there database using pull requests. It is able to extract data from any BrAPI 1.3 and 1.2 endpoint and development of BrAPI 2.x indexation will be intitated in 2025. Since not all databases are willing to implement BrAPI endpoints, we also provide the possibility to generate metadata as BrAPI json files, hence using the standard as a file exchange format.
+FAIDARE has been adopted by several communities and in particular in the ELIXIR and EMPHASIS european infrastructures. It is also used by the WheatIS of the Wheatinitiative. Several databases are added each year to the FAIDARE global federation, allowing to increase both the portal and the BrAPI adoption.
+
+
 
 #### Phenospex - HortControl
 
