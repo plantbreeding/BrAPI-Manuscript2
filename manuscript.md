@@ -7,13 +7,14 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-02-29'
+date-meta: '2024-03-01'
 author-meta:
 - Peter "BrapMan" Selby
 - Trevor "Cool Kid" Rife
 - Khaled Al-Shamaa
 - Isabelle Alic
 - Sebastian "Baz" Raubach
+- Paul Shaw
 - Iain Milne
 - Cyril Pommier
 - Becky Smith
@@ -33,11 +34,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-02-29" />
-  <meta name="citation_publication_date" content="2024-02-29" />
-  <meta property="article:published_time" content="2024-02-29" />
-  <meta name="dc.modified" content="2024-02-29T22:27:49+00:00" />
-  <meta property="article:modified_time" content="2024-02-29T22:27:49+00:00" />
+  <meta name="dc.date" content="2024-03-01" />
+  <meta name="citation_publication_date" content="2024-03-01" />
+  <meta property="article:published_time" content="2024-03-01" />
+  <meta name="dc.modified" content="2024-03-01T15:49:02+00:00" />
+  <meta property="article:modified_time" content="2024-03-01T15:49:02+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -58,6 +59,9 @@ header-includes: |
   <meta name="citation_author" content="Sebastian &#34;Baz&#34; Raubach" />
   <meta name="citation_author_institution" content="The James Hutton Institute" />
   <meta name="citation_author_orcid" content="0000-0001-5659-247X" />
+  <meta name="citation_author" content="Paul Shaw" />
+  <meta name="citation_author_institution" content="The James Hutton Institute" />
+  <meta name="citation_author_orcid" content="0000-0002-0202-1150" />
   <meta name="citation_author" content="Iain Milne" />
   <meta name="citation_author_institution" content="The James Hutton Institute" />
   <meta name="citation_author_orcid" content="0000-0002-4126-0859" />
@@ -88,9 +92,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/bbbe0c0843123d36f9b7701e83725d4f9c401dc7/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/bbbe0c0843123d36f9b7701e83725d4f9c401dc7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/bbbe0c0843123d36f9b7701e83725d4f9c401dc7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/34cb3cc3ace4c4921c57b3c936882bc39ecebc4e/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/34cb3cc3ace4c4921c57b3c936882bc39ecebc4e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/34cb3cc3ace4c4921c57b3c936882bc39ecebc4e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -112,10 +116,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/bbbe0c0843123d36f9b7701e83725d4f9c401dc7/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/34cb3cc3ace4c4921c57b3c936882bc39ecebc4e/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@bbbe0c0](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/bbbe0c0843123d36f9b7701e83725d4f9c401dc7)
-on February 29, 2024.
+from [plantbreeding/BrAPI-Manuscript2@34cb3cc](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/34cb3cc3ace4c4921c57b3c936882bc39ecebc4e)
+on March 1, 2024.
 </em></small>
 
 
@@ -165,6 +169,7 @@ on February 29, 2024.
     <br>
   <small>
      INRAE
+     · Funded by {'Short version': 'This work was supported by the project Phenome-ANR-11-INBS-0012'}; {'OR Long version': "This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)"}
   </small>
 
 + **Sebastian "Baz" Raubach**
@@ -173,6 +178,17 @@ on February 29, 2024.
     [0000-0001-5659-247X](https://orcid.org/0000-0001-5659-247X)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [sebastian-raubach](https://github.com/sebastian-raubach)
+    <br>
+  <small>
+     The James Hutton Institute
+  </small>
+
++ **Paul Shaw**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-0202-1150](https://orcid.org/0000-0002-0202-1150)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [cardinalb](https://github.com/cardinalb)
     <br>
   <small>
      The James Hutton Institute
@@ -198,7 +214,7 @@ on February 29, 2024.
     <br>
   <small>
      Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
-     · Funded by French Infrastructure en Biologie Santé ‘Phenome-FPPN’ supported by the French National Research Agency (ANR-11-INBS-0012)
+     · Funded by {'Short version': 'This work was supported by the project Phenome-ANR-11-INBS-0012'}; {'OR Long version': "This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)"}
   </small>
 
 + **Becky Smith**
@@ -364,6 +380,11 @@ High-throughput phenotyping has been gaining significant traction lately as a wa
 
 When the raw images have been processed through the standardization pipelines in ImageBreed, useful phenotypes can be extracted from the images. The BrAPI standard is used to push these phenotypes back to a central breeding database where they can be analyzed with other data. In addition to this, ImageBreed also has the option to use BrAPI to upload the raw images to the central breeding database, or any other BrAPI compatible long term storage service. The BrAPI models in the current version of the standard (V2.1) are rudimentary, but effective. The ImageBreed team has put in some work to enhance the BrAPI image data standards. 
 
+#### GridScore
+
+Phenotypic data collection underpins scientific crop research and plant breeding. Knowledge gained from collected data and its analysis alongside data visualizations inform further phenotypic trials and ideally support research hypotheses. The importance of accuracy and efficiency in the collection of this data as well as the infrastructure to facilitate the flow of data from the field to a knowledge base cannot be underestimated. [GridScore](https://ics.hutton.ac.uk/get-gridscore/) [@doi:10.1186/s12859-022-04755-2] is a modern mobile application for phenotypic observations that harnesses technological advancements in the area of mobile devices to enrich the data collection process.
+
+BrAPI has further increased the value of GridScore by integrating it into the overarching workflow from trial creation, data collection, and its ultimate data storage for further processing. Specifically, trial designs as well as trait definitions can be imported into GridScore using BrAPI and a finalized trial can ultimately be exported via BrAPI to any compatible database.
 
 ### Data Management 
 
@@ -430,7 +451,10 @@ BIMS (Breeding Information Management System) [@doi:10.1093/database/baab054] is
 #### Germinate
 
 <!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-Germinate is a combination breeding database and germplasm management database. 
+
+[Germinate](https://ics.hutton.ac.uk/get-germinate/) [@doi:10.1002/csc2.20248] is an open-source plant genetic resources database that combines and integrates various kinds of plant breeding data including genotypic data, phenotypic trials data, passport data, images, geographic information and climate data into a single repository. Germinate is tightly linked to the BrAPI specification and supports a majority of BrAPI endpoints for querying, filtering and submission.
+
+Germinate integrates and connects with other BrAPI-enabled tools such as GridScore for phenotypic data collection, Flapjack for genotypic data visualization and Helium for pedigree visualization, but, due to the nature of BrAPI, Germinate can act as a data repository for any BrAPI-compatible tool. Thanks to the interoperability provided by BrAPI the need for manual data handling becomes a rarity with the direct benefit of faster data processing, fewer to no human errors, data security and integrity.
 
 
 ### Federated Data Management Infrastructures

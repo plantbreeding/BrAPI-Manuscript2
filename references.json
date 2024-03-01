@@ -1,5 +1,170 @@
 [
   {
+    "publisher": "Wiley",
+    "issue": "3",
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Management and distribution of experimental data from prebreeding projects is important to ensure uptake of germplasm into breeding and research programs. Being able to access and share this data in standard formats is essential. The adoption of a common informatics platform for crops that may have limited resources brings economies of scale, allowing common informatics components to be used across multiple species. The close integration of such a platform with commonly used breeding software, visualization, and analysis tools reduces the barrier for entry to researchers and provides a common framework to facilitate collaborations and data sharing. This work presents significant updates to the Germinate platform and highlights its value in distributing prebreeding data for 14 crops as part of the project ‘Adapting Agriculture to Climate Change: Collecting, Protecting and Preparing Crop Wild Relatives’ (hereafter Crop Trust Crop Wild Relatives project) led by the Crop Trust (<jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"https://www.cwrdiversity.org\">https://www.cwrdiversity.org</jats:ext-link>). The addition of data on these species compliments data already publicly available in Germinate. We present a suite of updated Germinate features using examples from these crop species and their wild relatives. The use of Germinate within the Crop Trust Crop Wild Relatives project demonstrates the usefulness of the system and the benefits a shared informatics platform provides. These data resources provide a foundation on which breeding and research communities can develop additional online resources for their crops, harness new data as it becomes available, and benefit collectively from future developments of the Germinate platform.</jats:p>",
+    "DOI": "10.1002/csc2.20248",
+    "type": "article-journal",
+    "page": "1538-1566",
+    "source": "Crossref",
+    "title": "From bits to bites: Advancement of the Germinate platform to support prebreeding informatics for crop wild relatives",
+    "volume": "61",
+    "author": [
+      {
+        "given": "Sebastian",
+        "family": "Raubach"
+      },
+      {
+        "given": "Benjamin",
+        "family": "Kilian"
+      },
+      {
+        "given": "Kate",
+        "family": "Dreher"
+      },
+      {
+        "given": "Ahmed",
+        "family": "Amri"
+      },
+      {
+        "given": "Filippo M.",
+        "family": "Bassi"
+      },
+      {
+        "given": "Ousmane",
+        "family": "Boukar"
+      },
+      {
+        "given": "Douglas",
+        "family": "Cook"
+      },
+      {
+        "given": "Alan",
+        "family": "Cruickshank"
+      },
+      {
+        "given": "Christian",
+        "family": "Fatokun"
+      },
+      {
+        "given": "Noureddine",
+        "family": "El Haddad"
+      },
+      {
+        "given": "Alan",
+        "family": "Humphries"
+      },
+      {
+        "given": "David",
+        "family": "Jordan"
+      },
+      {
+        "given": "Zakaria",
+        "family": "Kehel"
+      },
+      {
+        "given": "Shiv",
+        "family": "Kumar"
+      },
+      {
+        "given": "Sandy Jan",
+        "family": "Labarosa"
+      },
+      {
+        "given": "Loi Huu",
+        "family": "Nguyen"
+      },
+      {
+        "given": "Emma",
+        "family": "Mace"
+      },
+      {
+        "given": "Susan",
+        "family": "McCouch"
+      },
+      {
+        "given": "Ken",
+        "family": "McNally"
+      },
+      {
+        "given": "David F.",
+        "family": "Marshall"
+      },
+      {
+        "given": "Erick Owuor",
+        "family": "Mikwa"
+      },
+      {
+        "given": "Iain",
+        "family": "Milne"
+      },
+      {
+        "given": "Damaris Achieng",
+        "family": "Odeny"
+      },
+      {
+        "given": "Mariola",
+        "family": "Plazas"
+      },
+      {
+        "given": "Jaime",
+        "family": "Prohens"
+      },
+      {
+        "given": "Loren H.",
+        "family": "Rieseberg"
+      },
+      {
+        "given": "Roland",
+        "family": "Schafleitner"
+      },
+      {
+        "given": "Shivali",
+        "family": "Sharma"
+      },
+      {
+        "given": "Gordon",
+        "family": "Stephen"
+      },
+      {
+        "given": "Huynh Quang",
+        "family": "Tin"
+      },
+      {
+        "given": "Abou",
+        "family": "Togola"
+      },
+      {
+        "given": "Emily",
+        "family": "Warschefsky"
+      },
+      {
+        "given": "Peter",
+        "family": "Werner"
+      },
+      {
+        "given": "Paul D.",
+        "family": "Shaw"
+      },
+      {}
+    ],
+    "container-title": "Crop Science",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          20
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gm66th",
+    "container-title-short": "Crop Science",
+    "id": "sW9euzzP",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1002/csc2.20248"
+  },
+  {
     "publisher": "Oxford University Press (OUP)",
     "issue": "20",
     "abstract": "<jats:title>Abstract</jats:title>\n               <jats:sec>\n                  <jats:title>Motivation</jats:title>\n                  <jats:p>Modern genomic breeding methods rely heavily on very large amounts of phenotyping and genotyping data, presenting new challenges in effective data management and integration. Recently, the size and complexity of datasets have increased significantly, with the result that data are often stored on multiple systems. As analyses of interest increasingly require aggregation of datasets from diverse sources, data exchange between disparate systems becomes a challenge.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>To facilitate interoperability among breeding applications, we present the public plant Breeding Application Programming Interface (BrAPI). BrAPI is a standardized web service API specification. The development of BrAPI is a collaborative, community-based initiative involving a growing global community of over a hundred participants representing several dozen institutions and companies. Development of such a standard is recognized as critical to a number of important large breeding system initiatives as a foundational technology. The focus of the first version of the API is on providing services for connecting systems and retrieving basic breeding data including germplasm, study, observation, and marker data. A number of BrAPI-enabled applications, termed BrAPPs, have been written, that take advantage of the emerging support of BrAPI by many databases.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Availability and implementation</jats:title>\n                  <jats:p>More information on BrAPI, including links to the specification, test suites, BrAPPs, and sample implementations is available at https://brapi.org/. The BrAPI specification and the developer tools are provided as free and open source.</jats:p>\n               </jats:sec>",
@@ -441,6 +606,47 @@
     "PMID": "30357347",
     "id": "eaDrNpsp",
     "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gky1000"
+  },
+  {
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background</jats:title>\n                <jats:p>Plant breeding and crop research rely on experimental phenotyping trials. These trials generate data for large numbers of traits and plant varieties that needs to be captured efficiently and accurately to support further research and downstream analysis. Traditionally scored by hand, phenotypic data is nowadays collected using spreadsheets or specialized apps. While many solutions exist, which increase efficiency and reduce errors, none offer the same familiarity as printed field plans which have been used for decades and offer an intuitive overview over the trial setup, previously recorded data and plots still requiring scoring.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>We introduce GridScore which utilizes cutting-edge web technologies to reproduce the familiarity of printed field plans while enhancing the phenotypic data collection process by adding advanced features like georeferencing, image tagging and speech recognition. GridScore is a cross-platform open-source plant phenotyping app that combines barcode-based systems with a guided data collection approach while offering a top-down view onto the data collected in a field layout. GridScore is compared to existing tools across a wide spectrum of criteria including support for barcodes, multiple platforms, and visualizations.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusion</jats:title>\n                <jats:p>Compared to its competition, GridScore shows strong performance across the board offering a complete manual phenotyping experience.</jats:p>\n              </jats:sec>",
+    "DOI": "10.1186/s12859-022-04755-2",
+    "type": "article-journal",
+    "source": "Crossref",
+    "title": "GridScore: a tool for accurate, cross-platform phenotypic data collection and visualization",
+    "volume": "23",
+    "author": [
+      {
+        "given": "Sebastian",
+        "family": "Raubach"
+      },
+      {
+        "given": "Miriam",
+        "family": "Schreiber"
+      },
+      {
+        "given": "Paul D.",
+        "family": "Shaw"
+      }
+    ],
+    "container-title": "BMC Bioinformatics",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          6,
+          6
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gtkcsv",
+    "container-title-short": "BMC Bioinformatics",
+    "PMCID": "PMC9169276",
+    "PMID": "35668357",
+    "id": "Ne0E9HbC",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s12859-022-04755-2"
   },
   {
     "publisher": "MDPI AG",
