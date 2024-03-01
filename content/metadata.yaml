@@ -43,7 +43,9 @@ authors:
     email: isabelle.alic@inrae.fr
     affiliations:
       - INRAE
-    funders: []
+    funders: 
+      - Short version : This work was supported by the project Phenome-ANR-11-INBS-0012
+      - OR Long version : This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
     corresponding: false
   - name: Sebastian "Baz" Raubach
     initials: SR
@@ -72,7 +74,8 @@ authors:
       - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, Versailles, France
     funders: 
-      - French Infrastructure en Biologie Santé ‘Phenome-FPPN’ supported by the French National Research Agency (ANR-11-INBS-0012)
+      - Short version : This work was supported by the project Phenome-ANR-11-INBS-0012
+      - OR Long version : This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
     corresponding: false
   - name: Becky Smith
     initials: BS
