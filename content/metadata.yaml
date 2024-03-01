@@ -54,6 +54,15 @@ authors:
       - The James Hutton Institute
     funders: []
     corresponding: false
+  - name: Paul Shaw
+    initials: PDS
+    github: cardinalb
+    orcid: 0000-0002-0202-1150
+    email: paul.shaw@hutton.ac.uk
+    affiliations:
+      - The James Hutton Institute
+    funders: []
+    corresponding: false
   - name: Iain Milne
     initials: IM
     github: imilne
