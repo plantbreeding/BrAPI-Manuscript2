@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-03-01'
+date-meta: '2024-03-07'
 author-meta:
 - Peter "BrapMan" Selby
 - Trevor "Cool Kid" Rife
@@ -34,11 +34,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-03-01" />
-  <meta name="citation_publication_date" content="2024-03-01" />
-  <meta property="article:published_time" content="2024-03-01" />
-  <meta name="dc.modified" content="2024-03-01T15:49:02+00:00" />
-  <meta property="article:modified_time" content="2024-03-01T15:49:02+00:00" />
+  <meta name="dc.date" content="2024-03-07" />
+  <meta name="citation_publication_date" content="2024-03-07" />
+  <meta property="article:published_time" content="2024-03-07" />
+  <meta name="dc.modified" content="2024-03-07T16:36:06+00:00" />
+  <meta property="article:modified_time" content="2024-03-07T16:36:06+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -92,9 +92,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/34cb3cc3ace4c4921c57b3c936882bc39ecebc4e/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/34cb3cc3ace4c4921c57b3c936882bc39ecebc4e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/34cb3cc3ace4c4921c57b3c936882bc39ecebc4e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/01099920e3c55a7717d76b4e4d08ade7e262628d/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/01099920e3c55a7717d76b4e4d08ade7e262628d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/01099920e3c55a7717d76b4e4d08ade7e262628d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -116,10 +116,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/34cb3cc3ace4c4921c57b3c936882bc39ecebc4e/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/01099920e3c55a7717d76b4e4d08ade7e262628d/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@34cb3cc](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/34cb3cc3ace4c4921c57b3c936882bc39ecebc4e)
-on March 1, 2024.
+from [plantbreeding/BrAPI-Manuscript2@0109992](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/01099920e3c55a7717d76b4e4d08ade7e262628d)
+on March 7, 2024.
 </em></small>
 
 
@@ -492,7 +492,7 @@ MIAPPE and BrAPI are designed to be inter-compatible. ISA-TAB is a file based im
 #### Flapjack
 
 <!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-Flapjack is a desktop application for visualizing and analyzing genotype data. Data can be easily imported into Flapjack from any BrAPI compatible data source with genotype data available. Flapjack Bytes is the smaller, web based counterpart to Flapjack, which can be imbedded into a database website and provide the visualizations online. 
+[Flapjack](https://ics.hutton.ac.uk/flapjack) [@doi:10.1093/bioinformatics/btq580] is a multiplatform desktop application for data visualization and breeding analysis (eg, pedigree verification, marker-assisted backcrossing and forward breeding) using high-throughput genotype data. Data can be easily imported into Flapjack from any BrAPI compatible data source with genotype data available. [Flapjack Bytes](https://github.com/cropgeeks/flapjack-bytes) is a smaller, lightweight and fully web-based counterpart to Flapjack, which can be easily embedded into a database website to provide similiar visualizations online. Traditionally supporting its own text-based data formats, Flapjack's use of BrAPI has streamlined the end-user experience for data import and work is underway to determine the best methods to exchange analysis results using future versions of the API.
 
 #### Helium
 

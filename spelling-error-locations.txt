@@ -237,10 +237,15 @@ content/03.03.federation-infrastructure.md:23:ISA
 content/03.03.federation-infrastructure.md:23:MIAPPE
 content/03.03.federation-infrastructure.md:23:MIAPPE
 content/03.04.visualization.md:5:BrAPI
+content/03.04.visualization.md:11:backcrossing
+content/03.04.visualization.md:11:bioinformatics
 content/03.04.visualization.md:11:BrAPI
+content/03.04.visualization.md:11:BrAPI
+content/03.04.visualization.md:11:eg
 content/03.04.visualization.md:11:genotype
 content/03.04.visualization.md:11:genotype
-content/03.04.visualization.md:11:imbedded
+content/03.04.visualization.md:11:multiplatform
+content/03.04.visualization.md:11:similiar
 content/03.04.visualization.md:16:BrAPI
 content/03.04.visualization.md:21:BrAPI
 content/03.04.visualization.md:23:BrAPP
