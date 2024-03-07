@@ -23,6 +23,9 @@ author-meta:
 - Terry Casstevens
 - Sook Jung
 - Taein Lee
+- Josh "Big Data" Lamos-Sweeney
+- Francisco López
+- Marco Marsella
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -37,8 +40,8 @@ header-includes: |
   <meta name="dc.date" content="2024-03-07" />
   <meta name="citation_publication_date" content="2024-03-07" />
   <meta property="article:published_time" content="2024-03-07" />
-  <meta name="dc.modified" content="2024-03-07T16:36:06+00:00" />
-  <meta property="article:modified_time" content="2024-03-07T16:36:06+00:00" />
+  <meta name="dc.modified" content="2024-03-07T16:45:04+00:00" />
+  <meta property="article:modified_time" content="2024-03-07T16:45:04+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -86,15 +89,22 @@ header-includes: |
   <meta name="citation_author" content="Taein Lee" />
   <meta name="citation_author_institution" content="Department of Horticulture, Washington State University" />
   <meta name="citation_author_orcid" content="0000-0002-2000-2586" />
+  <meta name="citation_author" content="Josh &#34;Big Data&#34; Lamos-Sweeney" />
+  <meta name="citation_author_institution" content="Cornell University" />
+  <meta name="citation_author" content="Francisco López" />
+  <meta name="citation_author_institution" content="International Treaty on Plant Genetic Resources for Food and Agriculture, FAO" />
+  <meta name="citation_author" content="Marco Marsella" />
+  <meta name="citation_author_institution" content="International Treaty on Plant Genetic Resources for Food and Agriculture, FAO" />
+  <meta name="citation_author_orcid" content="0000-0003-0334-8785" />
   <link rel="canonical" href="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="og:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="twitter:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/01099920e3c55a7717d76b4e4d08ade7e262628d/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/01099920e3c55a7717d76b4e4d08ade7e262628d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/01099920e3c55a7717d76b4e4d08ade7e262628d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/7b11cbe59dcc9d84619310a19e224c06d972498b/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/7b11cbe59dcc9d84619310a19e224c06d972498b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/7b11cbe59dcc9d84619310a19e224c06d972498b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -116,9 +126,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/01099920e3c55a7717d76b4e4d08ade7e262628d/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/7b11cbe59dcc9d84619310a19e224c06d972498b/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@0109992](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/01099920e3c55a7717d76b4e4d08ade7e262628d)
+from [plantbreeding/BrAPI-Manuscript2@7b11cbe](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/7b11cbe59dcc9d84619310a19e224c06d972498b)
 on March 7, 2024.
 </em></small>
 
@@ -277,6 +287,30 @@ on March 7, 2024.
     <br>
   <small>
      Department of Horticulture, Washington State University
+  </small>
+
++ **Josh "Big Data" Lamos-Sweeney**
+  <br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [jlamossweeney](https://github.com/jlamossweeney)
+    <br>
+  <small>
+     Cornell University
+  </small>
+
++ **Francisco López**
+  <br>
+  <small>
+     International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
+  </small>
+
++ **Marco Marsella**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0003-0334-8785](https://orcid.org/0000-0003-0334-8785)
+    <br>
+  <small>
+     International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
   </small>
 
 
@@ -545,8 +579,8 @@ Mr. Bean is an analytics and visualization tool. Mr. Bean has a data import tool
 
 #### G-Crunch
 
-<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-G-Crunch is a new general analysis pipeline tool, meant for automated, production level, analysis tasks. Part of that automation relies on BrAPI to access data. 
+G-Crunch is an upcoming user-facing analysis tool that attempts to fill the space of simple, user driven analytics requests, with a generic user interface and the ability to swap out data sources and analysis tools. G-Crunch hopes to streamline repeatable, debuggable simple analytic requests and results.
+G-Crunch, as a tool, couldn't feasibly exist without BrAPI. The support of BrAPI interfaces allows G-Crunch to use one unified request method, and adapt to the user's (BrAPI-compliant) existing network of tools, which lowers the barrier to entry for adoption.
 
 
 ### Samples and Genotypes
@@ -602,8 +636,11 @@ HortControl, developed by Phenospex, is a data repository. HortControl has a BrA
 
 #### GLIS
 
-<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-GLIS is a service for creating DOIs for agricultural purposes. It also holds basic germplasm information about each accession when a DOI is created for one. GLIS is BrAPI compatible, allowing external searches on the large GLIS database. 
+The Global Information System (GLIS) on Plant Genetic Resources for Food and Agriculture (PGRFA) of the International Treaty on Plant Genetic Resources for Food and Agriculture (ITPGRFA) is a web-based global entry point for users and third-party systems to access information and knowledge on scientific, technical and environmental matters to strengthen PGRFA conservation, management and utilization activities. The system and its portal also enable recipients of PGRFA to make available all non-confidential information on germplasm according to the provisions of the Treaty and facilitates access to the results of their research and development. 
+ 
+Thanks to the adoption of Digital Object Identifiers (DOIs) to PGRFA ex situ and in situ based on the Multi-Crop Passport Descriptors (MCPD), the Portal provides access to 1,7 million PGRFA in collections conserved worldwide. Of these, over 1.5 million are accessible for research, training and plant breeding in the food and agriculture domain.
+ 
+The Scientific Advisory Committee of the International Treaty and the Governing Body have repeatedly welcomed efforts on interoperability among germplasm information systems. In this context, the GLIS Portal adopted the Breeding API (BrAPI v1) in 2022. Integrating the BrAPI among the GLIS content negotiators facilitates queries and the exchange of content for data management in plant breeding. The Portal also offers other protocols (XML, DarwinCore, JSON and JSON-LD) to increase data and metadata connectivity.In the near future, depending on the availability of resources, upgrading to BrAPI v2 is planned.
 
 
 ## Discussion
