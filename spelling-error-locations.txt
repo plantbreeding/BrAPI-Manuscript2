@@ -106,6 +106,7 @@ content/03.01.data-collection.md:34:BrAPI
 content/03.01.data-collection.md:34:GridScore
 content/03.01.data-collection.md:34:GridScore
 content/03.02.data-management.md:5:BrAPI
+content/03.02.data-management.md:10:inrae
 content/03.02.data-management.md:10:OpenSILEX
 content/03.02.data-management.md:10:OpenSILEX
 content/03.02.data-management.md:10:phenotyping
@@ -115,6 +116,7 @@ content/03.02.data-management.md:12:datasets
 content/03.02.data-management.md:12:ontologies
 content/03.02.data-management.md:12:PHIS's
 content/03.02.data-management.md:14:BrAPI
+content/03.02.data-management.md:14:miappe
 content/03.02.data-management.md:14:MIAPPE
 content/03.02.data-management.md:14:Phenotyping
 content/03.02.data-management.md:16:phenome

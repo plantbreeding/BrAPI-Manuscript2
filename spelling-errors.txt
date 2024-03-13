@@ -23,7 +23,7 @@ BrapMan
 BrAPP
 BrAPPs
 BRAVA
-BreedBase
+Breedbase
 cardinalb
 Casstevens
 chaneylc
@@ -57,13 +57,13 @@ genotype
 Genotypes
 genotypic
 Genotyping
-Germplasm
+germplasm
 germplasms
 GIGWA
 GLIS
 GridScore
 hackathon
-Hackathons
+hackathons
 haplotype
 haplotypes
 HortControl
@@ -72,7 +72,7 @@ ICARDA
 ImageBreed
 imilne
 INBS
-INRAE
+inrae
 interoperable
 intitated
 Investissements
@@ -80,8 +80,8 @@ IPK
 ISA
 ITPGRFA
 jlamossweeney
-json
-khaled
+JSON
+Khaled
 Lamos
 LD
 leetaei
@@ -118,7 +118,7 @@ programmatically
 programme
 QBMS
 QTL
-raubach
+Raubach
 Rosaceae
 rPHG
 Saclay
