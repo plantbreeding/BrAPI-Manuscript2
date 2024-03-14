@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-03-13'
+date-meta: '2024-03-14'
 author-meta:
 - Peter "BrapMan" Selby
 - Trevor "Cool Kid" Rife
@@ -37,11 +37,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-03-13" />
-  <meta name="citation_publication_date" content="2024-03-13" />
-  <meta property="article:published_time" content="2024-03-13" />
-  <meta name="dc.modified" content="2024-03-13T17:44:10+00:00" />
-  <meta property="article:modified_time" content="2024-03-13T17:44:10+00:00" />
+  <meta name="dc.date" content="2024-03-14" />
+  <meta name="citation_publication_date" content="2024-03-14" />
+  <meta property="article:published_time" content="2024-03-14" />
+  <meta name="dc.modified" content="2024-03-14T17:38:48+00:00" />
+  <meta property="article:modified_time" content="2024-03-14T17:38:48+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -102,9 +102,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/09f0067c036a09cb4b1d52af28fbf7db0cf025e6/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/09f0067c036a09cb4b1d52af28fbf7db0cf025e6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/09f0067c036a09cb4b1d52af28fbf7db0cf025e6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0b749b9c7850ae2c189e7eecf89b84e8c5f4c162/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0b749b9c7850ae2c189e7eecf89b84e8c5f4c162/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0b749b9c7850ae2c189e7eecf89b84e8c5f4c162/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -126,10 +126,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/09f0067c036a09cb4b1d52af28fbf7db0cf025e6/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/0b749b9c7850ae2c189e7eecf89b84e8c5f4c162/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@09f0067](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/09f0067c036a09cb4b1d52af28fbf7db0cf025e6)
-on March 13, 2024.
+from [plantbreeding/BrAPI-Manuscript2@0b749b9](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/0b749b9c7850ae2c189e7eecf89b84e8c5f4c162)
+on March 14, 2024.
 </em></small>
 
 
@@ -429,11 +429,11 @@ BrAPI has further increased the value of GridScore by integrating it into the ov
 
 #### PHIS 
 
-The Hybrid Phenotyping Information System ([PHIS](http://www.phis.inrae.fr/)[doi:https://doi.org/10.1111/nph.15385]), based on the [OpenSILEX](https://github.com/OpenSILEX/) framework, assumes responsibility for the systematic collection and management of data from phenotyping and high-throughput phenotyping experiments on a day-to-day basis. PHIS has the ability to efficiently store, organize and manage a wide range of data sets, including images, spectra and growth curves. This functionality extends to data at multiple spatial and temporal scales, from leaf to canopy, from a variety of sources such as field and greenhouse environments.
+The Hybrid Phenotyping Information System ([PHIS](http://www.phis.inrae.fr/)[@doi:https://doi.org/10.1111/nph.15385]), based on the [OpenSILEX](https://github.com/OpenSILEX/) framework, assumes responsibility for the systematic collection and management of data from phenotyping and high-throughput phenotyping experiments on a day-to-day basis. PHIS has the ability to efficiently store, organize and manage a wide range of data sets, including images, spectra and growth curves. This functionality extends to data at multiple spatial and temporal scales, from leaf to canopy, from a variety of sources such as field and greenhouse environments.
 
 A key feature of PHIS is the unambiguous identification of all objects and traits within an experiment, establishing consistent relationships between them through the application of ontologies and semantics. This approach is designed to adapt to variations in experimental conditions, whether in the field or in controlled environments. PHIS's ontology-driven architecture emerges as a robust tool for integrating and managing data derived from diverse experiments and platforms, facilitating the creation of meaningful relationships between objects and augmenting datasets with relevant knowledge and metadata.
 
-Furthermore, PHIS adheres to the Minimal Information About a Plant Phenotyping Experiment ([MIAPPE](https://www.miappe.org/)[doi:https://doi.org/10.1111/nph.16544]) and the Breeding API (BrAPI) standards. 
+Furthermore, PHIS adheres to the Minimal Information About a Plant Phenotyping Experiment ([MIAPPE](https://www.miappe.org/)[@doi:https://doi.org/10.1111/nph.16544]) and the Breeding API (BrAPI) standards. 
 
 The system recommends specific naming conventions, fostering a standardized approach for users to declare their resources. Notably, PHIS is widely adopted by various experimental platforms of the national [PHENOME](https://www.phenome-emphasis.fr/) and European [EMPHASIS](https://emphasis.plant-phenotyping.eu/) infrastructure, serving as a hub for data management. 
 Moreover, dedicated instances of PHIS have been established for the explicit purpose of resource sharing, encompassing projects, genetic resources, and variables, thereby fostering collaborative engagement and the dissemination of knowledge pertaining to studied concepts.
