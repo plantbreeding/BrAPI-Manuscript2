@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-03-14'
+date-meta: '2024-03-15'
 author-meta:
 - Peter "BrapMan" Selby
 - Trevor "Cool Kid" Rife
@@ -26,6 +26,7 @@ author-meta:
 - Josh "Big Data" Lamos-Sweeney
 - Francisco López
 - Marco Marsella
+- Matthias Lange
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -37,11 +38,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-03-14" />
-  <meta name="citation_publication_date" content="2024-03-14" />
-  <meta property="article:published_time" content="2024-03-14" />
-  <meta name="dc.modified" content="2024-03-14T17:38:48+00:00" />
-  <meta property="article:modified_time" content="2024-03-14T17:38:48+00:00" />
+  <meta name="dc.date" content="2024-03-15" />
+  <meta name="citation_publication_date" content="2024-03-15" />
+  <meta property="article:published_time" content="2024-03-15" />
+  <meta name="dc.modified" content="2024-03-15T11:51:54+00:00" />
+  <meta property="article:modified_time" content="2024-03-15T11:51:54+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -96,15 +97,18 @@ header-includes: |
   <meta name="citation_author" content="Marco Marsella" />
   <meta name="citation_author_institution" content="International Treaty on Plant Genetic Resources for Food and Agriculture, FAO" />
   <meta name="citation_author_orcid" content="0000-0003-0334-8785" />
+  <meta name="citation_author" content="Matthias Lange" />
+  <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
+  <meta name="citation_author_orcid" content="0000-0002-4316-078X" />
   <link rel="canonical" href="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="og:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="twitter:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0b749b9c7850ae2c189e7eecf89b84e8c5f4c162/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0b749b9c7850ae2c189e7eecf89b84e8c5f4c162/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0b749b9c7850ae2c189e7eecf89b84e8c5f4c162/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f4c8250fee19bd2d31e553bf1da86165440d5cfc/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f4c8250fee19bd2d31e553bf1da86165440d5cfc/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f4c8250fee19bd2d31e553bf1da86165440d5cfc/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -126,10 +130,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/0b749b9c7850ae2c189e7eecf89b84e8c5f4c162/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/f4c8250fee19bd2d31e553bf1da86165440d5cfc/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@0b749b9](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/0b749b9c7850ae2c189e7eecf89b84e8c5f4c162)
-on March 14, 2024.
+from [plantbreeding/BrAPI-Manuscript2@f4c8250](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/f4c8250fee19bd2d31e553bf1da86165440d5cfc)
+on March 15, 2024.
 </em></small>
 
 
@@ -311,6 +315,17 @@ on March 14, 2024.
     <br>
   <small>
      International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
+  </small>
+
++ **Matthias Lange**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-4316-078X](https://orcid.org/0000-0002-4316-078X)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [langeipk](https://github.com/langeipk)
+    <br>
+  <small>
+     Leibniz Institute of Plant Genetics and Crop Plant Research
   </small>
 
 

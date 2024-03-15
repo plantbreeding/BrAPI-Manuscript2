@@ -4,7 +4,7 @@ Agrosystem
 agrosystems
 Alic
 alshamaa
-analytics
+Analytics
 ANR
 arial
 ARS
@@ -56,15 +56,15 @@ genomic
 genotype
 Genotypes
 genotypic
-Genotyping
+genotyping
 Germplasm
 germplasms
 GIGWA
 GLIS
 GridScore
 hackathon
-hackathons
-Haplotype
+Hackathons
+haplotype
 haplotypes
 HortControl
 Iain
@@ -83,6 +83,8 @@ jlamossweeney
 json
 khaled
 Lamos
+Lange
+langeipk
 LD
 leetaei
 LIDAR
@@ -109,7 +111,7 @@ phenomic
 Phenospex
 phenotypes
 Phenotypic
-Phenotyping
+phenotyping
 PHG
 PHIS’s
 Pommier
@@ -118,7 +120,7 @@ programmatically
 programme
 QBMS
 QTL
-raubach
+Raubach
 Rosaceae
 rPHG
 Saclay
