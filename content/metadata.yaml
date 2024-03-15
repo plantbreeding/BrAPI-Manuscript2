@@ -133,7 +133,6 @@ authors:
     email: jdl232@cornell.edu
     affiliations:
       - Cornell University
-    corresponding: false
   - name: Francisco López
     initials: FL
     email: francisco.lopez@fao.org
@@ -147,5 +146,12 @@ authors:
     affiliations:
       - International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
     corresponding: false
-
+  - name: Matthias Lange
+    initials: ML
+    github: langeipk
+    orcid: 0000-0002-4316-078X
+    email: Matthias.Lange@leibniz-ipk.de
+    affiliations:
+      - Leibniz Institute of Plant Genetics and Crop Plant Research
+    corresponding: false
 
