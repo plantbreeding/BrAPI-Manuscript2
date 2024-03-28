@@ -4,7 +4,7 @@ Agrosystem
 agrosystems
 Alic
 alshamaa
-Analytics
+analytics
 ANR
 arial
 ARS
@@ -23,7 +23,7 @@ BrapMan
 BrAPP
 BrAPPs
 BRAVA
-Breedbase
+BreedBase
 cardinalb
 Casstevens
 chaneylc
@@ -49,6 +49,8 @@ eg
 ERD
 FAIDARE
 FAO
+Florilège
+FLORILÈGE
 focussing
 Genebank
 genebanks
@@ -59,7 +61,7 @@ genotypic
 genotyping
 Germplasm
 germplasms
-GIGWA
+Gigwa
 GLIS
 GridScore
 hackathon
@@ -80,8 +82,8 @@ IPK
 ISA
 ITPGRFA
 jlamossweeney
-json
-khaled
+JSON
+Khaled
 Lamos
 Lange
 langeipk
@@ -111,7 +113,7 @@ phenomic
 Phenospex
 phenotypes
 Phenotypic
-phenotyping
+Phenotyping
 PHG
 PHIS’s
 Pommier
@@ -120,7 +122,7 @@ programmatically
 programme
 QBMS
 QTL
-Raubach
+raubach
 Rosaceae
 rPHG
 Saclay
@@ -147,4 +149,5 @@ visualisaiton
 Wheatinitiative
 WheatIS
 Wheight
+xnttbrapi
 zrm

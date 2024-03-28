@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-03-15'
+date-meta: '2024-03-28'
 author-meta:
 - Peter "BrapMan" Selby
 - Trevor "Cool Kid" Rife
@@ -38,11 +38,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-03-15" />
-  <meta name="citation_publication_date" content="2024-03-15" />
-  <meta property="article:published_time" content="2024-03-15" />
-  <meta name="dc.modified" content="2024-03-15T11:51:54+00:00" />
-  <meta property="article:modified_time" content="2024-03-15T11:51:54+00:00" />
+  <meta name="dc.date" content="2024-03-28" />
+  <meta name="citation_publication_date" content="2024-03-28" />
+  <meta property="article:published_time" content="2024-03-28" />
+  <meta name="dc.modified" content="2024-03-28T17:23:23+00:00" />
+  <meta property="article:modified_time" content="2024-03-28T17:23:23+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -106,9 +106,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f4c8250fee19bd2d31e553bf1da86165440d5cfc/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f4c8250fee19bd2d31e553bf1da86165440d5cfc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f4c8250fee19bd2d31e553bf1da86165440d5cfc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/914fa34139922e83b83b010258a31f9dbb24bb40/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/914fa34139922e83b83b010258a31f9dbb24bb40/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/914fa34139922e83b83b010258a31f9dbb24bb40/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -130,10 +130,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/f4c8250fee19bd2d31e553bf1da86165440d5cfc/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/914fa34139922e83b83b010258a31f9dbb24bb40/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@f4c8250](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/f4c8250fee19bd2d31e553bf1da86165440d5cfc)
-on March 15, 2024.
+from [plantbreeding/BrAPI-Manuscript2@914fa34](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/914fa34139922e83b83b010258a31f9dbb24bb40)
+on March 28, 2024.
 </em></small>
 
 
@@ -656,6 +656,14 @@ The Global Information System (GLIS) on Plant Genetic Resources for Food and Agr
 Thanks to the adoption of Digital Object Identifiers (DOIs) to PGRFA ex situ and in situ based on the Multi-Crop Passport Descriptors (MCPD), the Portal provides access to 1,7 million PGRFA in collections conserved worldwide. Of these, over 1.5 million are accessible for research, training and plant breeding in the food and agriculture domain.
  
 The Scientific Advisory Committee of the International Treaty and the Governing Body have repeatedly welcomed efforts on interoperability among germplasm information systems. In this context, the GLIS Portal adopted the Breeding API (BrAPI v1) in 2022. Integrating the BrAPI among the GLIS content negotiators facilitates queries and the exchange of content for data management in plant breeding. The Portal also offers other protocols (XML, DarwinCore, JSON and JSON-LD) to increase data and metadata connectivity.In the near future, depending on the availability of resources, upgrading to BrAPI v2 is planned.
+
+#### FLORILÈGE (Gateway to French Plant Genetic Resources)
+
+Designed primarily for the general public, Florilège provides access to all French plant biological resources centers. Its interface allows individuals to browse available plant accessions and gives them the possibility to order them. The listed accessions originate from 19 resources centers and concern around fifty plant species.
+
+Florilège retrieves accession information from different BrAPI-compliant systems such as OLGA, an internal accessions management system, or FAIDARE. Leveraging the BrAPI implementation of these systems ensures standardized data retrieval from multiple sources, making the integration of new data sources that implement BrAPI an effortless process. The implementation of BrAPI is a prerequisite for the integration of any new database in Florilège.
+
+Florilège is developed in Drupal 10, and uses xnttbrapi module (to easily connect to BrAPI compliant external databases). 
 
 
 ## Discussion
