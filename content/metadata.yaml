@@ -154,4 +154,12 @@ authors:
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
     corresponding: false
-
+  - name: Guilhem Sempéré
+    initials: GS
+    github: GuilhemSempere
+    orcid: 0000-0001-7429-2091
+    email: guilhem.sempere@cirad.fr
+    affiliations:
+      - CIRAD (french agricultural research and international cooperation organization)
+      - South Green Platform
+    corresponding: false
