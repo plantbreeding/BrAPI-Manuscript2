@@ -71,8 +71,8 @@
   <meta name="dc.date" content="2024-04-04" />
   <meta name="citation_publication_date" content="2024-04-04" />
   <meta property="article:published_time" content="2024-04-04" />
-  <meta name="dc.modified" content="2024-04-04T14:38:09+00:00" />
-  <meta property="article:modified_time" content="2024-04-04T14:38:09+00:00" />
+  <meta name="dc.modified" content="2024-04-04T17:41:39+00:00" />
+  <meta property="article:modified_time" content="2024-04-04T17:41:39+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -139,9 +139,9 @@
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/68e56bcbbeda6bd8ba1702e050cf60e586a1969a/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/68e56bcbbeda6bd8ba1702e050cf60e586a1969a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/68e56bcbbeda6bd8ba1702e050cf60e586a1969a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1adbd1aef27e3f70f2c29cb50ae4d0c3ffb6ec91/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1adbd1aef27e3f70f2c29cb50ae4d0c3ffb6ec91/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1adbd1aef27e3f70f2c29cb50ae4d0c3ffb6ec91/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -158,9 +158,9 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/68e56bcbbeda6bd8ba1702e050cf60e586a1969a/">permalink</a>)
+(<a href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1adbd1aef27e3f70f2c29cb50ae4d0c3ffb6ec91/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/plantbreeding/BrAPI-Manuscript2/tree/68e56bcbbeda6bd8ba1702e050cf60e586a1969a">plantbreeding/BrAPI-Manuscript2@68e56bc</a>
+from <a href="https://github.com/plantbreeding/BrAPI-Manuscript2/tree/1adbd1aef27e3f70f2c29cb50ae4d0c3ffb6ec91">plantbreeding/BrAPI-Manuscript2@1adbd1a</a>
 on April 4, 2024.
 </em></small></p>
 <h2 id="authors">Authors</h2>
@@ -532,8 +532,9 @@ G-Crunch, as a tool, couldn’t feasibly exist without BrAPI. The support of BrA
 <!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
 <p>MGIS has germplasm and genotype data stored for many musa accessions. Through BrAPI, users are able to access this data directly from MusaBase, for use in specific experiments.</p>
 <h4 id="gigwa">GIGWA</h4>
-<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-<p>GIGWA is an efficient storage system for genotype variant data. GIGWA uses BrAPI to query specific variant data out of the database. This allows for more efficient data transfer and analysis. Instead of transferring whole massive files, specific pieces, samples, markers, or chunks of data can be retrieved.</p>
+<p>Gigwa is a JEE web application providing means to centralize, share, finely filter, and visualize high-throughput genotyping data <span class="citation" data-cites="AVjkjraw">[<a href="#ref-AVjkjraw" role="doc-biblioref">11</a>]</span>. Built on top of MongoDB, it is scalable and can support working smoothly with datasets containing billions of genotypes. Installable from docker images or all-in-one bundle archives, it is pretty straightforward to deploy on servers or local computers and has thus been adopted by numerous research institutes from around the world. Notably, Gigwa serves as a collaborative management tool and/or a portal for exposing the data for genebanks and breeding programs for some CGIAR centers <span class="citation" data-cites="bvSFyrtt">[<a href="#ref-bvSFyrtt" role="doc-biblioref">12</a>]</span>. Thus, the amount of data hosted and made widely accessible using this system has kept growing over the last few years.</p>
+<p>Gigwa developers have been involved in the BrAPI community since 2016 and took part in designing the genotype-related part of the API’s specifications. Its first BrAPI-compliant features were designed for compatibility with the Flapjack visualization tool <span class="citation" data-cites="Wz8l0HlN">[<a href="#ref-Wz8l0HlN" role="doc-biblioref">10</a>]</span> and thus primarily turned it into a BrAPI datasource. Consequently, over time, Gigwa being the first and most reliable application implementing BrAPI-Genotyping server calls, local collaborators and even external partners used it as a reference solution to design a number of tools taking advantage of those features (e.g., <a href="https://webtools.southgreen.fr/BrAPI/Beegmac/">BeegMac</a>, <a href="https://github.com/jframi/snpclust">SnpClust</a>, <a href="https://github.com/icarda-git/QBMS">QBMS</a>). But further use-cases also required Gigwa to be able to consume data from other BrAPI servers, which led to also implement API-client features into the system. Thanks to all this work, a close collaboration was progressively established with the Integrated Breeding Platform team developing the widely used Breeding Management System, that ended up in both applications now being frequently deployed together, Gigwa pulling germplasm or sample metadata from BMS, and BMS displaying Gigwa-hosted genotypes within its own UI.</p>
+<p>Client BrAPI libraries being available for R, community members typically write ad-hoc scripts syndicating data from multiple BrAPI sources (for instance phenotypes from a datasource and genotypes from another) in order to run various kinds of analyses such as GWAS, genomic selection or phylogenetic investigations. As a perspective, we may expect the most generic and widely-used of those pipelines to be at least publicly distributed, and possibly web-interfaced using solutions like R-Shiny in order to provide new, excitingly useful online services, based on Gigwa-hosted data.</p>
 <h4 id="phg">PHG</h4>
 <!-- Lynn J. -->
 <p>The Practical Haplotype Graph (PHG) is a graph-based computational framework that represents large-scale genetic variation and is optimized for plant breeding and genetics. Using a pangenome approach, each PHG stores haplotypes (the sequence of part of an individual chromosome) to represent the collected genes of a species. This allows for a simplified approach for dealing with large scale variation in plant genomes. The PHG pipeline provides support for a range of genomic analyses and allows for the use of graph data to impute complete genomes from low density sequence or variant data.</p>
@@ -611,6 +612,12 @@ FAIDARE has been adopted by several communities and in particular in the ELIXIR 
 </div>
 <div id="ref-Wz8l0HlN" class="csl-entry" role="doc-biblioentry">
 <div class="csl-left-margin">10. </div><div class="csl-right-inline"><strong>Flapjack—graphical genotype visualization</strong> <div class="csl-block">Iain Milne, Paul Shaw, Gordon Stephen, Micha Bayer, Linda Cardle, William TB Thomas, Andrew J Flavell, David Marshall</div> <em>Bioinformatics</em> (2010-10-18) <a href="https://doi.org/cdvnt8">https://doi.org/cdvnt8</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1093/bioinformatics/btq580">10.1093/bioinformatics/btq580</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/20956241">20956241</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2995120">PMC2995120</a></div></div>
+</div>
+<div id="ref-AVjkjraw" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">11. </div><div class="csl-right-inline"><strong>Gigwa v2—Extended and improved genotype investigator</strong> <div class="csl-block">Guilhem Sempéré, Adrien Pétel, Mathieu Rouard, Julien Frouin, Yann Hueber, Fabien De Bellis, Pierre Larmande</div> <em>GigaScience</em> (2019-05-01) <a href="https://doi.org/gtp5bz">https://doi.org/gtp5bz</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1093/gigascience/giz051">10.1093/gigascience/giz051</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/31077313">31077313</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6511067">PMC6511067</a></div></div>
+</div>
+<div id="ref-bvSFyrtt" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">12. </div><div class="csl-right-inline"><strong>A digital catalog of high‐density markers for banana germplasm collections</strong> <div class="csl-block">Mathieu Rouard, Julie Sardos, Guilhem Sempéré, Catherine Breton, Valentin Guignon, Ines Van den Houwe, Sebastien C Carpentier, Nicolas Roux</div> <em>PLANTS, PEOPLE, PLANET</em> (2021-03) <a href="https://doi.org/gtp5bx">https://doi.org/gtp5bx</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1002/ppp3.10187">10.1002/ppp3.10187</a></div></div>
 </div>
 </div>
 <!-- default theme -->

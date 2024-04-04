@@ -42,8 +42,8 @@ header-includes: |
   <meta name="dc.date" content="2024-04-04" />
   <meta name="citation_publication_date" content="2024-04-04" />
   <meta property="article:published_time" content="2024-04-04" />
-  <meta name="dc.modified" content="2024-04-04T14:38:09+00:00" />
-  <meta property="article:modified_time" content="2024-04-04T14:38:09+00:00" />
+  <meta name="dc.modified" content="2024-04-04T17:41:39+00:00" />
+  <meta property="article:modified_time" content="2024-04-04T17:41:39+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -110,9 +110,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/68e56bcbbeda6bd8ba1702e050cf60e586a1969a/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/68e56bcbbeda6bd8ba1702e050cf60e586a1969a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/68e56bcbbeda6bd8ba1702e050cf60e586a1969a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1adbd1aef27e3f70f2c29cb50ae4d0c3ffb6ec91/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1adbd1aef27e3f70f2c29cb50ae4d0c3ffb6ec91/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1adbd1aef27e3f70f2c29cb50ae4d0c3ffb6ec91/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -134,9 +134,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/68e56bcbbeda6bd8ba1702e050cf60e586a1969a/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/1adbd1aef27e3f70f2c29cb50ae4d0c3ffb6ec91/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@68e56bc](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/68e56bcbbeda6bd8ba1702e050cf60e586a1969a)
+from [plantbreeding/BrAPI-Manuscript2@1adbd1a](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/1adbd1aef27e3f70f2c29cb50ae4d0c3ffb6ec91)
 on April 4, 2024.
 </em></small>
 
@@ -632,8 +632,11 @@ MGIS has germplasm and genotype data stored for many musa accessions. Through Br
 
 #### GIGWA
 
-<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-GIGWA is an efficient storage system for genotype variant data. GIGWA uses BrAPI to query specific variant data out of the database. This allows for more efficient data transfer and analysis. Instead of transferring whole massive files, specific pieces, samples, markers, or chunks of data can be retrieved. 
+Gigwa is a JEE web application providing means to centralize, share, finely filter, and visualize high-throughput genotyping data [@doi:10.1093/gigascience/giz051]. Built on top of MongoDB, it is scalable and can support working smoothly with datasets containing billions of genotypes. Installable from docker images or all-in-one bundle archives, it is pretty straightforward to deploy on servers or local computers and has thus been adopted by numerous research institutes from around the world. Notably, Gigwa serves as a collaborative management tool and/or a portal for exposing the data for genebanks and breeding programs for some CGIAR centers [@doi:10.1002/ppp3.10187]. Thus, the amount of data hosted and made widely accessible using this system has kept growing over the last few years.
+
+Gigwa developers have been involved in the BrAPI community since 2016 and took part in designing the genotype-related part of the API's specifications. Its first BrAPI-compliant features were designed for compatibility with the Flapjack visualization tool [@doi:10.1093/bioinformatics/btq580] and thus primarily turned it into a BrAPI datasource. Consequently, over time, Gigwa being the first and most reliable application implementing BrAPI-Genotyping server calls, local collaborators and even external partners used it as a reference solution to design a number of tools taking advantage of those features (e.g., [BeegMac](https://webtools.southgreen.fr/BrAPI/Beegmac/), [SnpClust](https://github.com/jframi/snpclust), [QBMS](https://github.com/icarda-git/QBMS)). But further use-cases also required Gigwa to be able to consume data from other BrAPI servers, which led to also implement API-client features into the system. Thanks to all this work, a close collaboration was progressively established with the Integrated Breeding Platform team developing the widely used Breeding Management System, that ended up in both applications now being frequently deployed together, Gigwa pulling germplasm or sample metadata from BMS, and BMS displaying Gigwa-hosted genotypes within its own UI.
+
+Client BrAPI libraries being available for R, community members typically write ad-hoc scripts syndicating data from multiple BrAPI sources (for instance phenotypes from a datasource and genotypes from another) in order to run various kinds of analyses such as GWAS, genomic selection or phylogenetic investigations. As a perspective, we may expect the most generic and widely-used of those pipelines to be at least publicly distributed, and possibly web-interfaced using solutions like R-Shiny in order to provide new, excitingly useful online services, based on Gigwa-hosted data.
 
 #### PHG
 
