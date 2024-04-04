@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-03-28'
+date-meta: '2024-04-04'
 author-meta:
 - Peter "BrapMan" Selby
 - Trevor "Cool Kid" Rife
@@ -27,6 +27,7 @@ author-meta:
 - Francisco López
 - Marco Marsella
 - Matthias Lange
+- Bert Droesbeke
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -38,11 +39,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-03-28" />
-  <meta name="citation_publication_date" content="2024-03-28" />
-  <meta property="article:published_time" content="2024-03-28" />
-  <meta name="dc.modified" content="2024-03-28T17:25:29+00:00" />
-  <meta property="article:modified_time" content="2024-03-28T17:25:29+00:00" />
+  <meta name="dc.date" content="2024-04-04" />
+  <meta name="citation_publication_date" content="2024-04-04" />
+  <meta property="article:published_time" content="2024-04-04" />
+  <meta name="dc.modified" content="2024-04-04T14:38:09+00:00" />
+  <meta property="article:modified_time" content="2024-04-04T14:38:09+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -100,15 +101,18 @@ header-includes: |
   <meta name="citation_author" content="Matthias Lange" />
   <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
   <meta name="citation_author_orcid" content="0000-0002-4316-078X" />
+  <meta name="citation_author" content="Bert Droesbeke" />
+  <meta name="citation_author_institution" content="VIB Data Core" />
+  <meta name="citation_author_orcid" content="0000-0003-0522-5674" />
   <link rel="canonical" href="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="og:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="twitter:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/505e3758775650b20f5281aeab1f5a5497cd122d/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/505e3758775650b20f5281aeab1f5a5497cd122d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/505e3758775650b20f5281aeab1f5a5497cd122d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/68e56bcbbeda6bd8ba1702e050cf60e586a1969a/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/68e56bcbbeda6bd8ba1702e050cf60e586a1969a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/68e56bcbbeda6bd8ba1702e050cf60e586a1969a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -130,10 +134,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/505e3758775650b20f5281aeab1f5a5497cd122d/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/68e56bcbbeda6bd8ba1702e050cf60e586a1969a/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@505e375](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/505e3758775650b20f5281aeab1f5a5497cd122d)
-on March 28, 2024.
+from [plantbreeding/BrAPI-Manuscript2@68e56bc](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/68e56bcbbeda6bd8ba1702e050cf60e586a1969a)
+on April 4, 2024.
 </em></small>
 
 
@@ -326,6 +330,17 @@ on March 28, 2024.
     <br>
   <small>
      Leibniz Institute of Plant Genetics and Crop Plant Research
+  </small>
+
++ **Bert Droesbeke**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0003-0522-5674](https://orcid.org/0000-0003-0522-5674)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [bedroesb](https://github.com/bedroesb)
+    <br>
+  <small>
+     VIB Data Core
   </small>
 
 
@@ -527,8 +542,8 @@ Agrosystem Integration of germplasm collections in context of data trustee model
 
 #### MIAPPE "BrAPI to ISA" service
 
-<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-MIAPPE and BrAPI are designed to be inter-compatible. ISA-TAB is a file based implementation of MIAPPE. The "BrAPI to ISA" service is a converter between the ISA-TAB files and the BrAPI RESTful endpoints.
+
+Since the release of BrAPI 1.3, efforts have been made to incorporate support for the Minimum Information About Plant Phenotyping Experiments (MIAPPE) standard into the specification [@doi:10.1111/nph.16544]. This integration was finalized in BrAPI 2.0, resulting in full compatibility between the two standards. Consequently, BrAPI now encompasses all attributes necessary for MIAPPE compliance, adhering to standardized descriptions in accordance with MIAPPE guidelines. Leveraging BrAPI as a standardized RESTful web service API specification, we employ the ISA standard for storing metadata and phenotyping data in a standardized manner. This data is structured in the ISA-TAB file format and subjected to validation using the [MIAPPE ISA configuration](https://github.com/ELIXIR-Belgium/isatab-validation). The "BrAPI to ISA" service functions as a converter between BrAPI RESTful endpoints and ISA-TAB, facilitating the archiving of metadata and data and thereby enhancing data preservation and accessibility. The [BrAPI2ISA](https://github.com/elixir-europe/plant-brapi-to-isa) tool is designed to be compatible with BrAPI 1.3, and we invite contributions from the community to extend support for the latest versions of BrAPI.
 
 
 ### Data visualization 
