@@ -154,4 +154,11 @@ authors:
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
     corresponding: false
-
+  - name: Bert Droesbeke
+    initials: BD
+    github: bedroesb
+    orcid: 0000-0003-0522-5674
+    email: bert.droesbeke@vib.be
+    affiliations:
+      - VIB Data Core
+    corresponding: false
