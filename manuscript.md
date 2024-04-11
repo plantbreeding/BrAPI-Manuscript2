@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-04-04'
+date-meta: '2024-04-11'
 author-meta:
 - Peter "BrapMan" Selby
 - Trevor "Cool Kid" Rife
@@ -27,6 +27,15 @@ author-meta:
 - Francisco López
 - Marco Marsella
 - Matthias Lange
+- Stephan Weise
+- Patrick König
+- Gouripriya Davuluri
+- Paul Kersey
+- Erwan Le-Floch
+- Jospeh Ruff
+- Michael Alaux
+- Suman Kumar
+- Matthijs Brouwer
 - Bert Droesbeke
 header-includes: |
   <!--
@@ -39,11 +48,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-04-04" />
-  <meta name="citation_publication_date" content="2024-04-04" />
-  <meta property="article:published_time" content="2024-04-04" />
-  <meta name="dc.modified" content="2024-04-04T17:41:39+00:00" />
-  <meta property="article:modified_time" content="2024-04-04T17:41:39+00:00" />
+  <meta name="dc.date" content="2024-04-11" />
+  <meta name="citation_publication_date" content="2024-04-11" />
+  <meta property="article:published_time" content="2024-04-11" />
+  <meta name="dc.modified" content="2024-04-11T15:34:14+00:00" />
+  <meta property="article:modified_time" content="2024-04-11T15:34:14+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -101,6 +110,24 @@ header-includes: |
   <meta name="citation_author" content="Matthias Lange" />
   <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
   <meta name="citation_author_orcid" content="0000-0002-4316-078X" />
+  <meta name="citation_author" content="Stephan Weise" />
+  <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
+  <meta name="citation_author" content="Patrick König" />
+  <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
+  <meta name="citation_author" content="Gouripriya Davuluri" />
+  <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
+  <meta name="citation_author" content="Paul Kersey" />
+  <meta name="citation_author_institution" content="Royal Botanic Gardens, Kew" />
+  <meta name="citation_author" content="Erwan Le-Floch" />
+  <meta name="citation_author_institution" content="URGI PlantBioinfoPF, INRAE France" />
+  <meta name="citation_author" content="Jospeh Ruff" />
+  <meta name="citation_author_institution" content="Royal Botanic Gardens, Kew" />
+  <meta name="citation_author" content="Michael Alaux" />
+  <meta name="citation_author_institution" content="URGI PlantBioinfoPF, INRAE France" />
+  <meta name="citation_author" content="Suman Kumar" />
+  <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
+  <meta name="citation_author" content="Matthijs Brouwer" />
+  <meta name="citation_author_institution" content="Wageningen University and Research" />
   <meta name="citation_author" content="Bert Droesbeke" />
   <meta name="citation_author_institution" content="VIB Data Core" />
   <meta name="citation_author_orcid" content="0000-0003-0522-5674" />
@@ -110,9 +137,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1adbd1aef27e3f70f2c29cb50ae4d0c3ffb6ec91/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1adbd1aef27e3f70f2c29cb50ae4d0c3ffb6ec91/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1adbd1aef27e3f70f2c29cb50ae4d0c3ffb6ec91/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/a07f8fd8099bc27147fa176b7ff0f0e4325d410c/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/a07f8fd8099bc27147fa176b7ff0f0e4325d410c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/a07f8fd8099bc27147fa176b7ff0f0e4325d410c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -134,10 +161,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/1adbd1aef27e3f70f2c29cb50ae4d0c3ffb6ec91/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/a07f8fd8099bc27147fa176b7ff0f0e4325d410c/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@1adbd1a](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/1adbd1aef27e3f70f2c29cb50ae4d0c3ffb6ec91)
-on April 4, 2024.
+from [plantbreeding/BrAPI-Manuscript2@a07f8fd](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/a07f8fd8099bc27147fa176b7ff0f0e4325d410c)
+on April 11, 2024.
 </em></small>
 
 
@@ -332,6 +359,60 @@ on April 4, 2024.
      Leibniz Institute of Plant Genetics and Crop Plant Research
   </small>
 
++ **Stephan Weise**
+  <br>
+  <small>
+     Leibniz Institute of Plant Genetics and Crop Plant Research
+  </small>
+
++ **Patrick König**
+  <br>
+  <small>
+     Leibniz Institute of Plant Genetics and Crop Plant Research
+  </small>
+
++ **Gouripriya Davuluri**
+  <br>
+  <small>
+     Leibniz Institute of Plant Genetics and Crop Plant Research
+  </small>
+
++ **Paul Kersey**
+  <br>
+  <small>
+     Royal Botanic Gardens, Kew
+  </small>
+
++ **Erwan Le-Floch**
+  <br>
+  <small>
+     URGI PlantBioinfoPF, INRAE France
+  </small>
+
++ **Jospeh Ruff**
+  <br>
+  <small>
+     Royal Botanic Gardens, Kew
+  </small>
+
++ **Michael Alaux**
+  <br>
+  <small>
+     URGI PlantBioinfoPF, INRAE France
+  </small>
+
++ **Suman Kumar**
+  <br>
+  <small>
+     Leibniz Institute of Plant Genetics and Crop Plant Research
+  </small>
+
++ **Matthijs Brouwer**
+  <br>
+  <small>
+     Wageningen University and Research
+  </small>
+
 + **Bert Droesbeke**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
@@ -413,6 +494,29 @@ As the project has matured, a formal project leadership structure became increas
 <!-- success stories highlighting BrAPI usefulness in breeding cycle. Perhaps reference the original BrAPI paper where possible use cases were proposed.  -->
 
 Below are a number of short success stories from the BrAPI community. These tools, applications, and infrastructure projects serve as another indicator of community growth and success over the past 5-10 years. These stories clearly illustrate all the different ways the BrAPI Standard can be used productively and in practice. 
+
+<!-- Contribution BrAPI 2.0 paper
+Suggested Authors: Matthias Lange, Patrick König, Stephan Weise, Gouripriya Davuluri, Suman Kumar, Joseph Ruff, Paul Kersey, Cyril Pommier, Michael Alaux, Erwan Le-Floch -->
+
+###Success story activates data stock in European ex situ genebanks of plant genetic resources
+{#sec:Success_Story_AGENT}
+
+In the global system for ex situ conservation of plant genetic resources (PGR) [1], a total of ~5.8 million accessions are conserved in 1750 ex situ genebanks [2]. Unique and permanent identifiers in the form of DOIs are available for more than 1.7 million accessions [3]. Each DOI is linked to some basic descriptive data that facilitates the use of these resources. Many DOIs are also linked to additional data from different domains or will be in the future. In order to answer questions on the global biological diversity of a plant species, on duplicate detection, on provenance tracking for the identification of genetic integrity, on the selection of the most suitable material for various purposes, including breeding and research, and to support further applications in data mining or AI, a data space beyond the most basic information is needed that includes genotypic and phenotypic data. In this context, the aim of the AGENT project (https://www.agent-project.eu/) funded by the European Commission is to develop a concept for the digital exploitation and activation of this GenRes data space via European ex situ genebanks according to the FAIR criteria [4] and to test it in practice using two important crops, barley and wheat. In two work packages, standards and technology for data interoperability will be developed to establish a genetic resources infrastructure, which regulates data acquisition of genotypic and phenotypic data, integrates and archives them and makes them accessible according to FAIR principles. To this end, 13 European genebanks and 5 bioinformatics centers are cooperating and have agreed on standards and protocols for (i) the data flow (see figure {@fig:AGENT_Genotyping_Data_Flow}) and data formats [5] for central archiving of genotypic and phenotypic data.
+![Figure Data flow of genotypic data from AGENT partner databases](images/AGENT_Genotyping_Data_Flow.png){#fig:AGENT_Genotyping_Data_Flow}
+
+The AGENT portal as described in more detail in section {@sec:Success_Story_AGENT} unlock the full potential of the biological material stored in genebanks around the globe by using FAIR international data standards and an open digital infrastructure for the management of plant genetic resources. The implemented BrAPI interface enables to mine current and historic genotypic and phenotypic information to drive the discovery of genes, traits and knowledge for future missions, complement existing information for wheat and barley and the new data standards and infrastructure to foster an improved management of PGR for other crop species across European genebanks.
+
+
+####References
+1. 	Engels JMM, Ebert AW (2021) A Critical Review of the Current Global Ex Situ Conservation System for Plant Agrobiodiversity. I. History of the Development of the Global System in the Context of the Political/Legal Framework and Its Major Conservation Components. Plants 10:1557. https://doi.org/10.3390/plants10081557
+2. 	Fu Y (2017) The Vulnerability of Plant Genetic Resources Conserved Ex Situ. Crop Sci 57:2314–2328. https://doi.org/10.2135/cropsci2017.01.0014
+3. 	Food and Agriculture Organization (FAO) The Global Information System for PGRFA
+4. 	Wilkinson MD, Dumontier M, Aalbersberg IjJ, et al (2016) The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3:160018. https://doi.org/10.1038/sdata.2016.18
+5. 	Beier S, Fiebig A, Pommier C, et al (2022) Recommendations for the formatting of Variant Call Format (VCF) files to make plant genotyping data FAIR. F1000Research 11:231. https://doi.org/10.12688/f1000research.109080.2
+6. 	König P, Beier S, Mascher M, et al (2022) DivBrowse—interactive visualization and exploratory data analysis of variant call matrices. GigaScience 12:giad025. https://doi.org/10.1093/gigascience/giad025
+7. 	Street K, Street K (2017) Genebank mining with FIGS, the Focused Identification of Germplasm Strategy. https://doi.org/10.22004/AG.ECON.266624
+8. 	Kotni P, van Hintum T, Maggioni L, et al (2023) EURISCO update 2023: the European Search Catalogue for Plant Genetic Resources, a pillar for documentation of genebank material. Nucleic Acids Res 51:D1465–D1469. https://doi.org/10.1093/nar/gkac852
+
 
 
 ### Data Collection 
@@ -530,10 +634,23 @@ Germinate integrates and connects with other BrAPI-enabled tools such as GridSco
 * Alternate solutions/ why is it better with BrAPI - Schema.ORG lightweight meta data harvesting, ARCs as collaborative data decoration, API and publication pipeline
 * future related use cases, areas to improve - LIMS to BrAPI proxies -->
 
-#### AGENT
+#### BraPI endpoints for AGENT Portal
+{#sec:AGENT_BrAPI_Backend}
+For the joint research data infrastructure for the federation of collections of genotypic and phenotypic data from European gene banks and bioinformatics institutes, a AGENT portal ({@fig:AGENT_WebFrontend}) as database infrastructure for integrated plant genetic resources on ex-situ genebanks is being created. It provides, manual data exploration, machine-readable access via BrAPI and provide data to the cored data deposition resources at the European Bioinformatics Institute (EBI).
+![Figure AGENT Portal](images/AGENT_WebFrontend.png){#fig:AGENT_WebFrontend}
 
-<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-BraPI endpoints for AGENT
+The AGENT database backend aggregates curated and integrated passport data, phenotypic and genotypic data about wheat and barley accessions of 18 project partners are harmonized and integrated via BrAPI endpoints (https://github.com/AGENTproject/BrAPI) and explorable in a web portal (https://agent.ipk-gatersleben.de). The BrAPI endpoints were made available by scattered implementation. Genotyping data use DivBrowse [6] storage engine and BrAPI interface. Endpoints for sample data are implemented using AGENT database SQL to BrAPI broker service.
+To integrate those BrAPI endpoint provider into a single service and URL scheme, we work on their integration in a BrAPI proxy service. As next steps, we will expand BrAPI implementation to enable the integration of analysis pipelines in the AGENT portal, e.g. for genebank mining tools such as the FIGS+ pipeline developed by AGENT partner ICARDA [7]. Another perspective is to integrate the data collected in the AGENT project into the European Search Catalogue for Plant Genetic Resources (EURISCO) [8] and to implement BrAPI endpoints to make data on PGR collections in European genebanks programmatically accessible.
+
+####References
+1. 	Engels JMM, Ebert AW (2021) A Critical Review of the Current Global Ex Situ Conservation System for Plant Agrobiodiversity. I. History of the Development of the Global System in the Context of the Political/Legal Framework and Its Major Conservation Components. Plants 10:1557. https://doi.org/10.3390/plants10081557
+2. 	Fu Y (2017) The Vulnerability of Plant Genetic Resources Conserved Ex Situ. Crop Sci 57:2314–2328. https://doi.org/10.2135/cropsci2017.01.0014
+3. 	Food and Agriculture Organization (FAO) The Global Information System for PGRFA
+4. 	Wilkinson MD, Dumontier M, Aalbersberg IjJ, et al (2016) The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3:160018. https://doi.org/10.1038/sdata.2016.18
+5. 	Beier S, Fiebig A, Pommier C, et al (2022) Recommendations for the formatting of Variant Call Format (VCF) files to make plant genotyping data FAIR. F1000Research 11:231. https://doi.org/10.12688/f1000research.109080.2
+6. 	König P, Beier S, Mascher M, et al (2022) DivBrowse—interactive visualization and exploratory data analysis of variant call matrices. GigaScience 12:giad025. https://doi.org/10.1093/gigascience/giad025
+7. 	Street K, Street K (2017) Genebank mining with FIGS, the Focused Identification of Germplasm Strategy. https://doi.org/10.22004/AG.ECON.266624
+8. 	Kotni P, van Hintum T, Maggioni L, et al (2023) EURISCO update 2023: the European Search Catalogue for Plant Genetic Resources, a pillar for documentation of genebank material. Nucleic Acids Res 51:D1465–D1469. https://doi.org/10.1093/nar/gkac852
 
 #### IPK-Genebank
 
