@@ -154,4 +154,48 @@ authors:
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
     corresponding: false
-
+  - name: Stephan Weise
+    email: Stephan.Weise@leibniz-ipk.de
+    initials: SW
+    affiliations:
+      - Leibniz Institute of Plant Genetics and Crop Plant Research
+  - name: Patrick König
+    email: Patrick.Koenig@leibniz-ipk.de
+    initials: PK
+    affiliations:
+      - Leibniz Institute of Plant Genetics and Crop Plant Research
+  - name: Gouripriya Davuluri
+    email: Gouripriya.Davuluri@leibniz-ipk.de
+    initials: GD
+    affiliations:
+      - Leibniz Institute of Plant Genetics and Crop Plant Research
+  - name: Paul Kersey
+    email: P.Kersey@kew.org
+    initials: PK
+    affiliations:
+      - Royal Botanic Gardens, Kew
+  - name: Erwan Le-Floch
+    email: erwan.le-floch@inrae.fr
+    initials: ELF
+    affiliations:
+      - URGI PlantBioinfoPF, INRAE France
+  - name: Jospeh Ruff
+    email: J.Ruff@kew.org
+    initials: JR
+    affiliations:
+      - Royal Botanic Gardens, Kew
+  - name: Michael Alaux
+    email: michael.alaux@inrae.fr
+    initials: MA
+    affiliations:
+      - URGI PlantBioinfoPF, INRAE France
+  - name: Suman Kumar
+    email: kumar@ipk-gatersleben.de
+    initials: SK
+    affiliations:
+      - Leibniz Institute of Plant Genetics and Crop Plant Research
+  - name: Matthijs Brouwer
+    email: matthijs.brouwer@wur.nl
+    initials: MB
+    affiliations:
+      - Wageningen University and Research
