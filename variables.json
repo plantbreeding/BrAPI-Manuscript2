@@ -29,6 +29,7 @@
       "Francisco López",
       "Marco Marsella",
       "Matthias Lange",
+      "Guilhem Sempéré",
       "Stephan Weise",
       "Patrick König",
       "Gouripriya Davuluri",
@@ -40,7 +41,7 @@
       "Matthijs Brouwer",
       "Bert Droesbeke"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.title\" content=\"BrAPI Success Stories\" />\n<meta name=\"citation_title\" content=\"BrAPI Success Stories\" />\n<meta property=\"og:title\" content=\"BrAPI Success Stories\" />\n<meta property=\"twitter:title\" content=\"BrAPI Success Stories\" />\n<meta name=\"dc.date\" content=\"2024-04-11\" />\n<meta name=\"citation_publication_date\" content=\"2024-04-11\" />\n<meta property=\"article:published_time\" content=\"2024-04-11\" />\n<meta name=\"dc.modified\" content=\"2024-04-11T15:34:14+00:00\" />\n<meta property=\"article:modified_time\" content=\"2024-04-11T15:34:14+00:00\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Peter &#34;BrapMan&#34; Selby\" />\n<meta name=\"citation_author_institution\" content=\"Cornell University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-7151-4445\" />\n<meta name=\"citation_author\" content=\"Trevor &#34;Cool Kid&#34; Rife\" />\n<meta name=\"citation_author_institution\" content=\"Clemson University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-5974-6523\" />\n<meta name=\"citation_author\" content=\"Khaled Al-Shamaa\" />\n<meta name=\"citation_author_institution\" content=\"ICARDA\" />\n<meta name=\"citation_author\" content=\"Isabelle Alic\" />\n<meta name=\"citation_author_institution\" content=\"INRAE\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8961-6068\" />\n<meta name=\"citation_author\" content=\"Sebastian &#34;Baz&#34; Raubach\" />\n<meta name=\"citation_author_institution\" content=\"The James Hutton Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5659-247X\" />\n<meta name=\"citation_author\" content=\"Paul Shaw\" />\n<meta name=\"citation_author_institution\" content=\"The James Hutton Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-0202-1150\" />\n<meta name=\"citation_author\" content=\"Iain Milne\" />\n<meta name=\"citation_author_institution\" content=\"The James Hutton Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-4126-0859\" />\n<meta name=\"citation_author\" content=\"Cyril Pommier\" />\n<meta name=\"citation_author_institution\" content=\"Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France\" />\n<meta name=\"citation_author_institution\" content=\"Université Paris-Saclay, INRAE, URGI, Versailles, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-9040-8733\" />\n<meta name=\"citation_author\" content=\"Becky Smith\" />\n<meta name=\"citation_author_institution\" content=\"The James Hutton Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8968-3383\" />\n<meta name=\"citation_author\" content=\"Chaney Courtney\" />\n<meta name=\"citation_author_institution\" content=\"Clemson University\" />\n<meta name=\"citation_author\" content=\"Zachary Miller\" />\n<meta name=\"citation_author_institution\" content=\"Cornell University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-5454-4527\" />\n<meta name=\"citation_author\" content=\"Terry Casstevens\" />\n<meta name=\"citation_author_institution\" content=\"Cornell University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-7602-0487\" />\n<meta name=\"citation_author\" content=\"Sook Jung\" />\n<meta name=\"citation_author_institution\" content=\"Department of Horticulture, Washington State University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3968-2769\" />\n<meta name=\"citation_author\" content=\"Taein Lee\" />\n<meta name=\"citation_author_institution\" content=\"Department of Horticulture, Washington State University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-2000-2586\" />\n<meta name=\"citation_author\" content=\"Josh &#34;Big Data&#34; Lamos-Sweeney\" />\n<meta name=\"citation_author_institution\" content=\"Cornell University\" />\n<meta name=\"citation_author\" content=\"Francisco López\" />\n<meta name=\"citation_author_institution\" content=\"International Treaty on Plant Genetic Resources for Food and Agriculture, FAO\" />\n<meta name=\"citation_author\" content=\"Marco Marsella\" />\n<meta name=\"citation_author_institution\" content=\"International Treaty on Plant Genetic Resources for Food and Agriculture, FAO\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0334-8785\" />\n<meta name=\"citation_author\" content=\"Matthias Lange\" />\n<meta name=\"citation_author_institution\" content=\"Leibniz Institute of Plant Genetics and Crop Plant Research\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-4316-078X\" />\n<meta name=\"citation_author\" content=\"Stephan Weise\" />\n<meta name=\"citation_author_institution\" content=\"Leibniz Institute of Plant Genetics and Crop Plant Research\" />\n<meta name=\"citation_author\" content=\"Patrick König\" />\n<meta name=\"citation_author_institution\" content=\"Leibniz Institute of Plant Genetics and Crop Plant Research\" />\n<meta name=\"citation_author\" content=\"Gouripriya Davuluri\" />\n<meta name=\"citation_author_institution\" content=\"Leibniz Institute of Plant Genetics and Crop Plant Research\" />\n<meta name=\"citation_author\" content=\"Paul Kersey\" />\n<meta name=\"citation_author_institution\" content=\"Royal Botanic Gardens, Kew\" />\n<meta name=\"citation_author\" content=\"Erwan Le-Floch\" />\n<meta name=\"citation_author_institution\" content=\"URGI PlantBioinfoPF, INRAE France\" />\n<meta name=\"citation_author\" content=\"Jospeh Ruff\" />\n<meta name=\"citation_author_institution\" content=\"Royal Botanic Gardens, Kew\" />\n<meta name=\"citation_author\" content=\"Michael Alaux\" />\n<meta name=\"citation_author_institution\" content=\"URGI PlantBioinfoPF, INRAE France\" />\n<meta name=\"citation_author\" content=\"Suman Kumar\" />\n<meta name=\"citation_author_institution\" content=\"Leibniz Institute of Plant Genetics and Crop Plant Research\" />\n<meta name=\"citation_author\" content=\"Matthijs Brouwer\" />\n<meta name=\"citation_author_institution\" content=\"Wageningen University and Research\" />\n<meta name=\"citation_author\" content=\"Bert Droesbeke\" />\n<meta name=\"citation_author_institution\" content=\"VIB Data Core\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0522-5674\" />\n<link rel=\"canonical\" href=\"https://plantbreeding.github.io/BrAPI-Manuscript2/\" />\n<meta property=\"og:url\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/\" />\n<meta property=\"twitter:url\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/\" />\n<meta name=\"citation_pdf_url\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://plantbreeding.github.io/BrAPI-Manuscript2/v/a07f8fd8099bc27147fa176b7ff0f0e4325d410c/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/v/a07f8fd8099bc27147fa176b7ff0f0e4325d410c/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/v/a07f8fd8099bc27147fa176b7ff0f0e4325d410c/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.title\" content=\"BrAPI Success Stories\" />\n<meta name=\"citation_title\" content=\"BrAPI Success Stories\" />\n<meta property=\"og:title\" content=\"BrAPI Success Stories\" />\n<meta property=\"twitter:title\" content=\"BrAPI Success Stories\" />\n<meta name=\"dc.date\" content=\"2024-04-11\" />\n<meta name=\"citation_publication_date\" content=\"2024-04-11\" />\n<meta property=\"article:published_time\" content=\"2024-04-11\" />\n<meta name=\"dc.modified\" content=\"2024-04-11T18:32:02+00:00\" />\n<meta property=\"article:modified_time\" content=\"2024-04-11T18:32:02+00:00\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Peter &#34;BrapMan&#34; Selby\" />\n<meta name=\"citation_author_institution\" content=\"Cornell University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-7151-4445\" />\n<meta name=\"citation_author\" content=\"Trevor &#34;Cool Kid&#34; Rife\" />\n<meta name=\"citation_author_institution\" content=\"Clemson University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-5974-6523\" />\n<meta name=\"citation_author\" content=\"Khaled Al-Shamaa\" />\n<meta name=\"citation_author_institution\" content=\"ICARDA\" />\n<meta name=\"citation_author\" content=\"Isabelle Alic\" />\n<meta name=\"citation_author_institution\" content=\"INRAE\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8961-6068\" />\n<meta name=\"citation_author\" content=\"Sebastian &#34;Baz&#34; Raubach\" />\n<meta name=\"citation_author_institution\" content=\"The James Hutton Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5659-247X\" />\n<meta name=\"citation_author\" content=\"Paul Shaw\" />\n<meta name=\"citation_author_institution\" content=\"The James Hutton Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-0202-1150\" />\n<meta name=\"citation_author\" content=\"Iain Milne\" />\n<meta name=\"citation_author_institution\" content=\"The James Hutton Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-4126-0859\" />\n<meta name=\"citation_author\" content=\"Cyril Pommier\" />\n<meta name=\"citation_author_institution\" content=\"Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France\" />\n<meta name=\"citation_author_institution\" content=\"Université Paris-Saclay, INRAE, URGI, Versailles, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-9040-8733\" />\n<meta name=\"citation_author\" content=\"Becky Smith\" />\n<meta name=\"citation_author_institution\" content=\"The James Hutton Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8968-3383\" />\n<meta name=\"citation_author\" content=\"Chaney Courtney\" />\n<meta name=\"citation_author_institution\" content=\"Clemson University\" />\n<meta name=\"citation_author\" content=\"Zachary Miller\" />\n<meta name=\"citation_author_institution\" content=\"Cornell University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-5454-4527\" />\n<meta name=\"citation_author\" content=\"Terry Casstevens\" />\n<meta name=\"citation_author_institution\" content=\"Cornell University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-7602-0487\" />\n<meta name=\"citation_author\" content=\"Sook Jung\" />\n<meta name=\"citation_author_institution\" content=\"Department of Horticulture, Washington State University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3968-2769\" />\n<meta name=\"citation_author\" content=\"Taein Lee\" />\n<meta name=\"citation_author_institution\" content=\"Department of Horticulture, Washington State University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-2000-2586\" />\n<meta name=\"citation_author\" content=\"Josh &#34;Big Data&#34; Lamos-Sweeney\" />\n<meta name=\"citation_author_institution\" content=\"Cornell University\" />\n<meta name=\"citation_author\" content=\"Francisco López\" />\n<meta name=\"citation_author_institution\" content=\"International Treaty on Plant Genetic Resources for Food and Agriculture, FAO\" />\n<meta name=\"citation_author\" content=\"Marco Marsella\" />\n<meta name=\"citation_author_institution\" content=\"International Treaty on Plant Genetic Resources for Food and Agriculture, FAO\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0334-8785\" />\n<meta name=\"citation_author\" content=\"Matthias Lange\" />\n<meta name=\"citation_author_institution\" content=\"Leibniz Institute of Plant Genetics and Crop Plant Research\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-4316-078X\" />\n<meta name=\"citation_author\" content=\"Guilhem Sempéré\" />\n<meta name=\"citation_author_institution\" content=\"CIRAD (french agricultural research and international cooperation organization)\" />\n<meta name=\"citation_author_institution\" content=\"South Green Platform\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-7429-2091\" />\n<meta name=\"citation_author\" content=\"Stephan Weise\" />\n<meta name=\"citation_author_institution\" content=\"Leibniz Institute of Plant Genetics and Crop Plant Research\" />\n<meta name=\"citation_author\" content=\"Patrick König\" />\n<meta name=\"citation_author_institution\" content=\"Leibniz Institute of Plant Genetics and Crop Plant Research\" />\n<meta name=\"citation_author\" content=\"Gouripriya Davuluri\" />\n<meta name=\"citation_author_institution\" content=\"Leibniz Institute of Plant Genetics and Crop Plant Research\" />\n<meta name=\"citation_author\" content=\"Paul Kersey\" />\n<meta name=\"citation_author_institution\" content=\"Royal Botanic Gardens, Kew\" />\n<meta name=\"citation_author\" content=\"Erwan Le-Floch\" />\n<meta name=\"citation_author_institution\" content=\"URGI PlantBioinfoPF, INRAE France\" />\n<meta name=\"citation_author\" content=\"Jospeh Ruff\" />\n<meta name=\"citation_author_institution\" content=\"Royal Botanic Gardens, Kew\" />\n<meta name=\"citation_author\" content=\"Michael Alaux\" />\n<meta name=\"citation_author_institution\" content=\"URGI PlantBioinfoPF, INRAE France\" />\n<meta name=\"citation_author\" content=\"Suman Kumar\" />\n<meta name=\"citation_author_institution\" content=\"Leibniz Institute of Plant Genetics and Crop Plant Research\" />\n<meta name=\"citation_author\" content=\"Matthijs Brouwer\" />\n<meta name=\"citation_author_institution\" content=\"Wageningen University and Research\" />\n<meta name=\"citation_author\" content=\"Bert Droesbeke\" />\n<meta name=\"citation_author_institution\" content=\"VIB Data Core\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0522-5674\" />\n<link rel=\"canonical\" href=\"https://plantbreeding.github.io/BrAPI-Manuscript2/\" />\n<meta property=\"og:url\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/\" />\n<meta property=\"twitter:url\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/\" />\n<meta name=\"citation_pdf_url\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://plantbreeding.github.io/BrAPI-Manuscript2/v/b13a7e9efb7c8897b88f3d953a6678f7ccade889/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/v/b13a7e9efb7c8897b88f3d953a6678f7ccade889/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/v/b13a7e9efb7c8897b88f3d953a6678f7ccade889/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -52,7 +53,7 @@
   "manubot": {
     "date": "2024-04-11",
     "date_long": "April 11, 2024",
-    "generated": "2024-04-11T15:34:14+00:00",
+    "generated": "2024-04-11T18:32:02+00:00",
     "generated_date_long": "April 11, 2024",
     "randomize_author_order": false,
     "authors": [
@@ -322,6 +323,21 @@
         ]
       },
       {
+        "name": "Guilhem Sempéré",
+        "initials": "GS",
+        "github": "GuilhemSempere",
+        "orcid": "0000-0001-7429-2091",
+        "email": "guilhem.sempere@cirad.fr",
+        "affiliations": [
+          "CIRAD (french agricultural research and international cooperation organization)",
+          "South Green Platform"
+        ],
+        "affiliation_numbers": [
+          11,
+          12
+        ]
+      },
+      {
         "name": "Stephan Weise",
         "email": "Stephan.Weise@leibniz-ipk.de",
         "initials": "SW",
@@ -362,7 +378,7 @@
           "Royal Botanic Gardens, Kew"
         ],
         "affiliation_numbers": [
-          11
+          13
         ]
       },
       {
@@ -373,7 +389,7 @@
           "URGI PlantBioinfoPF, INRAE France"
         ],
         "affiliation_numbers": [
-          12
+          14
         ]
       },
       {
@@ -384,7 +400,7 @@
           "Royal Botanic Gardens, Kew"
         ],
         "affiliation_numbers": [
-          11
+          13
         ]
       },
       {
@@ -395,7 +411,7 @@
           "URGI PlantBioinfoPF, INRAE France"
         ],
         "affiliation_numbers": [
-          12
+          14
         ]
       },
       {
@@ -417,7 +433,7 @@
           "Wageningen University and Research"
         ],
         "affiliation_numbers": [
-          13
+          15
         ]
       },
       {
@@ -431,7 +447,7 @@
         ],
         "corresponding": false,
         "affiliation_numbers": [
-          14
+          16
         ]
       }
     ],
@@ -477,20 +493,28 @@
         "affiliation_number": 10
       },
       {
-        "affiliation": "Royal Botanic Gardens, Kew",
+        "affiliation": "CIRAD (french agricultural research and international cooperation organization)",
         "affiliation_number": 11
       },
       {
-        "affiliation": "URGI PlantBioinfoPF, INRAE France",
+        "affiliation": "South Green Platform",
         "affiliation_number": 12
       },
       {
-        "affiliation": "Wageningen University and Research",
+        "affiliation": "Royal Botanic Gardens, Kew",
         "affiliation_number": 13
       },
       {
-        "affiliation": "VIB Data Core",
+        "affiliation": "URGI PlantBioinfoPF, INRAE France",
         "affiliation_number": 14
+      },
+      {
+        "affiliation": "Wageningen University and Research",
+        "affiliation_number": 15
+      },
+      {
+        "affiliation": "VIB Data Core",
+        "affiliation_number": 16
       }
     ],
     "ci_source": {
@@ -498,15 +522,15 @@
       "repo_slug": "plantbreeding/BrAPI-Manuscript2",
       "repo_owner": "plantbreeding",
       "repo_name": "BrAPI-Manuscript2",
-      "commit": "a07f8fd8099bc27147fa176b7ff0f0e4325d410c",
-      "triggering_commit": "a07f8fd8099bc27147fa176b7ff0f0e4325d410c",
-      "build_url": "https://github.com/plantbreeding/BrAPI-Manuscript2/commit/a07f8fd8099bc27147fa176b7ff0f0e4325d410c/checks",
-      "job_url": "https://github.com/plantbreeding/BrAPI-Manuscript2/actions/runs/8649369491"
+      "commit": "b13a7e9efb7c8897b88f3d953a6678f7ccade889",
+      "triggering_commit": "b13a7e9efb7c8897b88f3d953a6678f7ccade889",
+      "build_url": "https://github.com/plantbreeding/BrAPI-Manuscript2/commit/b13a7e9efb7c8897b88f3d953a6678f7ccade889/checks",
+      "job_url": "https://github.com/plantbreeding/BrAPI-Manuscript2/actions/runs/8651558822"
     },
     "html_url": "https://plantbreeding.github.io/BrAPI-Manuscript2/",
     "pdf_url": "https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf",
-    "html_url_versioned": "https://plantbreeding.github.io/BrAPI-Manuscript2/v/a07f8fd8099bc27147fa176b7ff0f0e4325d410c/",
-    "pdf_url_versioned": "https://plantbreeding.github.io/BrAPI-Manuscript2/v/a07f8fd8099bc27147fa176b7ff0f0e4325d410c/manuscript.pdf",
+    "html_url_versioned": "https://plantbreeding.github.io/BrAPI-Manuscript2/v/b13a7e9efb7c8897b88f3d953a6678f7ccade889/",
+    "pdf_url_versioned": "https://plantbreeding.github.io/BrAPI-Manuscript2/v/b13a7e9efb7c8897b88f3d953a6678f7ccade889/manuscript.pdf",
     "manubot_version": "0.5.5",
     "rootstock_commit": "f3e0520060162f71f0950ea88d44de526d241ad1",
     "manuscript_stats": {

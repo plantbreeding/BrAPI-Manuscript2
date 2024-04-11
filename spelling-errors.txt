@@ -7,7 +7,7 @@ agrosystems
 Alaux
 Alic
 alshamaa
-analytics
+Analytics
 ANR
 API’s
 arial
@@ -24,7 +24,7 @@ BIMS
 BioinfOmics
 Bioinformatics
 BMS
-BrAPI
+brapi
 BrapiCoordinatorSelby
 BrapMan
 BrAPP
@@ -36,6 +36,7 @@ cardinalb
 Casstevens
 CGIAR
 chaneylc
+CIRAD
 CLI
 ClimMob
 CottonGEN
@@ -70,7 +71,7 @@ Florilège
 FLORILÈGE
 focussing
 Fu
-Genebank
+genebank
 genebanks
 genomic
 genotype
@@ -80,13 +81,15 @@ genotyping
 Germplasm
 giad
 GigaScience
-Gigwa
+GIGWA
 GLIS
 Gouripriya
 GridScore
+Guilhem
+GuilhemSempere
 GWAS
 hackathon
-Hackathons
+hackathons
 Haplotype
 haplotypes
 Hintum
@@ -148,7 +151,7 @@ phenomic
 Phenospex
 phenotypes
 phenotypic
-phenotyping
+Phenotyping
 PHG
 PHIS’s
 phylogenetic
@@ -165,6 +168,7 @@ rPHG
 Saclay
 scalable
 Selby
+Sempéré
 Shamaa
 similiar
 situ

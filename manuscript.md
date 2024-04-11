@@ -27,6 +27,7 @@ author-meta:
 - Francisco López
 - Marco Marsella
 - Matthias Lange
+- Guilhem Sempéré
 - Stephan Weise
 - Patrick König
 - Gouripriya Davuluri
@@ -51,8 +52,8 @@ header-includes: |
   <meta name="dc.date" content="2024-04-11" />
   <meta name="citation_publication_date" content="2024-04-11" />
   <meta property="article:published_time" content="2024-04-11" />
-  <meta name="dc.modified" content="2024-04-11T15:34:14+00:00" />
-  <meta property="article:modified_time" content="2024-04-11T15:34:14+00:00" />
+  <meta name="dc.modified" content="2024-04-11T18:32:02+00:00" />
+  <meta property="article:modified_time" content="2024-04-11T18:32:02+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -110,6 +111,10 @@ header-includes: |
   <meta name="citation_author" content="Matthias Lange" />
   <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
   <meta name="citation_author_orcid" content="0000-0002-4316-078X" />
+  <meta name="citation_author" content="Guilhem Sempéré" />
+  <meta name="citation_author_institution" content="CIRAD (french agricultural research and international cooperation organization)" />
+  <meta name="citation_author_institution" content="South Green Platform" />
+  <meta name="citation_author_orcid" content="0000-0001-7429-2091" />
   <meta name="citation_author" content="Stephan Weise" />
   <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
   <meta name="citation_author" content="Patrick König" />
@@ -137,9 +142,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/a07f8fd8099bc27147fa176b7ff0f0e4325d410c/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/a07f8fd8099bc27147fa176b7ff0f0e4325d410c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/a07f8fd8099bc27147fa176b7ff0f0e4325d410c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/b13a7e9efb7c8897b88f3d953a6678f7ccade889/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/b13a7e9efb7c8897b88f3d953a6678f7ccade889/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/b13a7e9efb7c8897b88f3d953a6678f7ccade889/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -161,9 +166,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/a07f8fd8099bc27147fa176b7ff0f0e4325d410c/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/b13a7e9efb7c8897b88f3d953a6678f7ccade889/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@a07f8fd](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/a07f8fd8099bc27147fa176b7ff0f0e4325d410c)
+from [plantbreeding/BrAPI-Manuscript2@b13a7e9](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/b13a7e9efb7c8897b88f3d953a6678f7ccade889)
 on April 11, 2024.
 </em></small>
 
@@ -357,6 +362,17 @@ on April 11, 2024.
     <br>
   <small>
      Leibniz Institute of Plant Genetics and Crop Plant Research
+  </small>
+
++ **Guilhem Sempéré**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0001-7429-2091](https://orcid.org/0000-0001-7429-2091)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [GuilhemSempere](https://github.com/GuilhemSempere)
+    <br>
+  <small>
+     CIRAD (french agricultural research and international cooperation organization); South Green Platform
   </small>
 
 + **Stephan Weise**
