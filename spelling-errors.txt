@@ -5,7 +5,7 @@ agrosystems
 Alaux
 Alic
 alshamaa
-Analytics
+analytics
 ANR
 API’s
 arial
@@ -21,13 +21,13 @@ BIMS
 BioinfOmics
 bioinformatics
 BMS
-BrAPI
+brapi
 BrapiCoordinatorSelby
 BrapMan
 BrAPP
 BrAPPs
 BRAVA
-BreedBase
+Breedbase
 Brouwer
 cardinalb
 Casstevens
@@ -73,7 +73,7 @@ genotypes
 genotypic
 Genotyping
 Germplasm
-GIGWA
+Gigwa
 GLIS
 Gouripriya
 GridScore
@@ -82,7 +82,7 @@ GuilhemSempere
 GWAS
 hackathon
 hackathons
-Haplotype
+haplotype
 haplotypes
 hoc
 HortControl
@@ -91,7 +91,7 @@ ICARDA
 ImageBreed
 imilne
 INBS
-INRAE
+inrae
 Installable
 interoperable
 Investissements
@@ -101,7 +101,7 @@ ITPGRFA
 JEE
 jlamossweeney
 Jospeh
-json
+JSON
 Kersey
 Kew
 khaled
@@ -131,7 +131,7 @@ OpenSILEX
 pangenome
 PGR
 PGRFA
-PHENOME
+Phenome
 phenomic
 Phenospex
 phenotypes
@@ -147,7 +147,7 @@ programmatically
 programme
 QBMS
 QTL
-Raubach
+raubach
 Rosaceae
 rPHG
 Saclay
