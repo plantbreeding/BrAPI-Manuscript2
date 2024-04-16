@@ -52,8 +52,8 @@ header-includes: |
   <meta name="dc.date" content="2024-04-16" />
   <meta name="citation_publication_date" content="2024-04-16" />
   <meta property="article:published_time" content="2024-04-16" />
-  <meta name="dc.modified" content="2024-04-16T13:21:43+00:00" />
-  <meta property="article:modified_time" content="2024-04-16T13:21:43+00:00" />
+  <meta name="dc.modified" content="2024-04-16T13:25:41+00:00" />
+  <meta property="article:modified_time" content="2024-04-16T13:25:41+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -142,9 +142,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/74878687857288ca4917c45bc536d576b248f161/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/74878687857288ca4917c45bc536d576b248f161/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/74878687857288ca4917c45bc536d576b248f161/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/c5007a7449de79e3f876e19de1d13105947d9f1e/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/c5007a7449de79e3f876e19de1d13105947d9f1e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/c5007a7449de79e3f876e19de1d13105947d9f1e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -166,9 +166,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/74878687857288ca4917c45bc536d576b248f161/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/c5007a7449de79e3f876e19de1d13105947d9f1e/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@7487868](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/74878687857288ca4917c45bc536d576b248f161)
+from [plantbreeding/BrAPI-Manuscript2@c5007a7](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/c5007a7449de79e3f876e19de1d13105947d9f1e)
 on April 16, 2024.
 </em></small>
 
@@ -636,7 +636,7 @@ Suggested Authors: Matthias Lange, Patrick König, Stephan Weise, Gouripriya Dav
 {#sec:AGENT_BrAPI_Backend}
 
 In the global system for ex situ conservation of plant genetic resources (PGR) [@doi:10.3390/plants10081557], a total of ~5.8 million accessions are conserved in 1750 ex situ genebanks [@doi:10.2135/cropsci2017.01.0014]. Unique and permanent identifiers in the form of DOIs are available for more than 1.7 million accessions [@doi:Food and Agriculture Organization (FAO) The Global Information System for PGRFA]. Each DOI is linked to some basic descriptive data that facilitates the use of these resources. Many DOIs are also linked to additional data from different domains or will be in the future. In order to answer questions on the global biological diversity of a plant species, on duplicate detection, on provenance tracking for the identification of genetic integrity, on the selection of the most suitable material for various purposes, including breeding and research, and to support further applications in data mining or AI, a data space beyond the most basic information is needed that includes genotypic and phenotypic data. In this context, the aim of the AGENT project (https://www.agent-project.eu/) funded by the European Commission is to develop a concept for the digital exploitation and activation of this GenRes data space via European ex situ genebanks according to the FAIR criteria [@doi:10.1038/sdata.2016.18] and to test it in practice using two important crops, barley and wheat. In two work packages, standards and technology for data interoperability will be developed to establish a genetic resources infrastructure, which regulates data acquisition of genotypic and phenotypic data, integrates and archives them and makes them accessible according to FAIR principles. To this end, 13 European genebanks and 5 bioinformatics centers are cooperating and have agreed on standards and protocols for (i) the data flow (see figure {@fig:AGENT_Genotyping_Data_Flow}) and data formats [@doi:10.12688/f1000research.109080.2] for central archiving of genotypic and phenotypic data.
-![Figure Data flow of genotypic data from AGENT partner databases](images/AGENT_Genotyping_Data_Flow.png){#fig:AGENT_Genotyping_Data_Flow}
+![Figure Data flow of genotypic data from AGENT partner databases](images/AGENT_Genotyping_Data_Flow.png){#fig:AGENT_Genotyping_Data_Flow width="100%"}
 
 The AGENT portal as described in more detail in section {@sec:Success_Story_AGENT} unlock the full potential of the biological material stored in genebanks around the globe by using FAIR international data standards and an open digital infrastructure for the management of plant genetic resources. The implemented BrAPI interface enables to mine current and historic genotypic and phenotypic information to drive the discovery of genes, traits and knowledge for future missions, complement existing information for wheat and barley and the new data standards and infrastructure to foster an improved management of PGR for other crop species across European genebanks.
 
