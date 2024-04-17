@@ -30,6 +30,7 @@ author-meta:
 - Guilhem Sempéré
 - Stephan Weise
 - Patrick König
+- Manuel Feser
 - Gouripriya Davuluri
 - Paul Kersey
 - Erwan Le-Floch
@@ -38,6 +39,7 @@ author-meta:
 - Suman Kumar
 - Matthijs Brouwer
 - Bert Droesbeke
+- Sebastian Beier
 - Valentin Guignon
 header-includes: |
   <!--
@@ -53,8 +55,8 @@ header-includes: |
   <meta name="dc.date" content="2024-04-17" />
   <meta name="citation_publication_date" content="2024-04-17" />
   <meta property="article:published_time" content="2024-04-17" />
-  <meta name="dc.modified" content="2024-04-17T09:13:13+00:00" />
-  <meta property="article:modified_time" content="2024-04-17T09:13:13+00:00" />
+  <meta name="dc.modified" content="2024-04-17T09:31:25+00:00" />
+  <meta property="article:modified_time" content="2024-04-17T09:31:25+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -122,6 +124,10 @@ header-includes: |
   <meta name="citation_author" content="Patrick König" />
   <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
   <meta name="citation_author_orcid" content="0000-0002-8948-6793" />
+  <meta name="citation_author" content="Manuel Feser" />
+  <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
+  <meta name="citation_author_institution" content="Graduate School DILS, Bielefeld Institute for Bioinformatics Infrastructure (BIBI)" />
+  <meta name="citation_author_orcid" content="0000-0001-6546-1818" />
   <meta name="citation_author" content="Gouripriya Davuluri" />
   <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
   <meta name="citation_author" content="Paul Kersey" />
@@ -139,6 +145,10 @@ header-includes: |
   <meta name="citation_author" content="Bert Droesbeke" />
   <meta name="citation_author_institution" content="VIB Data Core" />
   <meta name="citation_author_orcid" content="0000-0003-0522-5674" />
+  <meta name="citation_author" content="Sebastian Beier" />
+  <meta name="citation_author_institution" content="Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszenturm Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany" />
+  <meta name="citation_author_institution" content="Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany" />
+  <meta name="citation_author_orcid" content="0000-0002-2177-8781" />
   <meta name="citation_author" content="Valentin Guignon" />
   <meta name="citation_author_institution" content="The Alliance of Bioversity International and CIAT (CGIAR)" />
   <meta name="citation_author_orcid" content="0000-0003-0903-6811" />
@@ -148,9 +158,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ca78d906c409d60cc7b2fe13271b22cf114cb619/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ca78d906c409d60cc7b2fe13271b22cf114cb619/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ca78d906c409d60cc7b2fe13271b22cf114cb619/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1df77eeef3b9e394e0536abbc221c6e75063d5c0/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1df77eeef3b9e394e0536abbc221c6e75063d5c0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1df77eeef3b9e394e0536abbc221c6e75063d5c0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -172,9 +182,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/ca78d906c409d60cc7b2fe13271b22cf114cb619/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/1df77eeef3b9e394e0536abbc221c6e75063d5c0/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@ca78d90](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/ca78d906c409d60cc7b2fe13271b22cf114cb619)
+from [plantbreeding/BrAPI-Manuscript2@1df77ee](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/1df77eeef3b9e394e0536abbc221c6e75063d5c0)
 on April 17, 2024.
 </em></small>
 
@@ -400,6 +410,17 @@ on April 17, 2024.
      Leibniz Institute of Plant Genetics and Crop Plant Research
   </small>
 
++ **Manuel Feser**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0001-6546-1818](https://orcid.org/0000-0001-6546-1818)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [feserm](https://github.com/feserm)
+    <br>
+  <small>
+     Leibniz Institute of Plant Genetics and Crop Plant Research; Graduate School DILS, Bielefeld Institute for Bioinformatics Infrastructure (BIBI)
+  </small>
+
 + **Gouripriya Davuluri**
   <br>
   <small>
@@ -453,6 +474,17 @@ on April 17, 2024.
      VIB Data Core
   </small>
 
++ **Sebastian Beier**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-2177-8781](https://orcid.org/0000-0002-2177-8781)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [sebeier](https://github.com/sebeier)
+    <br>
+  <small>
+     Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszenturm Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany; Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany
+  </small>
+
 + **Valentin Guignon**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
@@ -498,7 +530,7 @@ Notes:
 -->
 
 <!-- Pete S: This opening paragraph is hot garbage and should be rewritten, but I needed to start somewhere to get the creative writing process flowing.  -->
-Plant and animal breeding is an incredibly important part of today's society. Almost every country in the world has some kind of breeding program supporting the agricultural community to produce bigger, better, healthier, more sustainable crops. Modern breeding techniques require large amounts of high quality data to be effective. In the digital age, that breeding data is being collected, managed, and analyzed with computer software. Interoperability between breeding software tools, systems, and databases can substantially increase the efficiency of a breeding program. The ability to share tools gives each program a boost in computational power. The ability to share data means everyone has access to larger, more complete, datasets and get build more accurate computational models and produce more accurate predictions.
+Plant and animal breeding is an incredibly important part of today's society. Almost every country in the world has some kind of breeding program supporting the agricultural community to produce bigger, better, healthier, and more sustainable crops. Modern breeding techniques require large amounts of high quality data to be effective. In the digital age, that breeding data is being collected, managed, and analyzed with computer software. Interoperability between breeding software tools, systems, and databases can substantially increase the efficiency of a breeding program. The ability to share tools gives each program a boost in computational power. The ability to share data allows the community to leverage access to larger, more complete, datasets; similarly, the community can build more accurate computational models and produce more accurate predictions.
 
 The Breeding API (BrAPI) project is an effort to enable interoperability among breeding tools, systems, and databases. BrAPI is a standardized Representational State Transfer (REST), web service, Application Programming Interface (API), specification for breeding and related agricultural data. [@doi:10.1093/bioinformatics/btz190] By using the BrAPI standard, breeding software can more easily become interoperable, allowing groups to more easily share data and software tools.
 
@@ -520,7 +552,7 @@ As the specification has matured, so have the tools, services, and libraries ava
 
 ### Community Growth
 
-The international BrAPI Community consists of the software developers, breeders, and related scientists working on BrAPI related projects and data sources. This community is what sustains the BrAPI project, building implementations, maintaining development tools, and providing input to enhance the specification. As the project has grown, so has the community. The BrAPI project started in June 2014 with less than ten people coming together to discuss the idea. Over the next nine years, the community has grown to between 200 and 250 members. The community mailing list has 208 members, and the BrAPI Slack workspace has 234 members. The project leadership uses the mailing list to broadcast newsletters, announcements, and updates to the community. The BrAPI Slack workspace allows members of the community to discuss specific topics and collaborate directly with each other. 
+The international BrAPI Community consists of software developers, breeders, and related scientists working on BrAPI related projects and data sources. This community is what sustains the BrAPI project, building implementations, maintaining development tools, and providing input to enhance the specification. As the project has grown, so has the community. The BrAPI project started in June 2014 with less than ten people coming together to discuss the idea. Over the next nine years, the community has grown to between 200 and 250 members. The community mailing list has 208 members, and the BrAPI Slack workspace has 234 members. The project leadership uses the mailing list to broadcast newsletters, announcements, and updates to the community. The BrAPI Slack workspace allows members of the community to discuss specific topics and collaborate directly with each other. 
 
 The BrAPI Hackathons are a major staple of the BrAPI community. Twice a year, the community gathers to discuss the specification and collaborate on BrAPI related projects. This time is very valuable to the community; for some organizations, the hackathon is the only time during the year when they have time to work on anything related to BrAPI. During the COVID-19 pandemic, virtual hackathons took the place of in person events. While the virtual hackathons do not provide the same level of face-to-face time that is crucial to collaborative work, they did allow for more attendees to gather and share their opinions. The typical virtual hackathon has about twice as many registered attendees compared to an in-person hackathon. However, attendees have reported much more productive work time during the in-person events. As a compromise, going forward, the community leadership has decided to have one in-person hackathon and one virtual hackathon each year, to balance the advantages of both. 
 
@@ -547,9 +579,9 @@ Below are a number of short success stories from the BrAPI community. These tool
 #### Field Book
 
 <!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-Phenotypic data collection is an essential part of the breeding process. Historically, gathering data in the field was done with pen and paper, or perhaps some version of a digital spreadsheet. The abundance and prevalence of smart phones has allowed the Field Book mobile app to enhance data collection. Field Book can create well formed digital observation records from the moment they are taken. This can improve the efficiency of data collection and reduce human error. 
+Phenotypic data collection is an essential part of the breeding process. Historically, gathering data in the field was done with pen and paper, or perhaps some version of a digital spreadsheet. The abundance and prevalence of smart phones has allowed the Field Book mobile app to enhance data collection. Field Book can create well-formed digital observation records from the moment they are taken. This can improve the efficiency of data collection and reduce human error. 
 
-BrAPI was able to take things a step further by automating the flow of data from the Field Book mobile app to a central database server. In this work flow, data is collected and stored completely digitally with little-to-no human involvement. 
+In 2018, BrAPI was introduced into Field Book; specifically, the Core and Phenotyping modules. BrAPI was able to take things a step further by automating the flow of data from the Field Book mobile app to a central database server. This workflow allows data collection and storage to be expedited, removing the need of the user to transfer export files manually. Since Field Book’s adoption of BrAPI, many community servers have been integrated to simplify data storage. In this work flow, data is collected and stored completely digitally with little-to-no human involvement.
 
 #### ClimMob
 
@@ -622,8 +654,14 @@ DeltaBreed users need not be aware of BrAPI or the specifics of underlying appli
 
 #### BMS
 
-<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-[brapi sync](https://github.com/IntegratedBreedingPlatform/brapi-sync) and other things
+
+The [Breeding Management System (BMS)](https://bmspro.io), developed by the [Integrated Breeding Platform (IBP)](https://integratedbreeding.net/), is a suite of tools designed to enhance the efficiency and effectiveness of plant breeding. BMS covers all stages of the breeding process, with the emphasis on germplasm management and [ontology](https://cropontology.org)-harmonized phenotyping. It also features analytics and decision-support tools. With its focus on interoperability, BMS integrates smoothly with BrAPI, facilitating easy connections with a broad array of complementary tools and databases, notably [Gigwa](https://southgreen.fr/content/gigwa) which is deployed together with the BMS to fulfill the genotyping data management needs of BMS users.
+
+The [brapi-sync](https://github.com/IntegratedBreedingPlatform/brapi-sync) tool, a significant component of BMS’s BrAPI capabilities, was developed by the IBP and released as a BrAPP for community use. Brapi-sync is designed to enhance collaboration among partner institutes within a network such as Innovation and Plant Breeding in West Africa ([IAVAO](https://www.iavao.org/en)), by enabling the sharing of germplasm and trials across BrAPI-enabled systems. This tool helps overcome traditional barriers to collaboration, ensuring data that was once isolated within specific programs or platforms can now be easily shared, integrated, and synchronized. 
+
+Additionally, brapi-sync improves data management by utilizing the externalReferences field to maintain links to the origin IDs of each entity it transmits. This not only retains the original context of the data but also establishes a traceability mechanism for accurate data source attribution and verification. Such practices are crucial for maintaining data integrity and fostering trust among collaborative partners, ensuring access to accurate, reliable, and current information.
+
+
 
 #### Breedbase
 
@@ -673,6 +711,11 @@ To integrate those BrAPI endpoint provider into a single service and URL scheme,
 
 <!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
 Agrosystem Integration of germplasm collections in context of data trustee models among private economy and public research, integration of ex-situ genebanks (EU H2020 projects AGENT, INCREASING), integrated agrosystems and plant research infrastructure
+
+#### MIAPPE ISA to BrAPI service
+
+Phenotyping is crucial in the breeding process as it enables the identification of desirable traits, selection of breeding lines, and evaluation of breeding success. In the plant community, MIAPPE (Minimal Information About a Plant Phenotyping Experiment) [@doi:10.1111/nph.16544] is the established standard for phenotyping experiments and is commonly serialized as ISA Tab [@doi:10.1038/ng.1054]. Although ISA Tab is easy to read for non-technical experts due to its file-based approach, it lacks programmatic access, particularly for web applications. BrAPI, which is aligned with MIAPPE, can help solve this problem.
+MIRA is a tool that enables the automatic deployment of a BrAPI server on a MIAPPE-compliant dataset in ISA Tab format. It can be deployed from a Docker image with the dataset mounted. By utilizing the mapping between MIAPPE, ISA, and BrAPI, there is no need for parsing or manual mapping of datasets that are already compliant with (meta-)data standards. By gaining programmatic access through BrAPI to these datasets, it facilitates the integration of phenotyping datasets into web applications.
 
 #### MIAPPE "BrAPI to ISA" service
 
