@@ -166,6 +166,7 @@ authors:
   - name: Stephan Weise
     email: weise@ipk-gatersleben.de
     initials: SW
+    orcid: 0000-0003-4031-9131
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
   - name: Patrick König
@@ -227,6 +228,39 @@ authors:
     affiliations:
       - VIB Data Core
     corresponding: false
+  - name: Jan Erik Backlund
+    initials: JEB
+    email: j.backlund@integratedbreeding.net
+    affiliations:
+      - Integrated Breeding Platform
+  - name: Aldrin Batac
+    initials: AB
+    email: aldrin.batac@leafnode.io
+    affiliations:
+      - Integrated Breeding Platform
+      - Leafnode LLC
+  - name: Mariano Crimi
+    initials: MC
+    email: m.crimi@integratedbreeding.net
+    affiliations:
+      - Integrated Breeding Platform
+  - name: Corina Habito
+    initials: CH
+    email: c.habito@integratedbreeding.net
+    affiliations:
+      - Integrated Breeding Platform
+  - name: Nahuel Soldevilla
+    initials: NS
+    email: n.soldevilla@integratedbreeding.net
+    affiliations:
+      - Integrated Breeding Platform
+      - Leafnode LLC
+  - name: Clarysabel Tovar
+    initials: CT
+    email: 
+    affiliations:
+      - Integrated Breeding Platform
+      - Leafnode LLC
   - name: Sebastian Beier
     initials: SB
     github: sebeier
@@ -235,6 +269,7 @@ authors:
     affiliations:
       - 'Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszenturm Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany'
       - Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany
+    corresponding: false
   - name: Valentin Guignon
     initials: VG
     github: guignonv
@@ -251,3 +286,18 @@ authors:
     affiliations:
       - VIB AgroIncubator
     corresponding: false
+  - name: Laszlo Lang
+    initials: LL
+    github: LzLang
+    orcid: 0009-0009-8936-4532
+    email: laszlo.lang@stud.th-bingen.de
+    affiliations:
+      - Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
+    corresponding: false
+  - name: Vivian Bass Vega
+    initials: VBV
+    github: VivianBass
+    orcid: 0009-0002-2476-9888
+    email: vivbass4@gmail.com
+    affiliations:
+      - Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
