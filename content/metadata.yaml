@@ -176,6 +176,14 @@ authors:
     corresponding: false
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
+  - name: Manuel Feser
+    github: feserm
+    orcid: 0000-0001-6546-1818
+    email: feser@ipk-gatersleben.de
+    initials: MF
+    affiliations:
+      - Leibniz Institute of Plant Genetics and Crop Plant Research
+      - Graduate School DILS, Bielefeld Institute for Bioinformatics Infrastructure (BIBI)
   - name: Gouripriya Davuluri
     email: davuluri@ipk-gatersleben.de
     initials: GD
