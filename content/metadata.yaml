@@ -186,7 +186,8 @@ authors:
     email: erwan.le-floch@inrae.fr
     initials: ELF
     affiliations:
-      - URGI PlantBioinfoPF, INRAE France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, Versailles, France
   - name: Jospeh Ruff
     email: J.Ruff@kew.org
     initials: JR
@@ -195,8 +196,17 @@ authors:
   - name: Michael Alaux
     email: michael.alaux@inrae.fr
     initials: MA
+    orcid: 0000-0001-9356-4072
     affiliations:
-      - URGI PlantBioinfoPF, INRAE France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+  - name: Anne-Francoise Adam-Blondon
+    email: anne-francoise.adam-blondon@inrae.fr
+    initials: AFAB
+    orcid: 0000-0002-3412-9086
+    affiliations:
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, Versailles, France
   - name: Suman Kumar
     email: kumar@ipk-gatersleben.de
     initials: SK
