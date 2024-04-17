@@ -28,9 +28,10 @@ authors:
       - Clemson University
     corresponding: false
   - name: Khaled Al-Shamaa
-    initials: KA
+    initials: KS
     github: khaled-alshamaa
-    email: khaled.alshamaa@gmail.com
+    orcid: 0000-0002-7668-3798
+    email: k.el-shamaa@cgiar.org
     affiliations:
       - ICARDA
     corresponding: false
