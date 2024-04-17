@@ -28,9 +28,10 @@ authors:
       - Clemson University
     corresponding: false
   - name: Khaled Al-Shamaa
-    initials: KA
+    initials: KS
     github: khaled-alshamaa
-    email: khaled.alshamaa@gmail.com
+    orcid: 0000-0002-7668-3798
+    email: k.el-shamaa@cgiar.org
     affiliations:
       - ICARDA
     corresponding: false
@@ -150,7 +151,7 @@ authors:
     initials: ML
     github: langeipk
     orcid: 0000-0002-4316-078X
-    email: Matthias.Lange@leibniz-ipk.de
+    email: lange@ipk-gatersleben.de
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
     corresponding: false
@@ -163,17 +164,28 @@ authors:
       - CIRAD (french agricultural research and international cooperation organization)
       - South Green Platform
   - name: Stephan Weise
-    email: Stephan.Weise@leibniz-ipk.de
+    email: weise@ipk-gatersleben.de
     initials: SW
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
   - name: Patrick König
-    email: Patrick.Koenig@leibniz-ipk.de
+    email: koenig@ipk-gatersleben.de
     initials: PK
+    orcid: 0000-0002-8948-6793
+    github: patrick-koenig
+    corresponding: false
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
+  - name: Manuel Feser
+    github: feserm
+    orcid: 0000-0001-6546-1818
+    email: feser@ipk-gatersleben.de
+    initials: MF
+    affiliations:
+      - Leibniz Institute of Plant Genetics and Crop Plant Research
+      - Graduate School DILS, Bielefeld Institute for Bioinformatics Infrastructure (BIBI)
   - name: Gouripriya Davuluri
-    email: Gouripriya.Davuluri@leibniz-ipk.de
+    email: davuluri@ipk-gatersleben.de
     initials: GD
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
@@ -214,4 +226,20 @@ authors:
     email: bert.droesbeke@vib.be
     affiliations:
       - VIB Data Core
+    corresponding: false
+  - name: Sebastian Beier
+    initials: SB
+    github: sebeier
+    orcid: 0000-0002-2177-8781
+    email: s.beier@fz-juelich.de
+    affiliations:
+      - 'Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszenturm Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany'
+      - Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany
+  - name: Valentin Guignon
+    initials: VG
+    github: guignonv
+    orcid: 0000-0003-0903-6811
+    email: v.guignon@cgiar.org
+    affiliations:
+      - The Alliance of Bioversity International and CIAT (CGIAR)
     corresponding: false
