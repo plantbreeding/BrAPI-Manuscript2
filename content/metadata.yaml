@@ -227,7 +227,7 @@ authors:
     affiliations:
       - VIB Data Core
     corresponding: false
- - name: Sebastian Beier
+  - name: Sebastian Beier
     initials: SB
     github: sebeier
     orcid: 0000-0002-2177-8781
