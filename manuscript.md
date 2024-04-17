@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-04-16'
+date-meta: '2024-04-17'
 author-meta:
 - Peter "BrapMan" Selby
 - Trevor "Cool Kid" Rife
@@ -38,6 +38,7 @@ author-meta:
 - Suman Kumar
 - Matthijs Brouwer
 - Bert Droesbeke
+- Valentin Guignon
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -49,11 +50,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-04-16" />
-  <meta name="citation_publication_date" content="2024-04-16" />
-  <meta property="article:published_time" content="2024-04-16" />
-  <meta name="dc.modified" content="2024-04-16T13:59:28+00:00" />
-  <meta property="article:modified_time" content="2024-04-16T13:59:28+00:00" />
+  <meta name="dc.date" content="2024-04-17" />
+  <meta name="citation_publication_date" content="2024-04-17" />
+  <meta property="article:published_time" content="2024-04-17" />
+  <meta name="dc.modified" content="2024-04-17T09:11:16+00:00" />
+  <meta property="article:modified_time" content="2024-04-17T09:11:16+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -136,15 +137,18 @@ header-includes: |
   <meta name="citation_author" content="Bert Droesbeke" />
   <meta name="citation_author_institution" content="VIB Data Core" />
   <meta name="citation_author_orcid" content="0000-0003-0522-5674" />
+  <meta name="citation_author" content="Valentin Guignon" />
+  <meta name="citation_author_institution" content="The Alliance of Bioversity International and CIAT (CGIAR)" />
+  <meta name="citation_author_orcid" content="0000-0003-0903-6811" />
   <link rel="canonical" href="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="og:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="twitter:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/89966a59e50d4a60f83c1bcbbf3aba6ac8f9a30a/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/89966a59e50d4a60f83c1bcbbf3aba6ac8f9a30a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/89966a59e50d4a60f83c1bcbbf3aba6ac8f9a30a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cd9c80cf7cc01158d7a6468eada760ac4d968c15/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cd9c80cf7cc01158d7a6468eada760ac4d968c15/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cd9c80cf7cc01158d7a6468eada760ac4d968c15/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -166,10 +170,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/89966a59e50d4a60f83c1bcbbf3aba6ac8f9a30a/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/cd9c80cf7cc01158d7a6468eada760ac4d968c15/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@89966a5](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/89966a59e50d4a60f83c1bcbbf3aba6ac8f9a30a)
-on April 16, 2024.
+from [plantbreeding/BrAPI-Manuscript2@cd9c80c](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/cd9c80cf7cc01158d7a6468eada760ac4d968c15)
+on April 17, 2024.
 </em></small>
 
 
@@ -438,6 +442,17 @@ on April 16, 2024.
     <br>
   <small>
      VIB Data Core
+  </small>
+
++ **Valentin Guignon**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0003-0903-6811](https://orcid.org/0000-0003-0903-6811)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [guignonv](https://github.com/guignonv)
+    <br>
+  <small>
+     The Alliance of Bioversity International and CIAT (CGIAR)
   </small>
 
 

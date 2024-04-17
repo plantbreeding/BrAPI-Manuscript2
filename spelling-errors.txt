@@ -20,6 +20,7 @@ BeegMac
 BIMS
 BioinfOmics
 bioinformatics
+Bioversity
 BMS
 BrAPI
 BrapiCoordinatorSelby
@@ -33,6 +34,7 @@ cardinalb
 Casstevens
 CGIAR
 chaneylc
+CIAT
 CIRAD
 CLI
 ClimMob
@@ -65,7 +67,7 @@ Floch
 Florilège
 FLORILÈGE
 focussing
-genebank
+Genebank
 genebanks
 genomic
 genotype
@@ -73,17 +75,19 @@ genotypes
 genotypic
 Genotyping
 germplasm
-Gigwa
+GIGWA
 GLIS
 Gouripriya
 GraphQL
 GridScore
+Guignon
+guignonv
 Guilhem
 GuilhemSempere
 GWAS
 hackathon
-Hackathons
-Haplotype
+hackathons
+haplotype
 haplotypes
 hoc
 HortControl
@@ -92,7 +96,7 @@ ICARDA
 ImageBreed
 imilne
 INBS
-inrae
+INRAE
 Installable
 interoperable
 Investissements
@@ -106,7 +110,7 @@ js
 JSON
 Kersey
 Kew
-Khaled
+khaled
 König
 Kumar
 Lamos
@@ -138,7 +142,7 @@ PHENOME
 phenomic
 Phenospex
 phenotypes
-phenotypic
+Phenotypic
 phenotyping
 PHG
 PHIS’s
@@ -150,7 +154,7 @@ programmatically
 programme
 QBMS
 QTL
-Raubach
+raubach
 Rosaceae
 rPHG
 Saclay
