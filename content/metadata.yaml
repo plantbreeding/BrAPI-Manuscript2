@@ -243,3 +243,11 @@ authors:
     affiliations:
       - The Alliance of Bioversity International and CIAT (CGIAR)
     corresponding: false
+  - name: Rafael Abbeloos
+    initials: RA
+    github: raabb
+    orcid: 0000-0002-0177-3887
+    email: rafael.abbeloos@vib.be
+    affiliations:
+      - VIB AgroIncubator
+    corresponding: false
