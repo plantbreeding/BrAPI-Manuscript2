@@ -47,6 +47,8 @@ author-meta:
 - Clarysabel Tovar
 - Sebastian Beier
 - Valentin Guignon
+- Laszlo Lang
+- Vivian Bass Vega
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -61,8 +63,8 @@ header-includes: |
   <meta name="dc.date" content="2024-04-17" />
   <meta name="citation_publication_date" content="2024-04-17" />
   <meta property="article:published_time" content="2024-04-17" />
-  <meta name="dc.modified" content="2024-04-17T12:45:06+00:00" />
-  <meta property="article:modified_time" content="2024-04-17T12:45:06+00:00" />
+  <meta name="dc.modified" content="2024-04-17T12:50:43+00:00" />
+  <meta property="article:modified_time" content="2024-04-17T12:50:43+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -127,6 +129,7 @@ header-includes: |
   <meta name="citation_author_orcid" content="0000-0001-7429-2091" />
   <meta name="citation_author" content="Stephan Weise" />
   <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
+  <meta name="citation_author_orcid" content="0000-0003-4031-9131" />
   <meta name="citation_author" content="Patrick König" />
   <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
   <meta name="citation_author_orcid" content="0000-0002-8948-6793" />
@@ -173,15 +176,21 @@ header-includes: |
   <meta name="citation_author" content="Valentin Guignon" />
   <meta name="citation_author_institution" content="The Alliance of Bioversity International and CIAT (CGIAR)" />
   <meta name="citation_author_orcid" content="0000-0003-0903-6811" />
+  <meta name="citation_author" content="Laszlo Lang" />
+  <meta name="citation_author_institution" content="Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany" />
+  <meta name="citation_author_orcid" content="0009-0009-8936-4532" />
+  <meta name="citation_author" content="Vivian Bass Vega" />
+  <meta name="citation_author_institution" content="Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany" />
+  <meta name="citation_author_orcid" content="0009-0002-2476-9888" />
   <link rel="canonical" href="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="og:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="twitter:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1da7aa46d4ff95b0972b3699a714538da3747977/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1da7aa46d4ff95b0972b3699a714538da3747977/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1da7aa46d4ff95b0972b3699a714538da3747977/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/6ef753a6bc8c0a230d22c7ea206bbc3110cb9e7a/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/6ef753a6bc8c0a230d22c7ea206bbc3110cb9e7a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/6ef753a6bc8c0a230d22c7ea206bbc3110cb9e7a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -203,9 +212,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/1da7aa46d4ff95b0972b3699a714538da3747977/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/6ef753a6bc8c0a230d22c7ea206bbc3110cb9e7a/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@1da7aa4](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/1da7aa46d4ff95b0972b3699a714538da3747977)
+from [plantbreeding/BrAPI-Manuscript2@6ef753a](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/6ef753a6bc8c0a230d22c7ea206bbc3110cb9e7a)
 on April 17, 2024.
 </em></small>
 
@@ -416,6 +425,9 @@ on April 17, 2024.
 
 + **Stephan Weise**
   <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0003-4031-9131](https://orcid.org/0000-0003-4031-9131)
+    <br>
   <small>
      Leibniz Institute of Plant Genetics and Crop Plant Research
   </small>
@@ -551,6 +563,28 @@ on April 17, 2024.
     <br>
   <small>
      The Alliance of Bioversity International and CIAT (CGIAR)
+  </small>
+
++ **Laszlo Lang**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0009-0009-8936-4532](https://orcid.org/0009-0009-8936-4532)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [LzLang](https://github.com/LzLang)
+    <br>
+  <small>
+     Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
+  </small>
+
++ **Vivian Bass Vega**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0009-0002-2476-9888](https://orcid.org/0009-0002-2476-9888)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [VivianBass](https://github.com/VivianBass)
+    <br>
+  <small>
+     Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
   </small>
 
 
