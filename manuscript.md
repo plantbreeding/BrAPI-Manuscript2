@@ -39,6 +39,12 @@ author-meta:
 - Suman Kumar
 - Matthijs Brouwer
 - Bert Droesbeke
+- Jan Erik Backlund
+- Aldrin Batac
+- Mariano Crimi
+- Corina Habito
+- Nahuel Soldevilla
+- Clarysabel Tovar
 - Sebastian Beier
 - Valentin Guignon
 header-includes: |
@@ -55,8 +61,8 @@ header-includes: |
   <meta name="dc.date" content="2024-04-17" />
   <meta name="citation_publication_date" content="2024-04-17" />
   <meta property="article:published_time" content="2024-04-17" />
-  <meta name="dc.modified" content="2024-04-17T09:31:25+00:00" />
-  <meta property="article:modified_time" content="2024-04-17T09:31:25+00:00" />
+  <meta name="dc.modified" content="2024-04-17T12:45:06+00:00" />
+  <meta property="article:modified_time" content="2024-04-17T12:45:06+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -145,6 +151,21 @@ header-includes: |
   <meta name="citation_author" content="Bert Droesbeke" />
   <meta name="citation_author_institution" content="VIB Data Core" />
   <meta name="citation_author_orcid" content="0000-0003-0522-5674" />
+  <meta name="citation_author" content="Jan Erik Backlund" />
+  <meta name="citation_author_institution" content="Integrated Breeding Platform" />
+  <meta name="citation_author" content="Aldrin Batac" />
+  <meta name="citation_author_institution" content="Integrated Breeding Platform" />
+  <meta name="citation_author_institution" content="Leafnode LLC" />
+  <meta name="citation_author" content="Mariano Crimi" />
+  <meta name="citation_author_institution" content="Integrated Breeding Platform" />
+  <meta name="citation_author" content="Corina Habito" />
+  <meta name="citation_author_institution" content="Integrated Breeding Platform" />
+  <meta name="citation_author" content="Nahuel Soldevilla" />
+  <meta name="citation_author_institution" content="Integrated Breeding Platform" />
+  <meta name="citation_author_institution" content="Leafnode LLC" />
+  <meta name="citation_author" content="Clarysabel Tovar" />
+  <meta name="citation_author_institution" content="Integrated Breeding Platform" />
+  <meta name="citation_author_institution" content="Leafnode LLC" />
   <meta name="citation_author" content="Sebastian Beier" />
   <meta name="citation_author_institution" content="Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszenturm Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany" />
   <meta name="citation_author_institution" content="Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany" />
@@ -158,9 +179,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1df77eeef3b9e394e0536abbc221c6e75063d5c0/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1df77eeef3b9e394e0536abbc221c6e75063d5c0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1df77eeef3b9e394e0536abbc221c6e75063d5c0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1da7aa46d4ff95b0972b3699a714538da3747977/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1da7aa46d4ff95b0972b3699a714538da3747977/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1da7aa46d4ff95b0972b3699a714538da3747977/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -182,9 +203,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/1df77eeef3b9e394e0536abbc221c6e75063d5c0/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/1da7aa46d4ff95b0972b3699a714538da3747977/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@1df77ee](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/1df77eeef3b9e394e0536abbc221c6e75063d5c0)
+from [plantbreeding/BrAPI-Manuscript2@1da7aa4](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/1da7aa46d4ff95b0972b3699a714538da3747977)
 on April 17, 2024.
 </em></small>
 
@@ -472,6 +493,42 @@ on April 17, 2024.
     <br>
   <small>
      VIB Data Core
+  </small>
+
++ **Jan Erik Backlund**
+  <br>
+  <small>
+     Integrated Breeding Platform
+  </small>
+
++ **Aldrin Batac**
+  <br>
+  <small>
+     Integrated Breeding Platform; Leafnode LLC
+  </small>
+
++ **Mariano Crimi**
+  <br>
+  <small>
+     Integrated Breeding Platform
+  </small>
+
++ **Corina Habito**
+  <br>
+  <small>
+     Integrated Breeding Platform
+  </small>
+
++ **Nahuel Soldevilla**
+  <br>
+  <small>
+     Integrated Breeding Platform; Leafnode LLC
+  </small>
+
++ **Clarysabel Tovar**
+  <br>
+  <small>
+     Integrated Breeding Platform; Leafnode LLC
   </small>
 
 + **Sebastian Beier**
