@@ -227,6 +227,39 @@ authors:
     affiliations:
       - VIB Data Core
     corresponding: false
+  - name: Jan Erik Backlund
+    initials: JEB
+    email: j.backlund@integratedbreeding.net
+    affiliations:
+      - Integrated Breeding Platform
+  - name: Aldrin Batac
+    initials: AB
+    email: aldrin.batac@leafnode.io
+    affiliations:
+      - Integrated Breeding Platform
+      - Leafnode LLC
+  - name: Mariano Crimi
+    initials: MC
+    email: m.crimi@integratedbreeding.net
+    affiliations:
+      - Integrated Breeding Platform
+  - name: Corina Habito
+    initials: CH
+    email: c.habito@integratedbreeding.net
+    affiliations:
+      - Integrated Breeding Platform
+  - name: Nahuel Soldevilla
+    initials: NS
+    email: n.soldevilla@integratedbreeding.net
+    affiliations:
+      - Integrated Breeding Platform
+      - Leafnode LLC
+  - name: Clarysabel Tovar
+    initials: CT
+    email: 
+    affiliations:
+      - Integrated Breeding Platform
+      - Leafnode LLC
   - name: Sebastian Beier
     initials: SB
     github: sebeier
