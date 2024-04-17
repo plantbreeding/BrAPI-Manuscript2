@@ -219,6 +219,14 @@ authors:
     affiliations:
       - VIB Data Core
     corresponding: false
+ - name: Sebastian Beier
+    initials: SB
+    github: sebeier
+    orcid: 0000-0002-2177-8781
+    email: s.beier@fz-juelich.de
+    affiliations:
+      - Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszenturm Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany 
+      - Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany
   - name: Valentin Guignon
     initials: VG
     github: guignonv
