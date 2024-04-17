@@ -215,3 +215,11 @@ authors:
     affiliations:
       - VIB Data Core
     corresponding: false
+  - name: Valentin Guignon
+    initials: VG
+    github: guignonv
+    orcid: 0000-0003-0903-6811
+    email: v.guignon@cgiar.org
+    affiliations:
+      - The Alliance of Bioversity International and CIAT (CGIAR)
+    corresponding: false
