@@ -53,8 +53,8 @@ header-includes: |
   <meta name="dc.date" content="2024-04-17" />
   <meta name="citation_publication_date" content="2024-04-17" />
   <meta property="article:published_time" content="2024-04-17" />
-  <meta name="dc.modified" content="2024-04-17T09:11:16+00:00" />
-  <meta property="article:modified_time" content="2024-04-17T09:11:16+00:00" />
+  <meta name="dc.modified" content="2024-04-17T09:13:13+00:00" />
+  <meta property="article:modified_time" content="2024-04-17T09:13:13+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -69,6 +69,7 @@ header-includes: |
   <meta name="citation_author_orcid" content="0000-0002-5974-6523" />
   <meta name="citation_author" content="Khaled Al-Shamaa" />
   <meta name="citation_author_institution" content="ICARDA" />
+  <meta name="citation_author_orcid" content="0000-0002-7668-3798" />
   <meta name="citation_author" content="Isabelle Alic" />
   <meta name="citation_author_institution" content="INRAE" />
   <meta name="citation_author_orcid" content="0000-0002-8961-6068" />
@@ -120,6 +121,7 @@ header-includes: |
   <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
   <meta name="citation_author" content="Patrick König" />
   <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
+  <meta name="citation_author_orcid" content="0000-0002-8948-6793" />
   <meta name="citation_author" content="Gouripriya Davuluri" />
   <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
   <meta name="citation_author" content="Paul Kersey" />
@@ -146,9 +148,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cd9c80cf7cc01158d7a6468eada760ac4d968c15/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cd9c80cf7cc01158d7a6468eada760ac4d968c15/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cd9c80cf7cc01158d7a6468eada760ac4d968c15/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ca78d906c409d60cc7b2fe13271b22cf114cb619/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ca78d906c409d60cc7b2fe13271b22cf114cb619/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ca78d906c409d60cc7b2fe13271b22cf114cb619/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -170,9 +172,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/cd9c80cf7cc01158d7a6468eada760ac4d968c15/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/ca78d906c409d60cc7b2fe13271b22cf114cb619/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@cd9c80c](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/cd9c80cf7cc01158d7a6468eada760ac4d968c15)
+from [plantbreeding/BrAPI-Manuscript2@ca78d90](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/ca78d906c409d60cc7b2fe13271b22cf114cb619)
 on April 17, 2024.
 </em></small>
 
@@ -207,6 +209,8 @@ on April 17, 2024.
 
 + **Khaled Al-Shamaa**
   <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-7668-3798](https://orcid.org/0000-0002-7668-3798)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [khaled-alshamaa](https://github.com/khaled-alshamaa)
     <br>
@@ -387,6 +391,11 @@ on April 17, 2024.
 
 + **Patrick König**
   <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-8948-6793](https://orcid.org/0000-0002-8948-6793)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [patrick-koenig](https://github.com/patrick-koenig)
+    <br>
   <small>
      Leibniz Institute of Plant Genetics and Crop Plant Research
   </small>

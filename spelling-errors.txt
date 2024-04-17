@@ -5,7 +5,7 @@ agrosystems
 Alaux
 Alic
 alshamaa
-analytics
+Analytics
 ANR
 API’s
 arial
@@ -19,7 +19,7 @@ bedroesb
 BeegMac
 BIMS
 BioinfOmics
-bioinformatics
+Bioinformatics
 Bioversity
 BMS
 BrAPI
@@ -67,7 +67,7 @@ Floch
 Florilège
 FLORILÈGE
 focussing
-Genebank
+genebank
 genebanks
 genomic
 genotype
@@ -75,7 +75,7 @@ genotypes
 genotypic
 Genotyping
 germplasm
-GIGWA
+Gigwa
 GLIS
 Gouripriya
 GraphQL
@@ -86,7 +86,7 @@ Guilhem
 GuilhemSempere
 GWAS
 hackathon
-hackathons
+Hackathons
 haplotype
 haplotypes
 hoc
@@ -110,7 +110,8 @@ js
 JSON
 Kersey
 Kew
-khaled
+Khaled
+koenig
 König
 Kumar
 Lamos
@@ -138,12 +139,12 @@ OpenSILEX
 pangenome
 PGR
 PGRFA
-PHENOME
+Phenome
 phenomic
 Phenospex
 phenotypes
 Phenotypic
-phenotyping
+Phenotyping
 PHG
 PHIS’s
 phylogenetic
@@ -154,7 +155,7 @@ programmatically
 programme
 QBMS
 QTL
-raubach
+Raubach
 Rosaceae
 rPHG
 Saclay
