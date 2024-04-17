@@ -151,7 +151,7 @@ authors:
     initials: ML
     github: langeipk
     orcid: 0000-0002-4316-078X
-    email: Matthias.Lange@leibniz-ipk.de
+    email: lange@ipk-gatersleben.de
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
     corresponding: false
@@ -164,17 +164,20 @@ authors:
       - CIRAD (french agricultural research and international cooperation organization)
       - South Green Platform
   - name: Stephan Weise
-    email: Stephan.Weise@leibniz-ipk.de
+    email: weise@ipk-gatersleben.de
     initials: SW
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
   - name: Patrick König
-    email: Patrick.Koenig@leibniz-ipk.de
+    email: koenig@ipk-gatersleben.de
     initials: PK
+    orcid: 0000-0002-8948-6793
+    github: patrick-koenig
+    corresponding: false
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
   - name: Gouripriya Davuluri
-    email: Gouripriya.Davuluri@leibniz-ipk.de
+    email: davuluri@ipk-gatersleben.de
     initials: GD
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
