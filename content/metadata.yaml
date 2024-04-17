@@ -233,8 +233,9 @@ authors:
     orcid: 0000-0002-2177-8781
     email: s.beier@fz-juelich.de
     affiliations:
-      - 'Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszenturm Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany'
+      - Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszenturm Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany
       - Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany
+    corresponding: false
   - name: Valentin Guignon
     initials: VG
     github: guignonv
@@ -242,4 +243,20 @@ authors:
     email: v.guignon@cgiar.org
     affiliations:
       - The Alliance of Bioversity International and CIAT (CGIAR)
+    corresponding: false
+  - name: Laszlo Lang
+    initials: LL
+    github: LzLang
+    orcid: 0009-0009-8936-4532
+    email: laszlo.lang@stud.th-bingen.de
+    affiliations:
+      - Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
+    corresponding: false
+  - name: Vivian Bass Vega
+    initials: VBV
+    github: VivianBass
+    orcid: 0009-0002-2476-9888
+    email: vivbass4@gmail.com
+    affiliations:
+      - Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
     corresponding: false
