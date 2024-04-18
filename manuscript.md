@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-04-17'
+date-meta: '2024-04-18'
 author-meta:
 - Peter "BrapMan" Selby
 - Trevor "Cool Kid" Rife
@@ -60,11 +60,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-04-17" />
-  <meta name="citation_publication_date" content="2024-04-17" />
-  <meta property="article:published_time" content="2024-04-17" />
-  <meta name="dc.modified" content="2024-04-17T12:50:43+00:00" />
-  <meta property="article:modified_time" content="2024-04-17T12:50:43+00:00" />
+  <meta name="dc.date" content="2024-04-18" />
+  <meta name="citation_publication_date" content="2024-04-18" />
+  <meta property="article:published_time" content="2024-04-18" />
+  <meta name="dc.modified" content="2024-04-18T07:25:46+00:00" />
+  <meta property="article:modified_time" content="2024-04-18T07:25:46+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -188,9 +188,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/6ef753a6bc8c0a230d22c7ea206bbc3110cb9e7a/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/6ef753a6bc8c0a230d22c7ea206bbc3110cb9e7a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/6ef753a6bc8c0a230d22c7ea206bbc3110cb9e7a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/50ad6b3fb0699c3ec10a6105bf51a4a3d16b81fb/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/50ad6b3fb0699c3ec10a6105bf51a4a3d16b81fb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/50ad6b3fb0699c3ec10a6105bf51a4a3d16b81fb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -212,10 +212,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/6ef753a6bc8c0a230d22c7ea206bbc3110cb9e7a/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/50ad6b3fb0699c3ec10a6105bf51a4a3d16b81fb/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@6ef753a](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/6ef753a6bc8c0a230d22c7ea206bbc3110cb9e7a)
-on April 17, 2024.
+from [plantbreeding/BrAPI-Manuscript2@50ad6b3](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/50ad6b3fb0699c3ec10a6105bf51a4a3d16b81fb)
+on April 18, 2024.
 </em></small>
 
 
@@ -847,8 +847,9 @@ DArTView is a desktop application for visualizing genotype variant data and look
 
 #### DivBrowse
 
-<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-DivBrowse is a BrAPI compatible tool for visualizing genotype variant data. 
+DivBrowse [@doi:10.1093/gigascience/giad025] is a web platform for exploratory data analysis of huge genotyping studies. The software can be run standalone or integrated as a plugin into existing data web portals. It provides a powerful interactive visualization of variant call matrices with hundreds of millions of variants and thousands of samples and enables easy data import and export by using standardized and established bioinformatics file formats. 
+At its core, DivBrowse combines the convenience of a genome browser and adds features tailored to the diversity analysis of germplasm. It is able to display genomic features such as nucleotide sequence, associated gene models and short genomic variants. DivBrowse provides visual access to large VCF files obtained through genotyping experiments. In addition to visualizing variant calls per variant and genotype, DivBrowse also calculates and displays variant statistics such as minor allele frequencies, proportion of heterozygous calls or missing variant calls for each visualized genomic window. In addition, dynamic Principal Component Analyses (PCAs) can be performed on a user specified genomic area to provide information on local genomic diversity. 
+DivBrowse has a Javascript API to control the tool from a hosting web portal (e.g. to control the list of genotypes to be displayed and the reference genome). DivBrowse has an interface to BLAST, which can be used to directly access genes or other genomic features. The modular structure of DivBrowse also allows developers to configure and easily embed links to external information systems. Furthermore, parts of BrAPI are implemented to provide genotypic data via its server-side component and is also able to consume and visualize genotypic data via an external BrAPI endpoint through the client-side GUI.
 
 
 ### Analytics
