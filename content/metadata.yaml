@@ -323,6 +323,14 @@ authors:
     affiliations:
       - Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany
     corresponding: false
+  - name: Rafael Abbeloos
+    initials: RA
+    github: raabb
+    orcid: 0000-0002-0177-3887
+    email: rafael.abbeloos@vib.be
+    affiliations:
+      - VIB AgroIncubator
+    corresponding: false
   - name: Laszlo Lang
     initials: LL
     github: LzLang
