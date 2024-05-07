@@ -64,8 +64,8 @@ header-includes: |
   <meta name="dc.date" content="2024-05-07" />
   <meta name="citation_publication_date" content="2024-05-07" />
   <meta property="article:published_time" content="2024-05-07" />
-  <meta name="dc.modified" content="2024-05-07T18:02:47+00:00" />
-  <meta property="article:modified_time" content="2024-05-07T18:02:47+00:00" />
+  <meta name="dc.modified" content="2024-05-07T18:03:30+00:00" />
+  <meta property="article:modified_time" content="2024-05-07T18:03:30+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -192,9 +192,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/88c59350b390ab68753adbaf0e59b75b55c2d44e/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/88c59350b390ab68753adbaf0e59b75b55c2d44e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/88c59350b390ab68753adbaf0e59b75b55c2d44e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/93e500133ab65c0abfa76e53f04101a09a79a03e/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/93e500133ab65c0abfa76e53f04101a09a79a03e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/93e500133ab65c0abfa76e53f04101a09a79a03e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -216,9 +216,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/88c59350b390ab68753adbaf0e59b75b55c2d44e/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/93e500133ab65c0abfa76e53f04101a09a79a03e/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@88c5935](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/88c59350b390ab68753adbaf0e59b75b55c2d44e)
+from [plantbreeding/BrAPI-Manuscript2@93e5001](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/93e500133ab65c0abfa76e53f04101a09a79a03e)
 on May 7, 2024.
 </em></small>
 
@@ -882,7 +882,13 @@ Since its release on the official CRAN repository in October 2021, the QBMS R pa
 #### Mr. Bean
 
 <!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-Mr. Bean is an analytics and visualization tool. Mr. Bean has a data import tool which can pull data directly from a BrAPI compatible source. 
+
+Mr.Bean is a graphical user interface designed to assist breeders, statisticians, and individuals involved in plant breeding programs with the analysis of field trials. By utilizing innovative methodologies such as SpATS for modeling spatial trends and autocorrelation models to address spatial variability, Mr.Bean proves highly practical and powerful in facilitating faster and more effective decision-making. Modeling Genotype-by-environment interaction poses its challenges, but Mr.Bean offers the capability to explore various variance-covariance matrices, including Factor Analytic, compound symmetry, and heterogeneous variances, among others, aiding in the assessment of genotype performance across diverse environments.
+
+Mr.Bean boasts flexibility in importing different file types, yet for users managing their data within data management systems (DMS), the process of downloading from their DMS and importing it into MrBean can be cumbersome. To address this issue, QBMS operates in the back-end. This feature prompts users to input the URL of the server, their credentials if necessary, and the specific trial they wish to analyze. Subsequently, users can seamlessly access and utilize their dataset within the entire interface.
+
+Aparicio, J., Gezan, S. A., Ariza-Suarez, D., Raatz, B., Diaz, S., Heilman-Morales, A., & Lobaton, J. (2024). Mr. Bean: a comprehensive statistical and visualization application for modeling agricultural field trial data. Frontiers in Plant Science, 14, 1290078.
+
 
 #### G-Crunch
 
