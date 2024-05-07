@@ -5,7 +5,7 @@ agrosystems
 Alaux
 Alic
 alshamaa
-analytics
+Analytics
 ANR
 API’s
 arial
@@ -38,7 +38,7 @@ BrapMan
 BrAPP
 BrAPPs
 BRAVA
-Breedbase
+BreedBase
 Brouwer
 cardinalb
 Casstevens
@@ -95,8 +95,8 @@ genotypes
 genotypic
 Genotyping
 Geosciences
-germplasm
-Gigwa
+Germplasm
+GIGWA
 GLIS
 GmbH
 Gouripriya
@@ -109,8 +109,8 @@ GuilhemSempere
 GWAS
 Habito
 hackathon
-Hackathons
-haplotype
+hackathons
+Haplotype
 haplotypes
 heterozygous
 hoc
@@ -139,7 +139,7 @@ JSON
 Jülich
 Kersey
 Kew
-khaled
+Khaled
 koenig
 König
 Kumar
@@ -174,14 +174,13 @@ pangenome
 PCAs
 PGR
 PGRFA
-PHENOME
+Phenome
 phenomic
 Phenospex
 phenotypes
-Phenotypic
-Phenotyping
+phenotypic
+phenotyping
 PHG
-PHIS’s
 phylogenetic
 PlantBioinfoPF
 Pommier
@@ -190,7 +189,7 @@ programmatically
 programme
 QBMS
 QTL
-raubach
+Raubach
 Rhein
 Rosaceae
 rPHG
