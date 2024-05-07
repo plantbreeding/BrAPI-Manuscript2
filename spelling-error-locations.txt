@@ -626,6 +626,8 @@ content/03.07.data-portals.md:40:xyz
 content/03.07.data-portals.md:44:BrAPI
 content/03.07.data-portals.md:44:js
 content/03.07.data-portals.md:44:WebAssembly
+content/03.07.data-portals.md:46:Asis
+content/03.07.data-portals.md:46:Hallab
 content/03.07.data-portals.md:48:BrAPI
 content/03.07.data-portals.md:48:GraphQL
 content/03.07.data-portals.md:48:GraphQL

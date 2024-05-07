@@ -47,6 +47,7 @@ author-meta:
 - Clarysabel Tovar
 - Sebastian Beier
 - Valentin Guignon
+- Asis Hallab
 - Laszlo Lang
 - Vivian Bass Vega
 header-includes: |
@@ -63,8 +64,8 @@ header-includes: |
   <meta name="dc.date" content="2024-05-07" />
   <meta name="citation_publication_date" content="2024-05-07" />
   <meta property="article:published_time" content="2024-05-07" />
-  <meta name="dc.modified" content="2024-05-07T18:02:09+00:00" />
-  <meta property="article:modified_time" content="2024-05-07T18:02:09+00:00" />
+  <meta name="dc.modified" content="2024-05-07T18:02:47+00:00" />
+  <meta property="article:modified_time" content="2024-05-07T18:02:47+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -176,6 +177,9 @@ header-includes: |
   <meta name="citation_author" content="Valentin Guignon" />
   <meta name="citation_author_institution" content="The Alliance of Bioversity International and CIAT (CGIAR)" />
   <meta name="citation_author_orcid" content="0000-0003-0903-6811" />
+  <meta name="citation_author" content="Asis Hallab" />
+  <meta name="citation_author_institution" content="Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany" />
+  <meta name="citation_author_orcid" content="0000-0002-2421-5431" />
   <meta name="citation_author" content="Laszlo Lang" />
   <meta name="citation_author_institution" content="Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany" />
   <meta name="citation_author_orcid" content="0009-0009-8936-4532" />
@@ -188,9 +192,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/21f6e85351f788a6c8622f144263e605296f4751/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/21f6e85351f788a6c8622f144263e605296f4751/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/21f6e85351f788a6c8622f144263e605296f4751/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/88c59350b390ab68753adbaf0e59b75b55c2d44e/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/88c59350b390ab68753adbaf0e59b75b55c2d44e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/88c59350b390ab68753adbaf0e59b75b55c2d44e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -212,9 +216,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/21f6e85351f788a6c8622f144263e605296f4751/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/88c59350b390ab68753adbaf0e59b75b55c2d44e/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@21f6e85](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/21f6e85351f788a6c8622f144263e605296f4751)
+from [plantbreeding/BrAPI-Manuscript2@88c5935](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/88c59350b390ab68753adbaf0e59b75b55c2d44e)
 on May 7, 2024.
 </em></small>
 
@@ -563,6 +567,17 @@ on May 7, 2024.
     <br>
   <small>
      The Alliance of Bioversity International and CIAT (CGIAR)
+  </small>
+
++ **Asis Hallab**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-2421-5431](https://orcid.org/0000-0002-2421-5431)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [https://github.com/asishallab](https://github.com/https://github.com/asishallab)
+    <br>
+  <small>
+     Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany
   </small>
 
 + **Laszlo Lang**

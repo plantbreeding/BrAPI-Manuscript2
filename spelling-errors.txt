@@ -5,11 +5,12 @@ agrosystems
 Alaux
 Alic
 alshamaa
-Analytics
+analytics
 ANR
 API’s
 arial
 ARS
+Asis
 aspirational
 backcrossing
 backend
@@ -27,7 +28,7 @@ BIMS
 Bingen
 Bioeconomy
 BioinfOmics
-Bioinformatics
+bioinformatics
 BioSC
 Bioversity
 BMS
@@ -93,10 +94,10 @@ genomic
 genotype
 genotypes
 genotypic
-Genotyping
+genotyping
 Geosciences
-Germplasm
-GIGWA
+germplasm
+Gigwa
 GLIS
 GmbH
 Gouripriya
@@ -110,7 +111,8 @@ GWAS
 Habito
 hackathon
 hackathons
-Haplotype
+Hallab
+haplotype
 haplotypes
 heterozygous
 hoc
