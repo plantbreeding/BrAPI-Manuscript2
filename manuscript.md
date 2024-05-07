@@ -47,6 +47,7 @@ author-meta:
 - Clarysabel Tovar
 - Sebastian Beier
 - Valentin Guignon
+- Mathieu Rouard
 - Asis Hallab
 - Laszlo Lang
 - Vivian Bass Vega
@@ -64,8 +65,8 @@ header-includes: |
   <meta name="dc.date" content="2024-05-07" />
   <meta name="citation_publication_date" content="2024-05-07" />
   <meta property="article:published_time" content="2024-05-07" />
-  <meta name="dc.modified" content="2024-05-07T18:03:30+00:00" />
-  <meta property="article:modified_time" content="2024-05-07T18:03:30+00:00" />
+  <meta name="dc.modified" content="2024-05-07T18:04:02+00:00" />
+  <meta property="article:modified_time" content="2024-05-07T18:04:02+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -175,8 +176,11 @@ header-includes: |
   <meta name="citation_author_institution" content="Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany" />
   <meta name="citation_author_orcid" content="0000-0002-2177-8781" />
   <meta name="citation_author" content="Valentin Guignon" />
-  <meta name="citation_author_institution" content="The Alliance of Bioversity International and CIAT (CGIAR)" />
+  <meta name="citation_author_institution" content="Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France" />
   <meta name="citation_author_orcid" content="0000-0003-0903-6811" />
+  <meta name="citation_author" content="Mathieu Rouard" />
+  <meta name="citation_author_institution" content="Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France" />
+  <meta name="citation_author_orcid" content="0000-0003-0284-1885" />
   <meta name="citation_author" content="Asis Hallab" />
   <meta name="citation_author_institution" content="Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany" />
   <meta name="citation_author_orcid" content="0000-0002-2421-5431" />
@@ -192,9 +196,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/93e500133ab65c0abfa76e53f04101a09a79a03e/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/93e500133ab65c0abfa76e53f04101a09a79a03e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/93e500133ab65c0abfa76e53f04101a09a79a03e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0d26ea3fc315b07ecd36d1c796563a07a2933f86/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0d26ea3fc315b07ecd36d1c796563a07a2933f86/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0d26ea3fc315b07ecd36d1c796563a07a2933f86/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -216,9 +220,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/93e500133ab65c0abfa76e53f04101a09a79a03e/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/0d26ea3fc315b07ecd36d1c796563a07a2933f86/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@93e5001](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/93e500133ab65c0abfa76e53f04101a09a79a03e)
+from [plantbreeding/BrAPI-Manuscript2@0d26ea3](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/0d26ea3fc315b07ecd36d1c796563a07a2933f86)
 on May 7, 2024.
 </em></small>
 
@@ -566,7 +570,18 @@ on May 7, 2024.
     [guignonv](https://github.com/guignonv)
     <br>
   <small>
-     The Alliance of Bioversity International and CIAT (CGIAR)
+     Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France
+  </small>
+
++ **Mathieu Rouard**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0003-0284-1885](https://orcid.org/0000-0003-0284-1885)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [mrouard](https://github.com/mrouard)
+    <br>
+  <small>
+     Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France
   </small>
 
 + **Asis Hallab**
@@ -775,6 +790,11 @@ BIMS (Breeding Information Management System) [@doi:10.1093/database/baab054] is
 
 Germinate integrates and connects with other BrAPI-enabled tools such as GridScore for phenotypic data collection, Flapjack for genotypic data visualization and Helium for pedigree visualization, but, due to the nature of BrAPI, Germinate can act as a data repository for any BrAPI-compatible tool. Thanks to the interoperability provided by BrAPI the need for manual data handling becomes a rarity with the direct benefit of faster data processing, fewer to no human errors, data security and integrity.
 
+#### MGIS
+
+<!-- authors: Mathieu Rouard, Valentin Guignon -->
+The Musa Germplasm information system, [MGIS](https://www.crop-diversity.org/mgis/), serves as a comprehensive community portal dedicated to banana diversity, a crop critical to global food security [@doi:10.1093/database/bax046]. MGIS offers detailed information on banana germplasm, focusing on the collections held by the CGIAR International Banana Genebank (ITC) [@doi:10.1186/s43170-020-00015-6]. It is built on the Build on the Drupal/Tripal technology, like BIMS and Florilège.  Since its inception, MGIS developers have actively participated in the Breeding API (BrAPI) community, pushing for the integration of Multicrop Passport Data (MCPD) into Germplasm module call of the API. MGIS thus provides passport data information on ITC banana genebank accessions (with GLIS DOI), synchronized with [Genesys](https://www.genesys-pgr.org/a/overview/v2YdWZGrZjD), but also enriches it by incorporating additional data from other germplasm collections worldwide. All those germplasm data are available through BrAPI germplasm module calls implementations. For genotyping data, MGIS incorporates GIGWA [@doi:10.1093/gigascience/giz051], which provides tailored implementations for BrAPI genotyping module calls. Furthermore, MGIS supports the implementation of a set of BrAPI phenotyping module calls, facilitating the exposing of morphological descriptors and trait information supported by ontologies like the Crop Ontology [@doi:10.1093/aobpla/plq008]. It is integrated with the Trait Selector BrAPP, developed as part of a project involving Breedbase [@doi:10.1093/g3journal/jkac078]. Uses cases between the Musa implementation of Breedbase, MusaBase, and MGIS to interlink genebank and breeding data.
+
 
 ### Federated Data Management Infrastructures
 <!-- 
@@ -815,6 +835,11 @@ MIRA is a tool that enables the automatic deployment of a BrAPI server on a MIAP
 #### MIAPPE "BrAPI to ISA" service
 
 Since the release of BrAPI 1.3, efforts have been made to incorporate support for the Minimum Information About Plant Phenotyping Experiments (MIAPPE) standard into the specification [@doi:10.1111/nph.16544]. This integration was finalized in BrAPI 2.0, resulting in full compatibility between the two standards. Consequently, BrAPI now encompasses all attributes necessary for MIAPPE compliance, adhering to standardized descriptions in accordance with MIAPPE guidelines. Leveraging BrAPI as a standardized RESTful web service API specification, we employ the ISA standard for storing metadata and phenotyping data in a standardized manner. This data is structured in the ISA-TAB file format and subjected to validation using the [MIAPPE ISA configuration](https://github.com/ELIXIR-Belgium/isatab-validation). The "BrAPI to ISA" service functions as a converter between BrAPI RESTful endpoints and ISA-TAB, facilitating the archiving of metadata and data and thereby enhancing data preservation and accessibility. The [BrAPI2ISA](https://github.com/elixir-europe/plant-brapi-to-isa) tool is designed to be compatible with BrAPI 1.3, and we invite contributions from the community to extend support for the latest versions of BrAPI.
+
+#### BrAPIMapper
+
+<!-- Valentin G: I'm planning to add a figure in supplementary data that shows data sets on a side, the mapper with some internal parts and the exposed BrAPI services. -->
+BrAPIMapper is a full BrAPI implementation of all calls for any data source missing BrAPI implementation or compliance with some BrAPI versions. BrAPIMapper is provided as a docker application that can get its external data sources from mySQL or PostgreSQL databases (with a dedicated interface for Chado database schema), generic REST services (with a dedicated interface for BrAPI endpoints), flat files (XML, JSON, CSV/TSV/GFF3/VCF, YAML) or any combination of any of those. It provides an administration interface to map BrAPI data models to external data sources. The interface allows administrators to select the BrAPI specification versions to use and the calls to enable. Data mapping configuration export and import features simplify upgrades to future BrAPI specifications changes as administrators would only have to map missing fields or make minor adjustments. Amongst others, it supports paging, search calls, either by providing direct results or using deferred results with a search identifier, lists, authentication and manages access restrictions to calls that can be setup through the administration interface as well. This tool aims to accelerate BrAPI services deployment while ensuring specification compliance. 
 
 
 ### Data visualization 
@@ -907,11 +932,6 @@ G-Crunch, as a tool, couldn't feasibly exist without BrAPI. The support of BrAPI
 
 <!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
 The DArT genotyping lab is heavily used world wide when it comes to plant genotyping. Developers at DArT have worked with the BrAPI community to establish a standard API for sending sample metadata to the lab before genotyping. This eliminates much of the human error involved with sending samples to en external lab. 
-
-#### MGIS
-
-<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-MGIS has germplasm and genotype data stored for many musa accessions. Through BrAPI, users are able to access this data directly from MusaBase, for use in specific experiments. 
 
 #### GIGWA
 
