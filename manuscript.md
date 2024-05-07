@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-04-18'
+date-meta: '2024-05-07'
 author-meta:
 - Peter "BrapMan" Selby
 - Trevor "Cool Kid" Rife
@@ -60,11 +60,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-04-18" />
-  <meta name="citation_publication_date" content="2024-04-18" />
-  <meta property="article:published_time" content="2024-04-18" />
-  <meta name="dc.modified" content="2024-04-18T07:25:46+00:00" />
-  <meta property="article:modified_time" content="2024-04-18T07:25:46+00:00" />
+  <meta name="dc.date" content="2024-05-07" />
+  <meta name="citation_publication_date" content="2024-05-07" />
+  <meta property="article:published_time" content="2024-05-07" />
+  <meta name="dc.modified" content="2024-05-07T18:01:38+00:00" />
+  <meta property="article:modified_time" content="2024-05-07T18:01:38+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -188,9 +188,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/50ad6b3fb0699c3ec10a6105bf51a4a3d16b81fb/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/50ad6b3fb0699c3ec10a6105bf51a4a3d16b81fb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/50ad6b3fb0699c3ec10a6105bf51a4a3d16b81fb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f8e55569f5cb11fe0ecc7954df3385314242aa77/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f8e55569f5cb11fe0ecc7954df3385314242aa77/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f8e55569f5cb11fe0ecc7954df3385314242aa77/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -212,10 +212,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/50ad6b3fb0699c3ec10a6105bf51a4a3d16b81fb/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/f8e55569f5cb11fe0ecc7954df3385314242aa77/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@50ad6b3](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/50ad6b3fb0699c3ec10a6105bf51a4a3d16b81fb)
-on April 18, 2024.
+from [plantbreeding/BrAPI-Manuscript2@f8e5556](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/f8e55569f5cb11fe0ecc7954df3385314242aa77)
+on May 7, 2024.
 </em></small>
 
 
@@ -828,7 +828,12 @@ Since the release of BrAPI 1.3, efforts have been made to incorporate support fo
 #### Helium
 
 <!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-Helium is a platform for reviewing and managing pedigree data. It is BrAPI enabled, so pedigree data can be viewed straight from a database. 
+Helium (https://helium.hutton.ac.uk) [@doi:10.1186/1471-2105-15-259] is a plant pedigree visualization platform designed to account for the specific problems that are unique to plant pedigrees. A pedigree is a representation of how genetically discrete individuals are related to one another and is therefore a representation of the genetic relationship between individual plant lines, their parents and progeny. Plant pedigrees are often used to check for potential genotyping or phenotyping errors, since these errors, by the very nature of Mendelian inheritance, are constrained by the pedigree structure in which they exist (Paterson 2011). The accurate representation of pedigrees, and the ability to pull pedigree data from different data sources is therefore important in plant breeding and genetics and therefore ways to visualize and interact this complex data in meaningful ways is critical.
+
+From its original desktop interface (https://github.com/cardinalb/helium-docs/wiki), Helium has developed into a web-based visualization platform implementing BrAPI calls to allow users to import data from other BrAPI compliant databases (https://helium.hutton.ac.uk). The ability to pull data from BrAPI compliant data sources has significantly expanded Helium’s capability and utility within the community. Helium is used in projects ranging in size from tens to tens of thousands of lines and across a wide variety of crops and species. While originally designed for plant data [@doi:10.3389/fpls.2024.1268847] it has also found utility in other non-plant projects [@doi:10.1007/s10592-024-01611-z] highlighting its broad utility. This also allows Helium users to provide direct dataset links to collaborators allowing the original data to be held with the data provider and utilising Helium for its visualization functionality. Our current Helium deployment includes example BrAPI calls to a barley dataset at Hutton to allow users to test the system and features it offers. 
+
+
+
 
 #### Tassel
 

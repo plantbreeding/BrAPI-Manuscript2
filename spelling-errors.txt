@@ -27,7 +27,7 @@ BIMS
 Bingen
 Bioeconomy
 BioinfOmics
-bioinformatics
+Bioinformatics
 BioSC
 Bioversity
 BMS
@@ -93,10 +93,10 @@ genomic
 genotype
 genotypes
 genotypic
-genotyping
+Genotyping
 Geosciences
 germplasm
-GIGWA
+Gigwa
 GLIS
 GmbH
 Gouripriya
@@ -109,8 +109,8 @@ GuilhemSempere
 GWAS
 Habito
 hackathon
-hackathons
-Haplotype
+Hackathons
+haplotype
 haplotypes
 heterozygous
 hoc
@@ -174,11 +174,11 @@ pangenome
 PCAs
 PGR
 PGRFA
-Phenome
+PHENOME
 phenomic
 Phenospex
 phenotypes
-phenotypic
+Phenotypic
 Phenotyping
 PHG
 PHIS’s
@@ -190,7 +190,7 @@ programmatically
 programme
 QBMS
 QTL
-Raubach
+raubach
 Rhein
 Rosaceae
 rPHG
