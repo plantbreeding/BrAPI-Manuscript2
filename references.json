@@ -1,5 +1,1057 @@
 [
   {
+    "publisher": "Wiley",
+    "issue": "3",
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Management and distribution of experimental data from prebreeding projects is important to ensure uptake of germplasm into breeding and research programs. Being able to access and share this data in standard formats is essential. The adoption of a common informatics platform for crops that may have limited resources brings economies of scale, allowing common informatics components to be used across multiple species. The close integration of such a platform with commonly used breeding software, visualization, and analysis tools reduces the barrier for entry to researchers and provides a common framework to facilitate collaborations and data sharing. This work presents significant updates to the Germinate platform and highlights its value in distributing prebreeding data for 14 crops as part of the project ‘Adapting Agriculture to Climate Change: Collecting, Protecting and Preparing Crop Wild Relatives’ (hereafter Crop Trust Crop Wild Relatives project) led by the Crop Trust (<jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"https://www.cwrdiversity.org\">https://www.cwrdiversity.org</jats:ext-link>). The addition of data on these species compliments data already publicly available in Germinate. We present a suite of updated Germinate features using examples from these crop species and their wild relatives. The use of Germinate within the Crop Trust Crop Wild Relatives project demonstrates the usefulness of the system and the benefits a shared informatics platform provides. These data resources provide a foundation on which breeding and research communities can develop additional online resources for their crops, harness new data as it becomes available, and benefit collectively from future developments of the Germinate platform.</jats:p>",
+    "DOI": "10.1002/csc2.20248",
+    "type": "article-journal",
+    "page": "1538-1566",
+    "source": "Crossref",
+    "title": "From bits to bites: Advancement of the Germinate platform to support prebreeding informatics for crop wild relatives",
+    "volume": "61",
+    "author": [
+      {
+        "given": "Sebastian",
+        "family": "Raubach"
+      },
+      {
+        "given": "Benjamin",
+        "family": "Kilian"
+      },
+      {
+        "given": "Kate",
+        "family": "Dreher"
+      },
+      {
+        "given": "Ahmed",
+        "family": "Amri"
+      },
+      {
+        "given": "Filippo M.",
+        "family": "Bassi"
+      },
+      {
+        "given": "Ousmane",
+        "family": "Boukar"
+      },
+      {
+        "given": "Douglas",
+        "family": "Cook"
+      },
+      {
+        "given": "Alan",
+        "family": "Cruickshank"
+      },
+      {
+        "given": "Christian",
+        "family": "Fatokun"
+      },
+      {
+        "given": "Noureddine",
+        "family": "El Haddad"
+      },
+      {
+        "given": "Alan",
+        "family": "Humphries"
+      },
+      {
+        "given": "David",
+        "family": "Jordan"
+      },
+      {
+        "given": "Zakaria",
+        "family": "Kehel"
+      },
+      {
+        "given": "Shiv",
+        "family": "Kumar"
+      },
+      {
+        "given": "Sandy Jan",
+        "family": "Labarosa"
+      },
+      {
+        "given": "Loi Huu",
+        "family": "Nguyen"
+      },
+      {
+        "given": "Emma",
+        "family": "Mace"
+      },
+      {
+        "given": "Susan",
+        "family": "McCouch"
+      },
+      {
+        "given": "Ken",
+        "family": "McNally"
+      },
+      {
+        "given": "David F.",
+        "family": "Marshall"
+      },
+      {
+        "given": "Erick Owuor",
+        "family": "Mikwa"
+      },
+      {
+        "given": "Iain",
+        "family": "Milne"
+      },
+      {
+        "given": "Damaris Achieng",
+        "family": "Odeny"
+      },
+      {
+        "given": "Mariola",
+        "family": "Plazas"
+      },
+      {
+        "given": "Jaime",
+        "family": "Prohens"
+      },
+      {
+        "given": "Loren H.",
+        "family": "Rieseberg"
+      },
+      {
+        "given": "Roland",
+        "family": "Schafleitner"
+      },
+      {
+        "given": "Shivali",
+        "family": "Sharma"
+      },
+      {
+        "given": "Gordon",
+        "family": "Stephen"
+      },
+      {
+        "given": "Huynh Quang",
+        "family": "Tin"
+      },
+      {
+        "given": "Abou",
+        "family": "Togola"
+      },
+      {
+        "given": "Emily",
+        "family": "Warschefsky"
+      },
+      {
+        "given": "Peter",
+        "family": "Werner"
+      },
+      {
+        "given": "Paul D.",
+        "family": "Shaw"
+      },
+      {}
+    ],
+    "container-title": "Crop Science",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          20
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gm66th",
+    "container-title-short": "Crop Science",
+    "id": "sW9euzzP",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1002/csc2.20248"
+  },
+  {
+    "publisher": "Wiley",
+    "issue": "1",
+    "abstract": "<jats:title>Societal Impact Statement</jats:title><jats:p>Global production of bananas, among the top 10 food crops worldwide, is under threat. Increasing the use of germplasm conserved in genebanks is crucial. However, the lack of or difficult access to genetic diversity information limits the efficient utilization of these valuable resources. Here, we present a digital catalog of high‐density markers for banana germplasm conserved at the international banana collection. By facilitating access to subsets of genetic diversity information, the catalog has potential to maximize conservation and use of climate‐ready varieties and to optimize breeding strategies. The catalog is extendable with data from any banana collection and the software is easily deployable in other crop genebanks.</jats:p>",
+    "DOI": "10.1002/ppp3.10187",
+    "type": "article-journal",
+    "page": "61-67",
+    "source": "Crossref",
+    "title": "A digital catalog of high‐density markers for banana germplasm collections",
+    "volume": "4",
+    "author": [
+      {
+        "given": "Mathieu",
+        "family": "Rouard"
+      },
+      {
+        "given": "Julie",
+        "family": "Sardos"
+      },
+      {
+        "given": "Guilhem",
+        "family": "Sempéré"
+      },
+      {
+        "given": "Catherine",
+        "family": "Breton"
+      },
+      {
+        "given": "Valentin",
+        "family": "Guignon"
+      },
+      {
+        "given": "Ines",
+        "family": "Van den Houwe"
+      },
+      {
+        "given": "Sebastien C.",
+        "family": "Carpentier"
+      },
+      {
+        "given": "Nicolas",
+        "family": "Roux"
+      }
+    ],
+    "container-title": "PLANTS, PEOPLE, PLANET",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          3
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gtp5bx",
+    "container-title-short": "Plants People Planet",
+    "id": "bvSFyrtt",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1002/ppp3.10187"
+  },
+  {
+    "publisher": "Springer New York",
+    "DOI": "10.1007/978-1-4939-6658-5_5",
+    "type": "chapter",
+    "page": "103-117",
+    "source": "Crossref",
+    "title": "Mining Plant Genomic and Genetic Data Using the GnpIS Information System",
+    "author": [
+      {
+        "given": "A.-F.",
+        "family": "Adam-Blondon"
+      },
+      {
+        "given": "M.",
+        "family": "Alaux"
+      },
+      {
+        "given": "S.",
+        "family": "Durand"
+      },
+      {
+        "given": "T.",
+        "family": "Letellier"
+      },
+      {
+        "given": "G.",
+        "family": "Merceron"
+      },
+      {
+        "given": "N.",
+        "family": "Mohellibi"
+      },
+      {
+        "given": "C.",
+        "family": "Pommier"
+      },
+      {
+        "given": "D.",
+        "family": "Steinbach"
+      },
+      {
+        "given": "F.",
+        "family": "Alfama"
+      },
+      {
+        "given": "J.",
+        "family": "Amselem"
+      },
+      {
+        "given": "D.",
+        "family": "Charruaud"
+      },
+      {
+        "given": "N.",
+        "family": "Choisne"
+      },
+      {
+        "given": "R.",
+        "family": "Flores"
+      },
+      {
+        "given": "C.",
+        "family": "Guerche"
+      },
+      {
+        "given": "V.",
+        "family": "Jamilloux"
+      },
+      {
+        "given": "E.",
+        "family": "Kimmel"
+      },
+      {
+        "given": "N.",
+        "family": "Lapalu"
+      },
+      {
+        "given": "M.",
+        "family": "Loaec"
+      },
+      {
+        "given": "C.",
+        "family": "Michotey"
+      },
+      {
+        "given": "H.",
+        "family": "Quesneville"
+      }
+    ],
+    "container-title": "Methods in Molecular Biology",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          12,
+          17
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gtq835",
+    "id": "15XwZ2Vb0",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/978-1-4939-6658-5_5"
+  },
+  {
+    "publisher": "Springer Science and Business Media LLC",
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Small populations of endangered species risk losing already eroded genetic diversity, important for adaptive potential, through the effects of genetic drift. The magnitude of drift can be mitigated by maximising the effective population size, as is the goal of genetic management strategies. Different mating systems, specifically those leading to reproductive skew, exacerbate genetic drift by distorting contributions. In the absence of an active management strategy, reproductive skew will have long-term effects on the genetic composition of a population, particularly where admixture is present. Here we examine the contrasting effects of conservation management strategies in two ex situ populations of the Critically Endangered eastern black rhino <jats:italic>(Diceros bicornis michaeli)</jats:italic>, one managed as a semi-wild population in South Africa (SAx), and one managed under a mean-kinship breeding strategy in European zoos. We use molecular data to reconstruct pedigrees for both populations and validate the method using the zoo studbook. Using the reconstructed pedigree and studbook we show there is male sex-specific skew in both populations. However, the zoo’s mean-kinship breeding strategy effectively reduces reproductive skew in comparison to a semi-wild population with little genetic management. We also show that strong male reproductive skew in SAx has resulted in extensive admixture, which may require a re-evaluation of the population’s original intended role in the black rhino meta-population. With a high potential for admixture in many ex situ populations of endangered species, molecular and pedigree data remain vital tools for populations needing to balance drift and selection.</jats:p>",
+    "DOI": "10.1007/s10592-024-01611-z",
+    "type": "article-journal",
+    "source": "Crossref",
+    "title": "Admixture and reproductive skew shape the conservation value of ex situ populations of the Critically Endangered eastern black rhino",
+    "author": [
+      {
+        "given": "Franziska",
+        "family": "Elsner-Gearing"
+      },
+      {
+        "given": "Petra",
+        "family": "Kretzschmar"
+      },
+      {
+        "given": "Susanne",
+        "family": "Shultz"
+      },
+      {
+        "given": "Mark",
+        "family": "Pilgrim"
+      },
+      {
+        "given": "Deborah Ann",
+        "family": "Dawson"
+      },
+      {
+        "given": "Gavin John",
+        "family": "Horsburgh"
+      },
+      {
+        "given": "Jírí",
+        "family": "Hruby"
+      },
+      {
+        "given": "Jane",
+        "family": "Hopper"
+      },
+      {
+        "given": "Tony",
+        "family": "King"
+      },
+      {
+        "given": "Catherine",
+        "family": "Walton"
+      }
+    ],
+    "container-title": "Conservation Genetics",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          22
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gtstdm",
+    "container-title-short": "Conserv Genet",
+    "id": "x8DIc6zn",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1007/s10592-024-01611-z"
+  },
+  {
+    "publisher": "Elsevier BV",
+    "DOI": "10.1016/j.compag.2023.108539",
+    "type": "article-journal",
+    "page": "108539",
+    "source": "Crossref",
+    "title": "ClimMob: Software to support experimental citizen science in agriculture",
+    "volume": "217",
+    "author": [
+      {
+        "given": "Carlos",
+        "family": "Quirós"
+      },
+      {
+        "given": "Kauê",
+        "family": "de Sousa"
+      },
+      {
+        "given": "Jonathan",
+        "family": "Steinke"
+      },
+      {
+        "given": "Brandon",
+        "family": "Madriz"
+      },
+      {
+        "given": "Marie-Angélique",
+        "family": "Laporte"
+      },
+      {
+        "given": "Elizabeth",
+        "family": "Arnaud"
+      },
+      {
+        "given": "Rhys",
+        "family": "Manners"
+      },
+      {
+        "given": "Berta",
+        "family": "Ortiz-Crespo"
+      },
+      {
+        "given": "Anna",
+        "family": "Müller"
+      },
+      {
+        "given": "Jacob",
+        "family": "van Etten"
+      }
+    ],
+    "container-title": "Computers and Electronics in Agriculture",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gtq9h9",
+    "container-title-short": "Computers and Electronics in Agriculture",
+    "PMCID": "PMC10853689",
+    "PMID": "38343602",
+    "id": "LCpCba21",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1016/j.compag.2023.108539"
+  },
+  {
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "2",
+    "DOI": "10.1038/ng.1054",
+    "type": "article-journal",
+    "page": "121-126",
+    "source": "Crossref",
+    "title": "Toward interoperable bioscience data",
+    "volume": "44",
+    "author": [
+      {
+        "given": "Susanna-Assunta",
+        "family": "Sansone"
+      },
+      {
+        "given": "Philippe",
+        "family": "Rocca-Serra"
+      },
+      {
+        "given": "Dawn",
+        "family": "Field"
+      },
+      {
+        "given": "Eamonn",
+        "family": "Maguire"
+      },
+      {
+        "given": "Chris",
+        "family": "Taylor"
+      },
+      {
+        "given": "Oliver",
+        "family": "Hofmann"
+      },
+      {
+        "given": "Hong",
+        "family": "Fang"
+      },
+      {
+        "given": "Steffen",
+        "family": "Neumann"
+      },
+      {
+        "given": "Weida",
+        "family": "Tong"
+      },
+      {
+        "given": "Linda",
+        "family": "Amaral-Zettler"
+      },
+      {
+        "given": "Kimberly",
+        "family": "Begley"
+      },
+      {
+        "given": "Tim",
+        "family": "Booth"
+      },
+      {
+        "given": "Lydie",
+        "family": "Bougueleret"
+      },
+      {
+        "given": "Gully",
+        "family": "Burns"
+      },
+      {
+        "given": "Brad",
+        "family": "Chapman"
+      },
+      {
+        "given": "Tim",
+        "family": "Clark"
+      },
+      {
+        "given": "Lee-Ann",
+        "family": "Coleman"
+      },
+      {
+        "given": "Jay",
+        "family": "Copeland"
+      },
+      {
+        "given": "Sudeshna",
+        "family": "Das"
+      },
+      {
+        "given": "Antoine",
+        "family": "de Daruvar"
+      },
+      {
+        "given": "Paula",
+        "family": "de Matos"
+      },
+      {
+        "given": "Ian",
+        "family": "Dix"
+      },
+      {
+        "given": "Scott",
+        "family": "Edmunds"
+      },
+      {
+        "given": "Chris T",
+        "family": "Evelo"
+      },
+      {
+        "given": "Mark J",
+        "family": "Forster"
+      },
+      {
+        "given": "Pascale",
+        "family": "Gaudet"
+      },
+      {
+        "given": "Jack",
+        "family": "Gilbert"
+      },
+      {
+        "given": "Carole",
+        "family": "Goble"
+      },
+      {
+        "given": "Julian L",
+        "family": "Griffin"
+      },
+      {
+        "given": "Daniel",
+        "family": "Jacob"
+      },
+      {
+        "given": "Jos",
+        "family": "Kleinjans"
+      },
+      {
+        "given": "Lee",
+        "family": "Harland"
+      },
+      {
+        "given": "Kenneth",
+        "family": "Haug"
+      },
+      {
+        "given": "Henning",
+        "family": "Hermjakob"
+      },
+      {
+        "given": "Shannan J Ho",
+        "family": "Sui"
+      },
+      {
+        "given": "Alain",
+        "family": "Laederach"
+      },
+      {
+        "given": "Shaoguang",
+        "family": "Liang"
+      },
+      {
+        "given": "Stephen",
+        "family": "Marshall"
+      },
+      {
+        "given": "Annette",
+        "family": "McGrath"
+      },
+      {
+        "given": "Emily",
+        "family": "Merrill"
+      },
+      {
+        "given": "Dorothy",
+        "family": "Reilly"
+      },
+      {
+        "given": "Magali",
+        "family": "Roux"
+      },
+      {
+        "given": "Caroline E",
+        "family": "Shamu"
+      },
+      {
+        "given": "Catherine A",
+        "family": "Shang"
+      },
+      {
+        "given": "Christoph",
+        "family": "Steinbeck"
+      },
+      {
+        "given": "Anne",
+        "family": "Trefethen"
+      },
+      {
+        "given": "Bryn",
+        "family": "Williams-Jones"
+      },
+      {
+        "given": "Katherine",
+        "family": "Wolstencroft"
+      },
+      {
+        "given": "Ioannis",
+        "family": "Xenarios"
+      },
+      {
+        "given": "Winston",
+        "family": "Hide"
+      }
+    ],
+    "container-title": "Nature Genetics",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          1,
+          27
+        ]
+      ]
+    },
+    "URL": "https://doi.org/fxp5gk",
+    "container-title-short": "Nat Genet",
+    "PMCID": "PMC3428019",
+    "PMID": "22281772",
+    "id": "KZc5ayvK",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/ng.1054"
+  },
+  {
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>There is an urgent need to improve the infrastructure supporting the reuse of scholarly data. A diverse set of stakeholders—representing academia, industry, funding agencies, and scholarly publishers—have come together to design and jointly endorse a concise and measureable set of principles that we refer to as the FAIR Data Principles. The intent is that these may act as a guideline for those wishing to enhance the reusability of their data holdings. Distinct from peer initiatives that focus on the human scholar, the FAIR Principles put specific emphasis on enhancing the ability of machines to automatically find and use the data, in addition to supporting its reuse by individuals. This Comment is the first formal publication of the FAIR Principles, and includes the rationale behind them, and some exemplar implementations in the community.</jats:p>",
+    "DOI": "10.1038/sdata.2016.18",
+    "type": "article-journal",
+    "source": "Crossref",
+    "title": "The FAIR Guiding Principles for scientific data management and stewardship",
+    "volume": "3",
+    "author": [
+      {
+        "given": "Mark D.",
+        "family": "Wilkinson"
+      },
+      {
+        "given": "Michel",
+        "family": "Dumontier"
+      },
+      {
+        "given": "IJsbrand Jan",
+        "family": "Aalbersberg"
+      },
+      {
+        "given": "Gabrielle",
+        "family": "Appleton"
+      },
+      {
+        "given": "Myles",
+        "family": "Axton"
+      },
+      {
+        "given": "Arie",
+        "family": "Baak"
+      },
+      {
+        "given": "Niklas",
+        "family": "Blomberg"
+      },
+      {
+        "given": "Jan-Willem",
+        "family": "Boiten"
+      },
+      {
+        "given": "Luiz Bonino",
+        "family": "da Silva Santos"
+      },
+      {
+        "given": "Philip E.",
+        "family": "Bourne"
+      },
+      {
+        "given": "Jildau",
+        "family": "Bouwman"
+      },
+      {
+        "given": "Anthony J.",
+        "family": "Brookes"
+      },
+      {
+        "given": "Tim",
+        "family": "Clark"
+      },
+      {
+        "given": "Mercè",
+        "family": "Crosas"
+      },
+      {
+        "given": "Ingrid",
+        "family": "Dillo"
+      },
+      {
+        "given": "Olivier",
+        "family": "Dumon"
+      },
+      {
+        "given": "Scott",
+        "family": "Edmunds"
+      },
+      {
+        "given": "Chris T.",
+        "family": "Evelo"
+      },
+      {
+        "given": "Richard",
+        "family": "Finkers"
+      },
+      {
+        "given": "Alejandra",
+        "family": "Gonzalez-Beltran"
+      },
+      {
+        "given": "Alasdair J.G.",
+        "family": "Gray"
+      },
+      {
+        "given": "Paul",
+        "family": "Groth"
+      },
+      {
+        "given": "Carole",
+        "family": "Goble"
+      },
+      {
+        "given": "Jeffrey S.",
+        "family": "Grethe"
+      },
+      {
+        "given": "Jaap",
+        "family": "Heringa"
+      },
+      {
+        "given": "Peter A.C",
+        "family": "’t Hoen"
+      },
+      {
+        "given": "Rob",
+        "family": "Hooft"
+      },
+      {
+        "given": "Tobias",
+        "family": "Kuhn"
+      },
+      {
+        "given": "Ruben",
+        "family": "Kok"
+      },
+      {
+        "given": "Joost",
+        "family": "Kok"
+      },
+      {
+        "given": "Scott J.",
+        "family": "Lusher"
+      },
+      {
+        "given": "Maryann E.",
+        "family": "Martone"
+      },
+      {
+        "given": "Albert",
+        "family": "Mons"
+      },
+      {
+        "given": "Abel L.",
+        "family": "Packer"
+      },
+      {
+        "given": "Bengt",
+        "family": "Persson"
+      },
+      {
+        "given": "Philippe",
+        "family": "Rocca-Serra"
+      },
+      {
+        "given": "Marco",
+        "family": "Roos"
+      },
+      {
+        "given": "Rene",
+        "family": "van Schaik"
+      },
+      {
+        "given": "Susanna-Assunta",
+        "family": "Sansone"
+      },
+      {
+        "given": "Erik",
+        "family": "Schultes"
+      },
+      {
+        "given": "Thierry",
+        "family": "Sengstag"
+      },
+      {
+        "given": "Ted",
+        "family": "Slater"
+      },
+      {
+        "given": "George",
+        "family": "Strawn"
+      },
+      {
+        "given": "Morris A.",
+        "family": "Swertz"
+      },
+      {
+        "given": "Mark",
+        "family": "Thompson"
+      },
+      {
+        "given": "Johan",
+        "family": "van der Lei"
+      },
+      {
+        "given": "Erik",
+        "family": "van Mulligen"
+      },
+      {
+        "given": "Jan",
+        "family": "Velterop"
+      },
+      {
+        "given": "Andra",
+        "family": "Waagmeester"
+      },
+      {
+        "given": "Peter",
+        "family": "Wittenburg"
+      },
+      {
+        "given": "Katherine",
+        "family": "Wolstencroft"
+      },
+      {
+        "given": "Jun",
+        "family": "Zhao"
+      },
+      {
+        "given": "Barend",
+        "family": "Mons"
+      }
+    ],
+    "container-title": "Scientific Data",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          3,
+          15
+        ]
+      ]
+    },
+    "URL": "https://doi.org/bdd4",
+    "container-title-short": "Sci Data",
+    "PMCID": "PMC4792175",
+    "PMID": "26978244",
+    "id": "6DjakjNS",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/sdata.2016.18"
+  },
+  {
+    "publisher": "Oxford University Press (OUP)",
+    "DOI": "10.1093/aobpla/plq008",
+    "type": "article-journal",
+    "source": "Crossref",
+    "title": "Multifunctional crop trait ontology for breeders' data: field book, annotation, data discovery and semantic enrichment of the literature",
+    "volume": "2010",
+    "author": [
+      {
+        "given": "Rosemary",
+        "family": "Shrestha"
+      },
+      {
+        "given": "Elizabeth",
+        "family": "Arnaud"
+      },
+      {
+        "given": "Ramil",
+        "family": "Mauleon"
+      },
+      {
+        "given": "Martin",
+        "family": "Senger"
+      },
+      {
+        "given": "Guy F.",
+        "family": "Davenport"
+      },
+      {
+        "given": "David",
+        "family": "Hancock"
+      },
+      {
+        "given": "Norman",
+        "family": "Morrison"
+      },
+      {
+        "given": "Richard",
+        "family": "Bruskiewich"
+      },
+      {
+        "given": "Graham",
+        "family": "McLaren"
+      }
+    ],
+    "container-title": "AoB PLANTS",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          5,
+          27
+        ]
+      ]
+    },
+    "URL": "https://doi.org/crc8vt",
+    "PMCID": "PMC3000699",
+    "PMID": "22476066",
+    "id": "VndIxnl3",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/aobpla/plq008"
+  },
+  {
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "24",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Summary: New software tools for graphical genotyping are required that can routinely handle the large data volumes generated by the high-throughput single-nucleotide polymorphism (SNP) platforms, genotyping-by-sequencing and other comparable genotyping technologies. Flapjack has been developed to facilitate analysis of these data, providing real time rendering with rapid navigation and comparisons between lines, markers and chromosomes, with visualization, sorting and querying based on associated data, such as phenotypes, quantitative trait loci or other mappable features.</jats:p>\n               <jats:p>Availability: Flapjack is freely available for Microsoft Windows, Mac OS X, Linux and Solaris, and can be downloaded from http://bioinf.scri.ac.uk/flapjack</jats:p>\n               <jats:p>Contact:  flapjack@scri.ac.uk</jats:p>",
+    "DOI": "10.1093/bioinformatics/btq580",
+    "type": "article-journal",
+    "page": "3133-3134",
+    "source": "Crossref",
+    "title": "Flapjack—graphical genotype visualization",
+    "volume": "26",
+    "author": [
+      {
+        "given": "Iain",
+        "family": "Milne"
+      },
+      {
+        "given": "Paul",
+        "family": "Shaw"
+      },
+      {
+        "given": "Gordon",
+        "family": "Stephen"
+      },
+      {
+        "given": "Micha",
+        "family": "Bayer"
+      },
+      {
+        "given": "Linda",
+        "family": "Cardle"
+      },
+      {
+        "given": "William T. B.",
+        "family": "Thomas"
+      },
+      {
+        "given": "Andrew J.",
+        "family": "Flavell"
+      },
+      {
+        "given": "David",
+        "family": "Marshall"
+      }
+    ],
+    "container-title": "Bioinformatics",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          10,
+          18
+        ]
+      ]
+    },
+    "URL": "https://doi.org/cdvnt8",
+    "PMCID": "PMC2995120",
+    "PMID": "20956241",
+    "id": "Wz8l0HlN",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/bioinformatics/btq580"
+  },
+  {
     "publisher": "Oxford University Press (OUP)",
     "issue": "20",
     "abstract": "<jats:title>Abstract</jats:title>\n               <jats:sec>\n                  <jats:title>Motivation</jats:title>\n                  <jats:p>Modern genomic breeding methods rely heavily on very large amounts of phenotyping and genotyping data, presenting new challenges in effective data management and integration. Recently, the size and complexity of datasets have increased significantly, with the result that data are often stored on multiple systems. As analyses of interest increasingly require aggregation of datasets from diverse sources, data exchange between disparate systems becomes a challenge.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>To facilitate interoperability among breeding applications, we present the public plant Breeding Application Programming Interface (BrAPI). BrAPI is a standardized web service API specification. The development of BrAPI is a collaborative, community-based initiative involving a growing global community of over a hundred participants representing several dozen institutions and companies. Development of such a standard is recognized as critical to a number of important large breeding system initiatives as a foundational technology. The focus of the first version of the API is on providing services for connecting systems and retrieving basic breeding data including germplasm, study, observation, and marker data. A number of BrAPI-enabled applications, termed BrAPPs, have been written, that take advantage of the emerging support of BrAPI by many databases.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Availability and implementation</jats:title>\n                  <jats:p>More information on BrAPI, including links to the specification, test suites, BrAPPs, and sample implementations is available at https://brapi.org/. The BrAPI specification and the developer tools are provided as free and open source.</jats:p>\n               </jats:sec>",
@@ -254,5 +1306,2091 @@
     "PMID": "30903186",
     "id": "QfGEJ6km",
     "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/bioinformatics/btz190"
+  },
+  {
+    "publisher": "Oxford University Press (OUP)",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>In this era of big data, breeding programs are producing ever larger amounts of data. This necessitates access to efficient management systems to keep track of cross, performance, pedigree, geographical and image-based data, as well as genotyping data. In this article, we report the progress on the Breeding Information Management System (BIMS), a free, secure and online breeding management system that allows breeders to store, manage, archive and analyze their private breeding data. BIMS is the first publicly available database system that enables individual breeders to integrate their private phenotypic and genotypic data with public data and, at the same time, have complete control of their own breeding data along with access to tools such as data import/export, data analysis and data archiving. The integration of breeding data with publicly available genomic and genetic data enhances genetic understanding of important traits and maximizes the marker-assisted breeding utility for breeders and allied scientists. BIMS incorporates the use of the Android App Field Book, open-source phenotype data collection software for phones and tablets that allows breeders to replace hard copy field books, thus alleviating the possibility of transcription errors while providing faster access to the collected data. BIMS comes with training materials and support for individual or small group training and is currently implemented in the Genome Database for Rosaceae, CottonGEN, the Citrus Genome Database, the Pulse Crop Database, and the Genome Database for Vaccinium.</jats:p>\n               <jats:p>Database URLs: (https://www.rosaceae.org/), (https://www.cottongen.org/), (https://www.citrusgenomedb.org/), (https://www.pulsedb.org/) and (https://www.vaccinium.org/)</jats:p>",
+    "DOI": "10.1093/database/baab054",
+    "type": "article-journal",
+    "source": "Crossref",
+    "title": "The Breeding Information Management System (BIMS): an online resource for crop breeding",
+    "volume": "2021",
+    "author": [
+      {
+        "given": "Sook",
+        "family": "Jung"
+      },
+      {
+        "given": "Taein",
+        "family": "Lee"
+      },
+      {
+        "given": "Ksenija",
+        "family": "Gasic"
+      },
+      {
+        "given": "B. Todd",
+        "family": "Campbell"
+      },
+      {
+        "given": "Jing",
+        "family": "Yu"
+      },
+      {
+        "given": "Jodi",
+        "family": "Humann"
+      },
+      {
+        "given": "Sushan",
+        "family": "Ru"
+      },
+      {
+        "given": "Daniel",
+        "family": "Edge-Garza"
+      },
+      {
+        "given": "Heidi",
+        "family": "Hough"
+      },
+      {
+        "given": "Dorrie",
+        "family": "Main"
+      }
+    ],
+    "container-title": "Database",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          1
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gtj95x",
+    "PMCID": "PMC8378516",
+    "PMID": "34415997",
+    "id": "ArPSsaJQ",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/database/baab054"
+  },
+  {
+    "publisher": "Oxford University Press (OUP)",
+    "DOI": "10.1093/database/bax046",
+    "type": "article-journal",
+    "source": "Crossref",
+    "title": "MGIS: managing banana (Musa spp.) genetic resources information and high-throughput genotyping data",
+    "volume": "2017",
+    "author": [
+      {
+        "given": "Max",
+        "family": "Ruas"
+      },
+      {
+        "given": "V.",
+        "family": "Guignon"
+      },
+      {
+        "given": "G.",
+        "family": "Sempere"
+      },
+      {
+        "given": "J.",
+        "family": "Sardos"
+      },
+      {
+        "given": "Y.",
+        "family": "Hueber"
+      },
+      {
+        "given": "H.",
+        "family": "Duvergey"
+      },
+      {
+        "given": "A.",
+        "family": "Andrieu"
+      },
+      {
+        "given": "R.",
+        "family": "Chase"
+      },
+      {
+        "given": "C.",
+        "family": "Jenny"
+      },
+      {
+        "given": "T.",
+        "family": "Hazekamp"
+      },
+      {
+        "given": "B.",
+        "family": "Irish"
+      },
+      {
+        "given": "K.",
+        "family": "Jelali"
+      },
+      {
+        "given": "J.",
+        "family": "Adeka"
+      },
+      {
+        "given": "T.",
+        "family": "Ayala-Silva"
+      },
+      {
+        "given": "C.P.",
+        "family": "Chao"
+      },
+      {
+        "given": "J.",
+        "family": "Daniells"
+      },
+      {
+        "given": "B.",
+        "family": "Dowiya"
+      },
+      {
+        "given": "B.",
+        "family": "Effa effa"
+      },
+      {
+        "given": "L.",
+        "family": "Gueco"
+      },
+      {
+        "given": "L.",
+        "family": "Herradura"
+      },
+      {
+        "given": "L.",
+        "family": "Ibobondji"
+      },
+      {
+        "given": "E.",
+        "family": "Kempenaers"
+      },
+      {
+        "given": "J.",
+        "family": "Kilangi"
+      },
+      {
+        "given": "S.",
+        "family": "Muhangi"
+      },
+      {
+        "given": "P.",
+        "family": "Ngo Xuan"
+      },
+      {
+        "given": "J.",
+        "family": "Paofa"
+      },
+      {
+        "given": "C.",
+        "family": "Pavis"
+      },
+      {
+        "given": "D.",
+        "family": "Thiemele"
+      },
+      {
+        "given": "C.",
+        "family": "Tossou"
+      },
+      {
+        "given": "J.",
+        "family": "Sandoval"
+      },
+      {
+        "given": "A.",
+        "family": "Sutanto"
+      },
+      {
+        "given": "G.",
+        "family": "Vangu Paka"
+      },
+      {
+        "given": "G.",
+        "family": "Yi"
+      },
+      {
+        "given": "I.",
+        "family": "Van den houwe"
+      },
+      {
+        "given": "N.",
+        "family": "Roux"
+      },
+      {
+        "given": "M.",
+        "family": "Rouard"
+      }
+    ],
+    "container-title": "Database",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          1
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gmcmrf",
+    "PMCID": "PMC5502358",
+    "PMID": "29220435",
+    "id": "84Yn3FWj",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/database/bax046"
+  },
+  {
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "7",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Modern breeding methods integrate next-generation sequencing and phenomics to identify plants with the best characteristics and greatest genetic merit for use as parents in subsequent breeding cycles to ultimately create improved cultivars able to sustain high adoption rates by farmers. This data-driven approach hinges on strong foundations in data management, quality control, and analytics. Of crucial importance is a central database able to (1) track breeding materials, (2) store experimental evaluations, (3) record phenotypic measurements using consistent ontologies, (4) store genotypic information, and (5) implement algorithms for analysis, prediction, and selection decisions. Because of the complexity of the breeding process, breeding databases also tend to be complex, difficult, and expensive to implement and maintain. Here, we present a breeding database system, Breedbase (https://breedbase.org/, last accessed 4/18/2022). Originally initiated as Cassavabase (https://cassavabase.org/, last accessed 4/18/2022) with the NextGen Cassava project (https://www.nextgencassava.org/, last accessed 4/18/2022), and later developed into a crop-agnostic system, it is presently used by dozens of different crops and projects. The system is web based and is available as open source software. It is available on GitHub (https://github.com/solgenomics/, last accessed 4/18/2022) and packaged in a Docker image for deployment (https://hub.docker.com/u/breedbase, last accessed 4/18/2022). The Breedbase system enables breeding programs to better manage and leverage their data for decision making within a fully integrated digital ecosystem.</jats:p>",
+    "DOI": "10.1093/g3journal/jkac078",
+    "type": "article-journal",
+    "source": "Crossref",
+    "title": "Breedbase: a digital ecosystem for modern plant breeding",
+    "volume": "12",
+    "author": [
+      {
+        "given": "Nicolas",
+        "family": "Morales"
+      },
+      {
+        "given": "Alex C",
+        "family": "Ogbonna"
+      },
+      {
+        "given": "Bryan J",
+        "family": "Ellerbrock"
+      },
+      {
+        "given": "Guillaume J",
+        "family": "Bauchet"
+      },
+      {
+        "given": "Titima",
+        "family": "Tantikanjana"
+      },
+      {
+        "given": "Isaak Y",
+        "family": "Tecle"
+      },
+      {
+        "given": "Adrian F",
+        "family": "Powell"
+      },
+      {
+        "given": "David",
+        "family": "Lyon"
+      },
+      {
+        "given": "Naama",
+        "family": "Menda"
+      },
+      {
+        "given": "Christiano C",
+        "family": "Simoes"
+      },
+      {
+        "given": "Surya",
+        "family": "Saha"
+      },
+      {
+        "given": "Prashant",
+        "family": "Hosmani"
+      },
+      {
+        "given": "Mirella",
+        "family": "Flores"
+      },
+      {
+        "given": "Naftali",
+        "family": "Panitz"
+      },
+      {
+        "given": "Ryan S",
+        "family": "Preble"
+      },
+      {
+        "given": "Afolabi",
+        "family": "Agbona"
+      },
+      {
+        "given": "Ismail",
+        "family": "Rabbi"
+      },
+      {
+        "given": "Peter",
+        "family": "Kulakow"
+      },
+      {
+        "given": "Prasad",
+        "family": "Peteti"
+      },
+      {
+        "given": "Robert",
+        "family": "Kawuki"
+      },
+      {
+        "given": "Williams",
+        "family": "Esuma"
+      },
+      {
+        "given": "Micheal",
+        "family": "Kanaabi"
+      },
+      {
+        "given": "Doreen M",
+        "family": "Chelangat"
+      },
+      {
+        "given": "Ezenwanyi",
+        "family": "Uba"
+      },
+      {
+        "given": "Adeyemi",
+        "family": "Olojede"
+      },
+      {
+        "given": "Joseph",
+        "family": "Onyeka"
+      },
+      {
+        "given": "Trushar",
+        "family": "Shah"
+      },
+      {
+        "given": "Margaret",
+        "family": "Karanja"
+      },
+      {
+        "given": "Chiedozie",
+        "family": "Egesi"
+      },
+      {
+        "given": "Hale",
+        "family": "Tufan"
+      },
+      {
+        "given": "Agre",
+        "family": "Paterne"
+      },
+      {
+        "given": "Asrat",
+        "family": "Asfaw"
+      },
+      {
+        "given": "Jean-Luc",
+        "family": "Jannink"
+      },
+      {
+        "given": "Marnin",
+        "family": "Wolfe"
+      },
+      {
+        "given": "Clay L",
+        "family": "Birkett"
+      },
+      {
+        "given": "David J",
+        "family": "Waring"
+      },
+      {
+        "given": "Jenna M",
+        "family": "Hershberger"
+      },
+      {
+        "given": "Michael A",
+        "family": "Gore"
+      },
+      {
+        "given": "Kelly R",
+        "family": "Robbins"
+      },
+      {
+        "given": "Trevor",
+        "family": "Rife"
+      },
+      {
+        "given": "Chaney",
+        "family": "Courtney"
+      },
+      {
+        "given": "Jesse",
+        "family": "Poland"
+      },
+      {
+        "given": "Elizabeth",
+        "family": "Arnaud"
+      },
+      {
+        "given": "Marie-Angélique",
+        "family": "Laporte"
+      },
+      {
+        "given": "Heneriko",
+        "family": "Kulembeka"
+      },
+      {
+        "given": "Kasele",
+        "family": "Salum"
+      },
+      {
+        "given": "Emmanuel",
+        "family": "Mrema"
+      },
+      {
+        "given": "Allan",
+        "family": "Brown"
+      },
+      {
+        "given": "Stanley",
+        "family": "Bayo"
+      },
+      {
+        "given": "Brigitte",
+        "family": "Uwimana"
+      },
+      {
+        "given": "Violet",
+        "family": "Akech"
+      },
+      {
+        "given": "Craig",
+        "family": "Yencho"
+      },
+      {
+        "given": "Bert",
+        "family": "de Boeck"
+      },
+      {
+        "given": "Hugo",
+        "family": "Campos"
+      },
+      {
+        "given": "Rony",
+        "family": "Swennen"
+      },
+      {
+        "given": "Jeremy D",
+        "family": "Edwards"
+      },
+      {
+        "given": "Lukas A",
+        "family": "Mueller"
+      }
+    ],
+    "container-title": "G3 Genes|Genomes|Genetics",
+    "language": "en",
+    "editor": [
+      {
+        "given": "G",
+        "family": "Morris"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          6
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gpzmnf",
+    "PMCID": "PMC9258556",
+    "PMID": "35385099",
+    "id": "al3Hd9Ml",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/g3journal/jkac078"
+  },
+  {
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "4",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Recent advances in molecular genetic techniques will make dense marker maps available and genotyping many individuals for these markers feasible. Here we attempted to estimate the effects of ∼50,000 marker haplotypes simultaneously from a limited number of phenotypic records. A genome of 1000 cM was simulated with a marker spacing of 1 cM. The markers surrounding every 1-cM region were combined into marker haplotypes. Due to finite population size (Ne = 100), the marker haplotypes were in linkage disequilibrium with the QTL located between the markers. Using least squares, all haplotype effects could not be estimated simultaneously. When only the biggest effects were included, they were overestimated and the accuracy of predicting genetic values of the offspring of the recorded animals was only 0.32. Best linear unbiased prediction of haplotype effects assumed equal variances associated to each 1-cM chromosomal segment, which yielded an accuracy of 0.73, although this assumption was far from true. Bayesian methods that assumed a prior distribution of the variance associated with each chromosome segment increased this accuracy to 0.85, even when the prior was not correct. It was concluded that selection on genetic values predicted from markers could substantially increase the rate of genetic gain in animals and plants, especially if combined with reproductive techniques to shorten the generation interval.</jats:p>",
+    "DOI": "10.1093/genetics/157.4.1819",
+    "type": "article-journal",
+    "page": "1819-1829",
+    "source": "Crossref",
+    "title": "Prediction of Total Genetic Value Using Genome-Wide Dense Marker Maps",
+    "volume": "157",
+    "author": [
+      {
+        "given": "T H E",
+        "family": "Meuwissen"
+      },
+      {
+        "given": "B J",
+        "family": "Hayes"
+      },
+      {
+        "given": "M E",
+        "family": "Goddard"
+      }
+    ],
+    "container-title": "Genetics",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2001,
+          4,
+          1
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gknztd",
+    "PMCID": "PMC1461589",
+    "PMID": "11290733",
+    "id": "zuq8ri4R",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/genetics/157.4.1819"
+  },
+  {
+    "publisher": "Oxford University Press (OUP)",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>The sequencing of whole genomes is becoming increasingly affordable. In this context, large-scale sequencing projects are generating ever larger datasets of species-specific genomic diversity. As a consequence, more and more genomic data need to be made easily accessible and analyzable to the scientific community.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Findings</jats:title>\n                  <jats:p>We present DivBrowse, a web application for interactive visualization and exploratory analysis of genomic diversity data stored in Variant Call Format (VCF) files of any size. By seamlessly combining BLAST as an entry point together with interactive data analysis features such as principal component analysis in one graphical user interface, DivBrowse provides a novel and unique set of exploratory data analysis capabilities for genomic biodiversity datasets. The capability to integrate DivBrowse into existing web applications supports interoperability between different web applications. Built-in interactive computation of principal component analysis allows users to perform ad hoc analysis of the population structure based on specific genetic elements such as genes and exons. Data interoperability is supported by the ability to export genomic diversity data in VCF and General Feature Format 3 files.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>DivBrowse offers a novel approach for interactive visualization and analysis of genomic diversity data and optionally also gene annotation data by including features like interactive calculation of variant frequencies and principal component analysis. The use of established standard file formats for data input supports interoperability and seamless deployment of application instances based on the data output of established bioinformatics pipelines.</jats:p>\n               </jats:sec>",
+    "DOI": "10.1093/gigascience/giad025",
+    "type": "article-journal",
+    "source": "Crossref",
+    "title": "DivBrowse—interactive visualization and exploratory data analysis of variant call matrices",
+    "volume": "12",
+    "author": [
+      {
+        "given": "Patrick",
+        "family": "König"
+      },
+      {
+        "given": "Sebastian",
+        "family": "Beier"
+      },
+      {
+        "given": "Martin",
+        "family": "Mascher"
+      },
+      {
+        "given": "Nils",
+        "family": "Stein"
+      },
+      {
+        "given": "Matthias",
+        "family": "Lange"
+      },
+      {
+        "given": "Uwe",
+        "family": "Scholz"
+      }
+    ],
+    "container-title": "GigaScience",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          28
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gtq5n6",
+    "PMCID": "PMC10120423",
+    "PMID": "37083938",
+    "id": "9fRbvOj2",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/gigascience/giad025"
+  },
+  {
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "5",
+    "DOI": "10.1093/gigascience/giz051",
+    "type": "article-journal",
+    "source": "Crossref",
+    "title": "Gigwa v2—Extended and improved genotype investigator",
+    "volume": "8",
+    "author": [
+      {
+        "given": "Guilhem",
+        "family": "Sempéré"
+      },
+      {
+        "given": "Adrien",
+        "family": "Pétel"
+      },
+      {
+        "given": "Mathieu",
+        "family": "Rouard"
+      },
+      {
+        "given": "Julien",
+        "family": "Frouin"
+      },
+      {
+        "given": "Yann",
+        "family": "Hueber"
+      },
+      {
+        "given": "Fabien",
+        "family": "De Bellis"
+      },
+      {
+        "given": "Pierre",
+        "family": "Larmande"
+      }
+    ],
+    "container-title": "GigaScience",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          1
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gtp5bz",
+    "PMCID": "PMC6511067",
+    "PMID": "31077313",
+    "id": "AVjkjraw",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/gigascience/giz051"
+  },
+  {
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "D1",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The European Search Catalogue for Plant Genetic Resources (EURISCO) is a central entry point for information on crop plant germplasm accessions from institutions in Europe and beyond. In total, it provides data on more than two million accessions, making an important contribution to unlocking the vast genetic diversity that lies deposited in &amp;gt;400 germplasm collections in 43 countries. EURISCO serves as the reference system for the Plant Genetic Resources Strategy for Europe and represents a significant approach for documenting and making available the world’s agrobiological diversity. EURISCO is well established as a resource in this field and forms the basis for a wide range of research projects. In this paper, we present current developments of EURISCO, which is accessible at http://eurisco.ecpgr.org.</jats:p>",
+    "DOI": "10.1093/nar/gkac852",
+    "type": "article-journal",
+    "page": "D1465-D1469",
+    "source": "Crossref",
+    "title": "EURISCO update 2023: the European Search Catalogue for Plant Genetic Resources, a pillar for documentation of genebank material",
+    "volume": "51",
+    "author": [
+      {
+        "given": "Pragna",
+        "family": "Kotni"
+      },
+      {
+        "given": "Theo",
+        "family": "van Hintum"
+      },
+      {
+        "given": "Lorenzo",
+        "family": "Maggioni"
+      },
+      {
+        "given": "Markus",
+        "family": "Oppermann"
+      },
+      {
+        "given": "Stephan",
+        "family": "Weise"
+      }
+    ],
+    "container-title": "Nucleic Acids Research",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          3
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gqxshq",
+    "PMCID": "PMC9825528",
+    "PMID": "36189883",
+    "id": "pk5OwSG6",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gkac852"
+  },
+  {
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "D1",
+    "DOI": "10.1093/nar/gky1000",
+    "type": "article-journal",
+    "page": "D1137-D1145",
+    "source": "Crossref",
+    "title": "15 years of GDR: New data and functionality in the Genome Database for Rosaceae",
+    "volume": "47",
+    "author": [
+      {
+        "given": "Sook",
+        "family": "Jung"
+      },
+      {
+        "given": "Taein",
+        "family": "Lee"
+      },
+      {
+        "given": "Chun-Huai",
+        "family": "Cheng"
+      },
+      {
+        "given": "Katheryn",
+        "family": "Buble"
+      },
+      {
+        "given": "Ping",
+        "family": "Zheng"
+      },
+      {
+        "given": "Jing",
+        "family": "Yu"
+      },
+      {
+        "given": "Jodi",
+        "family": "Humann"
+      },
+      {
+        "given": "Stephen P",
+        "family": "Ficklin"
+      },
+      {
+        "given": "Ksenija",
+        "family": "Gasic"
+      },
+      {
+        "given": "Kristin",
+        "family": "Scott"
+      },
+      {
+        "given": "Morgan",
+        "family": "Frank"
+      },
+      {
+        "given": "Sushan",
+        "family": "Ru"
+      },
+      {
+        "given": "Heidi",
+        "family": "Hough"
+      },
+      {
+        "given": "Kate",
+        "family": "Evans"
+      },
+      {
+        "given": "Cameron",
+        "family": "Peace"
+      },
+      {
+        "given": "Mercy",
+        "family": "Olmstead"
+      },
+      {
+        "given": "Lisa W",
+        "family": "DeVetter"
+      },
+      {
+        "given": "James",
+        "family": "McFerson"
+      },
+      {
+        "given": "Michael",
+        "family": "Coe"
+      },
+      {
+        "given": "Jill L",
+        "family": "Wegrzyn"
+      },
+      {
+        "given": "Margaret E",
+        "family": "Staton"
+      },
+      {
+        "given": "Albert G",
+        "family": "Abbott"
+      },
+      {
+        "given": "Dorrie",
+        "family": "Main"
+      }
+    ],
+    "container-title": "Nucleic Acids Research",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          24
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gjqq8v",
+    "PMCID": "PMC6324069",
+    "PMID": "30357347",
+    "id": "eaDrNpsp",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1093/nar/gky1000"
+  },
+  {
+    "publisher": "Wiley",
+    "issue": "1",
+    "abstract": "<jats:title>Summary</jats:title><jats:p>\n<jats:list list-type=\"bullet\">\n\n<jats:list-item><jats:p>Enabling data reuse and knowledge discovery is increasingly critical in modern science, and requires an effort towards standardising data publication practices. This is particularly challenging in the plant phenotyping domain, due to its complexity and heterogeneity.</jats:p></jats:list-item>\n\n<jats:list-item><jats:p>We have produced the MIAPPE 1.1 release, which enhances the existing MIAPPE standard in coverage, to support perennial plants, in structure, through an explicit data model, and in clarity, through definitions and examples.</jats:p></jats:list-item>\n\n<jats:list-item><jats:p>We evaluated MIAPPE 1.1 by using it to express several heterogeneous phenotyping experiments in a range of different formats, to demonstrate its applicability and the interoperability between the various implementations. Furthermore, the extended coverage is demonstrated by the fact that one of the datasets could not have been described under MIAPPE 1.0.</jats:p></jats:list-item>\n\n<jats:list-item><jats:p>MIAPPE 1.1 marks a major step towards enabling plant phenotyping data reusability, thanks to its extended coverage, and especially the formalisation of its data model, which facilitates its implementation in different formats. Community feedback has been critical to this development, and will be a key part of ensuring adoption of the standard.</jats:p></jats:list-item>\n</jats:list>\n</jats:p>",
+    "DOI": "10.1111/nph.16544",
+    "type": "article-journal",
+    "page": "260-273",
+    "source": "Crossref",
+    "title": "Enabling reusability of plant phenomic datasets with MIAPPE 1.1",
+    "volume": "227",
+    "author": [
+      {
+        "given": "Evangelia A.",
+        "family": "Papoutsoglou"
+      },
+      {
+        "given": "Daniel",
+        "family": "Faria"
+      },
+      {
+        "given": "Daniel",
+        "family": "Arend"
+      },
+      {
+        "given": "Elizabeth",
+        "family": "Arnaud"
+      },
+      {
+        "given": "Ioannis N.",
+        "family": "Athanasiadis"
+      },
+      {
+        "given": "Inês",
+        "family": "Chaves"
+      },
+      {
+        "given": "Frederik",
+        "family": "Coppens"
+      },
+      {
+        "given": "Guillaume",
+        "family": "Cornut"
+      },
+      {
+        "given": "Bruno V.",
+        "family": "Costa"
+      },
+      {
+        "given": "Hanna",
+        "family": "Ćwiek‐Kupczyńska"
+      },
+      {
+        "given": "Bert",
+        "family": "Droesbeke"
+      },
+      {
+        "given": "Richard",
+        "family": "Finkers"
+      },
+      {
+        "given": "Kristina",
+        "family": "Gruden"
+      },
+      {
+        "given": "Astrid",
+        "family": "Junker"
+      },
+      {
+        "given": "Graham J.",
+        "family": "King"
+      },
+      {
+        "given": "Paweł",
+        "family": "Krajewski"
+      },
+      {
+        "given": "Matthias",
+        "family": "Lange"
+      },
+      {
+        "given": "Marie‐Angélique",
+        "family": "Laporte"
+      },
+      {
+        "given": "Célia",
+        "family": "Michotey"
+      },
+      {
+        "given": "Markus",
+        "family": "Oppermann"
+      },
+      {
+        "given": "Richard",
+        "family": "Ostler"
+      },
+      {
+        "given": "Hendrik",
+        "family": "Poorter"
+      },
+      {
+        "given": "Ricardo",
+        "family": "Ramı́rez‐Gonzalez"
+      },
+      {
+        "given": "Živa",
+        "family": "Ramšak"
+      },
+      {
+        "given": "Jochen C.",
+        "family": "Reif"
+      },
+      {
+        "given": "Philippe",
+        "family": "Rocca‐Serra"
+      },
+      {
+        "given": "Susanna‐Assunta",
+        "family": "Sansone"
+      },
+      {
+        "given": "Uwe",
+        "family": "Scholz"
+      },
+      {
+        "given": "François",
+        "family": "Tardieu"
+      },
+      {
+        "given": "Cristobal",
+        "family": "Uauy"
+      },
+      {
+        "given": "Björn",
+        "family": "Usadel"
+      },
+      {
+        "given": "Richard G. F.",
+        "family": "Visser"
+      },
+      {
+        "given": "Stephan",
+        "family": "Weise"
+      },
+      {
+        "given": "Paul J.",
+        "family": "Kersey"
+      },
+      {
+        "given": "Célia M.",
+        "family": "Miguel"
+      },
+      {
+        "given": "Anne‐Françoise",
+        "family": "Adam‐Blondon"
+      },
+      {
+        "given": "Cyril",
+        "family": "Pommier"
+      }
+    ],
+    "container-title": "New Phytologist",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          25
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gjqcmb",
+    "container-title-short": "New Phytologist",
+    "PMCID": "PMC7317793",
+    "PMID": "32171029",
+    "id": "kWLsm7g6",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1111/nph.16544"
+  },
+  {
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "DOI": "10.1186/1471-2105-15-259",
+    "type": "article-journal",
+    "source": "Crossref",
+    "title": "Helium: visualization of large scale plant pedigrees",
+    "volume": "15",
+    "author": [
+      {
+        "given": "Paul D",
+        "family": "Shaw"
+      },
+      {
+        "given": "Martin",
+        "family": "Graham"
+      },
+      {
+        "given": "Jessie",
+        "family": "Kennedy"
+      },
+      {
+        "given": "Iain",
+        "family": "Milne"
+      },
+      {
+        "given": "David F",
+        "family": "Marshall"
+      }
+    ],
+    "container-title": "BMC Bioinformatics",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          8,
+          1
+        ]
+      ]
+    },
+    "URL": "https://doi.org/f6gfzs",
+    "container-title-short": "BMC Bioinformatics",
+    "PMCID": "PMC4133633",
+    "PMID": "25085009",
+    "id": "X22hwO1v",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/1471-2105-15-259"
+  },
+  {
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background</jats:title>\n                <jats:p>Plant breeding and crop research rely on experimental phenotyping trials. These trials generate data for large numbers of traits and plant varieties that needs to be captured efficiently and accurately to support further research and downstream analysis. Traditionally scored by hand, phenotypic data is nowadays collected using spreadsheets or specialized apps. While many solutions exist, which increase efficiency and reduce errors, none offer the same familiarity as printed field plans which have been used for decades and offer an intuitive overview over the trial setup, previously recorded data and plots still requiring scoring.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>We introduce GridScore which utilizes cutting-edge web technologies to reproduce the familiarity of printed field plans while enhancing the phenotypic data collection process by adding advanced features like georeferencing, image tagging and speech recognition. GridScore is a cross-platform open-source plant phenotyping app that combines barcode-based systems with a guided data collection approach while offering a top-down view onto the data collected in a field layout. GridScore is compared to existing tools across a wide spectrum of criteria including support for barcodes, multiple platforms, and visualizations.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusion</jats:title>\n                <jats:p>Compared to its competition, GridScore shows strong performance across the board offering a complete manual phenotyping experience.</jats:p>\n              </jats:sec>",
+    "DOI": "10.1186/s12859-022-04755-2",
+    "type": "article-journal",
+    "source": "Crossref",
+    "title": "GridScore: a tool for accurate, cross-platform phenotypic data collection and visualization",
+    "volume": "23",
+    "author": [
+      {
+        "given": "Sebastian",
+        "family": "Raubach"
+      },
+      {
+        "given": "Miriam",
+        "family": "Schreiber"
+      },
+      {
+        "given": "Paul D.",
+        "family": "Shaw"
+      }
+    ],
+    "container-title": "BMC Bioinformatics",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          6,
+          6
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gtkcsv",
+    "container-title-short": "BMC Bioinformatics",
+    "PMCID": "PMC9169276",
+    "PMID": "35668357",
+    "id": "Ne0E9HbC",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s12859-022-04755-2"
+  },
+  {
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>The CGIAR genebank International <jats:italic>Musa</jats:italic> Germplasm Transit Centre (ITC) currently holds 1617 banana accessions from 38 countries as an in vitro collection, backed-up by a cryopreserved collection to safeguard global <jats:italic>Musa</jats:italic> diversity in perpetuity. The ITC also serves as a vital safety backup and transit centre for national banana genebanks and ensures that germplasm is clean of pests and diseases and freely available under the International Treaty on Plant Genetic Resources for Food and Agriculture. In more than 35 years of activity, the ITC has distributed over 18,000 banana accession samples to researchers and farmers in 113 countries. Ex situ conservation of vegetatively-propagated crops such as banana poses very particular challenges. Maintaining the ITC genebank is labor intense and costly. Efficiencies are sought through research and development of techniques on detecting viruses, the genetic integrity of accessions, and on innovative means of safeguarding banana diversity, such as conserving populations of wild species by seed banking. Although the conservation of global banana diversity is the main objective of the ITC, significant value comes from its holistic approach to better understand and promote its germplasm through numerous research activities and resources. Techniques for morphological and molecular characterization serve to identify and describe the collection, while also determining what gaps should be filled by collecting missions with national partners. The evaluation of desirable agronomic traits inherent in <jats:italic>Musa</jats:italic> spp. are investigated by a high-throughput phenotyping platform, which helps breeding programs to select cultivars resistant or tolerant to biotic and abiotic stresses. Genomic and bioinformatic studies of several banana wild relatives greatly enhance our understanding of <jats:italic>Musa</jats:italic> genetic diversity, links to important phenotypic traits and bring new methods for management of the collection. Collectively, these research activities produce enormous amounts of data that require curation and dissemination to the public. The two information systems at the ITC, <jats:italic>Musa</jats:italic> Genebank Management System and the <jats:italic>Musa</jats:italic> Germplasm Information System, serve to manage the genebank activities and to make public germplasm-related data for over 30 banana collections worldwide, respectively. By implementing the 10-year workplan set out in the Global Strategy for the Conservation and Use of <jats:italic>Musa</jats:italic> Genetic Resources, the network MusaNet supports <jats:italic>Musa</jats:italic> researchers and stakeholders, including the ITC, and most importantly, links to the world’s banana-producing countries via three regional banana networks.</jats:p>",
+    "DOI": "10.1186/s43170-020-00015-6",
+    "type": "article-journal",
+    "source": "Crossref",
+    "title": "Safeguarding and using global banana diversity: a holistic approach",
+    "volume": "1",
+    "author": [
+      {
+        "given": "Ines",
+        "family": "Van den houwe"
+      },
+      {
+        "given": "Rachel",
+        "family": "Chase"
+      },
+      {
+        "given": "Julie",
+        "family": "Sardos"
+      },
+      {
+        "given": "Max",
+        "family": "Ruas"
+      },
+      {
+        "given": "Els",
+        "family": "Kempenaers"
+      },
+      {
+        "given": "Valentin",
+        "family": "Guignon"
+      },
+      {
+        "given": "Sebastien",
+        "family": "Massart"
+      },
+      {
+        "given": "Sebastien",
+        "family": "Carpentier"
+      },
+      {
+        "given": "Bart",
+        "family": "Panis"
+      },
+      {
+        "given": "Mathieu",
+        "family": "Rouard"
+      },
+      {
+        "given": "Nicolas",
+        "family": "Roux"
+      }
+    ],
+    "container-title": "CABI Agriculture and Bioscience",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          22
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gtq9ws",
+    "container-title-short": "CABI Agric Biosci",
+    "id": "JWi7AKhJ",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1186/s43170-020-00015-6"
+  },
+  {
+    "publisher": "F1000 Research Ltd",
+    "abstract": "<ns3:p>In this opinion article, we discuss the formatting of files from (plant) genotyping studies, in particular the formatting of metadata in Variant Call Format (VCF) files. The flexibility of the VCF format specification facilitates its use as a generic interchange format across domains but can lead to inconsistency between files in the presentation of metadata. To enable fully autonomous machine actionable data flow, generic elements need to be further specified.</ns3:p><ns3:p> We strongly support the merits of the FAIR principles and see the need to facilitate them also through technical implementation specifications. They form a basis for the proposed VCF extensions here. We have learned from the existing application of VCF that the definition of relevant metadata using controlled standards, vocabulary and the consistent use of cross-references via resolvable identifiers (machine-readable) are particularly necessary and propose their encoding.</ns3:p><ns3:p> VCF is an established standard for the exchange and publication of genotyping data. Other data formats are also used to capture variant data (for example, the HapMap and the gVCF formats), but none currently have the reach of VCF. For the sake of simplicity, we will only discuss VCF and our recommendations for its use, but these recommendations could also be applied to gVCF. However, the part of the VCF standard relating to metadata (as opposed to the actual variant calls) defines a syntactic format but no vocabulary, unique identifier or recommended content. In practice, often only sparse descriptive metadata is included. When descriptive metadata is provided, proprietary metadata fields are frequently added that have not been agreed upon within the community which may limit long-term and comprehensive interoperability. To address this, we propose recommendations for supplying and encoding metadata, focusing on use cases from plant sciences. We expect there to be overlap, but also divergence, with the needs of other domains.</ns3:p>",
+    "DOI": "10.12688/f1000research.109080.2",
+    "type": "article-journal",
+    "page": "231",
+    "source": "Crossref",
+    "title": "Recommendations for the formatting of Variant Call Format (VCF) files to make plant genotyping data FAIR",
+    "volume": "11",
+    "author": [
+      {
+        "given": "Sebastian",
+        "family": "Beier"
+      },
+      {
+        "given": "Anne",
+        "family": "Fiebig"
+      },
+      {
+        "given": "Cyril",
+        "family": "Pommier"
+      },
+      {
+        "given": "Isuru",
+        "family": "Liyanage"
+      },
+      {
+        "given": "Matthias",
+        "family": "Lange"
+      },
+      {
+        "given": "Paul J.",
+        "family": "Kersey"
+      },
+      {
+        "given": "Stephan",
+        "family": "Weise"
+      },
+      {
+        "given": "Richard",
+        "family": "Finkers"
+      },
+      {
+        "given": "Baron",
+        "family": "Koylass"
+      },
+      {
+        "given": "Timothee",
+        "family": "Cezard"
+      },
+      {
+        "given": "Mélanie",
+        "family": "Courtot"
+      },
+      {
+        "given": "Bruno",
+        "family": "Contreras-Moreira"
+      },
+      {
+        "given": "Guy",
+        "family": "Naamati"
+      },
+      {
+        "given": "Sarah",
+        "family": "Dyer"
+      },
+      {
+        "given": "Uwe",
+        "family": "Scholz"
+      }
+    ],
+    "container-title": "F1000Research",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          19
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gtq5n7",
+    "container-title-short": "F1000Res",
+    "PMCID": "PMC9218589",
+    "PMID": "35811804",
+    "id": "31NWAHsO",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.12688/f1000research.109080.2"
+  },
+  {
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "11",
+    "abstract": "<jats:p>Modern breeding programs routinely use genome-wide information for selecting individuals to advance. The large volumes of genotypic information required present a challenge for data storage and query efficiency. Major use cases require genotyping data to be linked with trait phenotyping data. In contrast to phenotyping data that are often stored in relational database schemas, next-generation genotyping data are traditionally stored in non-relational storage systems due to their extremely large scope. This study presents a novel data model implemented in Breedbase (<jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://breedbase.org/\" xlink:type=\"simple\">https://breedbase.org/</jats:ext-link>) for uniting relational phenotyping data and non-relational genotyping data within the open-source PostgreSQL database engine. Breedbase is an open-source, web-database designed to manage all of a breeder’s informatics needs: management of field experiments, phenotypic and genotypic data collection and storage, and statistical analyses. The genotyping data is stored in a PostgreSQL data-type known as binary JavaScript Object Notation (JSONb), where the JSON structures closely follow the Variant Call Format (VCF) data model. The Breedbase genotyping data model can handle different ploidy levels, structural variants, and any genotype encoded in VCF. JSONb is both compressed and indexed, resulting in a space and time efficient system. Furthermore, file caching maximizes data retrieval performance. Integration of all breeding data within the Chado database schema retains referential integrity that may be lost when genotyping and phenotyping data are stored in separate systems. Benchmarking demonstrates that the system is fast enough for computation of a genomic relationship matrix (GRM) and genome wide association study (GWAS) for datasets involving 1,325 diploid <jats:italic>Zea mays</jats:italic>, 314 triploid <jats:italic>Musa acuminata</jats:italic>, and 924 diploid <jats:italic>Manihot esculenta</jats:italic> samples genotyped with 955,690, 142,119, and 287,952 genotype-by-sequencing (GBS) markers, respectively.</jats:p>",
+    "DOI": "10.1371/journal.pone.0240059",
+    "type": "article-journal",
+    "page": "e0240059",
+    "source": "Crossref",
+    "title": "High density genotype storage for plant breeding in the Chado schema of Breedbase",
+    "volume": "15",
+    "author": [
+      {
+        "given": "Nicolas",
+        "family": "Morales"
+      },
+      {
+        "given": "Guillaume J.",
+        "family": "Bauchet"
+      },
+      {
+        "given": "Titima",
+        "family": "Tantikanjana"
+      },
+      {
+        "given": "Adrian F.",
+        "family": "Powell"
+      },
+      {
+        "given": "Bryan J.",
+        "family": "Ellerbrock"
+      },
+      {
+        "given": "Isaak Y.",
+        "family": "Tecle"
+      },
+      {
+        "given": "Lukas A.",
+        "family": "Mueller"
+      }
+    ],
+    "container-title": "PLOS ONE",
+    "language": "en",
+    "editor": [
+      {
+        "given": "Junwen",
+        "family": "Wang"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          11
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gmcmq7",
+    "container-title-short": "PLoS ONE",
+    "PMCID": "PMC7657515",
+    "PMID": "33175872",
+    "id": "1FDf25dDD",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.1371/journal.pone.0240059"
+  },
+  {
+    "publisher": "Wiley",
+    "issue": "4",
+    "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>Plant breeding and genetics research is an inherently data‐driven enterprise. Typical experiments and breeding nurseries can contain thousands of unique entries and programs will often evaluate tens of thousands of plots each year. To function efficiently on this scale, electronic data management becomes essential. Many research programs, however, continue to operate by scribing and transcribing massive amounts of data on paper field books. While effective, this form of data management places heavy burdens on human resources, decreases data integrity, and greatly limits future utilization of data and the ability to expand the breeding program. To help address these constraints, we have developed an open‐source application for electronic data capture that runs on consumer‐grade Android tablets. By focusing on a simple, stand‐alone application with an intuitive and customized interface, we attempt to decrease both the technological and cost barriers that hinder adoption of electronic data management in breeding programs. The simplicity of Field Book allows adoption of the technology without a steep learning curve. With low‐cost, accessible solutions, the vision of one handheld per breeder can become a reality for breeding programs around the world. Transformational capacity in electronic data collection and management will be essential to realizing a contemporary green revolution.</jats:p>",
+    "DOI": "10.2135/cropsci2013.08.0579",
+    "type": "article-journal",
+    "page": "1624-1627",
+    "source": "Crossref",
+    "title": "Field Book: An Open‐Source Application for Field Data Collection on Android",
+    "volume": "54",
+    "author": [
+      {
+        "given": "Trevor W.",
+        "family": "Rife"
+      },
+      {
+        "given": "Jesse A.",
+        "family": "Poland"
+      }
+    ],
+    "container-title": "Crop Science",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          7
+        ]
+      ]
+    },
+    "URL": "https://doi.org/f584rr",
+    "container-title-short": "Crop Science",
+    "id": "MlqG0w6i",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.2135/cropsci2013.08.0579"
+  },
+  {
+    "publisher": "Wiley",
+    "issue": "5",
+    "abstract": "<jats:p>The realized dangers of genetic erosion in plant genetic resources have prompted political and scientific movements around the world to conserve plant genetic resources over the last 50 yr. More than 7 million plant germplasm accessions are currently conserved in 1750 genebanks worldwide, and about two million accessions are estimated to be unique. The International Treaty on Plant Genetic Resources for Food and Agriculture was established to conserve and utilize these plant genetic resources. However, long‐term conservation of such a large volume of diverse germplasm remains a challenging mission. Many critical issues affecting genebank sustainability have emerged. Of note are the vulnerability of genebanks and the risk of within‐genebank genetic erosion through genetic drift and viability selection. Here, we review the overall conservation efforts over the last 50 yr, analyze the critical issues in genebanks, and identify the elements that threaten long‐term germplasm conservation. Measures are explored with the hope to mitigate variable threats for genebank sustainability and to secure a food supply for humanity for generations to come.</jats:p>",
+    "DOI": "10.2135/cropsci2017.01.0014",
+    "type": "article-journal",
+    "page": "2314-2328",
+    "source": "Crossref",
+    "title": "The Vulnerability of Plant Genetic Resources Conserved Ex Situ",
+    "volume": "57",
+    "author": [
+      {
+        "given": "Yong‐Bi",
+        "family": "Fu"
+      }
+    ],
+    "container-title": "Crop Science",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          7,
+          27
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gbzbnd",
+    "container-title-short": "Crop Science",
+    "id": "USun3Z8l",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.2135/cropsci2017.01.0014"
+  },
+  {
+    "type": "article-journal",
+    "id": "6VGwG9za",
+    "categories": [
+      "Crop Production/Industries",
+      "Research and Development/Tech Change/Emerging Technologies"
+    ],
+    "language": "en",
+    "author": [
+      {
+        "family": "Street",
+        "given": "Ken"
+      },
+      {
+        "family": "Street",
+        "given": "Ken"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "abstract": "As the world moves forward into an uncertain future our agro-ecosystems will come under increasing pressure, threatening our food security. In fact, climate change, dwindling water supplies, rising energy costs, the emergence of new pests and diseases, loss of arable land and population growth mean that our crop plants will need to yield more on less land, with fewer inputs under increasingly harsh conditions. For this reason, plant breeders will be forced to mine global plant genetic resources collections for variation that can be used to future-proof our crop plants. However, the genetic resources collections are large and we cannot afford to evaluate every accession in a collection as we hunt for desirable traits. The Focused Identification of Germplasm Strategy (FIGS) was developed to help unlock the variation in genebanks and make it more accessible to the plant breeding community. This paper explains how FIGS works and gives examples of how rare traits have been uncovered by using the technology.",
+    "container-title": "Unknown",
+    "DOI": "10.22004/ag.econ.266624",
+    "publisher": "Unknown",
+    "title": "Genebank mining with FIGS, the Focused Identification of Germplasm Strategy",
+    "URL": "https://doi.org/gtq5n8",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.22004/ag.econ.266624"
+  },
+  {
+    "publisher": "Frontiers Media SA",
+    "abstract": "<jats:p>Crop improvement efforts have exploited new methods for modeling spatial trends using the arrangement of the experimental units in the field. These methods have shown improvement in predicting the genetic potential of evaluated genotypes. However, the use of these tools may be limited by the exposure and accessibility to these products. In addition, these new methodologies often require plant scientists to be familiar with the programming environment used to implement them; constraints that limit data analysis efficiency for decision-making. These challenges have led to the development of Mr.Bean, an accessible and user-friendly tool with a comprehensive graphical visualization interface. The application integrates descriptive analysis, measures of dispersion and centralization, linear mixed model fitting, multi-environment trial analysis, factor analytic models, and genomic analysis. All these capabilities are designed to help plant breeders and scientist working with agricultural field trials make informed decisions more quickly. Mr.Bean is available for download at <jats:ext-link>https://github.com/AparicioJohan/MrBeanApp</jats:ext-link>.</jats:p>",
+    "DOI": "10.3389/fpls.2023.1290078",
+    "type": "article-journal",
+    "source": "Crossref",
+    "title": "Mr.Bean: a comprehensive statistical and visualization application for modeling agricultural field trials data",
+    "volume": "14",
+    "author": [
+      {
+        "given": "Johan",
+        "family": "Aparicio"
+      },
+      {
+        "given": "Salvador A.",
+        "family": "Gezan"
+      },
+      {
+        "given": "Daniel",
+        "family": "Ariza-Suarez"
+      },
+      {
+        "given": "Bodo",
+        "family": "Raatz"
+      },
+      {
+        "given": "Santiago",
+        "family": "Diaz"
+      },
+      {
+        "given": "Ana",
+        "family": "Heilman-Morales"
+      },
+      {
+        "given": "Juan",
+        "family": "Lobaton"
+      }
+    ],
+    "container-title": "Frontiers in Plant Science",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          3
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gttbvb",
+    "container-title-short": "Front. Plant Sci.",
+    "PMCID": "PMC10792065",
+    "PMID": "38235208",
+    "id": "7WXz7FUP",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.3389/fpls.2023.1290078"
+  },
+  {
+    "publisher": "Frontiers Media SA",
+    "abstract": "<jats:p>In the last century, breeding programs have traditionally favoured yield-related traits, grown under high-input conditions, resulting in a loss of genetic diversity and an increased susceptibility to stresses in crops. Thus, exploiting understudied genetic resources, that potentially harbour tolerance genes, is vital for sustainable agriculture. Northern European barley germplasm has been relatively understudied despite its key role within the malting industry. The European Heritage Barley collection (ExHIBiT) was assembled to explore the genetic diversity in European barley focusing on Northern European accessions and further address environmental pressures.  ExHIBiT consists of 363 spring-barley accessions, focusing on two-row type. The collection consists of landraces (~14%), old cultivars (~18%), elite cultivars (~67%) and accessions with unknown breeding history (~1%), with 70% of the collection from Northern Europe. The population structure of the ExHIBiT collection was subdivided into three main clusters primarily based on the accession’s year of release using 26,585 informative SNPs based on 50k iSelect single nucleotide polymorphism (SNP) array data. Power analysis established a representative core collection of 230 genotypically and phenotypically diverse accessions. The effectiveness of this core collection for conducting statistical and association analysis was explored by undertaking genome-wide association studies (GWAS) using 24,876 SNPs for nine phenotypic traits, four of which were associated with SNPs. Genomic regions overlapping with previously characterised flowering genes (HvZTLb) were identified, demonstrating the utility of the ExHIBiT core collection for locating genetic regions that determine important traits. Overall, the ExHIBiT core collection represents the high level of untapped diversity within Northern European barley, providing a powerful resource for researchers and breeders to address future climate scenarios.</jats:p>",
+    "DOI": "10.3389/fpls.2024.1268847",
+    "type": "article-journal",
+    "source": "Crossref",
+    "title": "Unlocking the genetic diversity and population structure of the newly introduced two-row spring European HerItage Barley collecTion (ExHIBiT)",
+    "volume": "15",
+    "author": [
+      {
+        "given": "Villő",
+        "family": "Bernád"
+      },
+      {
+        "given": "Nadia",
+        "family": "Al-Tamimi"
+      },
+      {
+        "given": "Patrick",
+        "family": "Langan"
+      },
+      {
+        "given": "Gary",
+        "family": "Gillespie"
+      },
+      {
+        "given": "Timothy",
+        "family": "Dempsey"
+      },
+      {
+        "given": "Joey",
+        "family": "Henchy"
+      },
+      {
+        "given": "Mary",
+        "family": "Harty"
+      },
+      {
+        "given": "Luke",
+        "family": "Ramsay"
+      },
+      {
+        "given": "Kelly",
+        "family": "Houston"
+      },
+      {
+        "given": "Malcolm",
+        "family": "Macaulay"
+      },
+      {
+        "given": "Paul D.",
+        "family": "Shaw"
+      },
+      {
+        "given": "Sebastian",
+        "family": "Raubach"
+      },
+      {
+        "given": "Kevin P.",
+        "family": "Mcdonnel"
+      },
+      {
+        "given": "Joanne",
+        "family": "Russell"
+      },
+      {
+        "given": "Robbie",
+        "family": "Waugh"
+      },
+      {
+        "given": "Mortaza",
+        "family": "Khodaeiaminjan"
+      },
+      {
+        "given": "Sónia",
+        "family": "Negrão"
+      }
+    ],
+    "container-title": "Frontiers in Plant Science",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          20
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gtstdn",
+    "container-title-short": "Front. Plant Sci.",
+    "PMCID": "PMC10987740",
+    "PMID": "38571708",
+    "id": "1HmEHgW8h",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.3389/fpls.2024.1268847"
+  },
+  {
+    "publisher": "MDPI AG",
+    "issue": "8",
+    "abstract": "<jats:p>The history of ex situ conservation is relatively short, not more than a century old. During the middle of last century, triggered by the realization that genetic erosion was threatening the existing landraces and wild relatives of the major food crops, global efforts to collect and conserve the genetic diversity of these threatened resources were initiated, predominantly orchestrated by FAO. National and international genebanks were established to store and maintain germplasm materials, conservation methodologies were created, standards developed, and coordinating efforts were put in place to ensure effective and efficient approaches and collaboration. In the spontaneously developing global conservation system, plant breeders played an important role, aiming at the availability of genetic diversity in their breeding work. Furthermore, long-term conservation and the safety of the collected materials were the other two overriding criteria that led to the emerging international network of ex situ base collections. The political framework for the conservation of plant genetic resources finds its roots in the International Undertaking of the FAO and became ‘turbulent rapid’ with the conclusion of the Convention on Biological Diversity. This paper reviews the history of the global ex situ conservation system with a focus on the international network of base collections. It assesses the major ex situ conservation approaches and methods with their strengths and weaknesses with respect to the global conservation system and highlights the importance of combining in situ and ex situ conservation.</jats:p>",
+    "DOI": "10.3390/plants10081557",
+    "type": "article-journal",
+    "page": "1557",
+    "source": "Crossref",
+    "title": "A Critical Review of the Current Global Ex Situ Conservation System for Plant Agrobiodiversity. I. History of the Development of the Global System in the Context of the Political/Legal Framework and Its Major Conservation Components",
+    "volume": "10",
+    "author": [
+      {
+        "given": "Johannes M. M.",
+        "family": "Engels"
+      },
+      {
+        "given": "Andreas W.",
+        "family": "Ebert"
+      }
+    ],
+    "container-title": "Plants",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          29
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gtq5n9",
+    "container-title-short": "Plants",
+    "PMCID": "PMC8401695",
+    "PMID": "34451602",
+    "id": "S1uQPBPG",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.3390/plants10081557"
+  },
+  {
+    "publisher": "MDPI AG",
+    "issue": "12",
+    "abstract": "<jats:p>Over the last eight years, the volume of whole genome, gene expression, SNP genotyping, and phenotype data generated by the cotton research community has exponentially increased. The efficient utilization/re-utilization of these complex and large datasets for knowledge discovery, translation, and application in crop improvement requires them to be curated, integrated with other types of data, and made available for access and analysis through efficient online search tools. Initiated in 2012, CottonGen is an online community database providing access to integrated peer-reviewed cotton genomic, genetic, and breeding data, and analysis tools. Used by cotton researchers worldwide, and managed by experts with crop-specific knowledge, it continuous to be the logical choice to integrate new data and provide necessary interfaces for information retrieval. The repository in CottonGen contains colleague, gene, genome, genotype, germplasm, map, marker, metabolite, phenotype, publication, QTL, species, transcriptome, and trait data curated by the CottonGen team. The number of data entries housed in CottonGen has increased dramatically, for example, since 2014 there has been an 18-fold increase in genes/mRNAs, a 23-fold increase in whole genomes, and a 372-fold increase in genotype data. New tools include a genetic map viewer, a genome browser, a synteny viewer, a metabolite pathways browser, sequence retrieval, BLAST, and a breeding information management system (BIMS), as well as various search pages for new data types. CottonGen serves as the home to the International Cotton Genome Initiative, managing its elections and serving as a communication and coordination hub for the community. With its extensive curation and integration of data and online tools, CottonGen will continue to facilitate utilization of its critical resources to empower research for cotton crop improvement.</jats:p>",
+    "DOI": "10.3390/plants10122805",
+    "type": "article-journal",
+    "page": "2805",
+    "source": "Crossref",
+    "title": "CottonGen: The Community Database for Cotton Genomics, Genetics, and Breeding Research",
+    "volume": "10",
+    "author": [
+      {
+        "given": "Jing",
+        "family": "Yu"
+      },
+      {
+        "given": "Sook",
+        "family": "Jung"
+      },
+      {
+        "given": "Chun-Huai",
+        "family": "Cheng"
+      },
+      {
+        "given": "Taein",
+        "family": "Lee"
+      },
+      {
+        "given": "Ping",
+        "family": "Zheng"
+      },
+      {
+        "given": "Katheryn",
+        "family": "Buble"
+      },
+      {
+        "given": "James",
+        "family": "Crabb"
+      },
+      {
+        "given": "Jodi",
+        "family": "Humann"
+      },
+      {
+        "given": "Heidi",
+        "family": "Hough"
+      },
+      {
+        "given": "Don",
+        "family": "Jones"
+      },
+      {
+        "given": "J. Todd",
+        "family": "Campbell"
+      },
+      {
+        "given": "Josh",
+        "family": "Udall"
+      },
+      {
+        "given": "Dorrie",
+        "family": "Main"
+      }
+    ],
+    "container-title": "Plants",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          18
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gqqwfm",
+    "container-title-short": "Plants",
+    "PMCID": "PMC8705096",
+    "PMID": "34961276",
+    "id": "dcg0274X",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.3390/plants10122805"
+  },
+  {
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "abstract": "<jats:p>\n            GnpIS is a data repository for plant phenomics that stores whole field and greenhouse experimental data including environment measures. It allows long-term access to datasets following the FAIR principles: Findable, Accessible, Interoperable, and Reusable, by using a flexible and original approach. It is based on a generic and ontology driven data model and an innovative software architecture that uncouples data integration, storage, and querying. It takes advantage of international standards including the Crop Ontology, MIAPPE, and the Breeding API. GnpIS allows handling data for a wide range of species and experiment types, including multiannual perennial plants experimental network or annual plant trials with either raw data,\n            <jats:italic>i.e.,</jats:italic>\n            direct measures, or computed traits. It also ensures the integration and the interoperability among phenotyping datasets and with genotyping data. This is achieved through a careful curation and annotation of the key resources conducted in close collaboration with the communities providing data. Our repository follows the Open Science data publication principles by ensuring citability of each dataset. Finally, GnpIS compliance with international standards enables its interoperability with other data repositories hence allowing data links between phenotype and other data types. GnpIS can therefore contribute to emerging international federations of information systems.\n          </jats:p>",
+    "DOI": "10.34133/2019/1671403",
+    "type": "article-journal",
+    "source": "Crossref",
+    "title": "Applying FAIR Principles to Plant Phenotypic Data Management in GnpIS",
+    "volume": "2019",
+    "author": [
+      {
+        "given": "C.",
+        "family": "Pommier"
+      },
+      {
+        "given": "C.",
+        "family": "Michotey"
+      },
+      {
+        "given": "G.",
+        "family": "Cornut"
+      },
+      {
+        "given": "P.",
+        "family": "Roumet"
+      },
+      {
+        "given": "E.",
+        "family": "Duchêne"
+      },
+      {
+        "given": "R.",
+        "family": "Flores"
+      },
+      {
+        "given": "A.",
+        "family": "Lebreton"
+      },
+      {
+        "given": "M.",
+        "family": "Alaux"
+      },
+      {
+        "given": "S.",
+        "family": "Durand"
+      },
+      {
+        "given": "E.",
+        "family": "Kimmel"
+      },
+      {
+        "given": "T.",
+        "family": "Letellier"
+      },
+      {
+        "given": "G.",
+        "family": "Merceron"
+      },
+      {
+        "given": "M.",
+        "family": "Laine"
+      },
+      {
+        "given": "C.",
+        "family": "Guerche"
+      },
+      {
+        "given": "M.",
+        "family": "Loaec"
+      },
+      {
+        "given": "D.",
+        "family": "Steinbach"
+      },
+      {
+        "given": "M. A.",
+        "family": "Laporte"
+      },
+      {
+        "given": "E.",
+        "family": "Arnaud"
+      },
+      {
+        "given": "H.",
+        "family": "Quesneville"
+      },
+      {
+        "given": "A. F.",
+        "family": "Adam-Blondon"
+      }
+    ],
+    "container-title": "Plant Phenomics",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          1
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gtq836",
+    "container-title-short": "Plant Phenomics",
+    "PMCID": "PMC7718628",
+    "PMID": "33313522",
+    "id": "m7yuFGsd",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.34133/2019/1671403"
+  },
+  {
+    "type": "book",
+    "id": "a9uPTJgO",
+    "author": [
+      {
+        "family": "Khaled Al-Shamaa"
+      },
+      {
+        "family": "Johan Steven Aparicio"
+      },
+      {
+        "family": "Nick"
+      },
+      {
+        "family": "icarda-git"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          7
+        ]
+      ]
+    },
+    "abstract": "Add EBS support using BrAPI v2 calls.\n\nImplement a new generic internal mechanism that supports both BrAPI versions 1 and 2 calls for all core functions.\n\nSupport the OAuth 2.0 authentication (Authorization Code Grant flow) using the new login_oauth2() function.\n\nSupport external authorization option and set access token value manually using the new set_token() function.\n\nSupport downloading TerraClimate netCDF data files to extract their data offline using the new ini_terraclimate() function.\n\nAdd the new scan_brapi_endpoints() utility function to scan available BrAPI endpoints in the configured data source server.\n\nEnhance the gigwa_get_variants() function by adding 3 extra filtering parameters: start position, end position, and reference sequence name.\n\nFix the BreedBase login problem due to the form encoding issue by adding the new function login_breedbase() to pass the correct/expected encoding.\n\nAdd HWSD v2.0 support to query and retrieve the FAO harmonized soil data.\n\nResolved several minor bugs reported by EBS, BreedBase, and DeltaBreed users for improved stability.",
+    "DOI": "10.5281/zenodo.10791627",
+    "publisher": "Zenodo",
+    "title": "icarda-git/QBMS: QBMS Version 1.0.0",
+    "URL": "https://doi.org/gtq85w",
+    "version": "v1.0.0",
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:10.5281/zenodo.10791627"
+  },
+  {
+    "id": "OodVqG7n",
+    "type": "article-journal",
+    "abstract": "Summary\r\n            \r\n              \r\n                \r\n                  Phenomic datasets need to be accessible to the scientific community. Their reanalysis requires tracing relevant information on thousands of plants, sensors and events.\r\n                \r\n                \r\n                  \r\n                    The open‐source Phenotyping Hybrid Information System (\r\n                    PHIS\r\n                    ) is proposed for plant phenotyping experiments in various categories of installations (field, glasshouse). It unambiguously identifies all objects and traits in an experiment and establishes their relations via ontologies and semantics that apply to both field and controlled conditions. For instance, the genotype is declared for a plant or plot and is associated with all objects related to it. Events such as successive plant positions, anomalies and annotations are associated with objects so they can be easily retrieved.\r\n                  \r\n                \r\n                \r\n                  Its ontology‐driven architecture is a powerful tool for integrating and managing data from multiple experiments and platforms, for creating relationships between objects and enriching datasets with knowledge and metadata. It interoperates with external resources via web services, thereby allowing data integration into other systems; for example, modelling platforms or external databases.\r\n                \r\n                \r\n                  It has the potential for rapid diffusion because of its ability to integrate, manage and visualize multi‐source and multi‐scale data, but also because it is based on 10 yr of trial and error in our groups.",
+    "container-title": "New Phytologist",
+    "DOI": "https://doi.org/10.1111/nph.15385",
+    "ISSN": "0028-646X, 1469-8137",
+    "issue": "1",
+    "journalAbbreviation": "New Phytologist",
+    "language": "en",
+    "page": "588-601",
+    "source": "DOI.org (Crossref)",
+    "title": "Dealing with multi‐source and multi‐scale information in plant phenomics: the ontology‐driven Phenotyping Hybrid Information System",
+    "title-short": "Dealing with multi‐source and multi‐scale information in plant phenomics",
+    "URL": "https://doi.org/gm9b9j",
+    "volume": "221",
+    "author": [
+      {
+        "family": "Neveu",
+        "given": "Pascal"
+      },
+      {
+        "family": "Tireau",
+        "given": "Anne"
+      },
+      {
+        "family": "Hilgert",
+        "given": "Nadine"
+      },
+      {
+        "family": "Nègre",
+        "given": "Vincent"
+      },
+      {
+        "family": "Mineau‐Cesari",
+        "given": "Jonathan"
+      },
+      {
+        "family": "Brichet",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Chapuis",
+        "given": "Romain"
+      },
+      {
+        "family": "Sanchez",
+        "given": "Isabelle"
+      },
+      {
+        "family": "Pommier",
+        "given": "Cyril"
+      },
+      {
+        "family": "Charnomordic",
+        "given": "Brigitte"
+      },
+      {
+        "family": "Tardieu",
+        "given": "François"
+      },
+      {
+        "family": "Cabrera‐Bosquet",
+        "given": "Llorenç"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          5,
+          7
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2019",
+          1
+        ]
+      ]
+    },
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:https://doi.org/10.1111/nph.15385"
+  },
+  {
+    "id": "TVXmHLRk",
+    "type": "article-journal",
+    "abstract": "Summary\r\n            \r\n              \r\n                \r\n                  Enabling data reuse and knowledge discovery is increasingly critical in modern science, and requires an effort towards standardising data publication practices. This is particularly challenging in the plant phenotyping domain, due to its complexity and heterogeneity.\r\n                \r\n                \r\n                  We have produced the MIAPPE 1.1 release, which enhances the existing MIAPPE standard in coverage, to support perennial plants, in structure, through an explicit data model, and in clarity, through definitions and examples.\r\n                \r\n                \r\n                  We evaluated MIAPPE 1.1 by using it to express several heterogeneous phenotyping experiments in a range of different formats, to demonstrate its applicability and the interoperability between the various implementations. Furthermore, the extended coverage is demonstrated by the fact that one of the datasets could not have been described under MIAPPE 1.0.\r\n                \r\n                \r\n                  MIAPPE 1.1 marks a major step towards enabling plant phenotyping data reusability, thanks to its extended coverage, and especially the formalisation of its data model, which facilitates its implementation in different formats. Community feedback has been critical to this development, and will be a key part of ensuring adoption of the standard.",
+    "container-title": "New Phytologist",
+    "DOI": "https://doi.org/10.1111/nph.16544",
+    "ISSN": "0028-646X, 1469-8137",
+    "issue": "1",
+    "journalAbbreviation": "New Phytologist",
+    "language": "en",
+    "page": "260-273",
+    "source": "DOI.org (Crossref)",
+    "title": "Enabling reusability of plant phenomic datasets with MIAPPE 1.1",
+    "URL": "https://doi.org/gjqcmb",
+    "volume": "227",
+    "author": [
+      {
+        "family": "Papoutsoglou",
+        "given": "Evangelia A."
+      },
+      {
+        "family": "Faria",
+        "given": "Daniel"
+      },
+      {
+        "family": "Arend",
+        "given": "Daniel"
+      },
+      {
+        "family": "Arnaud",
+        "given": "Elizabeth"
+      },
+      {
+        "family": "Athanasiadis",
+        "given": "Ioannis N."
+      },
+      {
+        "family": "Chaves",
+        "given": "Inês"
+      },
+      {
+        "family": "Coppens",
+        "given": "Frederik"
+      },
+      {
+        "family": "Cornut",
+        "given": "Guillaume"
+      },
+      {
+        "family": "Costa",
+        "given": "Bruno V."
+      },
+      {
+        "family": "Ćwiek‐Kupczyńska",
+        "given": "Hanna"
+      },
+      {
+        "family": "Droesbeke",
+        "given": "Bert"
+      },
+      {
+        "family": "Finkers",
+        "given": "Richard"
+      },
+      {
+        "family": "Gruden",
+        "given": "Kristina"
+      },
+      {
+        "family": "Junker",
+        "given": "Astrid"
+      },
+      {
+        "family": "King",
+        "given": "Graham J."
+      },
+      {
+        "family": "Krajewski",
+        "given": "Paweł"
+      },
+      {
+        "family": "Lange",
+        "given": "Matthias"
+      },
+      {
+        "family": "Laporte",
+        "given": "Marie‐Angélique"
+      },
+      {
+        "family": "Michotey",
+        "given": "Célia"
+      },
+      {
+        "family": "Oppermann",
+        "given": "Markus"
+      },
+      {
+        "family": "Ostler",
+        "given": "Richard"
+      },
+      {
+        "family": "Poorter",
+        "given": "Hendrik"
+      },
+      {
+        "family": "Ramı́rez‐Gonzalez",
+        "given": "Ricardo"
+      },
+      {
+        "family": "Ramšak",
+        "given": "Živa"
+      },
+      {
+        "family": "Reif",
+        "given": "Jochen C."
+      },
+      {
+        "family": "Rocca‐Serra",
+        "given": "Philippe"
+      },
+      {
+        "family": "Sansone",
+        "given": "Susanna‐Assunta"
+      },
+      {
+        "family": "Scholz",
+        "given": "Uwe"
+      },
+      {
+        "family": "Tardieu",
+        "given": "François"
+      },
+      {
+        "family": "Uauy",
+        "given": "Cristobal"
+      },
+      {
+        "family": "Usadel",
+        "given": "Björn"
+      },
+      {
+        "family": "Visser",
+        "given": "Richard G. F."
+      },
+      {
+        "family": "Weise",
+        "given": "Stephan"
+      },
+      {
+        "family": "Kersey",
+        "given": "Paul J."
+      },
+      {
+        "family": "Miguel",
+        "given": "Célia M."
+      },
+      {
+        "family": "Adam‐Blondon",
+        "given": "Anne‐Françoise"
+      },
+      {
+        "family": "Pommier",
+        "given": "Cyril"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          5,
+          7
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2020",
+          7
+        ]
+      ]
+    },
+    "note": "This CSL Item was generated by Manubot v0.5.5 from its persistent identifier (standard_id).\nstandard_id: doi:https://doi.org/10.1111/nph.16544"
   }
 ]
