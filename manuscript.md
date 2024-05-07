@@ -53,6 +53,7 @@ author-meta:
 - Valentin Guignon
 - Mathieu Rouard
 - Asis Hallab
+- Rafael Abbeloos
 - Laszlo Lang
 - Vivian Bass Vega
 - Mirella Flores-Gonzalez
@@ -70,8 +71,8 @@ header-includes: |
   <meta name="dc.date" content="2024-05-07" />
   <meta name="citation_publication_date" content="2024-05-07" />
   <meta property="article:published_time" content="2024-05-07" />
-  <meta name="dc.modified" content="2024-05-07T18:13:56+00:00" />
-  <meta property="article:modified_time" content="2024-05-07T18:13:56+00:00" />
+  <meta name="dc.modified" content="2024-05-07T18:20:50+00:00" />
+  <meta property="article:modified_time" content="2024-05-07T18:20:50+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -206,6 +207,9 @@ header-includes: |
   <meta name="citation_author" content="Asis Hallab" />
   <meta name="citation_author_institution" content="Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany" />
   <meta name="citation_author_orcid" content="0000-0002-2421-5431" />
+  <meta name="citation_author" content="Rafael Abbeloos" />
+  <meta name="citation_author_institution" content="VIB AgroIncubator" />
+  <meta name="citation_author_orcid" content="0000-0002-0177-3887" />
   <meta name="citation_author" content="Laszlo Lang" />
   <meta name="citation_author_institution" content="Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany" />
   <meta name="citation_author_orcid" content="0009-0009-8936-4532" />
@@ -221,9 +225,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/3671c33f310460b0e09706adc07ef2f98204ccb2/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/3671c33f310460b0e09706adc07ef2f98204ccb2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/3671c33f310460b0e09706adc07ef2f98204ccb2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/56ffcc7177cbbf6f1220253aba8378c4fb10f783/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/56ffcc7177cbbf6f1220253aba8378c4fb10f783/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/56ffcc7177cbbf6f1220253aba8378c4fb10f783/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -245,9 +249,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/3671c33f310460b0e09706adc07ef2f98204ccb2/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/56ffcc7177cbbf6f1220253aba8378c4fb10f783/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@3671c33](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/3671c33f310460b0e09706adc07ef2f98204ccb2)
+from [plantbreeding/BrAPI-Manuscript2@56ffcc7](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/56ffcc7177cbbf6f1220253aba8378c4fb10f783)
 on May 7, 2024.
 </em></small>
 
@@ -653,6 +657,17 @@ on May 7, 2024.
      Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany
   </small>
 
++ **Rafael Abbeloos**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-0177-3887](https://orcid.org/0000-0002-0177-3887)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [raabb](https://github.com/raabb)
+    <br>
+  <small>
+     VIB AgroIncubator
+  </small>
+
 + **Laszlo Lang**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
@@ -857,6 +872,20 @@ BIMS (Breeding Information Management System) [@doi:10.1093/database/baab054] is
 [Germinate](https://ics.hutton.ac.uk/get-germinate/) [@doi:10.1002/csc2.20248] is an open-source plant genetic resources database that combines and integrates various kinds of plant breeding data including genotypic data, phenotypic trials data, passport data, images, geographic information and climate data into a single repository. Germinate is tightly linked to the BrAPI specification and supports a majority of BrAPI endpoints for querying, filtering and submission.
 
 Germinate integrates and connects with other BrAPI-enabled tools such as GridScore for phenotypic data collection, Flapjack for genotypic data visualization and Helium for pedigree visualization, but, due to the nature of BrAPI, Germinate can act as a data repository for any BrAPI-compatible tool. Thanks to the interoperability provided by BrAPI the need for manual data handling becomes a rarity with the direct benefit of faster data processing, fewer to no human errors, data security and integrity.
+
+#### PIPPA
+
+[PIPPA](https://pippa.psb.ugent.be) is a data management system used for collecting data from the [WIWAM](https://www.wiwam.be/) range of automated high throughput phenotyping platforms. These platforms have been deployed at different research institutes and commercial breeders across Europe in a variety of configurations with different types of equipment such as weighing scales, cameras and environment sensors. Examples are:
+
++ [Umea Plant Science Centre](https://www.upsc.se/plant-growth-facilities-at-upsc-and-slu-umea/325-upsc-tree-phenotyping-platform.html)
++ [Fondazione Edmund Mach](https://cri.fmach.it/en/Facilities/Technological-Facilities/Plant-Phenotyping#application_fields)
++ [Phenovision](https://www.psb.ugent.be/phenotyping/phenovision)
+
+Developed from 2016 onwards, the software features a web interface with functionality for setting up new experiments for the platform(s), planning imaging and irrigation treatments, linking metadata to pots (genotype, growth media, manual treatments), exporting data, importing data and visualizing data as charts. It also supports the integration of image analysis scripts and connections to a compute cluster for job submission.
+
+To share the phenotype data of the experiments linked to publications, an implementation of BrAPI 1.3 was developed on a separate public PIPPA server open to the public, which allowed read only access to the data in a standardized format. This endpoint was registered on [FAIDARE](https://urgi.versailles.inra.fr/faidare/) and allows the data to be found alongside data from other BrAPI endpoints.
+
+As the BrAPI ecosystem has matured, it created a clear path for the development of PIPPA as to how to share data in a manner according to the FAIR principles which are becoming standard in plant research data management best practices. In combination with the support for [MIAPPE](https://www.miappe.org/), these have served as guidelines in the current development, which is focussed on delivering a public BraPI 2.1 endpoint and making more high throughput datasets publicly available via BrAPI.
 
 #### MGIS
 
