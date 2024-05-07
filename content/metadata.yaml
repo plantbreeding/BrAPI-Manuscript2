@@ -199,7 +199,8 @@ authors:
     email: erwan.le-floch@inrae.fr
     initials: ELF
     affiliations:
-      - URGI PlantBioinfoPF, INRAE France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, Versailles, France
   - name: Jospeh Ruff
     email: J.Ruff@kew.org
     initials: JR
@@ -208,8 +209,36 @@ authors:
   - name: Michael Alaux
     email: michael.alaux@inrae.fr
     initials: MA
+    orcid: 0000-0001-9356-4072
     affiliations:
-      - URGI PlantBioinfoPF, INRAE France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+  - name: Célia Michotey
+    email: celia.michotey@inrae.fr
+    initials: CM
+    orcid: 0000-0003-1877-1703
+    affiliations:
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+  - name: Anne-Francoise Adam-Blondon
+    email: anne-francoise.adam-blondon@inrae.fr
+    initials: AFAB
+    orcid: 0000-0002-3412-9086
+    affiliations:
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, Versailles, France   
+  - name: Jeremy Destin
+    email: jeremy.destin@inrae.fr
+    initials: JD
+    affiliations:
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+  - name: Maud Marty
+    email: maud.marty@inrae.fr
+    initials: MM
+    affiliations:
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, Versailles, France
   - name: Suman Kumar
     email: kumar@ipk-gatersleben.de
     initials: SK
@@ -276,7 +305,23 @@ authors:
     orcid: 0000-0003-0903-6811
     email: v.guignon@cgiar.org
     affiliations:
-      - The Alliance of Bioversity International and CIAT (CGIAR)
+      - Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France
+    corresponding: false
+  - name: Mathieu Rouard
+    initials: MR
+    github: mrouard
+    orcid: 0000-0003-0284-1885
+    email: m.rouard@cgiar.org
+    affiliations:
+      - Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France
+    corresponding: false
+  - name: Asis Hallab
+    initials: AH
+    github: https://github.com/asishallab
+    orcid: 0000-0002-2421-5431
+    email: a.hallab@fz-juelich.de
+    affiliations:
+      - Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany
     corresponding: false
   - name: Rafael Abbeloos
     initials: RA
@@ -301,3 +346,12 @@ authors:
     email: vivbass4@gmail.com
     affiliations:
       - Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
+    corresponding: false
+  - name: Mirella Flores-Gonzalez
+    initials: MFG
+    github: mflores2021
+    orcid: 0000-0002-7759-1617
+    email: mrf252@cornell.edu
+    affiliations:
+      - Boyrce Thompson Institute
+    corresponding: false
