@@ -36,6 +36,10 @@ author-meta:
 - Erwan Le-Floch
 - Jospeh Ruff
 - Michael Alaux
+- Célia Michotey
+- Anne-Francoise Adam-Blondon
+- Jeremy Destin
+- Maud Marty
 - Suman Kumar
 - Matthijs Brouwer
 - Bert Droesbeke
@@ -51,6 +55,7 @@ author-meta:
 - Asis Hallab
 - Laszlo Lang
 - Vivian Bass Vega
+- Mirella Flores-Gonzalez
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -65,8 +70,8 @@ header-includes: |
   <meta name="dc.date" content="2024-05-07" />
   <meta name="citation_publication_date" content="2024-05-07" />
   <meta property="article:published_time" content="2024-05-07" />
-  <meta name="dc.modified" content="2024-05-07T18:05:16+00:00" />
-  <meta property="article:modified_time" content="2024-05-07T18:05:16+00:00" />
+  <meta name="dc.modified" content="2024-05-07T18:06:06+00:00" />
+  <meta property="article:modified_time" content="2024-05-07T18:06:06+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -144,11 +149,28 @@ header-includes: |
   <meta name="citation_author" content="Paul Kersey" />
   <meta name="citation_author_institution" content="Royal Botanic Gardens, Kew" />
   <meta name="citation_author" content="Erwan Le-Floch" />
-  <meta name="citation_author_institution" content="URGI PlantBioinfoPF, INRAE France" />
+  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France" />
+  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
   <meta name="citation_author" content="Jospeh Ruff" />
   <meta name="citation_author_institution" content="Royal Botanic Gardens, Kew" />
   <meta name="citation_author" content="Michael Alaux" />
-  <meta name="citation_author_institution" content="URGI PlantBioinfoPF, INRAE France" />
+  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France" />
+  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
+  <meta name="citation_author_orcid" content="0000-0001-9356-4072" />
+  <meta name="citation_author" content="Célia Michotey" />
+  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France" />
+  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
+  <meta name="citation_author_orcid" content="0000-0003-1877-1703" />
+  <meta name="citation_author" content="Anne-Francoise Adam-Blondon" />
+  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France" />
+  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
+  <meta name="citation_author_orcid" content="0000-0002-3412-9086" />
+  <meta name="citation_author" content="Jeremy Destin" />
+  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France" />
+  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
+  <meta name="citation_author" content="Maud Marty" />
+  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France" />
+  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
   <meta name="citation_author" content="Suman Kumar" />
   <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
   <meta name="citation_author" content="Matthijs Brouwer" />
@@ -190,15 +212,18 @@ header-includes: |
   <meta name="citation_author" content="Vivian Bass Vega" />
   <meta name="citation_author_institution" content="Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany" />
   <meta name="citation_author_orcid" content="0009-0002-2476-9888" />
+  <meta name="citation_author" content="Mirella Flores-Gonzalez" />
+  <meta name="citation_author_institution" content="Boyrce Thompson Institute" />
+  <meta name="citation_author_orcid" content="0000-0002-7759-1617" />
   <link rel="canonical" href="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="og:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="twitter:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/62002b61b7e67a3d8ffc7bddf25527f6f8b775f1/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/62002b61b7e67a3d8ffc7bddf25527f6f8b775f1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/62002b61b7e67a3d8ffc7bddf25527f6f8b775f1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1cde013e9988a13077ed8370b6620a6ffd8226f8/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1cde013e9988a13077ed8370b6620a6ffd8226f8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1cde013e9988a13077ed8370b6620a6ffd8226f8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -220,9 +245,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/62002b61b7e67a3d8ffc7bddf25527f6f8b775f1/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/1cde013e9988a13077ed8370b6620a6ffd8226f8/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@62002b6](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/62002b61b7e67a3d8ffc7bddf25527f6f8b775f1)
+from [plantbreeding/BrAPI-Manuscript2@1cde013](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/1cde013e9988a13077ed8370b6620a6ffd8226f8)
 on May 7, 2024.
 </em></small>
 
@@ -477,7 +502,7 @@ on May 7, 2024.
 + **Erwan Le-Floch**
   <br>
   <small>
-     URGI PlantBioinfoPF, INRAE France
+     Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
   </small>
 
 + **Jospeh Ruff**
@@ -488,8 +513,41 @@ on May 7, 2024.
 
 + **Michael Alaux**
   <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0001-9356-4072](https://orcid.org/0000-0001-9356-4072)
+    <br>
   <small>
-     URGI PlantBioinfoPF, INRAE France
+     Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
+  </small>
+
++ **Célia Michotey**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0003-1877-1703](https://orcid.org/0000-0003-1877-1703)
+    <br>
+  <small>
+     Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
+  </small>
+
++ **Anne-Francoise Adam-Blondon**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-3412-9086](https://orcid.org/0000-0002-3412-9086)
+    <br>
+  <small>
+     Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
+  </small>
+
++ **Jeremy Destin**
+  <br>
+  <small>
+     Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
+  </small>
+
++ **Maud Marty**
+  <br>
+  <small>
+     Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
   </small>
 
 + **Suman Kumar**
@@ -615,6 +673,17 @@ on May 7, 2024.
     <br>
   <small>
      Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
+  </small>
+
++ **Mirella Flores-Gonzalez**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-7759-1617](https://orcid.org/0000-0002-7759-1617)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [mflores2021](https://github.com/mflores2021)
+    <br>
+  <small>
+     Boyrce Thompson Institute
   </small>
 
 
@@ -869,8 +938,11 @@ I don't know much about Tassel or its BrAPI compliance. This is filler text for 
 
 #### Trait Selector BrAPP
 
-<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-BrAPPs are simple tools developed by the BrAPI community that are entirely reliant on BrAPI for their data requirements. This means a single BrAPI can be shared and used by many organizations, as long as those organizations have the standard BrAPI endpoints available. For example, the Trait Selector BrAPP is used to search and select useful traits, using a visual aid to help the user find exactly what they need. The BrAPP relies only on the BrAPI Trait endpoints to function, so any data resources with a the Trait endpoints available can add this tool to their system.
+<!-- the "BrAPP" description part should better fit at the beginning of the section. -->
+BrAPPs are simple tools developed by the BrAPI community that are entirely reliant on BrAPI for their data requirements. This means a single BrAPI can be shared and used by many organizations, as long as those organizations have the standard BrAPI endpoints available.
+
+The Trait Selector BrAPP is used to search and select useful traits, using a visual aid to help the user find exactly what they need. This BrAPP works with both breeding databases and genebanks. Breeding databases would need to only implement the trait, observation and observation variable calls, while genebanks would require trait, germplasm attribute and germplasm attribute value calls. So, BrAPI servers compliant with version 2 implementing any of these sets of calls would just need to follow the documented steps to create an SVG image of a plant of interest in order to use this BrAPP. CassavaBase and MGIS are two successful examples of the use of this BrAPP. (example screenshots coming + supplementary data: links to the git and the doc)
+
 
 #### DArTView
 
@@ -955,7 +1027,9 @@ Users access the crop databases either with direct calls to the PHG embedded ser
 
 <!-- Peter S: Stub paragraph. Cyril P, first draft-->
 FAIDARE (<https://urgi.versailles.inrae.fr/faidare/>) is a data discovery portal providing a biologist friendly search system over a global federation of 33 plant research databases. It allows to identify data resources using a full text approach completed with domain specific filters and to link back to the original database for visualization, analysis and download. For instance, it is possible to search for "wheat drought" then to refine the search to the "Triticum aestivum" taxon and yield component traits such as "Thousand Grain Weight". The indexed data types are very broad and include genomic features, such as genes or transposable elements, selected bibliography, QTL, markers, genetic variation studies, phenomic studies and plant genetic resources ie germplasm. This inclusiveness is achieved thanks to a two stage indexation data model. The most generic one provides basic search functionalities and relies on five fields : name, link back URL, data type, species and exhaustive description. The filtering is directly tied to some of those fields. Therefore, to provide more advanced filtering, FAIDARE is also providing a second stage indexation mechanism by taking advantage of BrAPi endpoints to get more detailed metadata on genotyping and phenotyping studies as well as germplasm. In parallel, FAIDARE provides a pre-visualization of germplasm and studies using dedicated cards.
-The indexation mechanism relies on a dedicated public software (<https://github.com/elixir-europe/plant-brapi-etl-faidare>) that allows data resources manager to request the indexation of there database using pull requests. It is able to extract data from any BrAPI 1.3 and 1.2 endpoint and development of BrAPI 2.x indexation will be initiated in 2025. Since not all databases are willing to implement BrAPI endpoints, we also provide the possibility to generate metadata as BrAPI json files, hence using the standard as a file exchange format.
+![Figure FAIDARE Federation](images/Schema_FAIDARE.png){#fig:Schema_FAIDARE width="100%"}
+The indexation mechanism relies on a dedicated public software (<https://github.com/elixir-europe/plant-brapi-etl-faidare>) that allows data resources manager to request the indexation of there database using pull requests. This BrAPI client is able to extract data from any BrAPI 1.3 and 1.2 endpoint and development of BrAPI 2.x indexation will be initiated in 2025. Since not all databases are willing to implement BrAPI endpoints, we also provide the possibility to generate metadata as BrAPI json files, hence using the standard as a file exchange format.
+FAIDARE architecture has been designed by elaborating on the GnpIS Software Architecture [@doi:10.34133/2019/1671403]. As a consequence, BrAPI is at the core of its datamodel, and in particular the JSON data files served by the Elasticsearch NoSQL engine are enriched version of the BrAPI JSON files. FAIDARE also includes a BrAPI endpoint that serves all indexed metadata.
 FAIDARE has been adopted by several communities and in particular in the ELIXIR and EMPHASIS european infrastructures. It is also used by the WheatIS of the Wheat-Initiative. Several databases are added each year to the FAIDARE global federation, allowing to increase both the portal and the BrAPI adoption.
 
 #### Phenospex - HortControl
@@ -973,9 +1047,10 @@ The Scientific Advisory Committee of the International Treaty and the Governing 
 
 #### FLORILÈGE (Gateway to French Plant Genetic Resources)
 
-Designed primarily for the general public, Florilège provides access to all French plant biological resources centers. Its interface allows individuals to browse available plant accessions and gives them the possibility to order them. The listed accessions originate from 19 resources centers and concern around fifty plant species.
+Designed primarily for the general public, Florilège provides access to public collections of all French plant biological resources centers. This web portal allows to browse available plant genetic resource accessions and gives the possibility to order some seeds or plant material for cultivation. It includes plant genetic resources of around fifty plant genus from 19 genebanks.
 
-Florilège retrieves accession information from different BrAPI-compliant systems such as OLGA, an internal accessions management system, or FAIDARE. Leveraging the BrAPI implementation of these systems ensures standardized data retrieval from multiple sources, making the integration of new data sources that implement BrAPI an effortless process. The implementation of BrAPI is a prerequisite for the integration of any new database in Florilège.
+Florilège retrieves accession information from different BrAPI-compliant systems. They include OLGA, a genebank accessions information management system, and GnpIS[@doi:10.34133/2019/1671403] [@doi:10.1007/978-1-4939-6658-5_5], an INRAE data repository for plant genetic resources, phenomics and genetics. Using BrAPI to gather data from these systems reduced the efforts and enabled standardized data retrieval. As a consequence, BrAPI is the de facto standard for exchanging data within the French plant genetic resources community. The Florilège team also requested several update of the BrAPi specifications to better serve this use case, such as Collection or improved external references.
+![Figure Florilege Workflow](images/Schema_Florilege.jpg){#fig:Schema_Florilege width="100%"}
 
 Florilège is developed in Drupal 10, and uses xnttbrapi module (to easily connect to BrAPI compliant external databases). 
 
