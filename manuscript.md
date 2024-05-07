@@ -70,8 +70,8 @@ header-includes: |
   <meta name="dc.date" content="2024-05-07" />
   <meta name="citation_publication_date" content="2024-05-07" />
   <meta property="article:published_time" content="2024-05-07" />
-  <meta name="dc.modified" content="2024-05-07T18:06:06+00:00" />
-  <meta property="article:modified_time" content="2024-05-07T18:06:06+00:00" />
+  <meta name="dc.modified" content="2024-05-07T18:13:56+00:00" />
+  <meta property="article:modified_time" content="2024-05-07T18:13:56+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -221,9 +221,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1cde013e9988a13077ed8370b6620a6ffd8226f8/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1cde013e9988a13077ed8370b6620a6ffd8226f8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1cde013e9988a13077ed8370b6620a6ffd8226f8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/3671c33f310460b0e09706adc07ef2f98204ccb2/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/3671c33f310460b0e09706adc07ef2f98204ccb2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/3671c33f310460b0e09706adc07ef2f98204ccb2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -245,9 +245,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/1cde013e9988a13077ed8370b6620a6ffd8226f8/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/3671c33f310460b0e09706adc07ef2f98204ccb2/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@1cde013](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/1cde013e9988a13077ed8370b6620a6ffd8226f8)
+from [plantbreeding/BrAPI-Manuscript2@3671c33](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/3671c33f310460b0e09706adc07ef2f98204ccb2)
 on May 7, 2024.
 </em></small>
 
@@ -721,7 +721,11 @@ Notes:
 
 To address consequences of climate change and population growth, plant and animal breeding need to become more efficient and data driven to produce bigger, better, healthier, more sustainable crops. Modern breeding techniques require large amounts of high quality data to be effective, requiring digital methods for data collection, management, and analysis. Interoperability between breeding software tools, systems, and databases can substantially increase the efficiency of a breeding program. The ability to efficiently share data means access to larger and more complete datasets, enabling to build more accurate computational models and produce more accurate predictions and improved selections.
 
-The Breeding API (BrAPI) project is an effort to enable interoperability among breeding tools, systems, and databases. BrAPI is a standardized Representational State Transfer (REST), web service, Application Programming Interface (API), specification for breeding and related agricultural data. [@doi:10.1093/bioinformatics/btz190] By using the BrAPI standard, breeding software can more easily become interoperable, allowing groups to more easily share data and software tools.
+Plant and animal breeding is an incredibly important part of today's society. Almost every country in the world has some kind of breeding program supporting the agricultural community to produce bigger, better, healthier, and more sustainable crops. Climate change, population growth, disease mitigation, and nutritional health are all major challenges facing humanity, and the ability to breed better crops is a critical part of the solution. Modern breeding techniques require large amounts of high quality data to be effective. In the digital age, that breeding data is being collected, managed, and analyzed with computer software. Interoperability between breeding software tools, systems, and databases can substantially increase the efficiency of a breeding program. The ability to share tools gives each program a boost in computational power. The ability to share data allows the community to leverage access to larger, more complete, datasets; similarly, the community can build more accurate computational models and produce more accurate predictions.
+
+The Breeding API (BrAPI) project is an effort to enable interoperability among breeding tools, systems, and databases. BrAPI is a standardized Representational State Transfer (REST), web service, Application Programming Interface (API), specification for breeding and related agricultural data. [@doi:10.1093/bioinformatics/btz190] By using the BrAPI standard, breeding software can more easily become interoperable, allowing groups to more easily share data and software tools. 
+
+This manuscript will present BrAPI in its latest iteration. This includes a technical description of the standard and a showcase of the applications, services, and tools available in the BrAPI community. BrAPI has become an essential part of the digital infrastructure for breeding applications and related agricultural projects. It is the intention of this manuscript to demonstrate the value of BrAPI to the wider scientific community as an effective and efficient means to collaborate and share resources. 
 
 ### How it works
 
@@ -802,9 +806,9 @@ BrAPI has further increased the value of GridScore by integrating it into the ov
 
 #### PHIS 
 
-The Hybrid Phenotyping Information System ([PHIS](http://www.phis.inrae.fr/)[@doi:https://doi.org/10.1111/nph.15385]), based on the [OpenSILEX](https://github.com/OpenSILEX/) framework, is an ontology-driven information system based on semantic web technologies. PHIS is deployed in several field and greenhouse platforms of the national [PHENOME](https://www.phenome-emphasis.fr/) and European [EMPHASIS](https://emphasis.plant-phenotyping.eu/) infrastructure. It manages and collects data from Phenotyping and High Throughput Phenotyping experiments on a day to day basis. PHIS unambiguously identifies all the objects and traits in an experiment, and establishes their types and relationships via ontologies and semantics.
+The Hybrid Phenotyping Information System ([PHIS](http://www.phis.inrae.fr/) [@doi:https://doi.org/10.1111/nph.15385]), based on the [OpenSILEX](https://github.com/OpenSILEX/) framework, is an ontology-driven information system based on semantic web technologies. PHIS is deployed in several field and greenhouse platforms of the national [PHENOME](https://www.phenome-emphasis.fr/) and European [EMPHASIS](https://emphasis.plant-phenotyping.eu/) infrastructure. It manages and collects data from Phenotyping and High Throughput Phenotyping experiments on a day to day basis. PHIS unambiguously identifies all the objects and traits in an experiment, and establishes their types and relationships via ontologies and semantics.
 
-PHIS has been designed to be BrAPI-compliant. PHIS adheres to the standards and protocols specified by BrAPI and implements various services aligning with the BrAPI standards, encompassing the Core, Phenotyping, and Germplasm modules. This enables integration and compatibility with BrAPI-compliant systems and platforms. This prerequisite served as the basis for formalizing the data model, while also facilitating compatibility with other standards, such as the Minimal Information About a Plant Phenotyping Experiment ([MIAPPE](https://www.miappe.org/)[@doi:https://doi.org/10.1111/nph.16544]). By integrating BrAPI requirements into its structure, PHIS not only meets the standards of the phenotyping field, but also strengthens its capacity for interoperability and effective collaboration in the wider context of plant breeding and related fields.
+PHIS has been designed to be BrAPI-compliant. PHIS adheres to the standards and protocols specified by BrAPI and implements various services aligning with the BrAPI standards, encompassing the Core, Phenotyping, and Germplasm modules. This enables integration and compatibility with BrAPI-compliant systems and platforms. This prerequisite served as the basis for formalizing the data model, while also facilitating compatibility with other standards, such as the Minimal Information About a Plant Phenotyping Experiment ([MIAPPE](https://www.miappe.org/) [@doi:https://doi.org/10.1111/nph.16544]). By integrating BrAPI requirements into its structure, PHIS not only meets the standards of the phenotyping field, but also strengthens its capacity for interoperability and effective collaboration in the wider context of plant breeding and related fields.
 
 The fact that data within a PHIS instance can be queried through BrAPI services makes the indexing of PHIS in [FAIDARE](https://urgi.versailles.inra.fr/faidare/) very easy to implement.
 
@@ -832,18 +836,15 @@ DeltaBreed users need not be aware of BrAPI or the specifics of underlying appli
 
 #### BMS
 
-
 The [Breeding Management System (BMS)](https://bmspro.io), developed by the [Integrated Breeding Platform (IBP)](https://integratedbreeding.net/), is a suite of tools designed to enhance the efficiency and effectiveness of plant breeding. BMS covers all stages of the breeding process, with the emphasis on germplasm management and [ontology](https://cropontology.org)-harmonized phenotyping. It also features analytics and decision-support tools. With its focus on interoperability, BMS integrates smoothly with BrAPI, facilitating easy connections with a broad array of complementary tools and databases, notably [Gigwa](https://southgreen.fr/content/gigwa) which is deployed together with the BMS to fulfill the genotyping data management needs of BMS users.
 
 The [brapi-sync](https://github.com/IntegratedBreedingPlatform/brapi-sync) tool, a significant component of BMS’s BrAPI capabilities, was developed by the IBP and released as a BrAPP for community use. Brapi-sync is designed to enhance collaboration among partner institutes within a network such as Innovation and Plant Breeding in West Africa ([IAVAO](https://www.iavao.org/en)), by enabling the sharing of germplasm and trials across BrAPI-enabled systems. This tool helps overcome traditional barriers to collaboration, ensuring data that was once isolated within specific programs or platforms can now be easily shared, integrated, and synchronized. 
 
 Additionally, brapi-sync improves data management by utilizing the externalReferences field to maintain links to the origin IDs of each entity it transmits. This not only retains the original context of the data but also establishes a traceability mechanism for accurate data source attribution and verification. Such practices are crucial for maintaining data integrity and fostering trust among collaborative partners, ensuring access to accurate, reliable, and current information.
 
-
-
 #### Breedbase
 
-Breedbase is a comprehensive breeding data management system [@doi:10.1093/g3journal/jkac078][@doi:10.1371/journal.pone.0240059] that implements a digital ecosystem for all breeding data, including trial data, phenotypic data, and genotypic data. Data acquisition is through tabled-based apps such as Fieldbook [@doi:10.2135/cropsci2013.08.0579] and related apps, such as Coordinate and InterCross apps, through drone imagery, Near Infra-Red Spectroscopy (NIRS), and other technologies. Search functions such as the Search Wizard interface provide powerful query capabilities, and various breeding-centric analysis tools are available, including mixed models, heritability, stability, PCA, and various clustering algorithms. The original impetus for creating Breedbase was the advent of new breeding paradigms based on genomic information such as genomic prediction algorithms [@doi:10.1093/genetics/157.4.1819] and the accompanying data management challenges, and complete genomic prediction workflow is integrated in the system.  The first instance was created for the NextGen Cassava project in 2012 as the Cassavabase (https://cassavabase.org/) database. Databases for other CGIAR root, tuber and banana (RTB) crops followed with database for yam (https://yambase.org/), sweet potato (https://sweetpotatobase.org/), banana (https://musabase.org/) as well as instances in labs and companies. The BrAPI interface[@doi:10.1093/bioinformatics/btz190] is crucial for Breedbase: Breedbase communicates via BrAPI with the data collection tablets, connection to other projects such as CLIMMOB [@doi:10.1016/j.compag.2023.108539], and many native tools use the BrAPI interface for accessing data. Users also appreciate the ability to connect to Breedbase instances using packages such as QBMS <https://icarda-git.github.io/QBMS/> for data import into R for custom analyses. Breedbase has been an early and continuous adopter of, and contributor to, the BrAPI standard.
+Breedbase is a comprehensive breeding data management system [@doi:10.1093/g3journal/jkac078] [@doi:10.1371/journal.pone.0240059] that implements a digital ecosystem for all breeding data, including trial data, phenotypic data, and genotypic data. Data acquisition is through tabled-based apps such as Fieldbook [@doi:10.2135/cropsci2013.08.0579] and related apps, such as Coordinate and InterCross apps, through drone imagery, Near Infra-Red Spectroscopy (NIRS), and other technologies. Search functions such as the Search Wizard interface provide powerful query capabilities, and various breeding-centric analysis tools are available, including mixed models, heritability, stability, PCA, and various clustering algorithms. The original impetus for creating Breedbase was the advent of new breeding paradigms based on genomic information such as genomic prediction algorithms [@doi:10.1093/genetics/157.4.1819] and the accompanying data management challenges, and complete genomic prediction workflow is integrated in the system.  The first instance was created for the NextGen Cassava project in 2012 as the Cassavabase (<https://cassavabase.org/>) database. Databases for other CGIAR root, tuber and banana (RTB) crops followed with database for yam (<https://yambase.org/>), sweet potato (<https://sweetpotatobase.org/>), banana (<https://musabase.org/>) as well as instances in labs and companies. The BrAPI interface [@doi:10.1093/bioinformatics/btz190] is crucial for Breedbase: Breedbase communicates via BrAPI with the data collection tablets, connection to other projects such as CLIMMOB [@doi:10.1016/j.compag.2023.108539], and many native tools use the BrAPI interface for accessing data. Users also appreciate the ability to connect to Breedbase instances using packages such as QBMS <https://icarda-git.github.io/QBMS/> for data import into R for custom analyses. Breedbase has been an early and continuous adopter of, and contributor to, the BrAPI standard.
 
 #### BIMS
 

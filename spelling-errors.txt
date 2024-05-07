@@ -49,7 +49,7 @@ BRAVA
 Breedbase
 Brouwer
 cardinalb
-CassavaBase
+Cassavabase
 Casstevens
 Célia
 centric
@@ -60,7 +60,7 @@ chaneylc
 CIRAD
 Clarysabel
 CLI
-CLIMMOB
+ClimMob
 CottonGEN
 COVID
 cpommier
@@ -106,7 +106,7 @@ FLORILÈGE
 focussing
 Forschungszentrum
 Forschungszenturm
-genebank
+Genebank
 genebanks
 Genesys
 genomic
@@ -115,10 +115,10 @@ genotypes
 genotypic
 Genotyping
 Geosciences
-germplasm
+Germplasm
 Gezan
 GFF
-Gigwa
+GIGWA
 GLIS
 GmbH
 GnpIS
@@ -149,7 +149,7 @@ ICARDA
 ImageBreed
 imilne
 INBS
-INRAE
+inrae
 Installable
 InterCross
 interoperable
@@ -167,7 +167,7 @@ JSON
 Jülich
 Kersey
 Kew
-Khaled
+khaled
 koenig
 König
 Kumar
@@ -214,12 +214,12 @@ PCA
 PCAs
 PGR
 PGRFA
-PHENOME
+Phenome
 phenomic
 phenomics
 Phenospex
 phenotypes
-phenotypic
+Phenotypic
 phenotyping
 PHG
 phylogenetic
