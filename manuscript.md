@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-05-07'
+date-meta: '2024-05-08'
 author-meta:
 - Peter "BrapMan" Selby
 - Trevor "Cool Kid" Rife
@@ -68,11 +68,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-05-07" />
-  <meta name="citation_publication_date" content="2024-05-07" />
-  <meta property="article:published_time" content="2024-05-07" />
-  <meta name="dc.modified" content="2024-05-07T20:03:29+00:00" />
-  <meta property="article:modified_time" content="2024-05-07T20:03:29+00:00" />
+  <meta name="dc.date" content="2024-05-08" />
+  <meta name="citation_publication_date" content="2024-05-08" />
+  <meta property="article:published_time" content="2024-05-08" />
+  <meta name="dc.modified" content="2024-05-08T18:40:02+00:00" />
+  <meta property="article:modified_time" content="2024-05-08T18:40:02+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -225,9 +225,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/031169392c7b086850740141be23886c2e5a63cb/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/031169392c7b086850740141be23886c2e5a63cb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/031169392c7b086850740141be23886c2e5a63cb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/561dbbdb4440e81c5976844ed78611d5e89c9416/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/561dbbdb4440e81c5976844ed78611d5e89c9416/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/561dbbdb4440e81c5976844ed78611d5e89c9416/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -249,10 +249,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/031169392c7b086850740141be23886c2e5a63cb/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/561dbbdb4440e81c5976844ed78611d5e89c9416/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@0311693](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/031169392c7b086850740141be23886c2e5a63cb)
-on May 7, 2024.
+from [plantbreeding/BrAPI-Manuscript2@561dbbd](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/561dbbdb4440e81c5976844ed78611d5e89c9416)
+on May 8, 2024.
 </em></small>
 
 
@@ -776,13 +776,9 @@ As the project has matured, a formal project leadership structure became increas
 Below are a number of short success stories from the BrAPI community. These tools, applications, and infrastructure projects serve as another indicator of community growth and success over the past 5-10 years. These stories clearly illustrate all the different ways the BrAPI Standard can be used productively and in practice. 
 
 
-### Data Collection 
-<!-- (Field Book, Climmob, other Phenoapps, ImageBreed, etc) -->
+### Phenotyping
 
-<!-- * General use case description(s)
-* Specific tool examples 
-* Alternate solutions/ why is it better with BrAPI
-* future related use cases, areas to improve -->
+Phenotyping is the basis for all breeding efforts. All the downstream analysis and decision making procedures rely on a foundation of accurate, high-quality, phenotypic data. The BrAPI specification supports phenotypic data as it passes through the entire breeding pipeline, as it is published, and as it is archived. The community has developed tools that use BrAPI during the data collection process, to get the data into a standard format as soon as possible. There are BrAPI compatible systems to store and curate phenotypic data, and tools to manage trait meta data. The community has also begun developing BrAPI compatible tools for managing images and other high throughput phenotyping techniques. 
 
 
 #### Field Book
@@ -814,14 +810,6 @@ Phenotypic data collection underpins scientific crop research and plant breeding
 BrAPI has further increased the value of GridScore by integrating it into the overarching workflow from trial creation, data collection, and its ultimate data storage for further processing. Specifically, trial designs as well as trait definitions can be imported into GridScore using BrAPI and a finalized trial can ultimately be exported via BrAPI to any compatible database.
 
 
-### Data Management 
-
-<!-- * General use case description(s)
-* Specific tool examples 
-* Alternate solutions/ why is it better with BrAPI
-* future related use cases, areas to improve -->
-
-
 #### PHIS 
 
 The Hybrid Phenotyping Information System ([PHIS](http://www.phis.inrae.fr/) [@doi:https://doi.org/10.1111/nph.15385]), based on the [OpenSILEX](https://github.com/OpenSILEX/) framework, is an ontology-driven information system based on semantic web technologies. PHIS is deployed in several field and greenhouse platforms of the national [PHENOME](https://www.phenome-emphasis.fr/) and European [EMPHASIS](https://emphasis.plant-phenotyping.eu/) infrastructure. It manages and collects data from Phenotyping and High Throughput Phenotyping experiments on a day to day basis. PHIS unambiguously identifies all the objects and traits in an experiment, and establishes their types and relationships via ontologies and semantics.
@@ -831,6 +819,139 @@ PHIS has been designed to be BrAPI-compliant. PHIS adheres to the standards and 
 The fact that data within a PHIS instance can be queried through BrAPI services makes the indexing of PHIS in [FAIDARE](https://urgi.versailles.inra.fr/faidare/) very easy to implement.
 
 Furthermore, as PHIS offers BrAPI-compliant Web Services, it simplifies the integration and data exchange with other European information systems that handle phenotyping data. The adherence to BrAPI standards ensures a common interface and compatibility, facilitating communication and collaboration between PHIS and other systems in the European context. This interoperability not only eases data sharing, but also promotes a more coherent and efficient approach to the management and use of phenotyping data on various platforms and research initiatives within the European scientific community.
+
+
+#### PIPPA
+
+[PIPPA](https://pippa.psb.ugent.be) is a data management system used for collecting data from the [WIWAM](https://www.wiwam.be/) range of automated high throughput phenotyping platforms. These platforms have been deployed at different research institutes and commercial breeders across Europe in a variety of configurations with different types of equipment such as weighing scales, cameras and environment sensors. Examples are:
+
++ [Umea Plant Science Centre](https://www.upsc.se/plant-growth-facilities-at-upsc-and-slu-umea/325-upsc-tree-phenotyping-platform.html)
++ [Fondazione Edmund Mach](https://cri.fmach.it/en/Facilities/Technological-Facilities/Plant-Phenotyping#application_fields)
++ [Phenovision](https://www.psb.ugent.be/phenotyping/phenovision)
+
+Developed from 2016 onwards, the software features a web interface with functionality for setting up new experiments for the platform(s), planning imaging and irrigation treatments, linking metadata to pots (genotype, growth media, manual treatments), exporting data, importing data and visualizing data as charts. It also supports the integration of image analysis scripts and connections to a compute cluster for job submission.
+
+To share the phenotype data of the experiments linked to publications, an implementation of BrAPI 1.3 was developed on a separate public PIPPA server open to the public, which allowed read only access to the data in a standardized format. This endpoint was registered on [FAIDARE](https://urgi.versailles.inra.fr/faidare/) and allows the data to be found alongside data from other BrAPI endpoints.
+
+As the BrAPI ecosystem has matured, it created a clear path for the development of PIPPA as to how to share data in a manner according to the FAIR principles which are becoming standard in plant research data management best practices. In combination with the support for [MIAPPE](https://www.miappe.org/), these have served as guidelines in the current development, which is focussed on delivering a public BraPI 2.1 endpoint and making more high throughput datasets publicly available via BrAPI.
+
+
+#### Trait Selector BrAPP
+
+<!-- the "BrAPP" description part should better fit at the beginning of the section. -->
+BrAPPs are simple tools developed by the BrAPI community that are entirely reliant on BrAPI for their data requirements. This means a single BrAPI can be shared and used by many organizations, as long as those organizations have the standard BrAPI endpoints available.
+
+The Trait Selector BrAPP is used to search and select useful traits, using a visual aid to help the user find exactly what they need. This BrAPP works with both breeding databases and genebanks. Breeding databases would need to only implement the trait, observation and observation variable calls, while genebanks would require trait, germplasm attribute and germplasm attribute value calls. So, BrAPI servers compliant with version 2 implementing any of these sets of calls would just need to follow the documented steps to create an SVG image of a plant of interest in order to use this BrAPP. CassavaBase and MGIS are two successful examples of the use of this BrAPP. (example screenshots coming + supplementary data: links to the git and the doc)
+
+
+### Genotyping
+
+Genotyping has become a cornerstone of most breeding processes, but the data can be difficult to manage. BrAPI supports genotypic data, relying on some existing standards including VCF and the GA4GH Variants standards. The BrAPI Community has built BrAPI compatible tools for storing, searching, visualizing, and analyzing genotypic data. 
+
+
+#### Flapjack
+
+[Flapjack](https://ics.hutton.ac.uk/flapjack) [@doi:10.1093/bioinformatics/btq580] is a multi-platform desktop application for data visualization and breeding analysis (eg, pedigree verification, marker-assisted backcrossing and forward breeding) using high-throughput genotype data. Data can be easily imported into Flapjack from any BrAPI compatible data source with genotype data available. [Flapjack Bytes](https://github.com/cropgeeks/flapjack-bytes) is a smaller, lightweight and fully web-based counterpart to Flapjack, which can be easily embedded into a database website to provide similar visualizations online. Traditionally supporting its own text-based data formats, Flapjack's use of BrAPI has streamlined the end-user experience for data import and work is underway to determine the best methods to exchange analysis results using future versions of the API.
+
+
+#### DArTView
+
+<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
+DArTView is a desktop application for visualizing genotype variant data and looking for trends or correlations. It is newly BrAPI compatible and can use BrAPI as an input data source.
+
+
+#### DivBrowse
+
+DivBrowse [@doi:10.1093/gigascience/giad025] is a web platform for exploratory data analysis of huge genotyping studies. The software can be run standalone or integrated as a plugin into existing data web portals. It provides a powerful interactive visualization of variant call matrices with hundreds of millions of variants and thousands of samples and enables easy data import and export by using standardized and established bioinformatics file formats. 
+At its core, DivBrowse combines the convenience of a genome browser and adds features tailored to the diversity analysis of germplasm. It is able to display genomic features such as nucleotide sequence, associated gene models and short genomic variants. DivBrowse provides visual access to large VCF files obtained through genotyping experiments. In addition to visualizing variant calls per variant and genotype, DivBrowse also calculates and displays variant statistics such as minor allele frequencies, proportion of heterozygous calls or missing variant calls for each visualized genomic window. In addition, dynamic Principal Component Analyses (PCAs) can be performed on a user specified genomic area to provide information on local genomic diversity. 
+DivBrowse has a Javascript API to control the tool from a hosting web portal (e.g. to control the list of genotypes to be displayed and the reference genome). DivBrowse has an interface to BLAST, which can be used to directly access genes or other genomic features. The modular structure of DivBrowse also allows developers to configure and easily embed links to external information systems. Furthermore, parts of BrAPI are implemented to provide genotypic data via its server-side component and is also able to consume and visualize genotypic data via an external BrAPI endpoint through the client-side GUI.
+
+
+#### GIGWA
+
+Gigwa is a JEE web application providing means to centralize, share, finely filter, and visualize high-throughput genotyping data [@doi:10.1093/gigascience/giz051]. Built on top of MongoDB, it is scalable and can support working smoothly with datasets containing billions of genotypes. Installable from docker images or all-in-one bundle archives, it is pretty straightforward to deploy on servers or local computers and has thus been adopted by numerous research institutes from around the world. Notably, Gigwa serves as a collaborative management tool and/or a portal for exposing the data for genebanks and breeding programs for some CGIAR centers [@doi:10.1002/ppp3.10187]. Thus, the amount of data hosted and made widely accessible using this system has kept growing over the last few years.
+
+Gigwa developers have been involved in the BrAPI community since 2016 and took part in designing the genotype-related part of the API's specifications. Its first BrAPI-compliant features were designed for compatibility with the Flapjack visualization tool [@doi:10.1093/bioinformatics/btq580] and thus primarily turned it into a BrAPI datasource. Consequently, over time, Gigwa being the first and most reliable application implementing BrAPI-Genotyping server calls, local collaborators and even external partners used it as a reference solution to design a number of tools taking advantage of those features (e.g., [BeegMac](https://webtools.southgreen.fr/BrAPI/Beegmac/), [SnpClust](https://github.com/jframi/snpclust), [QBMS](https://github.com/icarda-git/QBMS)). But further use-cases also required Gigwa to be able to consume data from other BrAPI servers, which led to also implement API-client features into the system. Thanks to all this work, a close collaboration was progressively established with the Integrated Breeding Platform team developing the widely used Breeding Management System, that ended up in both applications now being frequently deployed together, Gigwa pulling germplasm or sample metadata from BMS, and BMS displaying Gigwa-hosted genotypes within its own UI.
+
+Client BrAPI libraries being available for R, community members typically write ad-hoc scripts syndicating data from multiple BrAPI sources (for instance phenotypes from a datasource and genotypes from another) in order to run various kinds of analyses such as GWAS, genomic selection or phylogenetic investigations. As a perspective, we may expect the most generic and widely-used of those pipelines to be at least publicly distributed, and possibly web-interfaced using solutions like R-Shiny in order to provide new, excitingly useful online services, based on Gigwa-hosted data.
+
+
+#### PHG
+
+<!-- Lynn J. -->
+The Practical Haplotype Graph (PHG) is a graph-based computational framework that represents large-scale genetic variation and is optimized for plant breeding and genetics.  Using a pangenome approach, each PHG stores haplotypes (the sequence of part of an individual chromosome) to represent the collected genes of a species.  This allows for a simplified approach for dealing with large scale variation in plant genomes.  The PHG pipeline provides support for a range of genomic analyses and allows for the use of graph data to impute complete genomes from low density sequence or variant data.
+
+Users access the crop databases either with direct calls to the PHG embedded server or indirectly using the rPHG library from an R environment.  The PHG server accepts BrAPI endpoint queries to return information on sample lists and the variants used to define the graph's haplotypes.  In addition, PHG users utilize the BrAPI variantsets endpoint query to return links to VCF files containing haplotype data. Work on the PHG is ongoing.  We expect to support additional BrAPI endpoints that allow for slicing genotypic data based on samples and regions.
+
+
+### Germplasm Management
+
+The vast quantity of new accessions, variants, and lines being created each year means germplasm data management is critical to keeping things organized. This is true at the level of a single breeding program, on a national scale, and on the international scale. BrAPI supports the transmission of germplasm passport data, as well as pedigree trees and crossing metadata. The BrAPI community has developed BrAPI compliant tools for storing, searching, and visualizing this metadata. There are even some plans in place to build federated networks of genebank data, connected via BrAPI. 
+
+
+#### MGIS
+
+<!-- authors: Mathieu Rouard, Valentin Guignon -->
+The Musa Germplasm information system, [MGIS](https://www.crop-diversity.org/mgis/), serves as a comprehensive community portal dedicated to banana diversity, a crop critical to global food security [@doi:10.1093/database/bax046]. MGIS offers detailed information on banana germplasm, focusing on the collections held by the CGIAR International Banana Genebank (ITC) [@doi:10.1186/s43170-020-00015-6]. It is built on the Build on the Drupal/Tripal technology, like BIMS and Florilège.  Since its inception, MGIS developers have actively participated in the Breeding API (BrAPI) community, pushing for the integration of Multicrop Passport Data (MCPD) into Germplasm module call of the API. MGIS thus provides passport data information on ITC banana genebank accessions (with GLIS DOI), synchronized with [Genesys](https://www.genesys-pgr.org/a/overview/v2YdWZGrZjD), but also enriches it by incorporating additional data from other germplasm collections worldwide. All those germplasm data are available through BrAPI germplasm module calls implementations. For genotyping data, MGIS incorporates GIGWA [@doi:10.1093/gigascience/giz051], which provides tailored implementations for BrAPI genotyping module calls. Furthermore, MGIS supports the implementation of a set of BrAPI phenotyping module calls, facilitating the exposing of morphological descriptors and trait information supported by ontologies like the Crop Ontology [@doi:10.1093/aobpla/plq008]. It is integrated with the Trait Selector BrAPP, developed as part of a project involving Breedbase [@doi:10.1093/g3journal/jkac078]. Uses cases between the Musa implementation of Breedbase, MusaBase, and MGIS to interlink genebank and breeding data.
+
+
+<!-- Contribution BrAPI 2.0 paper
+Suggested Authors: Matthias Lange, Patrick König, Stephan Weise, Gouripriya Davuluri, Suman Kumar, Joseph Ruff, Paul Kersey, Cyril Pommier, Michael Alaux, Erwan Le-Floch -->
+#### AGENT Portal
+
+In the global system for ex situ conservation of plant genetic resources (PGR) [@doi:10.3390/plants10081557], a total of ~5.8 million accessions are conserved in 1750 ex situ genebanks [@doi:10.2135/cropsci2017.01.0014]. Unique and permanent identifiers in the form of DOIs are available for more than 1.7 million accessions [@doi:Food and Agriculture Organization (FAO) The Global Information System for PGRFA]. Each DOI is linked to some basic descriptive data that facilitates the use of these resources. Many DOIs are also linked to additional data from different domains or will be in the future. In order to answer questions on the global biological diversity of a plant species, on duplicate detection, on provenance tracking for the identification of genetic integrity, on the selection of the most suitable material for various purposes, including breeding and research, and to support further applications in data mining or AI, a data space beyond the most basic information is needed that includes genotypic and phenotypic data. In this context, the aim of the AGENT project (<https://www.agent-project.eu/>) funded by the European Commission is to develop a concept for the digital exploitation and activation of this GenRes data space via European ex situ genebanks according to the FAIR criteria [@doi:10.1038/sdata.2016.18] and to test it in practice using two important crops, barley and wheat. In two work packages, standards and technology for data interoperability will be developed to establish a genetic resources infrastructure, which regulates data acquisition of genotypic and phenotypic data, integrates and archives them and makes them accessible according to FAIR principles. To this end, 13 European genebanks and 5 bioinformatics centers are cooperating and have agreed on standards and protocols for (i) the data flow (see figure {@fig:AGENT_Genotyping_Data_Flow}) and data formats [@doi:10.12688/f1000research.109080.2] for central archiving of genotypic and phenotypic data.
+
+![Figure Data flow of genotypic data from AGENT partner databases](images/AGENT_Genotyping_Data_Flow.png){#fig:AGENT_Genotyping_Data_Flow width="100%"}
+
+The AGENT portal as described in more detail in section unlock the full potential of the biological material stored in genebanks around the globe by using FAIR international data standards and an open digital infrastructure for the management of plant genetic resources. The implemented BrAPI interface enables to mine current and historic genotypic and phenotypic information to drive the discovery of genes, traits and knowledge for future missions, complement existing information for wheat and barley and the new data standards and infrastructure to foster an improved management of PGR for other crop species across European genebanks.
+
+For the joint research data infrastructure for the federation of collections of genotypic and phenotypic data from European gene banks and bioinformatics institutes, a AGENT portal ({@fig:AGENT_WebFrontend}) as database infrastructure for integrated plant genetic resources on ex-situ genebanks is being created. It provides, manual data exploration, machine-readable access via BrAPI and provide data to the cored data deposition resources at the European Bioinformatics Institute (EBI).
+
+![Figure AGENT Portal](images/AGENT_WebFrontend.png){#fig:AGENT_WebFrontend width="100%"}
+
+The AGENT database backend aggregates curated and integrated passport data, phenotypic and genotypic data about wheat and barley accessions of 18 project partners are harmonized and integrated via BrAPI endpoints (<https://github.com/AGENTproject/BrAPI>) and explorable in a web portal (<https://agent.ipk-gatersleben.de>). The BrAPI endpoints were made available by scattered implementation. Genotyping data use DivBrowse [@doi:10.1093/gigascience/giad025] storage engine and BrAPI interface. Endpoints for sample data are implemented using AGENT database SQL to BrAPI broker service.
+To integrate those BrAPI endpoint provider into a single service and URL scheme, we work on their integration in a BrAPI proxy service. As next steps, we will expand BrAPI implementation to enable the integration of analysis pipelines in the AGENT portal, e.g. for genebank mining tools such as the FIGS+ pipeline developed by AGENT partner ICARDA [@doi:10.22004/AG.ECON.266624]. Another perspective is to integrate the data collected in the AGENT project into the European Search Catalogue for Plant Genetic Resources (EURISCO) [@doi:10.1093/nar/gkac852] and to implement BrAPI endpoints to make data on PGR collections in European genebanks programmatically accessible.
+
+
+#### Helium
+
+Helium (<https://helium.hutton.ac.uk>) [@doi:10.1186/1471-2105-15-259] is a plant pedigree visualization platform designed to account for the specific problems that are unique to plant pedigrees. A pedigree is a representation of how genetically discrete individuals are related to one another and is therefore a representation of the genetic relationship between individual plant lines, their parents and progeny. Plant pedigrees are often used to check for potential genotyping or phenotyping errors, since these errors, by the very nature of Mendelian inheritance, are constrained by the pedigree structure in which they exist (Paterson 2011). The accurate representation of pedigrees, and the ability to pull pedigree data from different data sources is therefore important in plant breeding and genetics and therefore ways to visualize and interact this complex data in meaningful ways is critical.
+
+From its original desktop interface (<https://github.com/cardinalb/helium-docs/wiki>), Helium has developed into a web-based visualization platform implementing BrAPI calls to allow users to import data from other BrAPI compliant databases (<https://helium.hutton.ac.uk>). The ability to pull data from BrAPI compliant data sources has significantly expanded Helium’s capability and utility within the community. Helium is used in projects ranging in size from tens to tens of thousands of lines and across a wide variety of crops and species. While originally designed for plant data [@doi:10.3389/fpls.2024.1268847] it has also found utility in other non-plant projects [@doi:10.1007/s10592-024-01611-z] highlighting its broad utility. This also allows Helium users to provide direct dataset links to collaborators allowing the original data to be held with the data provider and utilising Helium for its visualization functionality. Our current Helium deployment includes example BrAPI calls to a barley dataset at Hutton to allow users to test the system and features it offers. 
+
+
+#### GLIS
+
+The Global Information System (GLIS) on Plant Genetic Resources for Food and Agriculture (PGRFA) of the International Treaty on Plant Genetic Resources for Food and Agriculture (ITPGRFA) is a web-based global entry point for users and third-party systems to access information and knowledge on scientific, technical and environmental matters to strengthen PGRFA conservation, management and utilization activities. The system and its portal also enable recipients of PGRFA to make available all non-confidential information on germplasm according to the provisions of the Treaty and facilitates access to the results of their research and development. 
+ 
+Thanks to the adoption of Digital Object Identifiers (DOIs) to PGRFA ex situ and in situ based on the Multi-Crop Passport Descriptors (MCPD), the Portal provides access to 1.7 million PGRFA in collections conserved worldwide. Of these, over 1.5 million are accessible for research, training and plant breeding in the food and agriculture domain.
+ 
+The Scientific Advisory Committee of the International Treaty and the Governing Body have repeatedly welcomed efforts on interoperability among germplasm information systems. In this context, the GLIS Portal adopted the Breeding API (BrAPI v1) in 2022. Integrating the BrAPI among the GLIS content negotiators facilitates queries and the exchange of content for data management in plant breeding. The Portal also offers other protocols (XML, DarwinCore, JSON and JSON-LD) to increase data and metadata connectivity. In the near future, depending on the availability of resources, upgrading to BrAPI v2 is planned.
+
+
+#### FLORILÈGE (Gateway to French Plant Genetic Resources)
+
+Designed primarily for the general public, Florilège provides access to public collections of all French plant biological resources centers. This web portal allows to browse available plant genetic resource accessions and gives the possibility to order some seeds or plant material for cultivation. It includes plant genetic resources of around fifty plant genus from 19 genebanks.
+
+Florilège retrieves accession information from different BrAPI-compliant systems. They include OLGA, a genebank accessions information management system, and GnpIS[@doi:10.34133/2019/1671403] [@doi:10.1007/978-1-4939-6658-5_5], an INRAE data repository for plant genetic resources, phenomics and genetics. Using BrAPI to gather data from these systems reduced the efforts and enabled standardized data retrieval. As a consequence, BrAPI is the de facto standard for exchanging data within the French plant genetic resources community. The Florilège team also requested several update of the BrAPi specifications to better serve this use case, such as Collection or improved external references.
+![Figure Florilege Workflow](images/Schema_Florilege.jpg){#fig:Schema_Florilege width="100%"}
+
+Florilège is developed in Drupal 10, and uses xnttbrapi module (to easily connect to BrAPI compliant external databases). 
+
+
+#### FAIDARE
+
+<!-- Cyril P, first draft-->
+FAIDARE (<https://urgi.versailles.inrae.fr/faidare/>) is a data discovery portal providing a biologist friendly search system over a global federation of 33 plant research databases. It allows to identify data resources using a full text approach completed with domain specific filters and to link back to the original database for visualization, analysis and download. For instance, it is possible to search for "wheat drought" then to refine the search to the "Triticum aestivum" taxon and yield component traits such as "Thousand Grain Weight". The indexed data types are very broad and include genomic features, such as genes or transposable elements, selected bibliography, QTL, markers, genetic variation studies, phenomic studies and plant genetic resources ie germplasm. This inclusiveness is achieved thanks to a two stage indexation data model. The most generic one provides basic search functionalities and relies on five fields : name, link back URL, data type, species and exhaustive description. The filtering is directly tied to some of those fields. Therefore, to provide more advanced filtering, FAIDARE is also providing a second stage indexation mechanism by taking advantage of BrAPi endpoints to get more detailed metadata on genotyping and phenotyping studies as well as germplasm. In parallel, FAIDARE provides a pre-visualization of germplasm and studies using dedicated cards.
+![Figure FAIDARE Federation](images/Schema_FAIDARE.png){#fig:Schema_FAIDARE width="100%"}
+The indexation mechanism relies on a dedicated public software (<https://github.com/elixir-europe/plant-brapi-etl-faidare>) that allows data resources manager to request the indexation of there database using pull requests. This BrAPI client is able to extract data from any BrAPI 1.3 and 1.2 endpoint and development of BrAPI 2.x indexation will be initiated in 2025. Since not all databases are willing to implement BrAPI endpoints, we also provide the possibility to generate metadata as BrAPI json files, hence using the standard as a file exchange format.
+FAIDARE architecture has been designed by elaborating on the GnpIS Software Architecture [@doi:10.34133/2019/1671403]. As a consequence, BrAPI is at the core of its datamodel, and in particular the JSON data files served by the Elasticsearch NoSQL engine are enriched version of the BrAPI JSON files. FAIDARE also includes a BrAPI endpoint that serves all indexed metadata.
+FAIDARE has been adopted by several communities and in particular in the ELIXIR and EMPHASIS european infrastructures. It is also used by the WheatIS of the Wheat-Initiative. Several databases are added each year to the FAIDARE global federation, allowing to increase both the portal and the BrAPI adoption.
+
+
+### Breeding Data Management
+
+While specialty data management is important for some use cases, often breeders want a central repository of critical data. General breeding data management systems support some level phenotypic, genotypic, and germplasm data, as well as trial, equipment, and people management. By enabling BrAPI support, these larger systems can connect with smaller tools and specialty systems to provide more functionality under the same user interface. There are several breeding data management systems developed in the BrAPI community, each with their own pros and cons. 
 
 
 #### DeltaBreed
@@ -880,119 +1001,9 @@ BIMS (Breeding Information Management System) [@doi:10.1093/database/baab054] is
 Germinate integrates and connects with other BrAPI-enabled tools such as GridScore for phenotypic data collection, Flapjack for genotypic data visualization and Helium for pedigree visualization, but, due to the nature of BrAPI, Germinate can act as a data repository for any BrAPI-compatible tool. Thanks to the interoperability provided by BrAPI the need for manual data handling becomes a rarity with the direct benefit of faster data processing, fewer to no human errors, data security and integrity.
 
 
-#### PIPPA
-
-[PIPPA](https://pippa.psb.ugent.be) is a data management system used for collecting data from the [WIWAM](https://www.wiwam.be/) range of automated high throughput phenotyping platforms. These platforms have been deployed at different research institutes and commercial breeders across Europe in a variety of configurations with different types of equipment such as weighing scales, cameras and environment sensors. Examples are:
-
-+ [Umea Plant Science Centre](https://www.upsc.se/plant-growth-facilities-at-upsc-and-slu-umea/325-upsc-tree-phenotyping-platform.html)
-+ [Fondazione Edmund Mach](https://cri.fmach.it/en/Facilities/Technological-Facilities/Plant-Phenotyping#application_fields)
-+ [Phenovision](https://www.psb.ugent.be/phenotyping/phenovision)
-
-Developed from 2016 onwards, the software features a web interface with functionality for setting up new experiments for the platform(s), planning imaging and irrigation treatments, linking metadata to pots (genotype, growth media, manual treatments), exporting data, importing data and visualizing data as charts. It also supports the integration of image analysis scripts and connections to a compute cluster for job submission.
-
-To share the phenotype data of the experiments linked to publications, an implementation of BrAPI 1.3 was developed on a separate public PIPPA server open to the public, which allowed read only access to the data in a standardized format. This endpoint was registered on [FAIDARE](https://urgi.versailles.inra.fr/faidare/) and allows the data to be found alongside data from other BrAPI endpoints.
-
-As the BrAPI ecosystem has matured, it created a clear path for the development of PIPPA as to how to share data in a manner according to the FAIR principles which are becoming standard in plant research data management best practices. In combination with the support for [MIAPPE](https://www.miappe.org/), these have served as guidelines in the current development, which is focussed on delivering a public BraPI 2.1 endpoint and making more high throughput datasets publicly available via BrAPI.
-
-
-#### MGIS
-
-<!-- authors: Mathieu Rouard, Valentin Guignon -->
-The Musa Germplasm information system, [MGIS](https://www.crop-diversity.org/mgis/), serves as a comprehensive community portal dedicated to banana diversity, a crop critical to global food security [@doi:10.1093/database/bax046]. MGIS offers detailed information on banana germplasm, focusing on the collections held by the CGIAR International Banana Genebank (ITC) [@doi:10.1186/s43170-020-00015-6]. It is built on the Build on the Drupal/Tripal technology, like BIMS and Florilège.  Since its inception, MGIS developers have actively participated in the Breeding API (BrAPI) community, pushing for the integration of Multicrop Passport Data (MCPD) into Germplasm module call of the API. MGIS thus provides passport data information on ITC banana genebank accessions (with GLIS DOI), synchronized with [Genesys](https://www.genesys-pgr.org/a/overview/v2YdWZGrZjD), but also enriches it by incorporating additional data from other germplasm collections worldwide. All those germplasm data are available through BrAPI germplasm module calls implementations. For genotyping data, MGIS incorporates GIGWA [@doi:10.1093/gigascience/giz051], which provides tailored implementations for BrAPI genotyping module calls. Furthermore, MGIS supports the implementation of a set of BrAPI phenotyping module calls, facilitating the exposing of morphological descriptors and trait information supported by ontologies like the Crop Ontology [@doi:10.1093/aobpla/plq008]. It is integrated with the Trait Selector BrAPP, developed as part of a project involving Breedbase [@doi:10.1093/g3journal/jkac078]. Uses cases between the Musa implementation of Breedbase, MusaBase, and MGIS to interlink genebank and breeding data.
-
-
-### Federated Data Management Infrastructures
-<!-- 
-(AGENT, INCREASING, EURISCO, DataPLANT, NFDI4BioDiversity, FAIRAgro)
-
-* General use case description(s) -  AgrosystemIntegration of germplasm collections in context of data trustee models among private economy and public research, integration of ex-situ genebanks (EU H2020 projects AGENT, INCREASING), integrated agrosystems and plant research infrastructure
-* Specific tool examples - BraPI endpoints for AGENT, IPK-Genebank, MIAPPE ISA-TAB2BRAPI service
-* Alternate solutions/ why is it better with BrAPI - Schema.ORG lightweight meta data harvesting, ARCs as collaborative data decoration, API and publication pipeline
-* future related use cases, areas to improve - LIMS to BrAPI proxies -->
-
-
-<!-- Contribution BrAPI 2.0 paper
-Suggested Authors: Matthias Lange, Patrick König, Stephan Weise, Gouripriya Davuluri, Suman Kumar, Joseph Ruff, Paul Kersey, Cyril Pommier, Michael Alaux, Erwan Le-Floch -->
-#### AGENT Portal
-
-In the global system for ex situ conservation of plant genetic resources (PGR) [@doi:10.3390/plants10081557], a total of ~5.8 million accessions are conserved in 1750 ex situ genebanks [@doi:10.2135/cropsci2017.01.0014]. Unique and permanent identifiers in the form of DOIs are available for more than 1.7 million accessions [@doi:Food and Agriculture Organization (FAO) The Global Information System for PGRFA]. Each DOI is linked to some basic descriptive data that facilitates the use of these resources. Many DOIs are also linked to additional data from different domains or will be in the future. In order to answer questions on the global biological diversity of a plant species, on duplicate detection, on provenance tracking for the identification of genetic integrity, on the selection of the most suitable material for various purposes, including breeding and research, and to support further applications in data mining or AI, a data space beyond the most basic information is needed that includes genotypic and phenotypic data. In this context, the aim of the AGENT project (<https://www.agent-project.eu/>) funded by the European Commission is to develop a concept for the digital exploitation and activation of this GenRes data space via European ex situ genebanks according to the FAIR criteria [@doi:10.1038/sdata.2016.18] and to test it in practice using two important crops, barley and wheat. In two work packages, standards and technology for data interoperability will be developed to establish a genetic resources infrastructure, which regulates data acquisition of genotypic and phenotypic data, integrates and archives them and makes them accessible according to FAIR principles. To this end, 13 European genebanks and 5 bioinformatics centers are cooperating and have agreed on standards and protocols for (i) the data flow (see figure {@fig:AGENT_Genotyping_Data_Flow}) and data formats [@doi:10.12688/f1000research.109080.2] for central archiving of genotypic and phenotypic data.
-
-![Figure Data flow of genotypic data from AGENT partner databases](images/AGENT_Genotyping_Data_Flow.png){#fig:AGENT_Genotyping_Data_Flow width="100%"}
-
-The AGENT portal as described in more detail in section unlock the full potential of the biological material stored in genebanks around the globe by using FAIR international data standards and an open digital infrastructure for the management of plant genetic resources. The implemented BrAPI interface enables to mine current and historic genotypic and phenotypic information to drive the discovery of genes, traits and knowledge for future missions, complement existing information for wheat and barley and the new data standards and infrastructure to foster an improved management of PGR for other crop species across European genebanks.
-
-For the joint research data infrastructure for the federation of collections of genotypic and phenotypic data from European gene banks and bioinformatics institutes, a AGENT portal ({@fig:AGENT_WebFrontend}) as database infrastructure for integrated plant genetic resources on ex-situ genebanks is being created. It provides, manual data exploration, machine-readable access via BrAPI and provide data to the cored data deposition resources at the European Bioinformatics Institute (EBI).
-
-![Figure AGENT Portal](images/AGENT_WebFrontend.png){#fig:AGENT_WebFrontend width="100%"}
-
-The AGENT database backend aggregates curated and integrated passport data, phenotypic and genotypic data about wheat and barley accessions of 18 project partners are harmonized and integrated via BrAPI endpoints (<https://github.com/AGENTproject/BrAPI>) and explorable in a web portal (<https://agent.ipk-gatersleben.de>). The BrAPI endpoints were made available by scattered implementation. Genotyping data use DivBrowse [@doi:10.1093/gigascience/giad025] storage engine and BrAPI interface. Endpoints for sample data are implemented using AGENT database SQL to BrAPI broker service.
-To integrate those BrAPI endpoint provider into a single service and URL scheme, we work on their integration in a BrAPI proxy service. As next steps, we will expand BrAPI implementation to enable the integration of analysis pipelines in the AGENT portal, e.g. for genebank mining tools such as the FIGS+ pipeline developed by AGENT partner ICARDA [@doi:10.22004/AG.ECON.266624]. Another perspective is to integrate the data collected in the AGENT project into the European Search Catalogue for Plant Genetic Resources (EURISCO) [@doi:10.1093/nar/gkac852] and to implement BrAPI endpoints to make data on PGR collections in European genebanks programmatically accessible.
-
-
-#### MIAPPE ISA to BrAPI service
-
-Phenotyping is crucial in the breeding process as it enables the identification of desirable traits, selection of breeding lines, and evaluation of breeding success. In the plant community, MIAPPE (Minimal Information About a Plant Phenotyping Experiment) [@doi:10.1111/nph.16544] is the established standard for phenotyping experiments and is commonly serialized as ISA Tab [@doi:10.1038/ng.1054]. Although ISA Tab is easy to read for non-technical experts due to its file-based approach, it lacks programmatic access, particularly for web applications. BrAPI, which is aligned with MIAPPE, can help solve this problem.
-MIRA is a tool that enables the automatic deployment of a BrAPI server on a MIAPPE-compliant dataset in ISA Tab format. It can be deployed from a Docker image with the dataset mounted. By utilizing the mapping between MIAPPE, ISA, and BrAPI, there is no need for parsing or manual mapping of datasets that are already compliant with (meta-)data standards. By gaining programmatic access through BrAPI to these datasets, it facilitates the integration of phenotyping datasets into web applications.
-
-
-#### MIAPPE "BrAPI to ISA" service
-
-Since the release of BrAPI 1.3, efforts have been made to incorporate support for the Minimum Information About Plant Phenotyping Experiments (MIAPPE) standard into the specification [@doi:10.1111/nph.16544]. This integration was finalized in BrAPI 2.0, resulting in full compatibility between the two standards. Consequently, BrAPI now encompasses all attributes necessary for MIAPPE compliance, adhering to standardized descriptions in accordance with MIAPPE guidelines. Leveraging BrAPI as a standardized RESTful web service API specification, we employ the ISA standard for storing metadata and phenotyping data in a standardized manner. This data is structured in the ISA-TAB file format and subjected to validation using the [MIAPPE ISA configuration](https://github.com/ELIXIR-Belgium/isatab-validation). The "BrAPI to ISA" service functions as a converter between BrAPI RESTful endpoints and ISA-TAB, facilitating the archiving of metadata and data and thereby enhancing data preservation and accessibility. The [BrAPI2ISA](https://github.com/elixir-europe/plant-brapi-to-isa) tool is designed to be compatible with BrAPI 1.3, and we invite contributions from the community to extend support for the latest versions of BrAPI.
-
-
-#### BrAPIMapper
-
-<!-- Valentin G: I'm planning to add a figure in supplementary data that shows data sets on a side, the mapper with some internal parts and the exposed BrAPI services. -->
-BrAPIMapper is a full BrAPI implementation of all calls for any data source missing BrAPI implementation or compliance with some BrAPI versions. BrAPIMapper is provided as a docker application that can get its external data sources from mySQL or PostgreSQL databases (with a dedicated interface for Chado database schema), generic REST services (with a dedicated interface for BrAPI endpoints), flat files (XML, JSON, CSV/TSV/GFF3/VCF, YAML) or any combination of any of those. It provides an administration interface to map BrAPI data models to external data sources. The interface allows administrators to select the BrAPI specification versions to use and the calls to enable. Data mapping configuration export and import features simplify upgrades to future BrAPI specifications changes as administrators would only have to map missing fields or make minor adjustments. Amongst others, it supports paging, search calls, either by providing direct results or using deferred results with a search identifier, lists, authentication and manages access restrictions to calls that can be setup through the administration interface as well. This tool aims to accelerate BrAPI services deployment while ensuring specification compliance. 
-
-
-### Data visualization 
-<!-- 
-* General use case description(s)
-* Specific tool examples 
-* Alternate solutions/ why is it better with BrAPI
-* future related use cases, areas to improve -->
-
-
-#### Flapjack
-
-[Flapjack](https://ics.hutton.ac.uk/flapjack) [@doi:10.1093/bioinformatics/btq580] is a multi-platform desktop application for data visualization and breeding analysis (eg, pedigree verification, marker-assisted backcrossing and forward breeding) using high-throughput genotype data. Data can be easily imported into Flapjack from any BrAPI compatible data source with genotype data available. [Flapjack Bytes](https://github.com/cropgeeks/flapjack-bytes) is a smaller, lightweight and fully web-based counterpart to Flapjack, which can be easily embedded into a database website to provide similar visualizations online. Traditionally supporting its own text-based data formats, Flapjack's use of BrAPI has streamlined the end-user experience for data import and work is underway to determine the best methods to exchange analysis results using future versions of the API.
-
-
-#### Helium
-
-Helium (<https://helium.hutton.ac.uk>) [@doi:10.1186/1471-2105-15-259] is a plant pedigree visualization platform designed to account for the specific problems that are unique to plant pedigrees. A pedigree is a representation of how genetically discrete individuals are related to one another and is therefore a representation of the genetic relationship between individual plant lines, their parents and progeny. Plant pedigrees are often used to check for potential genotyping or phenotyping errors, since these errors, by the very nature of Mendelian inheritance, are constrained by the pedigree structure in which they exist (Paterson 2011). The accurate representation of pedigrees, and the ability to pull pedigree data from different data sources is therefore important in plant breeding and genetics and therefore ways to visualize and interact this complex data in meaningful ways is critical.
-
-From its original desktop interface (<https://github.com/cardinalb/helium-docs/wiki>), Helium has developed into a web-based visualization platform implementing BrAPI calls to allow users to import data from other BrAPI compliant databases (<https://helium.hutton.ac.uk>). The ability to pull data from BrAPI compliant data sources has significantly expanded Helium’s capability and utility within the community. Helium is used in projects ranging in size from tens to tens of thousands of lines and across a wide variety of crops and species. While originally designed for plant data [@doi:10.3389/fpls.2024.1268847] it has also found utility in other non-plant projects [@doi:10.1007/s10592-024-01611-z] highlighting its broad utility. This also allows Helium users to provide direct dataset links to collaborators allowing the original data to be held with the data provider and utilising Helium for its visualization functionality. Our current Helium deployment includes example BrAPI calls to a barley dataset at Hutton to allow users to test the system and features it offers. 
-
-
-#### Trait Selector BrAPP
-
-<!-- the "BrAPP" description part should better fit at the beginning of the section. -->
-BrAPPs are simple tools developed by the BrAPI community that are entirely reliant on BrAPI for their data requirements. This means a single BrAPI can be shared and used by many organizations, as long as those organizations have the standard BrAPI endpoints available.
-
-The Trait Selector BrAPP is used to search and select useful traits, using a visual aid to help the user find exactly what they need. This BrAPP works with both breeding databases and genebanks. Breeding databases would need to only implement the trait, observation and observation variable calls, while genebanks would require trait, germplasm attribute and germplasm attribute value calls. So, BrAPI servers compliant with version 2 implementing any of these sets of calls would just need to follow the documented steps to create an SVG image of a plant of interest in order to use this BrAPP. CassavaBase and MGIS are two successful examples of the use of this BrAPP. (example screenshots coming + supplementary data: links to the git and the doc)
-
-
-#### DArTView
-
-<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-DArTView is a desktop application for visualizing genotype variant data and looking for trends or correlations. It is newly BrAPI compatible and can use BrAPI as an input data source.
-
-
-#### DivBrowse
-
-DivBrowse [@doi:10.1093/gigascience/giad025] is a web platform for exploratory data analysis of huge genotyping studies. The software can be run standalone or integrated as a plugin into existing data web portals. It provides a powerful interactive visualization of variant call matrices with hundreds of millions of variants and thousands of samples and enables easy data import and export by using standardized and established bioinformatics file formats. 
-At its core, DivBrowse combines the convenience of a genome browser and adds features tailored to the diversity analysis of germplasm. It is able to display genomic features such as nucleotide sequence, associated gene models and short genomic variants. DivBrowse provides visual access to large VCF files obtained through genotyping experiments. In addition to visualizing variant calls per variant and genotype, DivBrowse also calculates and displays variant statistics such as minor allele frequencies, proportion of heterozygous calls or missing variant calls for each visualized genomic window. In addition, dynamic Principal Component Analyses (PCAs) can be performed on a user specified genomic area to provide information on local genomic diversity. 
-DivBrowse has a Javascript API to control the tool from a hosting web portal (e.g. to control the list of genotypes to be displayed and the reference genome). DivBrowse has an interface to BLAST, which can be used to directly access genes or other genomic features. The modular structure of DivBrowse also allows developers to configure and easily embed links to external information systems. Furthermore, parts of BrAPI are implemented to provide genotypic data via its server-side component and is also able to consume and visualize genotypic data via an external BrAPI endpoint through the client-side GUI.
-
-
 ### Analytics
-<!-- 
-* General use case description(s)
-* Specific tool examples 
-* Alternate solutions/ why is it better with BrAPI
-* future related use cases, areas to improve -->
+
+While other tools listed above have the capability to do specialized analytics on certain types of data, general analytics tools can cover a wide range of data types and analytical models. The tools developed by the BrAPI community, can pull in data from multiple BrAPI compatible data sources and provide enhanced analytical functionality. In many cases, there is no longer a need to import and export large data files to a local computational environment just to run standard analytical models. These tools are able to extract the data they need from a data source without much human intervention or human error. 
 
 
 #### QBMS
@@ -1017,66 +1028,26 @@ G-Crunch is an upcoming user-facing analysis tool that attempts to fill the spac
 G-Crunch, as a tool, couldn't feasibly exist without BrAPI. The support of BrAPI interfaces allows G-Crunch to use one unified request method, and adapt to the user's (BrAPI-compliant) existing network of tools, which lowers the barrier to entry for adoption.
 
 
-### Samples and Genotypes
+### General Infrastructure 
 
-<!-- * General use case description(s)
-* Specific tool examples 
-* Alternate solutions/ why is it better with BrAPI
-* future related use cases, areas to improve -->
+Adopting BrAPI compatibility into an existing system can be difficult sometimes. The BrAPI Community has developed several tools to make adoption easier. This includes things like pre built code libraries, connectors to other technology standards, and mappers to alternate data types or data files. THe goal here is always to lower the barrier to entry for the BrAPI community, making it easier for other groups to get started and connect their existing data to the standard. 
 
 
-#### GIGWA
+#### MIAPPE ISA to BrAPI service
 
-Gigwa is a JEE web application providing means to centralize, share, finely filter, and visualize high-throughput genotyping data [@doi:10.1093/gigascience/giz051]. Built on top of MongoDB, it is scalable and can support working smoothly with datasets containing billions of genotypes. Installable from docker images or all-in-one bundle archives, it is pretty straightforward to deploy on servers or local computers and has thus been adopted by numerous research institutes from around the world. Notably, Gigwa serves as a collaborative management tool and/or a portal for exposing the data for genebanks and breeding programs for some CGIAR centers [@doi:10.1002/ppp3.10187]. Thus, the amount of data hosted and made widely accessible using this system has kept growing over the last few years.
-
-Gigwa developers have been involved in the BrAPI community since 2016 and took part in designing the genotype-related part of the API's specifications. Its first BrAPI-compliant features were designed for compatibility with the Flapjack visualization tool [@doi:10.1093/bioinformatics/btq580] and thus primarily turned it into a BrAPI datasource. Consequently, over time, Gigwa being the first and most reliable application implementing BrAPI-Genotyping server calls, local collaborators and even external partners used it as a reference solution to design a number of tools taking advantage of those features (e.g., [BeegMac](https://webtools.southgreen.fr/BrAPI/Beegmac/), [SnpClust](https://github.com/jframi/snpclust), [QBMS](https://github.com/icarda-git/QBMS)). But further use-cases also required Gigwa to be able to consume data from other BrAPI servers, which led to also implement API-client features into the system. Thanks to all this work, a close collaboration was progressively established with the Integrated Breeding Platform team developing the widely used Breeding Management System, that ended up in both applications now being frequently deployed together, Gigwa pulling germplasm or sample metadata from BMS, and BMS displaying Gigwa-hosted genotypes within its own UI.
-
-Client BrAPI libraries being available for R, community members typically write ad-hoc scripts syndicating data from multiple BrAPI sources (for instance phenotypes from a datasource and genotypes from another) in order to run various kinds of analyses such as GWAS, genomic selection or phylogenetic investigations. As a perspective, we may expect the most generic and widely-used of those pipelines to be at least publicly distributed, and possibly web-interfaced using solutions like R-Shiny in order to provide new, excitingly useful online services, based on Gigwa-hosted data.
+Phenotyping is crucial in the breeding process as it enables the identification of desirable traits, selection of breeding lines, and evaluation of breeding success. In the plant community, MIAPPE (Minimal Information About a Plant Phenotyping Experiment) [@doi:10.1111/nph.16544] is the established standard for phenotyping experiments and is commonly serialized as ISA Tab [@doi:10.1038/ng.1054]. Although ISA Tab is easy to read for non-technical experts due to its file-based approach, it lacks programmatic access, particularly for web applications. BrAPI, which is aligned with MIAPPE, can help solve this problem.
+MIRA is a tool that enables the automatic deployment of a BrAPI server on a MIAPPE-compliant dataset in ISA Tab format. It can be deployed from a Docker image with the dataset mounted. By utilizing the mapping between MIAPPE, ISA, and BrAPI, there is no need for parsing or manual mapping of datasets that are already compliant with (meta-)data standards. By gaining programmatic access through BrAPI to these datasets, it facilitates the integration of phenotyping datasets into web applications.
 
 
-#### PHG
+#### MIAPPE "BrAPI to ISA" service
 
-<!-- Lynn J. -->
-The Practical Haplotype Graph (PHG) is a graph-based computational framework that represents large-scale genetic variation and is optimized for plant breeding and genetics.  Using a pangenome approach, each PHG stores haplotypes (the sequence of part of an individual chromosome) to represent the collected genes of a species.  This allows for a simplified approach for dealing with large scale variation in plant genomes.  The PHG pipeline provides support for a range of genomic analyses and allows for the use of graph data to impute complete genomes from low density sequence or variant data.
-
-Users access the crop databases either with direct calls to the PHG embedded server or indirectly using the rPHG library from an R environment.  The PHG server accepts BrAPI endpoint queries to return information on sample lists and the variants used to define the graph's haplotypes.  In addition, PHG users utilize the BrAPI variantsets endpoint query to return links to VCF files containing haplotype data. Work on the PHG is ongoing.  We expect to support additional BrAPI endpoints that allow for slicing genotypic data based on samples and regions.
+Since the release of BrAPI 1.3, efforts have been made to incorporate support for the Minimum Information About Plant Phenotyping Experiments (MIAPPE) standard into the specification [@doi:10.1111/nph.16544]. This integration was finalized in BrAPI 2.0, resulting in full compatibility between the two standards. Consequently, BrAPI now encompasses all attributes necessary for MIAPPE compliance, adhering to standardized descriptions in accordance with MIAPPE guidelines. Leveraging BrAPI as a standardized RESTful web service API specification, we employ the ISA standard for storing metadata and phenotyping data in a standardized manner. This data is structured in the ISA-TAB file format and subjected to validation using the [MIAPPE ISA configuration](https://github.com/ELIXIR-Belgium/isatab-validation). The "BrAPI to ISA" service functions as a converter between BrAPI RESTful endpoints and ISA-TAB, facilitating the archiving of metadata and data and thereby enhancing data preservation and accessibility. The [BrAPI2ISA](https://github.com/elixir-europe/plant-brapi-to-isa) tool is designed to be compatible with BrAPI 1.3, and we invite contributions from the community to extend support for the latest versions of BrAPI.
 
 
-### Data Portal
+#### BrAPIMapper
 
-<!-- * General use case description(s)
-* Specific tool examples 
-* Alternate solutions/ why is it better with BrAPI
-* future related use cases, areas to improve -->
-
-
-#### FAIDARE
-
-<!-- Cyril P, first draft-->
-FAIDARE (<https://urgi.versailles.inrae.fr/faidare/>) is a data discovery portal providing a biologist friendly search system over a global federation of 33 plant research databases. It allows to identify data resources using a full text approach completed with domain specific filters and to link back to the original database for visualization, analysis and download. For instance, it is possible to search for "wheat drought" then to refine the search to the "Triticum aestivum" taxon and yield component traits such as "Thousand Grain Weight". The indexed data types are very broad and include genomic features, such as genes or transposable elements, selected bibliography, QTL, markers, genetic variation studies, phenomic studies and plant genetic resources ie germplasm. This inclusiveness is achieved thanks to a two stage indexation data model. The most generic one provides basic search functionalities and relies on five fields : name, link back URL, data type, species and exhaustive description. The filtering is directly tied to some of those fields. Therefore, to provide more advanced filtering, FAIDARE is also providing a second stage indexation mechanism by taking advantage of BrAPi endpoints to get more detailed metadata on genotyping and phenotyping studies as well as germplasm. In parallel, FAIDARE provides a pre-visualization of germplasm and studies using dedicated cards.
-![Figure FAIDARE Federation](images/Schema_FAIDARE.png){#fig:Schema_FAIDARE width="100%"}
-The indexation mechanism relies on a dedicated public software (<https://github.com/elixir-europe/plant-brapi-etl-faidare>) that allows data resources manager to request the indexation of there database using pull requests. This BrAPI client is able to extract data from any BrAPI 1.3 and 1.2 endpoint and development of BrAPI 2.x indexation will be initiated in 2025. Since not all databases are willing to implement BrAPI endpoints, we also provide the possibility to generate metadata as BrAPI json files, hence using the standard as a file exchange format.
-FAIDARE architecture has been designed by elaborating on the GnpIS Software Architecture [@doi:10.34133/2019/1671403]. As a consequence, BrAPI is at the core of its datamodel, and in particular the JSON data files served by the Elasticsearch NoSQL engine are enriched version of the BrAPI JSON files. FAIDARE also includes a BrAPI endpoint that serves all indexed metadata.
-FAIDARE has been adopted by several communities and in particular in the ELIXIR and EMPHASIS european infrastructures. It is also used by the WheatIS of the Wheat-Initiative. Several databases are added each year to the FAIDARE global federation, allowing to increase both the portal and the BrAPI adoption.
-
-
-#### GLIS
-
-The Global Information System (GLIS) on Plant Genetic Resources for Food and Agriculture (PGRFA) of the International Treaty on Plant Genetic Resources for Food and Agriculture (ITPGRFA) is a web-based global entry point for users and third-party systems to access information and knowledge on scientific, technical and environmental matters to strengthen PGRFA conservation, management and utilization activities. The system and its portal also enable recipients of PGRFA to make available all non-confidential information on germplasm according to the provisions of the Treaty and facilitates access to the results of their research and development. 
- 
-Thanks to the adoption of Digital Object Identifiers (DOIs) to PGRFA ex situ and in situ based on the Multi-Crop Passport Descriptors (MCPD), the Portal provides access to 1.7 million PGRFA in collections conserved worldwide. Of these, over 1.5 million are accessible for research, training and plant breeding in the food and agriculture domain.
- 
-The Scientific Advisory Committee of the International Treaty and the Governing Body have repeatedly welcomed efforts on interoperability among germplasm information systems. In this context, the GLIS Portal adopted the Breeding API (BrAPI v1) in 2022. Integrating the BrAPI among the GLIS content negotiators facilitates queries and the exchange of content for data management in plant breeding. The Portal also offers other protocols (XML, DarwinCore, JSON and JSON-LD) to increase data and metadata connectivity. In the near future, depending on the availability of resources, upgrading to BrAPI v2 is planned.
-
-
-#### FLORILÈGE (Gateway to French Plant Genetic Resources)
-
-Designed primarily for the general public, Florilège provides access to public collections of all French plant biological resources centers. This web portal allows to browse available plant genetic resource accessions and gives the possibility to order some seeds or plant material for cultivation. It includes plant genetic resources of around fifty plant genus from 19 genebanks.
-
-Florilège retrieves accession information from different BrAPI-compliant systems. They include OLGA, a genebank accessions information management system, and GnpIS[@doi:10.34133/2019/1671403] [@doi:10.1007/978-1-4939-6658-5_5], an INRAE data repository for plant genetic resources, phenomics and genetics. Using BrAPI to gather data from these systems reduced the efforts and enabled standardized data retrieval. As a consequence, BrAPI is the de facto standard for exchanging data within the French plant genetic resources community. The Florilège team also requested several update of the BrAPi specifications to better serve this use case, such as Collection or improved external references.
-![Figure Florilege Workflow](images/Schema_Florilege.jpg){#fig:Schema_Florilege width="100%"}
-
-Florilège is developed in Drupal 10, and uses xnttbrapi module (to easily connect to BrAPI compliant external databases). 
+<!-- Valentin G: I'm planning to add a figure in supplementary data that shows data sets on a side, the mapper with some internal parts and the exposed BrAPI services. -->
+BrAPIMapper is a full BrAPI implementation of all calls for any data source missing BrAPI implementation or compliance with some BrAPI versions. BrAPIMapper is provided as a docker application that can get its external data sources from mySQL or PostgreSQL databases (with a dedicated interface for Chado database schema), generic REST services (with a dedicated interface for BrAPI endpoints), flat files (XML, JSON, CSV/TSV/GFF3/VCF, YAML) or any combination of any of those. It provides an administration interface to map BrAPI data models to external data sources. The interface allows administrators to select the BrAPI specification versions to use and the calls to enable. Data mapping configuration export and import features simplify upgrades to future BrAPI specifications changes as administrators would only have to map missing fields or make minor adjustments. Amongst others, it supports paging, search calls, either by providing direct results or using deferred results with a search identifier, lists, authentication and manages access restrictions to calls that can be setup through the administration interface as well. This tool aims to accelerate BrAPI services deployment while ensuring specification compliance. 
 
 
 #### BrAPI plug and play GraphQL based data-warehouse
