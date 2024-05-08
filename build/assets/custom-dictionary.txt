@@ -141,7 +141,7 @@ ICARDA
 Agropolis
 Bioversity
 BMS
-BMS’s
+BMS's
 EURISCO
 INRAE
 Julich
