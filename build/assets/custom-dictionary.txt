@@ -80,6 +80,8 @@ TSV
 UI
 VCF
 YAML
+Triticum
+aestivum
 BrAPIRelatedToolsBrAPIRelatedToolsBrAPIRelatedToolsBrAPIRelatedTools
 BRAVA
 Cassavabase
@@ -121,7 +123,7 @@ Bioversity
 BMS
 EURISCO
 INRAE
-Jülich
+Julich
 Leafnode
 NIFA
 Tripal
@@ -155,12 +157,12 @@ Iain
 imilne
 Khaled
 koenig
-König
+Konig
 Lange
 langeipk
 Laszlo
 leetaei
-López
+Lopez
 Marsella
 Mathieu
 Matthijs
@@ -168,7 +170,7 @@ Mirella
 Pommier
 sebeier
 Selby
-Sempéré
+Sempere
 Shamaa
 Soldevilla
 Taein
