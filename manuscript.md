@@ -71,8 +71,8 @@ header-includes: |
   <meta name="dc.date" content="2024-05-08" />
   <meta name="citation_publication_date" content="2024-05-08" />
   <meta property="article:published_time" content="2024-05-08" />
-  <meta name="dc.modified" content="2024-05-08T20:46:33+00:00" />
-  <meta property="article:modified_time" content="2024-05-08T20:46:33+00:00" />
+  <meta name="dc.modified" content="2024-05-08T21:08:41+00:00" />
+  <meta property="article:modified_time" content="2024-05-08T21:08:41+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -225,9 +225,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/258ce20a376172a68df0525c036991b0a8e0affe/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/258ce20a376172a68df0525c036991b0a8e0affe/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/258ce20a376172a68df0525c036991b0a8e0affe/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d69e70efb91097861f38363494616b6b76e95302/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d69e70efb91097861f38363494616b6b76e95302/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d69e70efb91097861f38363494616b6b76e95302/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -249,9 +249,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/258ce20a376172a68df0525c036991b0a8e0affe/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/d69e70efb91097861f38363494616b6b76e95302/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@258ce20](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/258ce20a376172a68df0525c036991b0a8e0affe)
+from [plantbreeding/BrAPI-Manuscript2@d69e70e](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/d69e70efb91097861f38363494616b6b76e95302)
 on May 8, 2024.
 </em></small>
 
@@ -863,13 +863,13 @@ DArTView is a desktop application for visualizing genotype variant data and look
 #### DivBrowse
 
 DivBrowse [@doi:10.1093/gigascience/giad025] is a web platform for exploratory data analysis of huge genotyping studies. The software can be run standalone or integrated as a plugin into existing data web portals. It provides a powerful interactive visualization of variant call matrices with hundreds of millions of variants and thousands of samples and enables easy data import and export by using standardized and established bioinformatics file formats. 
-At its core, DivBrowse combines the convenience of a genome browser and adds features tailored to the diversity analysis of germplasm. It is able to display genomic features such as nucleotide sequence, associated gene models and short genomic variants. DivBrowse provides visual access to large VCF files obtained through genotyping experiments. In addition to visualizing variant calls per variant and genotype, DivBrowse also calculates and displays variant statistics such as minor allele frequencies, proportion of heterozygous calls or missing variant calls for each visualized genomic window. In addition, dynamic Principal Component Analyses (PCAs) can be performed on a user specified genomic area to provide information on local genomic diversity. 
+At its core, DivBrowse combines the convenience of a genome browser and adds features tailored to the diversity analysis of germplasm. It is able to display genomic features such as nucleotide sequence, associated gene models and short genomic variants. DivBrowse provides visual access to large VCF files obtained through genotyping experiments. In addition to visualizing variant calls per variant and genotype, DivBrowse also calculates and displays variant statistics such as minor allele frequencies, proportion of heterozygous calls or missing variant calls for each visualized genomic window. In addition, dynamic Principal Component Analyses (PCA) can be performed on a user specified genomic area to provide information on local genomic diversity. 
 DivBrowse has a Javascript API to control the tool from a hosting web portal (e.g. to control the list of genotypes to be displayed and the reference genome). DivBrowse has an interface to BLAST, which can be used to directly access genes or other genomic features. The modular structure of DivBrowse also allows developers to configure and easily embed links to external information systems. Furthermore, parts of BrAPI are implemented to provide genotypic data via its server-side component and is also able to consume and visualize genotypic data via an external BrAPI endpoint through the client-side GUI.
 
 
 #### GIGWA
 
-Gigwa is a JEE web application providing means to centralize, share, finely filter, and visualize high-throughput genotyping data [@doi:10.1093/gigascience/giz051]. Built on top of MongoDB, it is scalable and can support working smoothly with datasets containing billions of genotypes. Installable from docker images or all-in-one bundle archives, it is pretty straightforward to deploy on servers or local computers and has thus been adopted by numerous research institutes from around the world. Notably, Gigwa serves as a collaborative management tool and/or a portal for exposing the data for genebanks and breeding programs for some CGIAR centers [@doi:10.1002/ppp3.10187]. Thus, the amount of data hosted and made widely accessible using this system has kept growing over the last few years.
+Gigwa is a Java EE web application providing means to centralize, share, finely filter, and visualize high-throughput genotyping data [@doi:10.1093/gigascience/giz051]. Built on top of MongoDB, it is scalable and can support working smoothly with datasets containing billions of genotypes. Installable from docker images or all-in-one bundle archives, it is pretty straightforward to deploy on servers or local computers and has thus been adopted by numerous research institutes from around the world. Notably, Gigwa serves as a collaborative management tool and/or a portal for exposing the data for genebanks and breeding programs for some CGIAR centers [@doi:10.1002/ppp3.10187]. Thus, the amount of data hosted and made widely accessible using this system has kept growing over the last few years.
 
 Gigwa developers have been involved in the BrAPI community since 2016 and took part in designing the genotype-related part of the API's specifications. Its first BrAPI-compliant features were designed for compatibility with the Flapjack visualization tool [@doi:10.1093/bioinformatics/btq580] and thus primarily turned it into a BrAPI data source. Consequently, over time, Gigwa being the first and most reliable application implementing BrAPI-Genotyping server calls, local collaborators and even external partners used it as a reference solution to design a number of tools taking advantage of those features (e.g., [BeegMac](https://webtools.southgreen.fr/BrAPI/Beegmac/), [SnpClust](https://github.com/jframi/snpclust), [QBMS](https://github.com/icarda-git/QBMS)). But further use-cases also required Gigwa to be able to consume data from other BrAPI servers, which led to also implement API-client features into the system. Thanks to all this work, a close collaboration was progressively established with the Integrated Breeding Platform team developing the widely used Breeding Management System, that ended up in both applications now being frequently deployed together, Gigwa pulling germplasm or sample metadata from BMS, and BMS displaying Gigwa-hosted genotypes within its own UI.
 
@@ -892,7 +892,7 @@ The vast quantity of new accessions, variants, and lines being created each year
 #### MGIS
 
 <!-- authors: Mathieu Rouard, Valentin Guignon -->
-The Musa Germplasm information system, [MGIS](https://www.crop-diversity.org/mgis/), serves as a comprehensive community portal dedicated to banana diversity, a crop critical to global food security [@doi:10.1093/database/bax046]. MGIS offers detailed information on banana germplasm, focusing on the collections held by the CGIAR International Banana Genebank (ITC) [@doi:10.1186/s43170-020-00015-6]. It is built on the Build on the Drupal/Tripal technology, like BIMS and Florilège.  Since its inception, MGIS developers have actively participated in the Breeding API (BrAPI) community, pushing for the integration of Multicrop Passport Data (MCPD) into Germplasm module call of the API. MGIS thus provides passport data information on ITC banana genebank accessions (with GLIS DOI), synchronized with [Genesys](https://www.genesys-pgr.org/a/overview/v2YdWZGrZjD), but also enriches it by incorporating additional data from other germplasm collections worldwide. All those germplasm data are available through BrAPI germplasm module calls implementations. For genotyping data, MGIS incorporates GIGWA [@doi:10.1093/gigascience/giz051], which provides tailored implementations for BrAPI genotyping module calls. Furthermore, MGIS supports the implementation of a set of BrAPI phenotyping module calls, facilitating the exposing of morphological descriptors and trait information supported by ontologies like the Crop Ontology [@doi:10.1093/aobpla/plq008]. It is integrated with the Trait Selector BrAPP, developed as part of a project involving Breedbase [@doi:10.1093/g3journal/jkac078]. Uses cases between the Musa implementation of Breedbase, MusaBase, and MGIS to interlink genebank and breeding data.
+The Musa Germplasm information system, [MGIS](https://www.crop-diversity.org/mgis/), serves as a comprehensive community portal dedicated to banana diversity, a crop critical to global food security [@doi:10.1093/database/bax046]. MGIS offers detailed information on banana germplasm, focusing on the collections held by the CGIAR International Banana Genebank (ITC) [@doi:10.1186/s43170-020-00015-6]. It is built on the Build on the Drupal/Tripal technology, like BIMS and Florilège.  Since its inception, MGIS developers have actively participated in the Breeding API (BrAPI) community, pushing for the integration of Multi-crop Passport Data (MCPD) into Germplasm module call of the API. MGIS thus provides passport data information on ITC banana genebank accessions (with GLIS DOI), synchronized with [Genesys](https://www.genesys-pgr.org/a/overview/v2YdWZGrZjD), but also enriches it by incorporating additional data from other germplasm collections worldwide. All those germplasm data are available through BrAPI germplasm module calls implementations. For genotyping data, MGIS incorporates GIGWA [@doi:10.1093/gigascience/giz051], which provides tailored implementations for BrAPI genotyping module calls. Furthermore, MGIS supports the implementation of a set of BrAPI phenotyping module calls, facilitating the exposing of morphological descriptors and trait information supported by ontologies like the Crop Ontology [@doi:10.1093/aobpla/plq008]. It is integrated with the Trait Selector BrAPP, developed as part of a project involving Breedbase [@doi:10.1093/g3journal/jkac078]. Uses cases between the Musa implementation of Breedbase, MusaBase, and MGIS to interlink genebank and breeding data.
 
 
 <!-- Contribution BrAPI 2.0 paper
