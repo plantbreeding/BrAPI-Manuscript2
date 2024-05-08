@@ -199,9 +199,9 @@ authors:
     email: erwan.le-floch@inrae.fr
     initials: ELF
     affiliations:
-      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, Versailles, France
-  - name: Jospeh Ruff
+  - name: Joseph Ruff
     email: J.Ruff@kew.org
     initials: JR
     affiliations:
@@ -211,33 +211,33 @@ authors:
     initials: MA
     orcid: 0000-0001-9356-4072
     affiliations:
-      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, Versailles, France
   - name: Célia Michotey
     email: celia.michotey@inrae.fr
     initials: CM
     orcid: 0000-0003-1877-1703
     affiliations:
-      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, Versailles, France
   - name: Anne-Francoise Adam-Blondon
     email: anne-francoise.adam-blondon@inrae.fr
     initials: AFAB
     orcid: 0000-0002-3412-9086
     affiliations:
-      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, Versailles, France   
   - name: Jeremy Destin
     email: jeremy.destin@inrae.fr
     initials: JD
     affiliations:
-      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, Versailles, France
   - name: Maud Marty
     email: maud.marty@inrae.fr
     initials: MM
     affiliations:
-      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, Versailles, France
   - name: Suman Kumar
     email: kumar@ipk-gatersleben.de
