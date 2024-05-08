@@ -21,7 +21,7 @@ svgs
 tbl
 unicode
 wikidata
-BrAPI_Related_Technical_Terms===========================================
+BrAPIRelatedTechnicalTermsBrAPIRelatedTechnicalTermsBrAPIRelatedTechnicalTerms
 BrAPI
 BrAPP
 BrAPPs
