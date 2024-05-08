@@ -296,7 +296,7 @@ authors:
     orcid: 0000-0002-2177-8781
     email: s.beier@fz-juelich.de
     affiliations:
-      - 'Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszenturm Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany'
+      - 'Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszentrum Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany'
       - Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany
     corresponding: false
   - name: Valentin Guignon
@@ -329,7 +329,7 @@ authors:
     orcid: 0000-0002-0177-3887
     email: rafael.abbeloos@vib.be
     affiliations:
-      - VIB AgroIncubator
+      - VIB Agro-Incubator
     corresponding: false
   - name: Laszlo Lang
     initials: LL
@@ -353,5 +353,5 @@ authors:
     orcid: 0000-0002-7759-1617
     email: mrf252@cornell.edu
     affiliations:
-      - Boyrce Thompson Institute
+      - Boyce Thompson Institute
     corresponding: false
