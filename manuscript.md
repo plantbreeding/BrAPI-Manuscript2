@@ -71,8 +71,8 @@ header-includes: |
   <meta name="dc.date" content="2024-05-08" />
   <meta name="citation_publication_date" content="2024-05-08" />
   <meta property="article:published_time" content="2024-05-08" />
-  <meta name="dc.modified" content="2024-05-08T19:45:13+00:00" />
-  <meta property="article:modified_time" content="2024-05-08T19:45:13+00:00" />
+  <meta name="dc.modified" content="2024-05-08T20:08:15+00:00" />
+  <meta property="article:modified_time" content="2024-05-08T20:08:15+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -101,7 +101,7 @@ header-includes: |
   <meta name="citation_author_institution" content="The James Hutton Institute" />
   <meta name="citation_author_orcid" content="0000-0002-4126-0859" />
   <meta name="citation_author" content="Cyril Pommier" />
-  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France" />
+  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
   <meta name="citation_author_orcid" content="0000-0002-9040-8733" />
   <meta name="citation_author" content="Becky Smith" />
@@ -195,7 +195,7 @@ header-includes: |
   <meta name="citation_author_institution" content="Integrated Breeding Platform" />
   <meta name="citation_author_institution" content="Leafnode LLC" />
   <meta name="citation_author" content="Sebastian Beier" />
-  <meta name="citation_author_institution" content="Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszenturm Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany" />
+  <meta name="citation_author_institution" content="Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszentrum Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany" />
   <meta name="citation_author_institution" content="Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany" />
   <meta name="citation_author_orcid" content="0000-0002-2177-8781" />
   <meta name="citation_author" content="Valentin Guignon" />
@@ -208,7 +208,7 @@ header-includes: |
   <meta name="citation_author_institution" content="Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany" />
   <meta name="citation_author_orcid" content="0000-0002-2421-5431" />
   <meta name="citation_author" content="Rafael Abbeloos" />
-  <meta name="citation_author_institution" content="VIB AgroIncubator" />
+  <meta name="citation_author_institution" content="VIB Agro-Incubator" />
   <meta name="citation_author_orcid" content="0000-0002-0177-3887" />
   <meta name="citation_author" content="Laszlo Lang" />
   <meta name="citation_author_institution" content="Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany" />
@@ -217,7 +217,7 @@ header-includes: |
   <meta name="citation_author_institution" content="Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany" />
   <meta name="citation_author_orcid" content="0009-0002-2476-9888" />
   <meta name="citation_author" content="Mirella Flores-Gonzalez" />
-  <meta name="citation_author_institution" content="Boyrce Thompson Institute" />
+  <meta name="citation_author_institution" content="Boyce Thompson Institute" />
   <meta name="citation_author_orcid" content="0000-0002-7759-1617" />
   <link rel="canonical" href="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="og:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
@@ -225,9 +225,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/c24fcc8085a125bddd122c1525c2becf1a82b314/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/c24fcc8085a125bddd122c1525c2becf1a82b314/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/c24fcc8085a125bddd122c1525c2becf1a82b314/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/153d0f97cde02644f3371f8ab2913213f071e68f/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/153d0f97cde02644f3371f8ab2913213f071e68f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/153d0f97cde02644f3371f8ab2913213f071e68f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -249,9 +249,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/c24fcc8085a125bddd122c1525c2becf1a82b314/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/153d0f97cde02644f3371f8ab2913213f071e68f/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@c24fcc8](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/c24fcc8085a125bddd122c1525c2becf1a82b314)
+from [plantbreeding/BrAPI-Manuscript2@153d0f9](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/153d0f97cde02644f3371f8ab2913213f071e68f)
 on May 8, 2024.
 </em></small>
 
@@ -348,7 +348,7 @@ on May 8, 2024.
     [cpommier](https://github.com/cpommier)
     <br>
   <small>
-     Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
+     Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
      · Funded by {'Short version': 'This work was supported by the project Phenome-ANR-11-INBS-0012'}; {'OR Long version': "This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)"}
   </small>
 
@@ -621,7 +621,7 @@ on May 8, 2024.
     [sebeier](https://github.com/sebeier)
     <br>
   <small>
-     Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszenturm Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany; Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany
+     Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszentrum Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany; Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany
   </small>
 
 + **Valentin Guignon**
@@ -665,7 +665,7 @@ on May 8, 2024.
     [raabb](https://github.com/raabb)
     <br>
   <small>
-     VIB AgroIncubator
+     VIB Agro-Incubator
   </small>
 
 + **Laszlo Lang**
@@ -698,7 +698,7 @@ on May 8, 2024.
     [mflores2021](https://github.com/mflores2021)
     <br>
   <small>
-     Boyrce Thompson Institute
+     Boyce Thompson Institute
   </small>
 
 
@@ -798,7 +798,7 @@ When it comes to BrAPI compatibility, ClimMob follows the same patterns establis
 
 #### ImageBreed
 
-High-throughput phenotyping has been gaining significant traction lately as a way to collect lots of data very quickly. Image collection from unmanned arial and ground vehicles (UAVs and UGVs) are a great way to collect a lot of raw data all at once, then analyze it later. ImageBreed is a image collection pipeline tool to support regular use of UAVs and UGVs. 
+High-throughput phenotyping has been gaining significant traction lately as a way to collect lots of data very quickly. Image collection from unmanned aerial and ground vehicles (UAVs and UGVs) are a great way to collect a lot of raw data all at once, then analyze it later. ImageBreed is a image collection pipeline tool to support regular use of UAVs and UGVs. 
 
 When the raw images have been processed through the standardization pipelines in ImageBreed, useful phenotypes can be extracted from the images. The BrAPI standard is used to push these phenotypes back to a central breeding database where they can be analyzed with other data. In addition to this, ImageBreed also has the option to use BrAPI to upload the raw images to the central breeding database, or any other BrAPI compatible long term storage service. The BrAPI models in the current version of the standard (V2.1) are rudimentary, but effective. The ImageBreed team has put in some work to enhance the BrAPI image data standards. 
 
@@ -871,9 +871,9 @@ DivBrowse has a Javascript API to control the tool from a hosting web portal (e.
 
 Gigwa is a JEE web application providing means to centralize, share, finely filter, and visualize high-throughput genotyping data [@doi:10.1093/gigascience/giz051]. Built on top of MongoDB, it is scalable and can support working smoothly with datasets containing billions of genotypes. Installable from docker images or all-in-one bundle archives, it is pretty straightforward to deploy on servers or local computers and has thus been adopted by numerous research institutes from around the world. Notably, Gigwa serves as a collaborative management tool and/or a portal for exposing the data for genebanks and breeding programs for some CGIAR centers [@doi:10.1002/ppp3.10187]. Thus, the amount of data hosted and made widely accessible using this system has kept growing over the last few years.
 
-Gigwa developers have been involved in the BrAPI community since 2016 and took part in designing the genotype-related part of the API's specifications. Its first BrAPI-compliant features were designed for compatibility with the Flapjack visualization tool [@doi:10.1093/bioinformatics/btq580] and thus primarily turned it into a BrAPI datasource. Consequently, over time, Gigwa being the first and most reliable application implementing BrAPI-Genotyping server calls, local collaborators and even external partners used it as a reference solution to design a number of tools taking advantage of those features (e.g., [BeegMac](https://webtools.southgreen.fr/BrAPI/Beegmac/), [SnpClust](https://github.com/jframi/snpclust), [QBMS](https://github.com/icarda-git/QBMS)). But further use-cases also required Gigwa to be able to consume data from other BrAPI servers, which led to also implement API-client features into the system. Thanks to all this work, a close collaboration was progressively established with the Integrated Breeding Platform team developing the widely used Breeding Management System, that ended up in both applications now being frequently deployed together, Gigwa pulling germplasm or sample metadata from BMS, and BMS displaying Gigwa-hosted genotypes within its own UI.
+Gigwa developers have been involved in the BrAPI community since 2016 and took part in designing the genotype-related part of the API's specifications. Its first BrAPI-compliant features were designed for compatibility with the Flapjack visualization tool [@doi:10.1093/bioinformatics/btq580] and thus primarily turned it into a BrAPI data source. Consequently, over time, Gigwa being the first and most reliable application implementing BrAPI-Genotyping server calls, local collaborators and even external partners used it as a reference solution to design a number of tools taking advantage of those features (e.g., [BeegMac](https://webtools.southgreen.fr/BrAPI/Beegmac/), [SnpClust](https://github.com/jframi/snpclust), [QBMS](https://github.com/icarda-git/QBMS)). But further use-cases also required Gigwa to be able to consume data from other BrAPI servers, which led to also implement API-client features into the system. Thanks to all this work, a close collaboration was progressively established with the Integrated Breeding Platform team developing the widely used Breeding Management System, that ended up in both applications now being frequently deployed together, Gigwa pulling germplasm or sample metadata from BMS, and BMS displaying Gigwa-hosted genotypes within its own UI.
 
-Client BrAPI libraries being available for R, community members typically write ad-hoc scripts syndicating data from multiple BrAPI sources (for instance phenotypes from a datasource and genotypes from another) in order to run various kinds of analyses such as GWAS, genomic selection or phylogenetic investigations. As a perspective, we may expect the most generic and widely-used of those pipelines to be at least publicly distributed, and possibly web-interfaced using solutions like R-Shiny in order to provide new, excitingly useful online services, based on Gigwa-hosted data.
+Client BrAPI libraries being available for R, community members typically write ad-hoc scripts syndicating data from multiple BrAPI sources (for instance phenotypes from a data source and genotypes from another) in order to run various kinds of analyses such as GWAS, genomic selection or phylogenetic investigations. As a perspective, we may expect the most generic and widely-used of those pipelines to be at least publicly distributed, and possibly web-interfaced using solutions like R-Shiny in order to provide new, excitingly useful online services, based on Gigwa-hosted data.
 
 
 #### PHG
@@ -945,7 +945,7 @@ Florilège is developed in Drupal 10, and uses xnttbrapi module (to easily conne
 FAIDARE (<https://urgi.versailles.inrae.fr/faidare/>) is a data discovery portal providing a biologist friendly search system over a global federation of 33 plant research databases. It allows to identify data resources using a full text approach completed with domain specific filters and to link back to the original database for visualization, analysis and download. For instance, it is possible to search for "wheat drought" then to refine the search to the "Triticum aestivum" taxon and yield component traits such as "Thousand Grain Weight". The indexed data types are very broad and include genomic features, such as genes or transposable elements, selected bibliography, QTL, markers, genetic variation studies, phenomic studies and plant genetic resources ie germplasm. This inclusiveness is achieved thanks to a two stage indexation data model. The most generic one provides basic search functionalities and relies on five fields : name, link back URL, data type, species and exhaustive description. The filtering is directly tied to some of those fields. Therefore, to provide more advanced filtering, FAIDARE is also providing a second stage indexation mechanism by taking advantage of BrAPi endpoints to get more detailed metadata on genotyping and phenotyping studies as well as germplasm. In parallel, FAIDARE provides a pre-visualization of germplasm and studies using dedicated cards.
 ![Figure FAIDARE Federation](images/Schema_FAIDARE.png){#fig:Schema_FAIDARE width="100%"}
 The indexation mechanism relies on a dedicated public software (<https://github.com/elixir-europe/plant-brapi-etl-faidare>) that allows data resources manager to request the indexation of there database using pull requests. This BrAPI client is able to extract data from any BrAPI 1.3 and 1.2 endpoint and development of BrAPI 2.x indexation will be initiated in 2025. Since not all databases are willing to implement BrAPI endpoints, we also provide the possibility to generate metadata as BrAPI json files, hence using the standard as a file exchange format.
-FAIDARE architecture has been designed by elaborating on the GnpIS Software Architecture [@doi:10.34133/2019/1671403]. As a consequence, BrAPI is at the core of its datamodel, and in particular the JSON data files served by the Elasticsearch NoSQL engine are enriched version of the BrAPI JSON files. FAIDARE also includes a BrAPI endpoint that serves all indexed metadata.
+FAIDARE architecture has been designed by elaborating on the GnpIS Software Architecture [@doi:10.34133/2019/1671403]. As a consequence, BrAPI is at the core of its data model, and in particular the JSON data files served by the Elasticsearch NoSQL engine are enriched version of the BrAPI JSON files. FAIDARE also includes a BrAPI endpoint that serves all indexed metadata.
 FAIDARE has been adopted by several communities and in particular in the ELIXIR and EMPHASIS european infrastructures. It is also used by the WheatIS of the Wheat-Initiative. Several databases are added each year to the FAIDARE global federation, allowing to increase both the portal and the BrAPI adoption.
 
 
