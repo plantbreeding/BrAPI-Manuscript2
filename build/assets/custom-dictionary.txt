@@ -97,7 +97,7 @@ Fieldbook
 BeegMac
 BIMS
 BrAPIMapper
-Florilège
+Florilege
 Genesys
 GraphQL
 GridScore
