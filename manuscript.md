@@ -71,8 +71,8 @@ header-includes: |
   <meta name="dc.date" content="2024-05-08" />
   <meta name="citation_publication_date" content="2024-05-08" />
   <meta property="article:published_time" content="2024-05-08" />
-  <meta name="dc.modified" content="2024-05-08T18:40:02+00:00" />
-  <meta property="article:modified_time" content="2024-05-08T18:40:02+00:00" />
+  <meta name="dc.modified" content="2024-05-08T19:45:13+00:00" />
+  <meta property="article:modified_time" content="2024-05-08T19:45:13+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -225,9 +225,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/561dbbdb4440e81c5976844ed78611d5e89c9416/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/561dbbdb4440e81c5976844ed78611d5e89c9416/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/561dbbdb4440e81c5976844ed78611d5e89c9416/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/c24fcc8085a125bddd122c1525c2becf1a82b314/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/c24fcc8085a125bddd122c1525c2becf1a82b314/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/c24fcc8085a125bddd122c1525c2becf1a82b314/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -249,9 +249,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/561dbbdb4440e81c5976844ed78611d5e89c9416/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/c24fcc8085a125bddd122c1525c2becf1a82b314/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@561dbbd](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/561dbbdb4440e81c5976844ed78611d5e89c9416)
+from [plantbreeding/BrAPI-Manuscript2@c24fcc8](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/c24fcc8085a125bddd122c1525c2becf1a82b314)
 on May 8, 2024.
 </em></small>
 
@@ -881,7 +881,7 @@ Client BrAPI libraries being available for R, community members typically write 
 <!-- Lynn J. -->
 The Practical Haplotype Graph (PHG) is a graph-based computational framework that represents large-scale genetic variation and is optimized for plant breeding and genetics.  Using a pangenome approach, each PHG stores haplotypes (the sequence of part of an individual chromosome) to represent the collected genes of a species.  This allows for a simplified approach for dealing with large scale variation in plant genomes.  The PHG pipeline provides support for a range of genomic analyses and allows for the use of graph data to impute complete genomes from low density sequence or variant data.
 
-Users access the crop databases either with direct calls to the PHG embedded server or indirectly using the rPHG library from an R environment.  The PHG server accepts BrAPI endpoint queries to return information on sample lists and the variants used to define the graph's haplotypes.  In addition, PHG users utilize the BrAPI variantsets endpoint query to return links to VCF files containing haplotype data. Work on the PHG is ongoing.  We expect to support additional BrAPI endpoints that allow for slicing genotypic data based on samples and regions.
+Users access the crop databases either with direct calls to the PHG embedded server or indirectly using the rPHG library from an R environment.  The PHG server accepts BrAPI endpoint queries to return information on sample lists and the variants used to define the graph's haplotypes.  In addition, PHG users utilize the BrAPI Variant Sets endpoint query to return links to VCF files containing haplotype data. Work on the PHG is ongoing.  We expect to support additional BrAPI endpoints that allow for slicing genotypic data based on samples and regions.
 
 
 ### Germplasm Management
@@ -905,9 +905,9 @@ In the global system for ex situ conservation of plant genetic resources (PGR) [
 
 The AGENT portal as described in more detail in section unlock the full potential of the biological material stored in genebanks around the globe by using FAIR international data standards and an open digital infrastructure for the management of plant genetic resources. The implemented BrAPI interface enables to mine current and historic genotypic and phenotypic information to drive the discovery of genes, traits and knowledge for future missions, complement existing information for wheat and barley and the new data standards and infrastructure to foster an improved management of PGR for other crop species across European genebanks.
 
-For the joint research data infrastructure for the federation of collections of genotypic and phenotypic data from European gene banks and bioinformatics institutes, a AGENT portal ({@fig:AGENT_WebFrontend}) as database infrastructure for integrated plant genetic resources on ex-situ genebanks is being created. It provides, manual data exploration, machine-readable access via BrAPI and provide data to the cored data deposition resources at the European Bioinformatics Institute (EBI).
+For the joint research data infrastructure for the federation of collections of genotypic and phenotypic data from European gene banks and bioinformatics institutes, a AGENT portal ({@fig:AGENT_Web_Frontend}) as database infrastructure for integrated plant genetic resources on ex-situ genebanks is being created. It provides, manual data exploration, machine-readable access via BrAPI and provide data to the cored data deposition resources at the European Bioinformatics Institute (EBI).
 
-![Figure AGENT Portal](images/AGENT_WebFrontend.png){#fig:AGENT_WebFrontend width="100%"}
+![Figure AGENT Portal](images/AGENT_Web_Frontend.png){#fig:AGENT_Web_Frontend width="100%"}
 
 The AGENT database backend aggregates curated and integrated passport data, phenotypic and genotypic data about wheat and barley accessions of 18 project partners are harmonized and integrated via BrAPI endpoints (<https://github.com/AGENTproject/BrAPI>) and explorable in a web portal (<https://agent.ipk-gatersleben.de>). The BrAPI endpoints were made available by scattered implementation. Genotyping data use DivBrowse [@doi:10.1093/gigascience/giad025] storage engine and BrAPI interface. Endpoints for sample data are implemented using AGENT database SQL to BrAPI broker service.
 To integrate those BrAPI endpoint provider into a single service and URL scheme, we work on their integration in a BrAPI proxy service. As next steps, we will expand BrAPI implementation to enable the integration of analysis pipelines in the AGENT portal, e.g. for genebank mining tools such as the FIGS+ pipeline developed by AGENT partner ICARDA [@doi:10.22004/AG.ECON.266624]. Another perspective is to integrate the data collected in the AGENT project into the European Search Catalogue for Plant Genetic Resources (EURISCO) [@doi:10.1093/nar/gkac852] and to implement BrAPI endpoints to make data on PGR collections in European genebanks programmatically accessible.
