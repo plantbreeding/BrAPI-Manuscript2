@@ -34,7 +34,7 @@ author-meta:
 - Gouripriya Davuluri
 - Paul Kersey
 - Erwan Le-Floch
-- Jospeh Ruff
+- Joseph Ruff
 - Michael Alaux
 - Célia Michotey
 - Anne-Francoise Adam-Blondon
@@ -71,8 +71,8 @@ header-includes: |
   <meta name="dc.date" content="2024-05-08" />
   <meta name="citation_publication_date" content="2024-05-08" />
   <meta property="article:published_time" content="2024-05-08" />
-  <meta name="dc.modified" content="2024-05-08T20:08:15+00:00" />
-  <meta property="article:modified_time" content="2024-05-08T20:08:15+00:00" />
+  <meta name="dc.modified" content="2024-05-08T20:46:33+00:00" />
+  <meta property="article:modified_time" content="2024-05-08T20:46:33+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -150,27 +150,27 @@ header-includes: |
   <meta name="citation_author" content="Paul Kersey" />
   <meta name="citation_author_institution" content="Royal Botanic Gardens, Kew" />
   <meta name="citation_author" content="Erwan Le-Floch" />
-  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France" />
+  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
-  <meta name="citation_author" content="Jospeh Ruff" />
+  <meta name="citation_author" content="Joseph Ruff" />
   <meta name="citation_author_institution" content="Royal Botanic Gardens, Kew" />
   <meta name="citation_author" content="Michael Alaux" />
-  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France" />
+  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
   <meta name="citation_author_orcid" content="0000-0001-9356-4072" />
   <meta name="citation_author" content="Célia Michotey" />
-  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France" />
+  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
   <meta name="citation_author_orcid" content="0000-0003-1877-1703" />
   <meta name="citation_author" content="Anne-Francoise Adam-Blondon" />
-  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France" />
+  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
   <meta name="citation_author_orcid" content="0000-0002-3412-9086" />
   <meta name="citation_author" content="Jeremy Destin" />
-  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France" />
+  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
   <meta name="citation_author" content="Maud Marty" />
-  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France" />
+  <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
   <meta name="citation_author" content="Suman Kumar" />
   <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
@@ -225,9 +225,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/153d0f97cde02644f3371f8ab2913213f071e68f/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/153d0f97cde02644f3371f8ab2913213f071e68f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/153d0f97cde02644f3371f8ab2913213f071e68f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/258ce20a376172a68df0525c036991b0a8e0affe/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/258ce20a376172a68df0525c036991b0a8e0affe/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/258ce20a376172a68df0525c036991b0a8e0affe/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -249,9 +249,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/153d0f97cde02644f3371f8ab2913213f071e68f/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/258ce20a376172a68df0525c036991b0a8e0affe/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@153d0f9](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/153d0f97cde02644f3371f8ab2913213f071e68f)
+from [plantbreeding/BrAPI-Manuscript2@258ce20](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/258ce20a376172a68df0525c036991b0a8e0affe)
 on May 8, 2024.
 </em></small>
 
@@ -506,10 +506,10 @@ on May 8, 2024.
 + **Erwan Le-Floch**
   <br>
   <small>
-     Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
+     Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
   </small>
 
-+ **Jospeh Ruff**
++ **Joseph Ruff**
   <br>
   <small>
      Royal Botanic Gardens, Kew
@@ -521,7 +521,7 @@ on May 8, 2024.
     [0000-0001-9356-4072](https://orcid.org/0000-0001-9356-4072)
     <br>
   <small>
-     Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
+     Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
   </small>
 
 + **Célia Michotey**
@@ -530,7 +530,7 @@ on May 8, 2024.
     [0000-0003-1877-1703](https://orcid.org/0000-0003-1877-1703)
     <br>
   <small>
-     Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
+     Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
   </small>
 
 + **Anne-Francoise Adam-Blondon**
@@ -539,19 +539,19 @@ on May 8, 2024.
     [0000-0002-3412-9086](https://orcid.org/0000-0002-3412-9086)
     <br>
   <small>
-     Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
+     Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
   </small>
 
 + **Jeremy Destin**
   <br>
   <small>
-     Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
+     Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
   </small>
 
 + **Maud Marty**
   <br>
   <small>
-     Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
+     Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
   </small>
 
 + **Suman Kumar**
@@ -833,7 +833,7 @@ Developed from 2016 onwards, the software features a web interface with function
 
 To share the phenotype data of the experiments linked to publications, an implementation of BrAPI 1.3 was developed on a separate public PIPPA server open to the public, which allowed read only access to the data in a standardized format. This endpoint was registered on [FAIDARE](https://urgi.versailles.inra.fr/faidare/) and allows the data to be found alongside data from other BrAPI endpoints.
 
-As the BrAPI ecosystem has matured, it created a clear path for the development of PIPPA as to how to share data in a manner according to the FAIR principles which are becoming standard in plant research data management best practices. In combination with the support for [MIAPPE](https://www.miappe.org/), these have served as guidelines in the current development, which is focussed on delivering a public BraPI 2.1 endpoint and making more high throughput datasets publicly available via BrAPI.
+As the BrAPI ecosystem has matured, it created a clear path for the development of PIPPA as to how to share data in a manner according to the FAIR principles which are becoming standard in plant research data management best practices. In combination with the support for [MIAPPE](https://www.miappe.org/), these have served as guidelines in the current development, which is focused on delivering a public BraPI 2.1 endpoint and making more high throughput datasets publicly available via BrAPI.
 
 
 #### Trait Selector BrAPP
@@ -873,7 +873,7 @@ Gigwa is a JEE web application providing means to centralize, share, finely filt
 
 Gigwa developers have been involved in the BrAPI community since 2016 and took part in designing the genotype-related part of the API's specifications. Its first BrAPI-compliant features were designed for compatibility with the Flapjack visualization tool [@doi:10.1093/bioinformatics/btq580] and thus primarily turned it into a BrAPI data source. Consequently, over time, Gigwa being the first and most reliable application implementing BrAPI-Genotyping server calls, local collaborators and even external partners used it as a reference solution to design a number of tools taking advantage of those features (e.g., [BeegMac](https://webtools.southgreen.fr/BrAPI/Beegmac/), [SnpClust](https://github.com/jframi/snpclust), [QBMS](https://github.com/icarda-git/QBMS)). But further use-cases also required Gigwa to be able to consume data from other BrAPI servers, which led to also implement API-client features into the system. Thanks to all this work, a close collaboration was progressively established with the Integrated Breeding Platform team developing the widely used Breeding Management System, that ended up in both applications now being frequently deployed together, Gigwa pulling germplasm or sample metadata from BMS, and BMS displaying Gigwa-hosted genotypes within its own UI.
 
-Client BrAPI libraries being available for R, community members typically write ad-hoc scripts syndicating data from multiple BrAPI sources (for instance phenotypes from a data source and genotypes from another) in order to run various kinds of analyses such as GWAS, genomic selection or phylogenetic investigations. As a perspective, we may expect the most generic and widely-used of those pipelines to be at least publicly distributed, and possibly web-interfaced using solutions like R-Shiny in order to provide new, excitingly useful online services, based on Gigwa-hosted data.
+Client BrAPI libraries being available for R, community members typically write adhoc scripts syndicating data from multiple BrAPI sources (for instance phenotypes from a data source and genotypes from another) in order to run various kinds of analyses such as GWAS, genomic selection or phylogenetic investigations. As a perspective, we may expect the most generic and widely-used of those pipelines to be at least publicly distributed, and possibly web-interfaced using solutions like R-Shiny in order to provide new, excitingly useful online services, based on Gigwa-hosted data.
 
 
 #### PHG
@@ -981,7 +981,7 @@ The [Breeding Management System (BMS)](https://bmspro.io), developed by the [Int
 
 The [brapi-sync](https://github.com/IntegratedBreedingPlatform/brapi-sync) tool, a significant component of BMS’s BrAPI capabilities, was developed by the IBP and released as a BrAPP for community use. Brapi-sync is designed to enhance collaboration among partner institutes within a network such as Innovation and Plant Breeding in West Africa ([IAVAO](https://www.iavao.org/en)), by enabling the sharing of germplasm and trials across BrAPI-enabled systems. This tool helps overcome traditional barriers to collaboration, ensuring data that was once isolated within specific programs or platforms can now be easily shared, integrated, and synchronized. 
 
-Additionally, brapi-sync improves data management by utilizing the externalReferences field to maintain links to the origin IDs of each entity it transmits. This not only retains the original context of the data but also establishes a traceability mechanism for accurate data source attribution and verification. Such practices are crucial for maintaining data integrity and fostering trust among collaborative partners, ensuring access to accurate, reliable, and current information.
+Additionally, brapi-sync improves data management by utilizing the External References field to maintain links to the origin IDs of each entity it transmits. This not only retains the original context of the data but also establishes a traceability mechanism for accurate data source attribution and verification. Such practices are crucial for maintaining data integrity and fostering trust among collaborative partners, ensuring access to accurate, reliable, and current information.
 
 
 #### Breedbase
@@ -1010,7 +1010,7 @@ While other tools listed above have the capability to do specialized analytics o
 
 Modern breeding programs can utilize data management systems to maintain both phenotypic and genotypic data. Numerous systems are available for adoption. To fully leverage the benefits of digitalization in this ecosystem, breeders need to utilize data from different sources to make efficient data-driven decisions. With increased computational power at their disposal, scientists can construct more advanced analysis pipelines by combining various data sources.
 
-[QBMS](https://icarda-git.github.io/QBMS) [@doi:10.5281/zenodo.10791627] R package eliminates technical barriers scientists experience when using the BrAPI calls in their analysis scripts and pipelines. This barrier arises from the complexity of managing API backend processes, such as authentication, tokens, TCP/IP protocol, JSON format, pagination, stateless calls, asynchronous communication, database IDs, and more. To bridge this gap, we have developed the QBMS R package. This package abstracts the technical complexities, providing breeders (targetted end users) with stateful action verbs/functions familiar to them when navigating their GUI systems. It enables them to query and extract data into a standard data frame structure, consistent with their use of R language, one of the most common statistical tools in the breeding community.
+[QBMS](https://icarda-git.github.io/QBMS) [@doi:10.5281/zenodo.10791627] R package eliminates technical barriers scientists experience when using the BrAPI calls in their analysis scripts and pipelines. This barrier arises from the complexity of managing API backend processes, such as authentication, tokens, TCP/IP protocol, JSON format, pagination, stateless calls, asynchronous communication, database IDs, and more. To bridge this gap, we have developed the QBMS R package. This package abstracts the technical complexities, providing breeders (targeted end users) with stateful action verbs/functions familiar to them when navigating their GUI systems. It enables them to query and extract data into a standard data frame structure, consistent with their use of R language, one of the most common statistical tools in the breeding community.
 
 Since its release on the official CRAN repository in October 2021, the QBMS R package has garnered over 9400 downloads. Several tools, such as MrBean, rely on the QBMS package as their source data adapter. Moreover, the community has started building extended solutions on top of it. QBMS can serve as a cornerstone in the breeding modernization revolution by providing access to actionable data and enabling the creation of dashboards to reduce the time between harvest and decision-making for the next breeding cycle.
 
@@ -1054,7 +1054,7 @@ BrAPIMapper is a full BrAPI implementation of all calls for any data source miss
 
 Using the "Zendro" set of automatic software program-code generators (zendro-dev.github.io) a fully functional, efficient, and cloud-capable BrAPI data-warehouse has been created for the current version of the BrAPI data models. The resulting data-warehouse has two interfaces, one application programming interface implemented in the form of a GraphQL web-server and another intuitive point and click graphical user interface in the browser. Both provide secure access to data read and write functions for all BrAPI data models. These data administration methods comprise create, read, update, and delete (CRUD) functions that are standardized and accept the same parameters for all data models.
 
-While data write access comprises both persisting single or multiple records, data read access is particularly rich in features and includes access to single records referred to by their id and access to multiple records selected by logical filters. In this, multiple records are paginated using the highly efficient cursor based pagination model as proposed in the GraphQL standard. Logical filters allow for exhaustive search queries, whose structure is highly intuitive and based around logical triplets in which a data model field is validated using an operator and a value, e.g. "Study name equals 'xyz'". In this a large collection of operators is available and triplets can be combined to logical search trees using "and" or "or" operators. Searches can be extended over relationships between data models, thus enabling a user to query the warehouse exactly for the data wanted. 
+While data write access comprises both persisting single or multiple records, data read access is particularly rich in features and includes access to single records referred to by their id and access to multiple records selected by logical filters. In this, multiple records are paginated using the highly efficient cursor based pagination model as proposed in the GraphQL standard. Logical filters allow for exhaustive search queries, whose structure is highly intuitive and based around logical triplets in which a data model field is validated using an operator and a value, e.g. "Study name equals 'my_study'". In this a large collection of operators is available and triplets can be combined to logical search trees using "and" or "or" operators. Searches can be extended over relationships between data models, thus enabling a user to query the warehouse exactly for the data wanted. 
 
 Access security is implemented with the OAuth2 user authentication standard (datatracker.ietf.org/doc/html/rfc6749). Authorization is based on user roles and can be configured differently for each single data model read or write function.
 
@@ -1081,13 +1081,11 @@ As explained, Zendro is a code generator and creates a fully functional data war
 
 ### BrAPI for Breeders and Scientists
 
-The BrAPI technical specification document is meant to be read and used by software developers. However, the purpose of the specification, and the community around it, is to make things faster, easier, and cheaper for the breeders and scientists working to make the world a better place. BrAPI offers a convenient path to automation and data integration for software tools in the breeding domain. All of the example use cases described above can be achieved with manual effort, moving and editing data files by hand. However, when the basic structure and flow of data becomes automated, breeders and scientists can spend less time on data management and more time focussing on the science, doing what they do best. For many, the ultimate goal is the development of a digital ecosystem: a collection of software tools and applications that can all work together seamlessly. In this digital ecosystem, data is collected digitally from the beginning, reducing as much human error as possible. The data is checked by quality control and stored automatically, then can be sent to any internal tool or external lab for further analysis with just the click of a button. This idea might sound too good to be true, but as more tools start sharing a universal data standard, automating data flow becomes easier, and the community gets closer to total interoperability. 
+The BrAPI technical specification document is meant to be read and used by software developers. However, the purpose of the specification, and the community around it, is to make things faster, easier, and cheaper for the breeders and scientists working to make the world a better place. BrAPI offers a convenient path to automation and data integration for software tools in the breeding domain. All of the example use cases described above can be achieved with manual effort, moving and editing data files by hand. However, when the basic structure and flow of data becomes automated, breeders and scientists can spend less time on data management and more time focusing on the science, doing what they do best. For many, the ultimate goal is the development of a digital ecosystem: a collection of software tools and applications that can all work together seamlessly. In this digital ecosystem, data is collected digitally from the beginning, reducing as much human error as possible. The data is checked by quality control and stored automatically, then can be sent to any internal tool or external lab for further analysis with just the click of a button. This idea might sound too good to be true, but as more tools start sharing a universal data standard, automating data flow becomes easier, and the community gets closer to total interoperability. 
 
 ### Looking Ahead
 
 The BrAPI specification will continue to grow, enabling more use cases and new types of data. These new use cases might include newer scientific techniques and technologies. Things like drone imaging data, spectroscopy, LIDAR, metabolomics, transcriptomics, high-throughput phenotyping, and machine learning analysis. All of these technologies can open new avenues for research and development of new crop varieties. All of these technologies also generate more data, and require data sharing between different software applications and data repositories. The BrAPI project leadership and community is committed to building the standards to support these new use cases as they arrive and become accepted by the scientific community. In fact, small groups within the BrAPI community have already start building generic data models and communication standards for many of the technologies listed above. These community efforts will eventually become part of the BrAPI standard in a future version of the specification document. 
-
-
 
 
 ## Conclusions and Impact
