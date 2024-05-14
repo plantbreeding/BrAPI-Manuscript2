@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-05-13'
+date-meta: '2024-05-14'
 author-meta:
 - Peter "BrapMan" Selby
 - Trevor "Cool Kid" Rife
@@ -68,11 +68,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-05-13" />
-  <meta name="citation_publication_date" content="2024-05-13" />
-  <meta property="article:published_time" content="2024-05-13" />
-  <meta name="dc.modified" content="2024-05-13T22:46:16+00:00" />
-  <meta property="article:modified_time" content="2024-05-13T22:46:16+00:00" />
+  <meta name="dc.date" content="2024-05-14" />
+  <meta name="citation_publication_date" content="2024-05-14" />
+  <meta property="article:published_time" content="2024-05-14" />
+  <meta name="dc.modified" content="2024-05-14T20:11:58+00:00" />
+  <meta property="article:modified_time" content="2024-05-14T20:11:58+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -225,9 +225,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/aecf5a079ae3f3359e0eae0feafeb65508760476/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/aecf5a079ae3f3359e0eae0feafeb65508760476/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/aecf5a079ae3f3359e0eae0feafeb65508760476/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8f5687fba41af05123ca129317c6825419506da1/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8f5687fba41af05123ca129317c6825419506da1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8f5687fba41af05123ca129317c6825419506da1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -249,10 +249,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/aecf5a079ae3f3359e0eae0feafeb65508760476/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/8f5687fba41af05123ca129317c6825419506da1/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@aecf5a0](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/aecf5a079ae3f3359e0eae0feafeb65508760476)
-on May 13, 2024.
+from [plantbreeding/BrAPI-Manuscript2@8f5687f](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/8f5687fba41af05123ca129317c6825419506da1)
+on May 14, 2024.
 </em></small>
 
 
@@ -801,7 +801,7 @@ BrAPI has further increased the value of GridScore by integrating it into the ov
 
 #### ClimMob
 
-Not all data can be collected by a single person, or even by a single organization. ClimMob [@doi:10.1016/j.compag.2023.108539] is a tool to easily allow citizen scientists to assist in the data collection process. Although this data may not be as detailed as a focused scientific program, it can be very useful to collect simple data from a wide range of locations and environments.
+ClimMob [@doi:10.1016/j.compag.2023.108539] is a software suite that turns the research paradigm in experimental agriculture. Instead of a few researchers designing complicated trials to compare several agricultural technologies in search of the best solutions for the target environment, ClimMob enables many participants to carry out reasonably simple experiments that taken together can offer even more information. It applies the priciples of citizen science and choice experiments to scale the data collection process, mostly in the format of rankings. Although this data may not be as detailed as from a centralized experiment, it can be very useful to inform decisions to a wide range of locations and environments with increased external validity.
 
 When it comes to BrAPI compatibility, ClimMob follows the same patterns established by Field Book. During a survey, all the farmer collected data is stored in a central ClimMob node. When the survey is complete, all the data is uploaded automatically via BrAPI to a central breeding database for long term storage and analysis. This automated process greatly simplifies the data management requirements for ClimMob, with data ready for analysis almost as soon as its done being collected. 
 
