@@ -1,8 +1,5 @@
-accessability
 Andrzej
-Baz
 Berlinstraße
-BrapMan
 Célia
 DArTdb
 DArTHelp
@@ -12,7 +9,7 @@ Florilège
 FLORILÈGE
 GH
 Gigwa’s
-Grzegorz
+grzegorz
 Hok
 Jülich
 Kilian
@@ -22,7 +19,7 @@ López
 NIRS
 oprational
 priciples
-puthick
+Puthick
 Sempéré
 situ
 Straße

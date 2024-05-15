@@ -9,11 +9,11 @@ keywords:
 lang: en-US
 date-meta: '2024-05-15'
 author-meta:
-- Peter "BrapMan" Selby
-- Trevor "Cool Kid" Rife
+- Peter Selby
+- Trevor Rife
 - Khaled Al-Shamaa
 - Isabelle Alic
-- Sebastian "Baz" Raubach
+- Sebastian Raubach
 - Paul Shaw
 - Iain Milne
 - Cyril Pommier
@@ -23,7 +23,7 @@ author-meta:
 - Terry Casstevens
 - Sook Jung
 - Taein Lee
-- Josh "Big Data" Lamos-Sweeney
+- Josh Lamos-Sweeney
 - Francisco López
 - Marco Marsella
 - Matthias Lange
@@ -74,18 +74,18 @@ header-includes: |
   <meta name="dc.date" content="2024-05-15" />
   <meta name="citation_publication_date" content="2024-05-15" />
   <meta property="article:published_time" content="2024-05-15" />
-  <meta name="dc.modified" content="2024-05-15T16:00:37+00:00" />
-  <meta property="article:modified_time" content="2024-05-15T16:00:37+00:00" />
+  <meta name="dc.modified" content="2024-05-15T16:05:15+00:00" />
+  <meta property="article:modified_time" content="2024-05-15T16:05:15+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="Peter &#34;BrapMan&#34; Selby" />
+  <meta name="citation_author" content="Peter Selby" />
   <meta name="citation_author_institution" content="Cornell University" />
   <meta name="citation_author_orcid" content="0000-0001-7151-4445" />
-  <meta name="citation_author" content="Trevor &#34;Cool Kid&#34; Rife" />
+  <meta name="citation_author" content="Trevor Rife" />
   <meta name="citation_author_institution" content="Clemson University" />
   <meta name="citation_author_orcid" content="0000-0002-5974-6523" />
   <meta name="citation_author" content="Khaled Al-Shamaa" />
@@ -94,7 +94,7 @@ header-includes: |
   <meta name="citation_author" content="Isabelle Alic" />
   <meta name="citation_author_institution" content="INRAE" />
   <meta name="citation_author_orcid" content="0000-0002-8961-6068" />
-  <meta name="citation_author" content="Sebastian &#34;Baz&#34; Raubach" />
+  <meta name="citation_author" content="Sebastian Raubach" />
   <meta name="citation_author_institution" content="The James Hutton Institute" />
   <meta name="citation_author_orcid" content="0000-0001-5659-247X" />
   <meta name="citation_author" content="Paul Shaw" />
@@ -124,7 +124,7 @@ header-includes: |
   <meta name="citation_author" content="Taein Lee" />
   <meta name="citation_author_institution" content="Department of Horticulture, Washington State University" />
   <meta name="citation_author_orcid" content="0000-0002-2000-2586" />
-  <meta name="citation_author" content="Josh &#34;Big Data&#34; Lamos-Sweeney" />
+  <meta name="citation_author" content="Josh Lamos-Sweeney" />
   <meta name="citation_author_institution" content="Cornell University" />
   <meta name="citation_author" content="Francisco López" />
   <meta name="citation_author_institution" content="International Treaty on Plant Genetic Resources for Food and Agriculture, FAO" />
@@ -234,9 +234,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cc0b6ccdccb11731fee8a3792331adc6fd200323/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cc0b6ccdccb11731fee8a3792331adc6fd200323/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cc0b6ccdccb11731fee8a3792331adc6fd200323/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/2af458a098c88054eb565e6c06399ed43b7cc752/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/2af458a098c88054eb565e6c06399ed43b7cc752/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/2af458a098c88054eb565e6c06399ed43b7cc752/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -258,9 +258,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/cc0b6ccdccb11731fee8a3792331adc6fd200323/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/2af458a098c88054eb565e6c06399ed43b7cc752/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@cc0b6cc](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/cc0b6ccdccb11731fee8a3792331adc6fd200323)
+from [plantbreeding/BrAPI-Manuscript2@2af458a](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/2af458a098c88054eb565e6c06399ed43b7cc752)
 on May 15, 2024.
 </em></small>
 
@@ -270,7 +270,7 @@ on May 15, 2024.
 
 
 
-+ **Peter "BrapMan" Selby**
++ **Peter Selby**
   ^[✉](#correspondence)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0001-7151-4445](https://orcid.org/0000-0001-7151-4445)
@@ -282,7 +282,7 @@ on May 15, 2024.
      · Funded by NIFA-DSFAS 2022-67021-37024
   </small>
 
-+ **Trevor "Cool Kid" Rife**
++ **Trevor Rife**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-5974-6523](https://orcid.org/0000-0002-5974-6523)
@@ -316,7 +316,7 @@ on May 15, 2024.
      · Funded by {'Short version': 'This work was supported by the project Phenome-ANR-11-INBS-0012'}; {'OR Long version': "This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)"}
   </small>
 
-+ **Sebastian "Baz" Raubach**
++ **Sebastian Raubach**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0001-5659-247X](https://orcid.org/0000-0001-5659-247X)
@@ -423,7 +423,7 @@ on May 15, 2024.
      Department of Horticulture, Washington State University
   </small>
 
-+ **Josh "Big Data" Lamos-Sweeney**
++ **Josh Lamos-Sweeney**
   <br>
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [jlamossweeney](https://github.com/jlamossweeney)
@@ -704,7 +704,7 @@ on May 15, 2024.
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-7759-1617](https://orcid.org/0000-0002-7759-1617)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [mflores2021](https://github.com/mflores2021)
+    [mflores202](https://github.com/mflores202)
     <br>
   <small>
      Boyce Thompson Institute
@@ -738,7 +738,7 @@ on May 15, 2024.
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/plantbreeding/BrAPI-Manuscript2/issues)
 or email to
-Peter "BrapMan" Selby \<ps664@cornell.edu\>.
+Peter Selby \<ps664@cornell.edu\>.
 
 
 :::
@@ -797,9 +797,7 @@ The international BrAPI Community consists of software developers, breeders, and
 
 The BrAPI Hackathons are a major staple of the BrAPI community. Twice a year, the community gathers to discuss the specification and collaborate on BrAPI related projects. This time is very valuable to the community; for some organizations, the hackathon is the only time during the year when they have time to work on anything related to BrAPI. During the COVID-19 pandemic, virtual hackathons took the place of in person events. While the virtual hackathons do not provide the same level of face-to-face time that is crucial to collaborative work, they did allow for more attendees to gather and share their opinions. The typical virtual hackathon has about twice as many registered attendees compared to an in-person hackathon. However, attendees have reported much more productive work time during the in-person events. As a compromise, going forward, the community leadership has decided to have one in-person hackathon and one virtual hackathon each year, to balance the advantages of both. 
 
-As the project has matured, a formal project leadership structure became increasingly important. As described in Figure {@fig:org-chart}, the project governance is divided into two groups. The Project Management team is responsible for the day to day operations of the project. The PI and Co-PI are responsible for the project funds, and responsible for hiring the BrAPI Project Coordinator who is paid by the project funds. The Advisory Board is a group of elected officials representing the community. The board is responsible for long term planning of the project, as well as quick decision making on behalf of the community. The two groups meet quarterly to report on progress and stay synchronized. 
-
-![The formal governance structure of the BrAPI Project Community](images/BrAPI_org_structure.jpg){#fig:org-chart width="100%"}
+As the project has matured, a formal project leadership structure became increasingly important. The project governance is divided into two groups. The Project Management team is responsible for the day to day operations of the project. The PI and Co-PI are responsible for the project funds, and responsible for hiring the BrAPI Project Coordinator who is paid by the project funds. The Advisory Board is a group of elected officials representing the community. The board is responsible for long term planning of the project, as well as quick decision making on behalf of the community. The two groups meet quarterly to report on progress and stay synchronized. 
 
 
 ## Success Stories
@@ -923,6 +921,16 @@ Community members typically write adhoc scripts federating data from multiple Br
 The Practical Haplotype Graph (PHG) is a graph-based computational framework that represents large-scale genetic variation and is optimized for plant breeding and genetics. Using a pangenome approach, each PHG stores haplotypes (the sequence of part of an individual chromosome) to represent the collected genes of a species.  This allows for a simplified approach for dealing with large scale variation in plant genomes. The PHG pipeline provides support for a range of genomic analyses and allows for the use of graph data to impute complete genomes from low density sequence or variant data.
 
 Users access the crop databases either with direct calls to the PHG embedded server or indirectly using the rPHG library from an R environment. The PHG server accepts BrAPI queries to return information on sample lists and the variants used to define the graph's haplotypes. In addition, PHG users utilize the BrAPI Variant Sets endpoint query to return links to VCF files containing haplotype data. Work on the PHG is ongoing and it is expected to support additional BrAPI endpoints that allow for fine tuned slicing genotypic data in the near future.
+
+
+#### DArT Sample Submission
+
+<!-- Grzegorz Uszynski and Puthick Hok - Diversity Arrays Technology DArT -->
+The DArT genotyping lab is heavily used world wide when it comes to plant genotyping. With over 1200 available organisms and species, client base on every continent and already many million samples processed, DArT provides services for several generic and bespoke genotyping technologies and solutions. Processes of sample tracking and fast data delivery are at the core of the ordering system developed at DArT. Whole system is tightly integrated with DArTdb - DArT's custom LIMS oprational system, which is driving laboratory, quality and analytical processes.
+
+Diversity Arrays Technology was a part of BrAPI community since its inception. DArT developers have worked with the BrAPI community contributing to various aspects of the API specification. One of them was establishing a standard API for sending sample metadata to the lab for genotyping. This solution eliminates much of the human error involved with sending samples to en external lab and also allows for an automated process of the samples batch transfers. Beyond sample submission, current implementation allows for an order status verification, automated data discovery and downloads. Data are delivered as standard data packages with self-describing metadata.
+
+Current BrAPI implementation at DArt has a production status and it is compatible with the newest BrAPI specification. Further details about DArT's ordering system can be found at [DArTOrderingSystem](https://ordering.diversityarrays.com) and also at [DArTHelp](https://help.diversityarrays.com/docs/ordering)
 
 
 ### Germplasm Management
@@ -1089,7 +1097,7 @@ Adopting BrAPI compatibility into an existing system can be difficult sometimes.
 #### MIAPPE ISA to BrAPI service
 
 <!-- Manuel -->
-Phenotyping is crucial in the breeding process as it enables the identification of desirable traits, selection of breeding lines, and evaluation of breeding success. In the plant community, MIAPPE (Minimal Information About a Plant Phenotyping Experiment) [@doi:10.1111/nph.16544] is an established standard for phenotyping experiments. It is commonly serialized as a ISA Tab file type. [@doi:10.1038/ng.1054] Although ISA Tab is easy to read for non-technical experts due to its file-based approach, it lacks programmatic accessability, particularly for web applications. BrAPI, which is aligned with MIAPPE, can help solve this problem.
+Phenotyping is crucial in the breeding process as it enables the identification of desirable traits, selection of breeding lines, and evaluation of breeding success. In the plant community, MIAPPE (Minimal Information About a Plant Phenotyping Experiment) [@doi:10.1111/nph.16544] is an established standard for phenotyping experiments. It is commonly serialized as a ISA Tab file type. [@doi:10.1038/ng.1054] Although ISA Tab is easy to read for non-technical experts due to its file-based approach, it lacks programmatic accessibility, particularly for web applications. BrAPI, which is aligned with MIAPPE, can help solve this problem.
 
 MIRA is a tool that enables the automatic deployment of a BrAPI server on a MIAPPE-compliant dataset in ISA Tab format. It can be deployed from a Docker image with the dataset mounted. By utilizing the mapping between MIAPPE, ISA, and BrAPI, there is no need for parsing or manual mapping of datasets that are already compliant with (meta-)data standards. By gaining programmatic access through BrAPI to these datasets, it facilitates the integration of phenotyping datasets into web applications.
 
@@ -1116,16 +1124,6 @@ The GraphQL server is particularly rich in features. Records are paginated using
 <!-- Asis Hallab: To Do: (i) provide the link to an example running data warehouse, and (ii) include and describe example scientific plots. -->
 
 The Zendro data-warehouse is capable of forming an efficient cloud of data servers. This is achieved simply by linking (URLs) other Zendro based warehouses that expose the same GraphQL API to the same data models, or a subset of data models. Any network of such Zendro GraphQL servers can be set up using this configuration approach. The code generated then exposes full access to all data records stored on any node of the network, while maintaining full security control at each node. Importantly, the warehouses are programmed in such a way that any number of data servers can be joined without loss of efficiency. Only the network connection speed and size of requested record sets influence the performance.
-
-
-#### DArT Sample Submission
-
-<!-- Grzegorz Uszynski and Puthick Hok - Diversity Arrays Technology DArT -->
-The DArT genotyping lab is heavily used world wide when it comes to plant genotyping. With over 1200 available organisms and species, client base on every continent and already many million samples processed, DArT provides services for several generic and bespoke genotyping technologies and solutions. Processes of sample tracking and fast data delivery are at the core of the ordering system developed at DArT. Whole system is tightly integrated with DArTdb - DArT's custom LIMS oprational system, which is driving laboratory, quality and analytical processes.
-
-Diversity Arrays Technology was a part of BrAPI community since its inception. DArT developers have worked with the BrAPI community contributing to various aspects of the API specification. One of them was establishing a standard API for sending sample metadata to the lab for genotyping. This solution eliminates much of the human error involved with sending samples to en external lab and also allows for an automated process of the samples batch transfers. Beyond sample submission, current implementation allows for an order status verification, automated data discovery and downloads. Data are delivered as standard data packages with self-describing metadata.
-
-Current BrAPI implementation at DArt has a production status and it is compatible with the newest BrAPI specification. Further details about DArT's ordering system can be found at [DArTOrderingSystem](https://ordering.diversityarrays.com) and also at [DArTHelp](https://help.diversityarrays.com/docs/ordering)
 
 
 ## Discussion
