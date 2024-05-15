@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-05-14'
+date-meta: '2024-05-15'
 author-meta:
 - Peter "BrapMan" Selby
 - Trevor "Cool Kid" Rife
@@ -57,6 +57,9 @@ author-meta:
 - Laszlo Lang
 - Vivian Bass Vega
 - Mirella Flores-Gonzalez
+- Grzegorz Uszynski
+- Puthick Hok
+- Andrzej Kilian
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -68,11 +71,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-05-14" />
-  <meta name="citation_publication_date" content="2024-05-14" />
-  <meta property="article:published_time" content="2024-05-14" />
-  <meta name="dc.modified" content="2024-05-14T21:20:06+00:00" />
-  <meta property="article:modified_time" content="2024-05-14T21:20:06+00:00" />
+  <meta name="dc.date" content="2024-05-15" />
+  <meta name="citation_publication_date" content="2024-05-15" />
+  <meta property="article:published_time" content="2024-05-15" />
+  <meta name="dc.modified" content="2024-05-15T15:58:26+00:00" />
+  <meta property="article:modified_time" content="2024-05-15T15:58:26+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -219,15 +222,21 @@ header-includes: |
   <meta name="citation_author" content="Mirella Flores-Gonzalez" />
   <meta name="citation_author_institution" content="Boyce Thompson Institute" />
   <meta name="citation_author_orcid" content="0000-0002-7759-1617" />
+  <meta name="citation_author" content="Grzegorz Uszynski" />
+  <meta name="citation_author_institution" content="Diversity Arrays Technology (DArT)" />
+  <meta name="citation_author" content="Puthick Hok" />
+  <meta name="citation_author_institution" content="Diversity Arrays Technology (DArT)" />
+  <meta name="citation_author" content="Andrzej Kilian" />
+  <meta name="citation_author_institution" content="Diversity Arrays Technology (DArT)" />
   <link rel="canonical" href="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="og:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="twitter:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/367c09627ffb9e2851c68ce3cdb096678690de27/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/367c09627ffb9e2851c68ce3cdb096678690de27/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/367c09627ffb9e2851c68ce3cdb096678690de27/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/04aae25c6754ed697fd4f80363fae94b46e9d8b6/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/04aae25c6754ed697fd4f80363fae94b46e9d8b6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/04aae25c6754ed697fd4f80363fae94b46e9d8b6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -249,10 +258,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/367c09627ffb9e2851c68ce3cdb096678690de27/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/04aae25c6754ed697fd4f80363fae94b46e9d8b6/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@367c096](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/367c09627ffb9e2851c68ce3cdb096678690de27)
-on May 14, 2024.
+from [plantbreeding/BrAPI-Manuscript2@04aae25](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/04aae25c6754ed697fd4f80363fae94b46e9d8b6)
+on May 15, 2024.
 </em></small>
 
 
@@ -699,6 +708,30 @@ on May 14, 2024.
     <br>
   <small>
      Boyce Thompson Institute
+  </small>
+
++ **Grzegorz Uszynski**
+  <br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [grzegorz69](https://github.com/grzegorz69)
+    <br>
+  <small>
+     Diversity Arrays Technology (DArT)
+  </small>
+
++ **Puthick Hok**
+  <br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [puthick](https://github.com/puthick)
+    <br>
+  <small>
+     Diversity Arrays Technology (DArT)
+  </small>
+
++ **Andrzej Kilian**
+  <br>
+  <small>
+     Diversity Arrays Technology (DArT)
   </small>
 
 
