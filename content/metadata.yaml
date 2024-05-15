@@ -9,7 +9,7 @@ keywords:
   - community
 lang: en-US
 authors:
-  - name: Peter "BrapMan" Selby
+  - name: Peter Selby
     initials: PS
     github: BrapiCoordinatorSelby
     orcid: 0000-0001-7151-4445
@@ -19,14 +19,13 @@ authors:
     funders:
       - NIFA-DSFAS 2022-67021-37024
     corresponding: true
-  - name: Trevor "Cool Kid" Rife
+  - name: Trevor Rife
     initials: TR
     github: trife
     orcid: 0000-0002-5974-6523
     email: twrife@clemson.edu
     affiliations:
       - Clemson University
-    corresponding: false
   - name: Khaled Al-Shamaa
     initials: KS
     github: khaled-alshamaa
@@ -34,7 +33,6 @@ authors:
     email: k.el-shamaa@cgiar.org
     affiliations:
       - ICARDA
-    corresponding: false
   - name: Isabelle Alic
     initials: IA
     github: Isabelle-inrae
@@ -45,15 +43,13 @@ authors:
     funders: 
       - Short version : This work was supported by the project Phenome-ANR-11-INBS-0012
       - OR Long version : This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
-    corresponding: false
-  - name: Sebastian "Baz" Raubach
+  - name: Sebastian Raubach
     initials: SR
     github: sebastian-raubach
     orcid: 0000-0001-5659-247X
     email: sebastian.raubach@hutton.ac.uk
     affiliations:
       - The James Hutton Institute
-    corresponding: false
   - name: Paul Shaw
     initials: PDS
     github: cardinalb
@@ -61,7 +57,6 @@ authors:
     email: paul.shaw@hutton.ac.uk
     affiliations:
       - The James Hutton Institute
-    corresponding: false
   - name: Iain Milne
     initials: IM
     github: imilne
@@ -69,7 +64,6 @@ authors:
     email: iain.milne@hutton.ac.uk
     affiliations:
       - The James Hutton Institute
-    corresponding: false
   - name: Cyril Pommier
     initials: CP
     github: cpommier
@@ -81,7 +75,6 @@ authors:
     funders: 
       - Short version : This work was supported by the project Phenome-ANR-11-INBS-0012
       - OR Long version : This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
-    corresponding: false
   - name: Becky Smith
     initials: BS
     github: Batbaby91
@@ -89,14 +82,12 @@ authors:
     email: becky.smith@hutton.ac.uk
     affiliations:
       - The James Hutton Institute
-    corresponding: false
   - name: Chaney Courtney
     github: chaneylc
     initials: CC
     email: ccourtn@clemson.edu
     affiliations:
       - Clemson University
-    corresponding: false
   - name: Zachary Miller
     initials: ZM
     email: zrm22@cornell.edu
@@ -104,7 +95,6 @@ authors:
     orcid: 0000-0002-5454-4527
     affiliations:
       - Cornell University
-    corresponding: false
   - name: Terry Casstevens
     initials: TC
     email: tmc46@cornell.edu
@@ -112,14 +102,12 @@ authors:
     orcid: 0000-0001-7602-0487
     affiliations: 
       - Cornell University
-    corresponding: false
   - name: Sook Jung
     initials: SJ
     email: sook_jung@wsu.edu
     orcid: 0000-0003-3968-2769
     affiliations: 
       - Department of Horticulture, Washington State University
-    corresponding: false
   - name: Taein Lee
     initials: TL
     email: taein_lee@hotmail.com
@@ -127,8 +115,7 @@ authors:
     orcid: 0000-0002-2000-2586
     affiliations: 
       - Department of Horticulture, Washington State University
-    corresponding: false
-  - name: Josh "Big Data" Lamos-Sweeney
+  - name: Josh Lamos-Sweeney
     initials: JDLS
     github: jlamossweeney
     email: jdl232@cornell.edu
@@ -139,14 +126,12 @@ authors:
     email: francisco.lopez@fao.org
     affiliations:
       - International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
-    corresponding: false
   - name: Marco Marsella
     initials: MM
     email: marco.marsella@fao.org
     orcid: 0000-0003-0334-8785
     affiliations:
       - International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
-    corresponding: false
   - name: Matthias Lange
     initials: ML
     github: langeipk
@@ -154,7 +139,6 @@ authors:
     email: lange@ipk-gatersleben.de
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
-    corresponding: false
   - name: Guilhem Sempéré
     initials: GS
     github: GuilhemSempere
@@ -174,7 +158,6 @@ authors:
     initials: PK
     orcid: 0000-0002-8948-6793
     github: patrick-koenig
-    corresponding: false
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
   - name: Manuel Feser
@@ -256,7 +239,6 @@ authors:
     email: bert.droesbeke@vib.be
     affiliations:
       - VIB Data Core
-    corresponding: false
   - name: Jan Erik Backlund
     initials: JEB
     email: j.backlund@integratedbreeding.net
@@ -298,7 +280,6 @@ authors:
     affiliations:
       - 'Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszentrum Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany'
       - Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany
-    corresponding: false
   - name: Valentin Guignon
     initials: VG
     github: guignonv
@@ -306,7 +287,6 @@ authors:
     email: v.guignon@cgiar.org
     affiliations:
       - Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France
-    corresponding: false
   - name: Mathieu Rouard
     initials: MR
     github: mrouard
@@ -314,7 +294,6 @@ authors:
     email: m.rouard@cgiar.org
     affiliations:
       - Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France
-    corresponding: false
   - name: Asis Hallab
     initials: AH
     github: https://github.com/asishallab
@@ -322,7 +301,6 @@ authors:
     email: a.hallab@fz-juelich.de
     affiliations:
       - Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany
-    corresponding: false
   - name: Rafael Abbeloos
     initials: RA
     github: raabb
@@ -330,7 +308,6 @@ authors:
     email: rafael.abbeloos@vib.be
     affiliations:
       - VIB Agro-Incubator
-    corresponding: false
   - name: Laszlo Lang
     initials: LL
     github: LzLang
@@ -338,7 +315,6 @@ authors:
     email: laszlo.lang@stud.th-bingen.de
     affiliations:
       - Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
-    corresponding: false
   - name: Vivian Bass Vega
     initials: VBV
     github: VivianBass
@@ -346,10 +322,9 @@ authors:
     email: vivbass4@gmail.com
     affiliations:
       - Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
-    corresponding: false
   - name: Mirella Flores-Gonzalez
     initials: MFG
-    github: mflores2021
+    github: mflores202
     orcid: 0000-0002-7759-1617
     email: mrf252@cornell.edu
     affiliations:
