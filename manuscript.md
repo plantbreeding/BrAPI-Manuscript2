@@ -74,8 +74,8 @@ header-includes: |
   <meta name="dc.date" content="2024-05-15" />
   <meta name="citation_publication_date" content="2024-05-15" />
   <meta property="article:published_time" content="2024-05-15" />
-  <meta name="dc.modified" content="2024-05-15T15:58:26+00:00" />
-  <meta property="article:modified_time" content="2024-05-15T15:58:26+00:00" />
+  <meta name="dc.modified" content="2024-05-15T16:00:37+00:00" />
+  <meta property="article:modified_time" content="2024-05-15T16:00:37+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -234,9 +234,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/04aae25c6754ed697fd4f80363fae94b46e9d8b6/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/04aae25c6754ed697fd4f80363fae94b46e9d8b6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/04aae25c6754ed697fd4f80363fae94b46e9d8b6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cc0b6ccdccb11731fee8a3792331adc6fd200323/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cc0b6ccdccb11731fee8a3792331adc6fd200323/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cc0b6ccdccb11731fee8a3792331adc6fd200323/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -258,9 +258,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/04aae25c6754ed697fd4f80363fae94b46e9d8b6/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/cc0b6ccdccb11731fee8a3792331adc6fd200323/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@04aae25](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/04aae25c6754ed697fd4f80363fae94b46e9d8b6)
+from [plantbreeding/BrAPI-Manuscript2@cc0b6cc](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/cc0b6ccdccb11731fee8a3792331adc6fd200323)
 on May 15, 2024.
 </em></small>
 
@@ -1116,6 +1116,16 @@ The GraphQL server is particularly rich in features. Records are paginated using
 <!-- Asis Hallab: To Do: (i) provide the link to an example running data warehouse, and (ii) include and describe example scientific plots. -->
 
 The Zendro data-warehouse is capable of forming an efficient cloud of data servers. This is achieved simply by linking (URLs) other Zendro based warehouses that expose the same GraphQL API to the same data models, or a subset of data models. Any network of such Zendro GraphQL servers can be set up using this configuration approach. The code generated then exposes full access to all data records stored on any node of the network, while maintaining full security control at each node. Importantly, the warehouses are programmed in such a way that any number of data servers can be joined without loss of efficiency. Only the network connection speed and size of requested record sets influence the performance.
+
+
+#### DArT Sample Submission
+
+<!-- Grzegorz Uszynski and Puthick Hok - Diversity Arrays Technology DArT -->
+The DArT genotyping lab is heavily used world wide when it comes to plant genotyping. With over 1200 available organisms and species, client base on every continent and already many million samples processed, DArT provides services for several generic and bespoke genotyping technologies and solutions. Processes of sample tracking and fast data delivery are at the core of the ordering system developed at DArT. Whole system is tightly integrated with DArTdb - DArT's custom LIMS oprational system, which is driving laboratory, quality and analytical processes.
+
+Diversity Arrays Technology was a part of BrAPI community since its inception. DArT developers have worked with the BrAPI community contributing to various aspects of the API specification. One of them was establishing a standard API for sending sample metadata to the lab for genotyping. This solution eliminates much of the human error involved with sending samples to en external lab and also allows for an automated process of the samples batch transfers. Beyond sample submission, current implementation allows for an order status verification, automated data discovery and downloads. Data are delivered as standard data packages with self-describing metadata.
+
+Current BrAPI implementation at DArt has a production status and it is compatible with the newest BrAPI specification. Further details about DArT's ordering system can be found at [DArTOrderingSystem](https://ordering.diversityarrays.com) and also at [DArTHelp](https://help.diversityarrays.com/docs/ordering)
 
 
 ## Discussion
