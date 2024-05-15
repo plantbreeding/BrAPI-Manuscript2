@@ -355,3 +355,23 @@ authors:
     affiliations:
       - Boyce Thompson Institute
     corresponding: false
+  - name: Grzegorz Uszynski
+    github: grzegorz69
+    email: grzegorz@diversityarrays.com
+    initials: GU
+    affiliations:
+      - Diversity Arrays Technology (DArT)
+    corresponding: false
+  - name: Puthick Hok
+    github: puthick
+    email: puthick@diversityarrays.com
+    initials: PH
+    affiliations:
+      - Diversity Arrays Technology (DArT)
+    corresponding: false
+  - name: Andrzej Kilian
+    email: zej@diversityarrays.com
+    initials: AK
+    affiliations:
+      - Diversity Arrays Technology (DArT)
+    corresponding: false
