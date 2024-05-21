@@ -1,6 +1,7 @@
 Andrzej
 Berlinstraße
 Célia
+collectection
 DArTdb
 DArTHelp
 DArTOrderingSystem
@@ -19,7 +20,7 @@ López
 NIRS
 oprational
 priciples
-Puthick
+puthick
 Sempéré
 situ
 Straße
