@@ -1,5 +1,4 @@
-content/03.01.03.ClimMob.md:3:priciples
-content/03.01.03.ClimMob.md:5:collectection
+content/02.introduction.md:26:APIs
 content/03.02.04.GIGWA.md:4:EE
 content/03.02.04.GIGWA.md:6:Gigwa's
 content/03.02.06.DArT.md:3:Grzegorz
@@ -8,9 +7,6 @@ content/03.02.06.DArT.md:3:Puthick
 content/03.02.06.DArT.md:3:Uszynski
 content/03.02.06.DArT.md:4:DArTdb
 content/03.02.06.DArT.md:4:LIMS
-content/03.02.06.DArT.md:4:oprational
-content/03.02.06.DArT.md:8:DArTHelp
-content/03.02.06.DArT.md:8:DArTOrderingSystem
 content/03.03.01.MGIS.md:4:Florilège
 content/03.03.01.MGIS.md:4:Florilège
 content/03.03.02.AGENT_Portal.md:2:König
@@ -24,7 +20,5 @@ content/03.03.05.FLORILEGE.md:5:Florilège
 content/03.03.05.FLORILEGE.md:5:Florilège
 content/03.03.05.FLORILEGE.md:5:Florilège
 content/03.03.05.FLORILEGE.md:5:Florilège
-content/03.03.05.FLORILEGE.md:5:Florilège
-content/03.03.05.FLORILEGE.md:5:Florilège
-content/03.03.05.FLORILEGE.md:5:xnttbrapi
 content/03.04.03.Breedbase.md:4:NIRS
+content/03.04.03.Breedbase.md:6:webpage
