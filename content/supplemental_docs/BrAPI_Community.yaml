@@ -1,0 +1,342 @@
+community:
+  - name: Peter Selby
+    initials: PS
+    github: BrapiCoordinatorSelby
+    orcid: 0000-0001-7151-4445
+    email: ps664@cornell.edu
+    affiliations:
+      - Cornell University
+    funders:
+      - NIFA-DSFAS 2022-67021-37024
+    corresponding: true
+  - name: Trevor Rife
+    initials: TR
+    github: trife
+    orcid: 0000-0002-5974-6523
+    email: twrife@clemson.edu
+    affiliations:
+      - Clemson University
+  - name: Khaled Al-Shamaa
+    initials: KS
+    github: khaled-alshamaa
+    orcid: 0000-0002-7668-3798
+    email: k.el-shamaa@cgiar.org
+    affiliations:
+      - ICARDA
+  - name: Isabelle Alic
+    initials: IA
+    github: Isabelle-inrae
+    orcid: 0000-0002-8961-6068
+    email: isabelle.alic@inrae.fr
+    affiliations:
+      - INRAE
+    funders: 
+      - Short version : This work was supported by the project Phenome-ANR-11-INBS-0012
+      - OR Long version : This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
+  - name: Sebastian Raubach
+    initials: SR
+    github: sebastian-raubach
+    orcid: 0000-0001-5659-247X
+    email: sebastian.raubach@hutton.ac.uk
+    affiliations:
+      - The James Hutton Institute
+  - name: Paul Shaw
+    initials: PDS
+    github: cardinalb
+    orcid: 0000-0002-0202-1150
+    email: paul.shaw@hutton.ac.uk
+    affiliations:
+      - The James Hutton Institute
+  - name: Iain Milne
+    initials: IM
+    github: imilne
+    orcid: 0000-0002-4126-0859
+    email: iain.milne@hutton.ac.uk
+    affiliations:
+      - The James Hutton Institute
+  - name: Cyril Pommier
+    initials: CP
+    github: cpommier
+    orcid: 0000-0002-9040-8733
+    email: cyril.pommier@inrae.fr
+    affiliations:
+      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+    funders: 
+      - Short version : This work was supported by the project Phenome-ANR-11-INBS-0012
+      - OR Long version : This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
+  - name: Becky Smith
+    initials: BS
+    github: Batbaby91
+    orcid: 0000-0002-8968-3383
+    email: becky.smith@hutton.ac.uk
+    affiliations:
+      - The James Hutton Institute
+  - name: Chaney Courtney
+    github: chaneylc
+    initials: CC
+    email: ccourtn@clemson.edu
+    affiliations:
+      - Clemson University
+  - name: Zachary Miller
+    initials: ZM
+    email: zrm22@cornell.edu
+    github: zrm22
+    orcid: 0000-0002-5454-4527
+    affiliations:
+      - Cornell University
+  - name: Terry Casstevens
+    initials: TC
+    email: tmc46@cornell.edu
+    github: tcasstevens
+    orcid: 0000-0001-7602-0487
+    affiliations: 
+      - Cornell University
+  - name: Sook Jung
+    initials: SJ
+    email: sook_jung@wsu.edu
+    orcid: 0000-0003-3968-2769
+    affiliations: 
+      - Department of Horticulture, Washington State University
+  - name: Taein Lee
+    initials: TL
+    email: taein_lee@hotmail.com
+    github: leetaei
+    orcid: 0000-0002-2000-2586
+    affiliations: 
+      - Department of Horticulture, Washington State University
+  - name: Josh Lamos-Sweeney
+    initials: JDLS
+    github: jlamossweeney
+    email: jdl232@cornell.edu
+    affiliations:
+      - Cornell University
+  - name: Francisco López
+    initials: FL
+    email: francisco.lopez@fao.org
+    affiliations:
+      - International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
+  - name: Marco Marsella
+    initials: MM
+    email: marco.marsella@fao.org
+    orcid: 0000-0003-0334-8785
+    affiliations:
+      - International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
+  - name: Matthias Lange
+    initials: ML
+    github: langeipk
+    orcid: 0000-0002-4316-078X
+    email: lange@ipk-gatersleben.de
+    affiliations:
+      - Leibniz Institute of Plant Genetics and Crop Plant Research
+  - name: Guilhem Sempéré
+    initials: GS
+    github: GuilhemSempere
+    orcid: 0000-0001-7429-2091
+    email: guilhem.sempere@cirad.fr
+    affiliations:
+      - CIRAD (french agricultural research and international cooperation organization)
+      - South Green Platform
+  - name: Stephan Weise
+    email: weise@ipk-gatersleben.de
+    initials: SW
+    orcid: 0000-0003-4031-9131
+    affiliations:
+      - Leibniz Institute of Plant Genetics and Crop Plant Research
+  - name: Patrick König
+    email: koenig@ipk-gatersleben.de
+    initials: PK
+    orcid: 0000-0002-8948-6793
+    github: patrick-koenig
+    affiliations:
+      - Leibniz Institute of Plant Genetics and Crop Plant Research
+  - name: Manuel Feser
+    github: feserm
+    orcid: 0000-0001-6546-1818
+    email: feser@ipk-gatersleben.de
+    initials: MF
+    affiliations:
+      - Leibniz Institute of Plant Genetics and Crop Plant Research
+      - Graduate School DILS, Bielefeld Institute for Bioinformatics Infrastructure (BIBI)
+  - name: Gouripriya Davuluri
+    email: davuluri@ipk-gatersleben.de
+    initials: GD
+    affiliations:
+      - Leibniz Institute of Plant Genetics and Crop Plant Research
+  - name: Paul Kersey
+    email: P.Kersey@kew.org
+    initials: PK
+    affiliations:
+      - Royal Botanic Gardens, Kew
+  - name: Erwan Le-Floch
+    email: erwan.le-floch@inrae.fr
+    initials: ELF
+    affiliations:
+      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+  - name: Joseph Ruff
+    email: J.Ruff@kew.org
+    initials: JR
+    affiliations:
+      - Royal Botanic Gardens, Kew
+  - name: Michael Alaux
+    email: michael.alaux@inrae.fr
+    initials: MA
+    orcid: 0000-0001-9356-4072
+    affiliations:
+      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+  - name: Célia Michotey
+    email: celia.michotey@inrae.fr
+    initials: CM
+    orcid: 0000-0003-1877-1703
+    affiliations:
+      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+  - name: Anne-Francoise Adam-Blondon
+    email: anne-francoise.adam-blondon@inrae.fr
+    initials: AFAB
+    orcid: 0000-0002-3412-9086
+    affiliations:
+      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, Versailles, France   
+  - name: Jeremy Destin
+    email: jeremy.destin@inrae.fr
+    initials: JD
+    affiliations:
+      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+  - name: Maud Marty
+    email: maud.marty@inrae.fr
+    initials: MM
+    affiliations:
+      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+  - name: Suman Kumar
+    email: kumar@ipk-gatersleben.de
+    initials: SK
+    affiliations:
+      - Leibniz Institute of Plant Genetics and Crop Plant Research
+  - name: Matthijs Brouwer
+    email: matthijs.brouwer@wur.nl
+    initials: MB
+    affiliations:
+      - Wageningen University and Research
+  - name: Bert Droesbeke
+    initials: BD
+    github: bedroesb
+    orcid: 0000-0003-0522-5674
+    email: bert.droesbeke@vib.be
+    affiliations:
+      - VIB Data Core
+  - name: Jan Erik Backlund
+    initials: JEB
+    email: j.backlund@integratedbreeding.net
+    affiliations:
+      - Integrated Breeding Platform
+  - name: Aldrin Batac
+    initials: AB
+    email: aldrin.batac@leafnode.io
+    affiliations:
+      - Integrated Breeding Platform
+      - Leafnode LLC
+  - name: Mariano Crimi
+    initials: MC
+    email: m.crimi@integratedbreeding.net
+    affiliations:
+      - Integrated Breeding Platform
+  - name: Corina Habito
+    initials: CH
+    email: c.habito@integratedbreeding.net
+    affiliations:
+      - Integrated Breeding Platform
+  - name: Nahuel Soldevilla
+    initials: NS
+    email: n.soldevilla@integratedbreeding.net
+    affiliations:
+      - Integrated Breeding Platform
+      - Leafnode LLC
+  - name: Clarysabel Tovar
+    initials: CT
+    email: 
+    affiliations:
+      - Integrated Breeding Platform
+      - Leafnode LLC
+  - name: Sebastian Beier
+    initials: SB
+    github: sebeier
+    orcid: 0000-0002-2177-8781
+    email: s.beier@fz-juelich.de
+    affiliations:
+      - 'Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszentrum Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany'
+      - Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany
+  - name: Valentin Guignon
+    initials: VG
+    github: guignonv
+    orcid: 0000-0003-0903-6811
+    email: v.guignon@cgiar.org
+    affiliations:
+      - Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France
+  - name: Mathieu Rouard
+    initials: MR
+    github: mrouard
+    orcid: 0000-0003-0284-1885
+    email: m.rouard@cgiar.org
+    affiliations:
+      - Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France
+  - name: Asis Hallab
+    initials: AH
+    github: https://github.com/asishallab
+    orcid: 0000-0002-2421-5431
+    email: a.hallab@fz-juelich.de
+    affiliations:
+      - Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany
+  - name: Rafael Abbeloos
+    initials: RA
+    github: raabb
+    orcid: 0000-0002-0177-3887
+    email: rafael.abbeloos@vib.be
+    affiliations:
+      - VIB Agro-Incubator
+  - name: Laszlo Lang
+    initials: LL
+    github: LzLang
+    orcid: 0009-0009-8936-4532
+    email: laszlo.lang@stud.th-bingen.de
+    affiliations:
+      - Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
+  - name: Vivian Bass Vega
+    initials: VBV
+    github: VivianBass
+    orcid: 0009-0002-2476-9888
+    email: vivbass4@gmail.com
+    affiliations:
+      - Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
+  - name: Mirella Flores-Gonzalez
+    initials: MFG
+    github: mflores202
+    orcid: 0000-0002-7759-1617
+    email: mrf252@cornell.edu
+    affiliations:
+      - Boyce Thompson Institute
+    corresponding: false
+  - name: Grzegorz Uszynski
+    github: grzegorz69
+    email: grzegorz@diversityarrays.com
+    initials: GU
+    affiliations:
+      - Diversity Arrays Technology (DArT)
+    corresponding: false
+  - name: Puthick Hok
+    github: puthick
+    email: puthick@diversityarrays.com
+    initials: PH
+    affiliations:
+      - Diversity Arrays Technology (DArT)
+    corresponding: false
+  - name: Andrzej Kilian
+    email: zej@diversityarrays.com
+    initials: AK
+    affiliations:
+      - Diversity Arrays Technology (DArT)
+    corresponding: false
