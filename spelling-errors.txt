@@ -1,12 +1,14 @@
 Agosto
 Aparicio
 APIs
+barcodes
 Boizet
 CIAT
 DArTdb
 EE
 Florilège
 FLORILÈGE
+georeferencing
 GH
 Gigwa’s
 Grzegorz

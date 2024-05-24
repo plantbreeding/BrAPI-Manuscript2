@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-05-22'
+date-meta: '2024-05-24'
 author-meta:
 - Peter Selby
 - Trevor Rife
@@ -50,11 +50,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-05-22" />
-  <meta name="citation_publication_date" content="2024-05-22" />
-  <meta property="article:published_time" content="2024-05-22" />
-  <meta name="dc.modified" content="2024-05-22T22:56:23+00:00" />
-  <meta property="article:modified_time" content="2024-05-22T22:56:23+00:00" />
+  <meta name="dc.date" content="2024-05-24" />
+  <meta name="citation_publication_date" content="2024-05-24" />
+  <meta property="article:published_time" content="2024-05-24" />
+  <meta name="dc.modified" content="2024-05-24T17:07:34+00:00" />
+  <meta property="article:modified_time" content="2024-05-24T17:07:34+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -146,9 +146,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/37dcc682c4587391cd0e2ea824c24b1007fbe758/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/37dcc682c4587391cd0e2ea824c24b1007fbe758/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/37dcc682c4587391cd0e2ea824c24b1007fbe758/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/016560b2b14d76fcba56af1cce54f20a0d2ba46d/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/016560b2b14d76fcba56af1cce54f20a0d2ba46d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/016560b2b14d76fcba56af1cce54f20a0d2ba46d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -170,10 +170,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/37dcc682c4587391cd0e2ea824c24b1007fbe758/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/016560b2b14d76fcba56af1cce54f20a0d2ba46d/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@37dcc68](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/37dcc682c4587391cd0e2ea824c24b1007fbe758)
-on May 22, 2024.
+from [plantbreeding/BrAPI-Manuscript2@016560b](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/016560b2b14d76fcba56af1cce54f20a0d2ba46d)
+on May 24, 2024.
 </em></small>
 
 
@@ -552,7 +552,9 @@ In 2018, BrAPI was introduced into Field Book; specifically, the Core and Phenot
 <!-- Sebastian R -->
 <!-- Make distinct from Field Book, highlight what makes GridScore different -->
 <!-- Better flow is needed between Field Book and GridScore -->
-Phenotypic data collection underpins scientific crop research and plant breeding. Knowledge gained from collected data and its analysis alongside data visualizations inform further phenotypic trials and ideally support research hypotheses. The importance of accuracy and efficiency in the collection of this data as well as the infrastructure to facilitate the flow of data from the field to a knowledge base cannot be underestimated. [GridScore](https://ics.hutton.ac.uk/get-gridscore/) [@doi:10.1186/s12859-022-04755-2] is a modern mobile application for phenotypic observations that harnesses technological advancements in the area of mobile devices to enrich the data collection process.
+Phenotypic data collection underpins scientific crop research and plant breeding. Knowledge gained from collected data and its analysis alongside data visualizations inform further phenotypic trials and ideally support research hypotheses. The importance of accuracy and efficiency in the collection of this data as well as the infrastructure to facilitate the flow of data from the field to a knowledge base cannot be underestimated. 
+
+[GridScore](https://ics.hutton.ac.uk/get-gridscore/) [@doi:10.1186/s12859-022-04755-2] is a modern mobile application for phenotypic observations that harnesses technological advancements in the area of mobile devices to enrich the data collection process. GridScore focuses on user experience by closely mirroring the look and feel of printed field plans but enriching the experience with a wide range of functionalities including data validation, a huge range of visualizations, georeferencing, cross-platform support and BrAPI-independent data synchronization where multiple devices used for data collection are kept synchronized throughout. GridScore is a multi-platform tool which works on any reasonably modern device with a browser including laptops, PCs, tablets and phones. Once created, trials can be transferred to collection devices using a Quick Response (QR) code. Its approach towards data collection uses a top-down view onto the trial but also offers field navigation mechanisms using barcodes or QR codes or guided walks which take the data collector through the field in one of 16 pre-defined orders.
 
 BrAPI has further increased the value of GridScore by integrating it into the overarching workflow from trial creation, data collection, and its ultimate data storage for further processing. Specifically, trial designs as well as trait definitions can be imported into GridScore using BrAPI and a finalized trial can ultimately be exported via BrAPI to any compatible database.
 

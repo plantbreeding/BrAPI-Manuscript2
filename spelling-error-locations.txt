@@ -1,4 +1,6 @@
 content/02.introduction.md:26:APIs
+content/03.01.02.GridScore.md:8:barcodes
+content/03.01.02.GridScore.md:8:georeferencing
 content/03.02.04.GIGWA.md:4:EE
 content/03.02.04.GIGWA.md:6:Gigwa's
 content/03.02.06.DArT.md:3:Grzegorz
