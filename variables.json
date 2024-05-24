@@ -12,37 +12,65 @@
     "date-meta": "2024-05-24",
     "author-meta": [
       "Peter Selby",
-      "Trevor Rife",
-      "Chaney Courtney",
-      "Sebastian Raubach",
-      "Marie Angelique Laporte",
-      "Francisco Agosto ?",
-      "Isabelle Alic",
       "Rafael Abbeloos",
-      "Mirella Flores-Gonzalez",
-      "Sebastian Beier",
-      "Guilhem Sempéré",
-      "Lynn Johnson",
-      "Grzegorz Uszynski",
-      "Valentin Guignon",
-      "Mathieu Rouard",
-      "Matthias Lange",
-      "Paul Shaw",
-      "Marco Marsella",
-      "Alice Boizet ?",
-      "Cyril Pommier",
-      "Shawn Yarnes",
-      "Corina Habito",
-      "Lukas Mueller",
-      "Sook Jung",
+      "Anne-Francoise Adam-Blondon",
+      "Francisco Agosto",
+      "Michael Alaux",
+      "Isabelle Alic",
       "Khaled Al-Shamaa",
       "Johan Steven Aparicio",
-      "Josh Lamos-Sweeney",
-      "Manuel Feser",
+      "Jan Erik Backlund",
+      "Aldrin Batac",
+      "Sebastian Beier",
+      "Alice Boizet",
+      "Matthijs Brouwer",
+      "Terry Casstevens",
+      "Chaney Courtney",
+      "Mariano Crimi",
+      "Gouripriya Davuluri",
+      "Jeremy Destin",
       "Bert Droesbeke",
-      "Asis Hallab"
+      "Manuel Feser",
+      "Mirella Flores-Gonzalez",
+      "Valentin Guignon",
+      "Corina Habito",
+      "Asis Hallab",
+      "Puthick Hok",
+      "Lynn Johnson",
+      "Sook Jung",
+      "Paul Kersey",
+      "Andrzej Kilian",
+      "Patrick König",
+      "Suman Kumar",
+      "Josh Lamos-Sweeney",
+      "Laszlo Lang",
+      "Matthias Lange",
+      "Marie Angelique Laporte",
+      "Taein Lee",
+      "Erwan Le-Floch",
+      "Francisco López",
+      "Marco Marsella",
+      "Maud Marty",
+      "Célia Michotey",
+      "Zachary Miller",
+      "Iain Milne",
+      "Lukas Mueller",
+      "Cyril Pommier",
+      "Sebastian Raubach",
+      "Trevor Rife",
+      "Mathieu Rouard",
+      "Joseph Ruff",
+      "Guilhem Sempéré",
+      "Paul Shaw",
+      "Becky Smith",
+      "Nahuel Soldevilla",
+      "Clarysabel Tovar",
+      "Grzegorz Uszynski",
+      "Vivian Bass Vega",
+      "Stephan Weise",
+      "Shawn Yarnes"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.title\" content=\"BrAPI Success Stories\" />\n<meta name=\"citation_title\" content=\"BrAPI Success Stories\" />\n<meta property=\"og:title\" content=\"BrAPI Success Stories\" />\n<meta property=\"twitter:title\" content=\"BrAPI Success Stories\" />\n<meta name=\"dc.date\" content=\"2024-05-24\" />\n<meta name=\"citation_publication_date\" content=\"2024-05-24\" />\n<meta property=\"article:published_time\" content=\"2024-05-24\" />\n<meta name=\"dc.modified\" content=\"2024-05-24T17:07:34+00:00\" />\n<meta property=\"article:modified_time\" content=\"2024-05-24T17:07:34+00:00\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Peter Selby\" />\n<meta name=\"citation_author_institution\" content=\"Cornell University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-7151-4445\" />\n<meta name=\"citation_author\" content=\"Trevor Rife\" />\n<meta name=\"citation_author_institution\" content=\"Clemson University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-5974-6523\" />\n<meta name=\"citation_author\" content=\"Chaney Courtney\" />\n<meta name=\"citation_author_institution\" content=\"Clemson University\" />\n<meta name=\"citation_author\" content=\"Sebastian Raubach\" />\n<meta name=\"citation_author_institution\" content=\"The James Hutton Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5659-247X\" />\n<meta name=\"citation_author\" content=\"Marie Angelique Laporte\" />\n<meta name=\"citation_author_institution\" content=\"Alliance Bioversity-CIAT\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8461-9745\" />\n<meta name=\"citation_author\" content=\"Francisco Agosto ?\" />\n<meta name=\"citation_author\" content=\"Isabelle Alic\" />\n<meta name=\"citation_author_institution\" content=\"INRAE\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8961-6068\" />\n<meta name=\"citation_author\" content=\"Rafael Abbeloos\" />\n<meta name=\"citation_author_institution\" content=\"VIB Agro-Incubator\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-0177-3887\" />\n<meta name=\"citation_author\" content=\"Mirella Flores-Gonzalez\" />\n<meta name=\"citation_author_institution\" content=\"Boyce Thompson Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7759-1617\" />\n<meta name=\"citation_author\" content=\"Sebastian Beier\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszentrum Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany\" />\n<meta name=\"citation_author_institution\" content=\"Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-2177-8781\" />\n<meta name=\"citation_author\" content=\"Guilhem Sempéré\" />\n<meta name=\"citation_author_institution\" content=\"CIRAD (french agricultural research and international cooperation organization)\" />\n<meta name=\"citation_author_institution\" content=\"South Green Platform\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-7429-2091\" />\n<meta name=\"citation_author\" content=\"Lynn Johnson\" />\n<meta name=\"citation_author\" content=\"Grzegorz Uszynski\" />\n<meta name=\"citation_author_institution\" content=\"Diversity Arrays Technology (DArT)\" />\n<meta name=\"citation_author\" content=\"Valentin Guignon\" />\n<meta name=\"citation_author_institution\" content=\"Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0903-6811\" />\n<meta name=\"citation_author\" content=\"Mathieu Rouard\" />\n<meta name=\"citation_author_institution\" content=\"Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0284-1885\" />\n<meta name=\"citation_author\" content=\"Matthias Lange\" />\n<meta name=\"citation_author_institution\" content=\"Leibniz Institute of Plant Genetics and Crop Plant Research\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-4316-078X\" />\n<meta name=\"citation_author\" content=\"Paul Shaw\" />\n<meta name=\"citation_author_institution\" content=\"The James Hutton Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-0202-1150\" />\n<meta name=\"citation_author\" content=\"Marco Marsella\" />\n<meta name=\"citation_author_institution\" content=\"International Treaty on Plant Genetic Resources for Food and Agriculture, FAO\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0334-8785\" />\n<meta name=\"citation_author\" content=\"Alice Boizet ?\" />\n<meta name=\"citation_author\" content=\"Cyril Pommier\" />\n<meta name=\"citation_author_institution\" content=\"Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France\" />\n<meta name=\"citation_author_institution\" content=\"Université Paris-Saclay, INRAE, URGI, Versailles, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-9040-8733\" />\n<meta name=\"citation_author\" content=\"Shawn Yarnes\" />\n<meta name=\"citation_author\" content=\"Corina Habito\" />\n<meta name=\"citation_author_institution\" content=\"Integrated Breeding Platform\" />\n<meta name=\"citation_author\" content=\"Lukas Mueller\" />\n<meta name=\"citation_author\" content=\"Sook Jung\" />\n<meta name=\"citation_author_institution\" content=\"Department of Horticulture, Washington State University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3968-2769\" />\n<meta name=\"citation_author\" content=\"Khaled Al-Shamaa\" />\n<meta name=\"citation_author_institution\" content=\"ICARDA\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7668-3798\" />\n<meta name=\"citation_author\" content=\"Johan Steven Aparicio\" />\n<meta name=\"citation_author_institution\" content=\"Alliance Bioversity-CIAT\" />\n<meta name=\"citation_author\" content=\"Josh Lamos-Sweeney\" />\n<meta name=\"citation_author_institution\" content=\"Cornell University\" />\n<meta name=\"citation_author\" content=\"Manuel Feser\" />\n<meta name=\"citation_author_institution\" content=\"Leibniz Institute of Plant Genetics and Crop Plant Research\" />\n<meta name=\"citation_author_institution\" content=\"Graduate School DILS, Bielefeld Institute for Bioinformatics Infrastructure (BIBI)\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-6546-1818\" />\n<meta name=\"citation_author\" content=\"Bert Droesbeke\" />\n<meta name=\"citation_author_institution\" content=\"VIB Data Core\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0522-5674\" />\n<meta name=\"citation_author\" content=\"Asis Hallab\" />\n<meta name=\"citation_author_institution\" content=\"Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-2421-5431\" />\n<link rel=\"canonical\" href=\"https://plantbreeding.github.io/BrAPI-Manuscript2/\" />\n<meta property=\"og:url\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/\" />\n<meta property=\"twitter:url\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/\" />\n<meta name=\"citation_pdf_url\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://plantbreeding.github.io/BrAPI-Manuscript2/v/016560b2b14d76fcba56af1cce54f20a0d2ba46d/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/v/016560b2b14d76fcba56af1cce54f20a0d2ba46d/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/v/016560b2b14d76fcba56af1cce54f20a0d2ba46d/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.title\" content=\"BrAPI Success Stories\" />\n<meta name=\"citation_title\" content=\"BrAPI Success Stories\" />\n<meta property=\"og:title\" content=\"BrAPI Success Stories\" />\n<meta property=\"twitter:title\" content=\"BrAPI Success Stories\" />\n<meta name=\"dc.date\" content=\"2024-05-24\" />\n<meta name=\"citation_publication_date\" content=\"2024-05-24\" />\n<meta property=\"article:published_time\" content=\"2024-05-24\" />\n<meta name=\"dc.modified\" content=\"2024-05-24T18:59:35+00:00\" />\n<meta property=\"article:modified_time\" content=\"2024-05-24T18:59:35+00:00\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Peter Selby\" />\n<meta name=\"citation_author_institution\" content=\"Cornell University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-7151-4445\" />\n<meta name=\"citation_author\" content=\"Rafael Abbeloos\" />\n<meta name=\"citation_author_institution\" content=\"VIB Agro-Incubator\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-0177-3887\" />\n<meta name=\"citation_author\" content=\"Anne-Francoise Adam-Blondon\" />\n<meta name=\"citation_author_institution\" content=\"Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France\" />\n<meta name=\"citation_author_institution\" content=\"Université Paris-Saclay, INRAE, URGI, Versailles, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-3412-9086\" />\n<meta name=\"citation_author\" content=\"Francisco Agosto\" />\n<meta name=\"citation_author\" content=\"Michael Alaux\" />\n<meta name=\"citation_author_institution\" content=\"Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France\" />\n<meta name=\"citation_author_institution\" content=\"Université Paris-Saclay, INRAE, URGI, Versailles, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-9356-4072\" />\n<meta name=\"citation_author\" content=\"Isabelle Alic\" />\n<meta name=\"citation_author_institution\" content=\"INRAE\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8961-6068\" />\n<meta name=\"citation_author\" content=\"Khaled Al-Shamaa\" />\n<meta name=\"citation_author_institution\" content=\"ICARDA\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7668-3798\" />\n<meta name=\"citation_author\" content=\"Johan Steven Aparicio\" />\n<meta name=\"citation_author_institution\" content=\"Alliance Bioversity-CIAT\" />\n<meta name=\"citation_author\" content=\"Jan Erik Backlund\" />\n<meta name=\"citation_author_institution\" content=\"Integrated Breeding Platform\" />\n<meta name=\"citation_author\" content=\"Aldrin Batac\" />\n<meta name=\"citation_author_institution\" content=\"Integrated Breeding Platform\" />\n<meta name=\"citation_author_institution\" content=\"Leafnode LLC\" />\n<meta name=\"citation_author\" content=\"Sebastian Beier\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszentrum Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany\" />\n<meta name=\"citation_author_institution\" content=\"Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-2177-8781\" />\n<meta name=\"citation_author\" content=\"Alice Boizet\" />\n<meta name=\"citation_author\" content=\"Matthijs Brouwer\" />\n<meta name=\"citation_author_institution\" content=\"Wageningen University and Research\" />\n<meta name=\"citation_author\" content=\"Terry Casstevens\" />\n<meta name=\"citation_author_institution\" content=\"Cornell University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-7602-0487\" />\n<meta name=\"citation_author\" content=\"Chaney Courtney\" />\n<meta name=\"citation_author_institution\" content=\"Clemson University\" />\n<meta name=\"citation_author\" content=\"Mariano Crimi\" />\n<meta name=\"citation_author_institution\" content=\"Integrated Breeding Platform\" />\n<meta name=\"citation_author\" content=\"Gouripriya Davuluri\" />\n<meta name=\"citation_author_institution\" content=\"Leibniz Institute of Plant Genetics and Crop Plant Research\" />\n<meta name=\"citation_author\" content=\"Jeremy Destin\" />\n<meta name=\"citation_author_institution\" content=\"Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France\" />\n<meta name=\"citation_author_institution\" content=\"Université Paris-Saclay, INRAE, URGI, Versailles, France\" />\n<meta name=\"citation_author\" content=\"Bert Droesbeke\" />\n<meta name=\"citation_author_institution\" content=\"VIB Data Core\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0522-5674\" />\n<meta name=\"citation_author\" content=\"Manuel Feser\" />\n<meta name=\"citation_author_institution\" content=\"Leibniz Institute of Plant Genetics and Crop Plant Research\" />\n<meta name=\"citation_author_institution\" content=\"Graduate School DILS, Bielefeld Institute for Bioinformatics Infrastructure (BIBI)\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-6546-1818\" />\n<meta name=\"citation_author\" content=\"Mirella Flores-Gonzalez\" />\n<meta name=\"citation_author_institution\" content=\"Boyce Thompson Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7759-1617\" />\n<meta name=\"citation_author\" content=\"Valentin Guignon\" />\n<meta name=\"citation_author_institution\" content=\"Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0903-6811\" />\n<meta name=\"citation_author\" content=\"Corina Habito\" />\n<meta name=\"citation_author_institution\" content=\"Integrated Breeding Platform\" />\n<meta name=\"citation_author\" content=\"Asis Hallab\" />\n<meta name=\"citation_author_institution\" content=\"Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-2421-5431\" />\n<meta name=\"citation_author\" content=\"Puthick Hok\" />\n<meta name=\"citation_author_institution\" content=\"Diversity Arrays Technology (DArT)\" />\n<meta name=\"citation_author\" content=\"Lynn Johnson\" />\n<meta name=\"citation_author\" content=\"Sook Jung\" />\n<meta name=\"citation_author_institution\" content=\"Department of Horticulture, Washington State University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3968-2769\" />\n<meta name=\"citation_author\" content=\"Paul Kersey\" />\n<meta name=\"citation_author_institution\" content=\"Royal Botanic Gardens, Kew\" />\n<meta name=\"citation_author\" content=\"Andrzej Kilian\" />\n<meta name=\"citation_author_institution\" content=\"Diversity Arrays Technology (DArT)\" />\n<meta name=\"citation_author\" content=\"Patrick König\" />\n<meta name=\"citation_author_institution\" content=\"Leibniz Institute of Plant Genetics and Crop Plant Research\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8948-6793\" />\n<meta name=\"citation_author\" content=\"Suman Kumar\" />\n<meta name=\"citation_author_institution\" content=\"Leibniz Institute of Plant Genetics and Crop Plant Research\" />\n<meta name=\"citation_author\" content=\"Josh Lamos-Sweeney\" />\n<meta name=\"citation_author_institution\" content=\"Cornell University\" />\n<meta name=\"citation_author\" content=\"Laszlo Lang\" />\n<meta name=\"citation_author_institution\" content=\"Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0009-0009-8936-4532\" />\n<meta name=\"citation_author\" content=\"Matthias Lange\" />\n<meta name=\"citation_author_institution\" content=\"Leibniz Institute of Plant Genetics and Crop Plant Research\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-4316-078X\" />\n<meta name=\"citation_author\" content=\"Marie Angelique Laporte\" />\n<meta name=\"citation_author_institution\" content=\"Alliance Bioversity-CIAT\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8461-9745\" />\n<meta name=\"citation_author\" content=\"Taein Lee\" />\n<meta name=\"citation_author_institution\" content=\"Department of Horticulture, Washington State University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-2000-2586\" />\n<meta name=\"citation_author\" content=\"Erwan Le-Floch\" />\n<meta name=\"citation_author_institution\" content=\"Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France\" />\n<meta name=\"citation_author_institution\" content=\"Université Paris-Saclay, INRAE, URGI, Versailles, France\" />\n<meta name=\"citation_author\" content=\"Francisco López\" />\n<meta name=\"citation_author_institution\" content=\"International Treaty on Plant Genetic Resources for Food and Agriculture, FAO\" />\n<meta name=\"citation_author\" content=\"Marco Marsella\" />\n<meta name=\"citation_author_institution\" content=\"International Treaty on Plant Genetic Resources for Food and Agriculture, FAO\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0334-8785\" />\n<meta name=\"citation_author\" content=\"Maud Marty\" />\n<meta name=\"citation_author_institution\" content=\"Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France\" />\n<meta name=\"citation_author_institution\" content=\"Université Paris-Saclay, INRAE, URGI, Versailles, France\" />\n<meta name=\"citation_author\" content=\"Célia Michotey\" />\n<meta name=\"citation_author_institution\" content=\"Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France\" />\n<meta name=\"citation_author_institution\" content=\"Université Paris-Saclay, INRAE, URGI, Versailles, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-1877-1703\" />\n<meta name=\"citation_author\" content=\"Zachary Miller\" />\n<meta name=\"citation_author_institution\" content=\"Cornell University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-5454-4527\" />\n<meta name=\"citation_author\" content=\"Iain Milne\" />\n<meta name=\"citation_author_institution\" content=\"The James Hutton Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-4126-0859\" />\n<meta name=\"citation_author\" content=\"Lukas Mueller\" />\n<meta name=\"citation_author\" content=\"Cyril Pommier\" />\n<meta name=\"citation_author_institution\" content=\"Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France\" />\n<meta name=\"citation_author_institution\" content=\"Université Paris-Saclay, INRAE, URGI, Versailles, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-9040-8733\" />\n<meta name=\"citation_author\" content=\"Sebastian Raubach\" />\n<meta name=\"citation_author_institution\" content=\"The James Hutton Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5659-247X\" />\n<meta name=\"citation_author\" content=\"Trevor Rife\" />\n<meta name=\"citation_author_institution\" content=\"Clemson University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-5974-6523\" />\n<meta name=\"citation_author\" content=\"Mathieu Rouard\" />\n<meta name=\"citation_author_institution\" content=\"Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0284-1885\" />\n<meta name=\"citation_author\" content=\"Joseph Ruff\" />\n<meta name=\"citation_author_institution\" content=\"Royal Botanic Gardens, Kew\" />\n<meta name=\"citation_author\" content=\"Guilhem Sempéré\" />\n<meta name=\"citation_author_institution\" content=\"CIRAD (french agricultural research and international cooperation organization)\" />\n<meta name=\"citation_author_institution\" content=\"South Green Platform\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-7429-2091\" />\n<meta name=\"citation_author\" content=\"Paul Shaw\" />\n<meta name=\"citation_author_institution\" content=\"The James Hutton Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-0202-1150\" />\n<meta name=\"citation_author\" content=\"Becky Smith\" />\n<meta name=\"citation_author_institution\" content=\"The James Hutton Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8968-3383\" />\n<meta name=\"citation_author\" content=\"Nahuel Soldevilla\" />\n<meta name=\"citation_author_institution\" content=\"Integrated Breeding Platform\" />\n<meta name=\"citation_author_institution\" content=\"Leafnode LLC\" />\n<meta name=\"citation_author\" content=\"Clarysabel Tovar\" />\n<meta name=\"citation_author_institution\" content=\"Integrated Breeding Platform\" />\n<meta name=\"citation_author_institution\" content=\"Leafnode LLC\" />\n<meta name=\"citation_author\" content=\"Grzegorz Uszynski\" />\n<meta name=\"citation_author_institution\" content=\"Diversity Arrays Technology (DArT)\" />\n<meta name=\"citation_author\" content=\"Vivian Bass Vega\" />\n<meta name=\"citation_author_institution\" content=\"Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0009-0002-2476-9888\" />\n<meta name=\"citation_author\" content=\"Stephan Weise\" />\n<meta name=\"citation_author_institution\" content=\"Leibniz Institute of Plant Genetics and Crop Plant Research\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-4031-9131\" />\n<meta name=\"citation_author\" content=\"Shawn Yarnes\" />\n<link rel=\"canonical\" href=\"https://plantbreeding.github.io/BrAPI-Manuscript2/\" />\n<meta property=\"og:url\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/\" />\n<meta property=\"twitter:url\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/\" />\n<meta name=\"citation_pdf_url\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://plantbreeding.github.io/BrAPI-Manuscript2/v/a16bed5e0620c7f6966fd206bd9aa845093b8540/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/v/a16bed5e0620c7f6966fd206bd9aa845093b8540/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://plantbreeding.github.io/BrAPI-Manuscript2/v/a16bed5e0620c7f6966fd206bd9aa845093b8540/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -54,7 +82,7 @@
   "manubot": {
     "date": "2024-05-24",
     "date_long": "May 24, 2024",
-    "generated": "2024-05-24T17:07:34+00:00",
+    "generated": "2024-05-24T18:59:35+00:00",
     "generated_date_long": "May 24, 2024",
     "randomize_author_order": false,
     "authors": [
@@ -76,59 +104,49 @@
         ]
       },
       {
-        "name": "Trevor Rife",
-        "initials": "TR",
-        "github": "trife",
-        "orcid": "0000-0002-5974-6523",
-        "email": "twrife@clemson.edu",
+        "name": "Rafael Abbeloos",
+        "initials": "RA",
+        "github": "raabb",
+        "orcid": "0000-0002-0177-3887",
+        "email": "rafael.abbeloos@vib.be",
         "affiliations": [
-          "Clemson University"
+          "VIB Agro-Incubator"
         ],
         "affiliation_numbers": [
           2
         ]
       },
       {
-        "name": "Chaney Courtney",
-        "github": "chaneylc",
-        "initials": "CC",
-        "email": "ccourtn@clemson.edu",
+        "name": "Anne-Francoise Adam-Blondon",
+        "email": "anne-francoise.adam-blondon@inrae.fr",
+        "initials": "AFAB",
+        "orcid": "0000-0002-3412-9086",
         "affiliations": [
-          "Clemson University"
+          "Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France",
+          "Université Paris-Saclay, INRAE, URGI, Versailles, France"
         ],
         "affiliation_numbers": [
-          2
-        ]
-      },
-      {
-        "name": "Sebastian Raubach",
-        "initials": "SR",
-        "github": "sebastian-raubach",
-        "orcid": "0000-0001-5659-247X",
-        "email": "sebastian.raubach@hutton.ac.uk",
-        "affiliations": [
-          "The James Hutton Institute"
-        ],
-        "affiliation_numbers": [
-          3
-        ]
-      },
-      {
-        "name": "Marie Angelique Laporte",
-        "initials": "MAL",
-        "github": "marieALaporte",
-        "orcid": "0000-0002-8461-9745",
-        "email": "m.a.laporte@cgiar.org",
-        "affiliations": [
-          "Alliance Bioversity-CIAT"
-        ],
-        "affiliation_numbers": [
+          3,
           4
         ]
       },
       {
-        "name": "Francisco Agosto ?",
+        "name": "Francisco Agosto",
         "affiliation_numbers": []
+      },
+      {
+        "name": "Michael Alaux",
+        "email": "michael.alaux@inrae.fr",
+        "initials": "MA",
+        "orcid": "0000-0001-9356-4072",
+        "affiliations": [
+          "Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France",
+          "Université Paris-Saclay, INRAE, URGI, Versailles, France"
+        ],
+        "affiliation_numbers": [
+          3,
+          4
+        ]
       },
       {
         "name": "Isabelle Alic",
@@ -147,29 +165,51 @@
         ]
       },
       {
-        "name": "Rafael Abbeloos",
-        "initials": "RA",
-        "github": "raabb",
-        "orcid": "0000-0002-0177-3887",
-        "email": "rafael.abbeloos@vib.be",
+        "name": "Khaled Al-Shamaa",
+        "initials": "KS",
+        "github": "khaled-alshamaa",
+        "orcid": "0000-0002-7668-3798",
+        "email": "k.el-shamaa@cgiar.org",
         "affiliations": [
-          "VIB Agro-Incubator"
+          "ICARDA"
         ],
         "affiliation_numbers": [
           6
         ]
       },
       {
-        "name": "Mirella Flores-Gonzalez",
-        "initials": "MFG",
-        "github": "mflores202",
-        "orcid": "0000-0002-7759-1617",
-        "email": "mrf252@cornell.edu",
+        "name": "Johan Steven Aparicio",
+        "initials": "JSA",
+        "email": "J.Aparicio@cgiar.org",
         "affiliations": [
-          "Boyce Thompson Institute"
+          "Alliance Bioversity-CIAT"
         ],
         "affiliation_numbers": [
           7
+        ]
+      },
+      {
+        "name": "Jan Erik Backlund",
+        "initials": "JEB",
+        "email": "j.backlund@integratedbreeding.net",
+        "affiliations": [
+          "Integrated Breeding Platform"
+        ],
+        "affiliation_numbers": [
+          8
+        ]
+      },
+      {
+        "name": "Aldrin Batac",
+        "initials": "AB",
+        "email": "aldrin.batac@leafnode.io",
+        "affiliations": [
+          "Integrated Breeding Platform",
+          "Leafnode LLC"
+        ],
+        "affiliation_numbers": [
+          8,
+          9
         ]
       },
       {
@@ -183,39 +223,124 @@
           "Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany"
         ],
         "affiliation_numbers": [
-          8,
-          9
-        ]
-      },
-      {
-        "name": "Guilhem Sempéré",
-        "initials": "GS",
-        "github": "GuilhemSempere",
-        "orcid": "0000-0001-7429-2091",
-        "email": "guilhem.sempere@cirad.fr",
-        "affiliations": [
-          "CIRAD (french agricultural research and international cooperation organization)",
-          "South Green Platform"
-        ],
-        "affiliation_numbers": [
           10,
           11
         ]
       },
       {
-        "name": "Lynn Johnson",
+        "name": "Alice Boizet",
         "affiliation_numbers": []
       },
       {
-        "name": "Grzegorz Uszynski",
-        "github": "grzegorz69",
-        "email": "grzegorz@diversityarrays.com",
-        "initials": "GU",
+        "name": "Matthijs Brouwer",
+        "email": "matthijs.brouwer@wur.nl",
+        "initials": "MB",
         "affiliations": [
-          "Diversity Arrays Technology (DArT)"
+          "Wageningen University and Research"
         ],
         "affiliation_numbers": [
           12
+        ]
+      },
+      {
+        "name": "Terry Casstevens",
+        "initials": "TC",
+        "email": "tmc46@cornell.edu",
+        "github": "tcasstevens",
+        "orcid": "0000-0001-7602-0487",
+        "affiliations": [
+          "Cornell University"
+        ],
+        "affiliation_numbers": [
+          1
+        ]
+      },
+      {
+        "name": "Chaney Courtney",
+        "github": "chaneylc",
+        "initials": "CC",
+        "email": "ccourtn@clemson.edu",
+        "affiliations": [
+          "Clemson University"
+        ],
+        "affiliation_numbers": [
+          13
+        ]
+      },
+      {
+        "name": "Mariano Crimi",
+        "initials": "MC",
+        "email": "m.crimi@integratedbreeding.net",
+        "affiliations": [
+          "Integrated Breeding Platform"
+        ],
+        "affiliation_numbers": [
+          8
+        ]
+      },
+      {
+        "name": "Gouripriya Davuluri",
+        "email": "davuluri@ipk-gatersleben.de",
+        "initials": "GD",
+        "affiliations": [
+          "Leibniz Institute of Plant Genetics and Crop Plant Research"
+        ],
+        "affiliation_numbers": [
+          14
+        ]
+      },
+      {
+        "name": "Jeremy Destin",
+        "email": "jeremy.destin@inrae.fr",
+        "initials": "JD",
+        "affiliations": [
+          "Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France",
+          "Université Paris-Saclay, INRAE, URGI, Versailles, France"
+        ],
+        "affiliation_numbers": [
+          3,
+          4
+        ]
+      },
+      {
+        "name": "Bert Droesbeke",
+        "initials": "BD",
+        "github": "bedroesb",
+        "orcid": "0000-0003-0522-5674",
+        "email": "bert.droesbeke@vib.be",
+        "affiliations": [
+          "VIB Data Core"
+        ],
+        "affiliation_numbers": [
+          15
+        ]
+      },
+      {
+        "name": "Manuel Feser",
+        "github": "feserm",
+        "orcid": "0000-0001-6546-1818",
+        "email": "feser@ipk-gatersleben.de",
+        "initials": "MF",
+        "affiliations": [
+          "Leibniz Institute of Plant Genetics and Crop Plant Research",
+          "Graduate School DILS, Bielefeld Institute for Bioinformatics Infrastructure (BIBI)"
+        ],
+        "affiliation_numbers": [
+          14,
+          16
+        ]
+      },
+      {
+        "name": "Mirella Flores-Gonzalez",
+        "initials": "MFG",
+        "github": "mflores202",
+        "orcid": "0000-0002-7759-1617",
+        "email": "mrf252@cornell.edu",
+        "affiliations": [
+          "Boyce Thompson Institute"
+        ],
+        "affiliation_numbers": [
+          17
         ]
       },
       {
@@ -228,20 +353,132 @@
           "Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France"
         ],
         "affiliation_numbers": [
-          13
+          18
         ]
       },
       {
-        "name": "Mathieu Rouard",
-        "initials": "MR",
-        "github": "mrouard",
-        "orcid": "0000-0003-0284-1885",
-        "email": "m.rouard@cgiar.org",
+        "name": "Corina Habito",
+        "initials": "CH",
+        "email": "c.habito@integratedbreeding.net",
         "affiliations": [
-          "Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France"
+          "Integrated Breeding Platform"
         ],
         "affiliation_numbers": [
-          13
+          8
+        ]
+      },
+      {
+        "name": "Asis Hallab",
+        "initials": "AH",
+        "github": "https://github.com/asishallab",
+        "orcid": "0000-0002-2421-5431",
+        "email": "a.hallab@fz-juelich.de",
+        "affiliations": [
+          "Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany"
+        ],
+        "affiliation_numbers": [
+          19
+        ]
+      },
+      {
+        "name": "Puthick Hok",
+        "github": "puthick",
+        "email": "puthick@diversityarrays.com",
+        "initials": "PH",
+        "affiliations": [
+          "Diversity Arrays Technology (DArT)"
+        ],
+        "corresponding": false,
+        "affiliation_numbers": [
+          20
+        ]
+      },
+      {
+        "name": "Lynn Johnson",
+        "affiliation_numbers": []
+      },
+      {
+        "name": "Sook Jung",
+        "initials": "SJ",
+        "email": "sook_jung@wsu.edu",
+        "orcid": "0000-0003-3968-2769",
+        "affiliations": [
+          "Department of Horticulture, Washington State University"
+        ],
+        "affiliation_numbers": [
+          21
+        ]
+      },
+      {
+        "name": "Paul Kersey",
+        "email": "P.Kersey@kew.org",
+        "initials": "PK",
+        "affiliations": [
+          "Royal Botanic Gardens, Kew"
+        ],
+        "affiliation_numbers": [
+          22
+        ]
+      },
+      {
+        "name": "Andrzej Kilian",
+        "email": "zej@diversityarrays.com",
+        "initials": "AK",
+        "affiliations": [
+          "Diversity Arrays Technology (DArT)"
+        ],
+        "corresponding": false,
+        "affiliation_numbers": [
+          20
+        ]
+      },
+      {
+        "name": "Patrick König",
+        "email": "koenig@ipk-gatersleben.de",
+        "initials": "PK",
+        "orcid": "0000-0002-8948-6793",
+        "github": "patrick-koenig",
+        "affiliations": [
+          "Leibniz Institute of Plant Genetics and Crop Plant Research"
+        ],
+        "affiliation_numbers": [
+          14
+        ]
+      },
+      {
+        "name": "Suman Kumar",
+        "email": "kumar@ipk-gatersleben.de",
+        "initials": "SK",
+        "affiliations": [
+          "Leibniz Institute of Plant Genetics and Crop Plant Research"
+        ],
+        "affiliation_numbers": [
+          14
+        ]
+      },
+      {
+        "name": "Josh Lamos-Sweeney",
+        "initials": "JDLS",
+        "github": "jlamossweeney",
+        "email": "jdl232@cornell.edu",
+        "affiliations": [
+          "Cornell University"
+        ],
+        "affiliation_numbers": [
+          1
+        ]
+      },
+      {
+        "name": "Laszlo Lang",
+        "initials": "LL",
+        "github": "LzLang",
+        "orcid": "0009-0009-8936-4532",
+        "email": "laszlo.lang@stud.th-bingen.de",
+        "affiliations": [
+          "Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany"
+        ],
+        "affiliation_numbers": [
+          23
         ]
       },
       {
@@ -258,16 +495,53 @@
         ]
       },
       {
-        "name": "Paul Shaw",
-        "initials": "PDS",
-        "github": "cardinalb",
-        "orcid": "0000-0002-0202-1150",
-        "email": "paul.shaw@hutton.ac.uk",
+        "name": "Marie Angelique Laporte",
+        "initials": "MAL",
+        "github": "marieALaporte",
+        "orcid": "0000-0002-8461-9745",
+        "email": "m.a.laporte@cgiar.org",
         "affiliations": [
-          "The James Hutton Institute"
+          "Alliance Bioversity-CIAT"
         ],
         "affiliation_numbers": [
-          3
+          7
+        ]
+      },
+      {
+        "name": "Taein Lee",
+        "initials": "TL",
+        "email": "taein_lee@hotmail.com",
+        "github": "leetaei",
+        "orcid": "0000-0002-2000-2586",
+        "affiliations": [
+          "Department of Horticulture, Washington State University"
+        ],
+        "affiliation_numbers": [
+          21
+        ]
+      },
+      {
+        "name": "Erwan Le-Floch",
+        "email": "erwan.le-floch@inrae.fr",
+        "initials": "ELF",
+        "affiliations": [
+          "Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France",
+          "Université Paris-Saclay, INRAE, URGI, Versailles, France"
+        ],
+        "affiliation_numbers": [
+          3,
+          4
+        ]
+      },
+      {
+        "name": "Francisco López",
+        "initials": "FL",
+        "email": "francisco.lopez@fao.org",
+        "affiliations": [
+          "International Treaty on Plant Genetic Resources for Food and Agriculture, FAO"
+        ],
+        "affiliation_numbers": [
+          24
         ]
       },
       {
@@ -279,11 +553,64 @@
           "International Treaty on Plant Genetic Resources for Food and Agriculture, FAO"
         ],
         "affiliation_numbers": [
-          15
+          24
         ]
       },
       {
-        "name": "Alice Boizet ?",
+        "name": "Maud Marty",
+        "email": "maud.marty@inrae.fr",
+        "initials": "MM",
+        "affiliations": [
+          "Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France",
+          "Université Paris-Saclay, INRAE, URGI, Versailles, France"
+        ],
+        "affiliation_numbers": [
+          3,
+          4
+        ]
+      },
+      {
+        "name": "Célia Michotey",
+        "email": "celia.michotey@inrae.fr",
+        "initials": "CM",
+        "orcid": "0000-0003-1877-1703",
+        "affiliations": [
+          "Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France",
+          "Université Paris-Saclay, INRAE, URGI, Versailles, France"
+        ],
+        "affiliation_numbers": [
+          3,
+          4
+        ]
+      },
+      {
+        "name": "Zachary Miller",
+        "initials": "ZM",
+        "email": "zrm22@cornell.edu",
+        "github": "zrm22",
+        "orcid": "0000-0002-5454-4527",
+        "affiliations": [
+          "Cornell University"
+        ],
+        "affiliation_numbers": [
+          1
+        ]
+      },
+      {
+        "name": "Iain Milne",
+        "initials": "IM",
+        "github": "imilne",
+        "orcid": "0000-0002-4126-0859",
+        "email": "iain.milne@hutton.ac.uk",
+        "affiliations": [
+          "The James Hutton Institute"
+        ],
+        "affiliation_numbers": [
+          25
+        ]
+      },
+      {
+        "name": "Lukas Mueller",
         "affiliation_numbers": []
       },
       {
@@ -300,117 +627,167 @@
           "This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)"
         ],
         "affiliation_numbers": [
-          16,
-          17
+          3,
+          4
         ]
       },
       {
-        "name": "Shawn Yarnes",
-        "affiliation_numbers": []
+        "name": "Sebastian Raubach",
+        "initials": "SR",
+        "github": "sebastian-raubach",
+        "orcid": "0000-0001-5659-247X",
+        "email": "sebastian.raubach@hutton.ac.uk",
+        "affiliations": [
+          "The James Hutton Institute"
+        ],
+        "affiliation_numbers": [
+          25
+        ]
       },
       {
-        "name": "Corina Habito",
-        "initials": "CH",
-        "email": "c.habito@integratedbreeding.net",
+        "name": "Trevor Rife",
+        "initials": "TR",
+        "github": "trife",
+        "orcid": "0000-0002-5974-6523",
+        "email": "twrife@clemson.edu",
         "affiliations": [
-          "Integrated Breeding Platform"
+          "Clemson University"
+        ],
+        "affiliation_numbers": [
+          13
+        ]
+      },
+      {
+        "name": "Mathieu Rouard",
+        "initials": "MR",
+        "github": "mrouard",
+        "orcid": "0000-0003-0284-1885",
+        "email": "m.rouard@cgiar.org",
+        "affiliations": [
+          "Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France"
         ],
         "affiliation_numbers": [
           18
         ]
       },
       {
-        "name": "Lukas Mueller",
-        "affiliation_numbers": []
-      },
-      {
-        "name": "Sook Jung",
-        "initials": "SJ",
-        "email": "sook_jung@wsu.edu",
-        "orcid": "0000-0003-3968-2769",
+        "name": "Joseph Ruff",
+        "email": "J.Ruff@kew.org",
+        "initials": "JR",
         "affiliations": [
-          "Department of Horticulture, Washington State University"
-        ],
-        "affiliation_numbers": [
-          19
-        ]
-      },
-      {
-        "name": "Khaled Al-Shamaa",
-        "initials": "KS",
-        "github": "khaled-alshamaa",
-        "orcid": "0000-0002-7668-3798",
-        "email": "k.el-shamaa@cgiar.org",
-        "affiliations": [
-          "ICARDA"
-        ],
-        "affiliation_numbers": [
-          20
-        ]
-      },
-      {
-        "name": "Johan Steven Aparicio",
-        "initials": "JSA",
-        "email": "J.Aparicio@cgiar.org",
-        "affiliations": [
-          "Alliance Bioversity-CIAT"
-        ],
-        "affiliation_numbers": [
-          4
-        ]
-      },
-      {
-        "name": "Josh Lamos-Sweeney",
-        "initials": "JDLS",
-        "github": "jlamossweeney",
-        "email": "jdl232@cornell.edu",
-        "affiliations": [
-          "Cornell University"
-        ],
-        "affiliation_numbers": [
-          1
-        ]
-      },
-      {
-        "name": "Manuel Feser",
-        "github": "feserm",
-        "orcid": "0000-0001-6546-1818",
-        "email": "feser@ipk-gatersleben.de",
-        "initials": "MF",
-        "affiliations": [
-          "Leibniz Institute of Plant Genetics and Crop Plant Research",
-          "Graduate School DILS, Bielefeld Institute for Bioinformatics Infrastructure (BIBI)"
-        ],
-        "affiliation_numbers": [
-          14,
-          21
-        ]
-      },
-      {
-        "name": "Bert Droesbeke",
-        "initials": "BD",
-        "github": "bedroesb",
-        "orcid": "0000-0003-0522-5674",
-        "email": "bert.droesbeke@vib.be",
-        "affiliations": [
-          "VIB Data Core"
+          "Royal Botanic Gardens, Kew"
         ],
         "affiliation_numbers": [
           22
         ]
       },
       {
-        "name": "Asis Hallab",
-        "initials": "AH",
-        "github": "https://github.com/asishallab",
-        "orcid": "0000-0002-2421-5431",
-        "email": "a.hallab@fz-juelich.de",
+        "name": "Guilhem Sempéré",
+        "initials": "GS",
+        "github": "GuilhemSempere",
+        "orcid": "0000-0001-7429-2091",
+        "email": "guilhem.sempere@cirad.fr",
         "affiliations": [
-          "Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany"
+          "CIRAD (french agricultural research and international cooperation organization)",
+          "South Green Platform"
+        ],
+        "affiliation_numbers": [
+          26,
+          27
+        ]
+      },
+      {
+        "name": "Paul Shaw",
+        "initials": "PDS",
+        "github": "cardinalb",
+        "orcid": "0000-0002-0202-1150",
+        "email": "paul.shaw@hutton.ac.uk",
+        "affiliations": [
+          "The James Hutton Institute"
+        ],
+        "affiliation_numbers": [
+          25
+        ]
+      },
+      {
+        "name": "Becky Smith",
+        "initials": "BS",
+        "github": "Batbaby91",
+        "orcid": "0000-0002-8968-3383",
+        "email": "becky.smith@hutton.ac.uk",
+        "affiliations": [
+          "The James Hutton Institute"
+        ],
+        "affiliation_numbers": [
+          25
+        ]
+      },
+      {
+        "name": "Nahuel Soldevilla",
+        "initials": "NS",
+        "email": "n.soldevilla@integratedbreeding.net",
+        "affiliations": [
+          "Integrated Breeding Platform",
+          "Leafnode LLC"
+        ],
+        "affiliation_numbers": [
+          8,
+          9
+        ]
+      },
+      {
+        "name": "Clarysabel Tovar",
+        "initials": "CT",
+        "email": null,
+        "affiliations": [
+          "Integrated Breeding Platform",
+          "Leafnode LLC"
+        ],
+        "affiliation_numbers": [
+          8,
+          9
+        ]
+      },
+      {
+        "name": "Grzegorz Uszynski",
+        "github": "grzegorz69",
+        "email": "grzegorz@diversityarrays.com",
+        "initials": "GU",
+        "affiliations": [
+          "Diversity Arrays Technology (DArT)"
+        ],
+        "affiliation_numbers": [
+          20
+        ]
+      },
+      {
+        "name": "Vivian Bass Vega",
+        "initials": "VBV",
+        "github": "VivianBass",
+        "orcid": "0009-0002-2476-9888",
+        "email": "vivbass4@gmail.com",
+        "affiliations": [
+          "Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany"
         ],
         "affiliation_numbers": [
           23
         ]
+      },
+      {
+        "name": "Stephan Weise",
+        "email": "weise@ipk-gatersleben.de",
+        "initials": "SW",
+        "orcid": "0000-0003-4031-9131",
+        "affiliations": [
+          "Leibniz Institute of Plant Genetics and Crop Plant Research"
+        ],
+        "affiliation_numbers": [
+          14
+        ]
+      },
+      {
+        "name": "Shawn Yarnes",
+        "affiliation_numbers": []
       }
     ],
     "affiliations": [
@@ -419,15 +796,15 @@
         "affiliation_number": 1
       },
       {
-        "affiliation": "Clemson University",
+        "affiliation": "VIB Agro-Incubator",
         "affiliation_number": 2
       },
       {
-        "affiliation": "The James Hutton Institute",
+        "affiliation": "Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France",
         "affiliation_number": 3
       },
       {
-        "affiliation": "Alliance Bioversity-CIAT",
+        "affiliation": "Université Paris-Saclay, INRAE, URGI, Versailles, France",
         "affiliation_number": 4
       },
       {
@@ -435,35 +812,35 @@
         "affiliation_number": 5
       },
       {
-        "affiliation": "VIB Agro-Incubator",
+        "affiliation": "ICARDA",
         "affiliation_number": 6
       },
       {
-        "affiliation": "Boyce Thompson Institute",
+        "affiliation": "Alliance Bioversity-CIAT",
         "affiliation_number": 7
       },
       {
-        "affiliation": "Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszentrum Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany",
+        "affiliation": "Integrated Breeding Platform",
         "affiliation_number": 8
       },
       {
-        "affiliation": "Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany",
+        "affiliation": "Leafnode LLC",
         "affiliation_number": 9
       },
       {
-        "affiliation": "CIRAD (french agricultural research and international cooperation organization)",
+        "affiliation": "Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszentrum Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany",
         "affiliation_number": 10
       },
       {
-        "affiliation": "South Green Platform",
+        "affiliation": "Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany",
         "affiliation_number": 11
       },
       {
-        "affiliation": "Diversity Arrays Technology (DArT)",
+        "affiliation": "Wageningen University and Research",
         "affiliation_number": 12
       },
       {
-        "affiliation": "Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France",
+        "affiliation": "Clemson University",
         "affiliation_number": 13
       },
       {
@@ -471,40 +848,56 @@
         "affiliation_number": 14
       },
       {
-        "affiliation": "International Treaty on Plant Genetic Resources for Food and Agriculture, FAO",
+        "affiliation": "VIB Data Core",
         "affiliation_number": 15
       },
       {
-        "affiliation": "Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France",
+        "affiliation": "Graduate School DILS, Bielefeld Institute for Bioinformatics Infrastructure (BIBI)",
         "affiliation_number": 16
       },
       {
-        "affiliation": "Université Paris-Saclay, INRAE, URGI, Versailles, France",
+        "affiliation": "Boyce Thompson Institute",
         "affiliation_number": 17
       },
       {
-        "affiliation": "Integrated Breeding Platform",
+        "affiliation": "Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France",
         "affiliation_number": 18
       },
       {
-        "affiliation": "Department of Horticulture, Washington State University",
+        "affiliation": "Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany",
         "affiliation_number": 19
       },
       {
-        "affiliation": "ICARDA",
+        "affiliation": "Diversity Arrays Technology (DArT)",
         "affiliation_number": 20
       },
       {
-        "affiliation": "Graduate School DILS, Bielefeld Institute for Bioinformatics Infrastructure (BIBI)",
+        "affiliation": "Department of Horticulture, Washington State University",
         "affiliation_number": 21
       },
       {
-        "affiliation": "VIB Data Core",
+        "affiliation": "Royal Botanic Gardens, Kew",
         "affiliation_number": 22
       },
       {
-        "affiliation": "Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany",
+        "affiliation": "Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany",
         "affiliation_number": 23
+      },
+      {
+        "affiliation": "International Treaty on Plant Genetic Resources for Food and Agriculture, FAO",
+        "affiliation_number": 24
+      },
+      {
+        "affiliation": "The James Hutton Institute",
+        "affiliation_number": 25
+      },
+      {
+        "affiliation": "CIRAD (french agricultural research and international cooperation organization)",
+        "affiliation_number": 26
+      },
+      {
+        "affiliation": "South Green Platform",
+        "affiliation_number": 27
       }
     ],
     "ci_source": {
@@ -512,15 +905,15 @@
       "repo_slug": "plantbreeding/BrAPI-Manuscript2",
       "repo_owner": "plantbreeding",
       "repo_name": "BrAPI-Manuscript2",
-      "commit": "016560b2b14d76fcba56af1cce54f20a0d2ba46d",
-      "triggering_commit": "016560b2b14d76fcba56af1cce54f20a0d2ba46d",
-      "build_url": "https://github.com/plantbreeding/BrAPI-Manuscript2/commit/016560b2b14d76fcba56af1cce54f20a0d2ba46d/checks",
-      "job_url": "https://github.com/plantbreeding/BrAPI-Manuscript2/actions/runs/9227501248"
+      "commit": "a16bed5e0620c7f6966fd206bd9aa845093b8540",
+      "triggering_commit": "a16bed5e0620c7f6966fd206bd9aa845093b8540",
+      "build_url": "https://github.com/plantbreeding/BrAPI-Manuscript2/commit/a16bed5e0620c7f6966fd206bd9aa845093b8540/checks",
+      "job_url": "https://github.com/plantbreeding/BrAPI-Manuscript2/actions/runs/9228689167"
     },
     "html_url": "https://plantbreeding.github.io/BrAPI-Manuscript2/",
     "pdf_url": "https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf",
-    "html_url_versioned": "https://plantbreeding.github.io/BrAPI-Manuscript2/v/016560b2b14d76fcba56af1cce54f20a0d2ba46d/",
-    "pdf_url_versioned": "https://plantbreeding.github.io/BrAPI-Manuscript2/v/016560b2b14d76fcba56af1cce54f20a0d2ba46d/manuscript.pdf",
+    "html_url_versioned": "https://plantbreeding.github.io/BrAPI-Manuscript2/v/a16bed5e0620c7f6966fd206bd9aa845093b8540/",
+    "pdf_url_versioned": "https://plantbreeding.github.io/BrAPI-Manuscript2/v/a16bed5e0620c7f6966fd206bd9aa845093b8540/manuscript.pdf",
     "manubot_version": "0.5.6",
     "rootstock_commit": "f92ea1b72211d2543bac7276995d1b69947c6949",
     "manuscript_stats": {
