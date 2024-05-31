@@ -16,6 +16,7 @@ GH
 Gigwa’s
 Grzegorz
 Hok
+jndmose
 Johan
 Jülich
 Kilian
@@ -25,9 +26,11 @@ LIMS
 López
 Lukas
 marieALaporte
+Nderitu
 NIRS
-puthick
+Puthick
 Sempéré
+SEQART
 situ
 Straße
 Université
