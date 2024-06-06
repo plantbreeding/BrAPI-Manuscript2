@@ -100,6 +100,12 @@ authors:
     email: ccourtn@clemson.edu
     affiliations:
       - Clemson University
+   - name: Keo Corak
+    github: keocorak
+    initials: KC
+    email: keo.corak@usda.gov
+    affiliations:
+      - USDA-ARS Genomics and Bioinformatics Research Unit 
   - name: Mariano Crimi
     initials: MC
     email: m.crimi@integratedbreeding.net
