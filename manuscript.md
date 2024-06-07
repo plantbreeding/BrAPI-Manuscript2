@@ -83,8 +83,8 @@ header-includes: |
   <meta name="dc.date" content="2024-06-07" />
   <meta name="citation_publication_date" content="2024-06-07" />
   <meta property="article:published_time" content="2024-06-07" />
-  <meta name="dc.modified" content="2024-06-07T13:30:38+00:00" />
-  <meta property="article:modified_time" content="2024-06-07T13:30:38+00:00" />
+  <meta name="dc.modified" content="2024-06-07T21:08:26+00:00" />
+  <meta property="article:modified_time" content="2024-06-07T21:08:26+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -257,9 +257,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/25d2a730abc404a4178c5198802d0d15cff54ad6/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/25d2a730abc404a4178c5198802d0d15cff54ad6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/25d2a730abc404a4178c5198802d0d15cff54ad6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/767c0d9314ee8cd442f8135b6b7ea6ae874a78e0/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/767c0d9314ee8cd442f8135b6b7ea6ae874a78e0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/767c0d9314ee8cd442f8135b6b7ea6ae874a78e0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -281,9 +281,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/25d2a730abc404a4178c5198802d0d15cff54ad6/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/767c0d9314ee8cd442f8135b6b7ea6ae874a78e0/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@25d2a73](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/25d2a730abc404a4178c5198802d0d15cff54ad6)
+from [plantbreeding/BrAPI-Manuscript2@767c0d9](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/767c0d9314ee8cd442f8135b6b7ea6ae874a78e0)
 on June 7, 2024.
 </em></small>
 
@@ -883,7 +883,9 @@ The BrAPI Hackathons are a major staple of the BrAPI community. Twice a year, th
 
 <!-- success stories highlighting BrAPI usefulness in breeding cycle. Perhaps reference the original BrAPI paper where possible use cases were proposed.  -->
 
-Below are a number of short success stories from the BrAPI community. These tools, applications, and infrastructure projects serve as another indicator of community growth and success over the past 5-10 years. These stories clearly illustrate all the different ways the BrAPI Standard can be used productively and in practice. 
+Below are a number of short success stories from the BrAPI community. These tools, applications, and infrastructure projects serve as another indicator of community growth and success over the past 5-10 years. These stories clearly illustrate all the different ways the BrAPI Standard can be used productively and in practice. Figure {@fig:apps} contains a summary of the tools described below.
+
+![A summary of all the tools described below and the general areas each tool is designed to handle](images/BrAPI_Paper_Applications_Chart.png){#fig:apps width="100%"}
 
 
 ### Phenotyping

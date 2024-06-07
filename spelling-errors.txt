@@ -17,7 +17,7 @@ FLORILÈGE
 georeferencing
 GH
 Gigwa’s
-grzegorz
+Grzegorz
 Hok
 jndmose
 Johan
@@ -33,7 +33,7 @@ Lukas
 marieALaporte
 Nderitu
 NIRS
-puthick
+Puthick
 RShiny
 SCT
 Sempéré
