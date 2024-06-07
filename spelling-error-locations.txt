@@ -31,7 +31,6 @@ content/03.05.02.Mr_Bean.md:3:Johan
 content/03.05.04.SCT.md:1:SCT
 content/03.05.04.SCT.md:3:Keo
 content/03.05.04.SCT.md:4:keocorak
-content/03.05.04.SCT.md:4:modularized
 content/03.05.04.SCT.md:4:RShiny
 content/03.05.04.SCT.md:4:SCT
 content/03.05.04.SCT.md:4:SCT

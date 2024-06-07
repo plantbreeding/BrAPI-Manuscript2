@@ -83,8 +83,8 @@ header-includes: |
   <meta name="dc.date" content="2024-06-07" />
   <meta name="citation_publication_date" content="2024-06-07" />
   <meta property="article:published_time" content="2024-06-07" />
-  <meta name="dc.modified" content="2024-06-07T13:20:28+00:00" />
-  <meta property="article:modified_time" content="2024-06-07T13:20:28+00:00" />
+  <meta name="dc.modified" content="2024-06-07T13:30:38+00:00" />
+  <meta property="article:modified_time" content="2024-06-07T13:30:38+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -257,9 +257,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/3d3ee4f3dcc95fa8476fd4371eb0b1864bbb1edb/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/3d3ee4f3dcc95fa8476fd4371eb0b1864bbb1edb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/3d3ee4f3dcc95fa8476fd4371eb0b1864bbb1edb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/25d2a730abc404a4178c5198802d0d15cff54ad6/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/25d2a730abc404a4178c5198802d0d15cff54ad6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/25d2a730abc404a4178c5198802d0d15cff54ad6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -281,9 +281,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/3d3ee4f3dcc95fa8476fd4371eb0b1864bbb1edb/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/25d2a730abc404a4178c5198802d0d15cff54ad6/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@3d3ee4f](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/3d3ee4f3dcc95fa8476fd4371eb0b1864bbb1edb)
+from [plantbreeding/BrAPI-Manuscript2@25d2a73](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/25d2a730abc404a4178c5198802d0d15cff54ad6)
 on June 7, 2024.
 </em></small>
 
@@ -1176,7 +1176,10 @@ G-Crunch, as a tool, couldn't feasibly exist without BrAPI. The support of BrAPI
 #### SCT
 
 <!-- Keo -->
-The [Sugarcane Crossing Tool (SCT)](https://keocorak.shinyapps.io/STract/) is a lightweight RShiny dashboard application designed to receive, process, and visualize data from a linked BreedBase [@doi:10.1093/g3journal/jkac078] instance. This application is being developed collaboratively with members of the [Sugarcane Integrated Breeding System](https://www.amscl.org/sugarcane-integrated-breeding-system/), who have advocated for an application that assists them in designing crosses based on queried information from a list of available accessions. By leveraging existing community resources, the team has been able to develop a simple, BrAPI-enabled, application without possessing extensive programming knowledge or experience. The SCT is presented as an inspiration for similarly positioned scientists to consider developing custom applications for specific tasks. The modularized, open source code is available in a [GitHub repository](https://github.com/USDA-ARS-GBRU/SugarcaneCrossingTool) for community reference and reuse. 
+The [Sugarcane Crossing Tool (SCT)](https://keocorak.shinyapps.io/STract/) is a lightweight RShiny dashboard application designed to receive, process, and visualize data from a linked BreedBase [@doi:10.1093/g3journal/jkac078] instance. This application is being developed collaboratively with members of the [Sugarcane Integrated Breeding System](https://www.amscl.org/sugarcane-integrated-breeding-system/), who have advocated for an application that assists them in designing crosses based on queried information from a list of available accessions. By leveraging existing community resources, the team has been able to develop a simple, BrAPI-enabled, application without possessing extensive programming knowledge or experience. The SCT is presented as an inspiration for similarly positioned scientists to consider developing custom applications for specific tasks. 
+
+<!-- Add this sentence if the repository becomes public -->
+<!-- The modularized, open source code is available in a [GitHub repository](https://github.com/USDA-ARS-GBRU/SugarcaneCrossingTool) for community reference and reuse.  -->
 
 The crossing tool utilizes a modified version of the [BrAPI-R](https://github.com/CIP-RIU/brapi) library to access a compliant database, and it employs standard R/JavaScript packages to aggregate and visualize data. Modules within the application allow breeders to query the database (through BrAPI) for information relevant to their decision-making process. This includes the number and sex of flowering accessions, deep pedigree and relatedness information, summarized trial data, and the prior frequency and success of potential cross combinations. Future versions of this tool will provide additional decision support (e.g. ranked potential crosses) to enhance the accuracy and efficiency of crossing.
 

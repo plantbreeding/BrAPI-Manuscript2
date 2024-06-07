@@ -17,7 +17,7 @@ FLORILÈGE
 georeferencing
 GH
 Gigwa’s
-Grzegorz
+grzegorz
 Hok
 jndmose
 Johan
@@ -31,7 +31,6 @@ LIMS
 López
 Lukas
 marieALaporte
-modularized
 Nderitu
 NIRS
 puthick
