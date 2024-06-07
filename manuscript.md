@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-05-31'
+date-meta: '2024-06-07'
 author-meta:
 - Peter Selby
 - Rafael Abbeloos
@@ -23,6 +23,7 @@ author-meta:
 - Alice Boizet
 - Matthijs Brouwer
 - Terry Casstevens
+- Keo Corak
 - Chaney Courtney
 - Mariano Crimi
 - Gouripriya Davuluri
@@ -53,6 +54,7 @@ author-meta:
 - Zachary Miller
 - Iain Milne
 - Lukas Mueller
+- Moses Nderitu
 - Cyril Pommier
 - Sebastian Raubach
 - Trevor Rife
@@ -67,7 +69,6 @@ author-meta:
 - Vivian Bass Vega
 - Stephan Weise
 - Shawn Yarnes
-- Moses Nderitu
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -79,11 +80,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-05-31" />
-  <meta name="citation_publication_date" content="2024-05-31" />
-  <meta property="article:published_time" content="2024-05-31" />
-  <meta name="dc.modified" content="2024-05-31T17:37:58+00:00" />
-  <meta property="article:modified_time" content="2024-05-31T17:37:58+00:00" />
+  <meta name="dc.date" content="2024-06-07" />
+  <meta name="citation_publication_date" content="2024-06-07" />
+  <meta property="article:published_time" content="2024-06-07" />
+  <meta name="dc.modified" content="2024-06-07T13:20:28+00:00" />
+  <meta property="article:modified_time" content="2024-06-07T13:20:28+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -128,6 +129,8 @@ header-includes: |
   <meta name="citation_author" content="Terry Casstevens" />
   <meta name="citation_author_institution" content="Cornell University" />
   <meta name="citation_author_orcid" content="0000-0001-7602-0487" />
+  <meta name="citation_author" content="Keo Corak" />
+  <meta name="citation_author_institution" content="USDA-ARS Genomics and Bioinformatics Research Unit" />
   <meta name="citation_author" content="Chaney Courtney" />
   <meta name="citation_author_institution" content="Clemson University" />
   <meta name="citation_author" content="Mariano Crimi" />
@@ -206,6 +209,8 @@ header-includes: |
   <meta name="citation_author_institution" content="The James Hutton Institute" />
   <meta name="citation_author_orcid" content="0000-0002-4126-0859" />
   <meta name="citation_author" content="Lukas Mueller" />
+  <meta name="citation_author" content="Moses Nderitu" />
+  <meta name="citation_author_institution" content="SEQART AFRICA" />
   <meta name="citation_author" content="Cyril Pommier" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
@@ -246,17 +251,15 @@ header-includes: |
   <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
   <meta name="citation_author_orcid" content="0000-0003-4031-9131" />
   <meta name="citation_author" content="Shawn Yarnes" />
-  <meta name="citation_author" content="Moses Nderitu" />
-  <meta name="citation_author_institution" content="SEQART AFRICA" />
   <link rel="canonical" href="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="og:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="twitter:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/a58159bd9e79eed9b53cfdd6a7b17fcbd15cdbfe/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/a58159bd9e79eed9b53cfdd6a7b17fcbd15cdbfe/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/a58159bd9e79eed9b53cfdd6a7b17fcbd15cdbfe/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/3d3ee4f3dcc95fa8476fd4371eb0b1864bbb1edb/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/3d3ee4f3dcc95fa8476fd4371eb0b1864bbb1edb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/3d3ee4f3dcc95fa8476fd4371eb0b1864bbb1edb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -278,10 +281,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/a58159bd9e79eed9b53cfdd6a7b17fcbd15cdbfe/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/3d3ee4f3dcc95fa8476fd4371eb0b1864bbb1edb/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@a58159b](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/a58159bd9e79eed9b53cfdd6a7b17fcbd15cdbfe)
-on May 31, 2024.
+from [plantbreeding/BrAPI-Manuscript2@3d3ee4f](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/3d3ee4f3dcc95fa8476fd4371eb0b1864bbb1edb)
+on June 7, 2024.
 </em></small>
 
 
@@ -408,6 +411,15 @@ on May 31, 2024.
     <br>
   <small>
      Cornell University
+  </small>
+
++ **Keo Corak**
+  <br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [keocorak](https://github.com/keocorak)
+    <br>
+  <small>
+     USDA-ARS Genomics and Bioinformatics Research Unit
   </small>
 
 + **Chaney Courtney**
@@ -666,6 +678,15 @@ on May 31, 2024.
   <small>
   </small>
 
++ **Moses Nderitu**
+  <br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [jndmose](https://github.com/jndmose)
+    <br>
+  <small>
+     SEQART AFRICA
+  </small>
+
 + **Cyril Pommier**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
@@ -796,15 +817,6 @@ on May 31, 2024.
   <small>
   </small>
 
-+ **Moses Nderitu**
-  <br>
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [jndmose](https://github.com/jndmose)
-    <br>
-  <small>
-     SEQART AFRICA
-  </small>
-
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/plantbreeding/BrAPI-Manuscript2/issues)
@@ -932,7 +944,7 @@ Furthermore, as PHIS offers BrAPI-compliant Web Services, it simplifies the inte
 
 To share the phenotype data of the experiments linked to publications, an implementation of BrAPI v1.3 was developed which allowed read only access to the data in the BrAPI standardized format. This server was registered on [FAIDARE](https://urgi.versailles.inrae.fr/faidare/) [@https://urgi.versailles.inrae.fr/faidare/] which allows the data to be found alongside data from other BrAPI compatible repositories.
 
-As the BrAPI ecosystem has matured, it has created a clear path for the further development of PIPPA. THe BrAPI specification demonstrates how to share data in a manner consistent with the FAIR principles, [@doi:10.1038/sdata.2016.18] which are becoming best practices in plant research data management. The BrAPI technical standard, in combination with the [MIAPPE](https://www.miappe.org/) [@doi:https://doi.org/10.1111/nph.16544] scientific standard, have served as guidelines in the current development effort of the PIPPA project. This development is focused on delivering a public BrAPI v2.1 endpoint and making more high throughput datasets publicly available via BrAPI.
+As the BrAPI ecosystem has matured, it has created a clear path for the further development of PIPPA. THe BrAPI specification demonstrates how to share data in a manner consistent with the FAIR principles, [@doi:10.1038/sdata.2016.18] which are becoming best practices in plant research data management. The BrAPI technical standard, in combination with the [MIAPPE](https://www.miappe.org/) [@doi:10.1111/nph.16544] scientific standard, have served as guidelines in the current development effort of the PIPPA project. This development is focused on delivering a public BrAPI v2.1 endpoint and making more high throughput datasets publicly available via BrAPI.
 
 
 #### Trait Selector BrAPP
@@ -960,8 +972,10 @@ Genotyping has become a cornerstone of most breeding processes, but the data can
 
 #### DArTView
 
-<!-- Peter S: Stub paragraph to stimulate the writing process. Please edit, rewrite, or delete as needed. -->
-DArTView is a desktop application for visualizing genotype variant data and looking for trends or correlations. It is newly BrAPI compatible and can use BrAPI as an input data source.
+<!-- Moses N -->
+DArTView is a desktop application for marker data curation via metadata filtering. DArTView enables genotype variant data visualization and users can easily identify trends or correlations within their data using the tool. Its primary goal is to overcome tedious manual calculation of marker data through common spreadsheet applications like Excel. Users are able to import marker data from csv files, but DArTView has been recently enhanced to be BrAPI compatible. Users can now use any BrAPI compatible server as an input data source. BrAPI provides a consistent data standard across databases and data resources. DArTView's compatibility with BrAPI also ensures easy integration with other tools and pipelines that would use DArTView for marker filtering and exploration.
+
+Initially developed by Diversity Arrays Technology (DArT), the tool is gaining popularity within the breeding community, especially in Africa. Future releases will focus on enhancing the BrAPI compatibility, making it accessible to more breeders and researchers in the region. A web enabled version of DArTView is in development. This new version will allow for further collaboration opportunities with other interested partners who would like to integrate it as part of their pipelines.
 
 
 #### DivBrowse
@@ -1157,6 +1171,14 @@ Mr.Bean boasts flexibility in importing different file types, yet for users mana
 G-Crunch is an upcoming user-facing analysis tool that attempts to fill the space of simple, user driven analytics requests, with a generic user interface and the ability to swap out data sources and analysis tools. G-Crunch hopes to streamline repeatable, debuggable, simple analytic requests and results.
 
 G-Crunch, as a tool, couldn't feasibly exist without BrAPI. The support of BrAPI interfaces allows G-Crunch to use one unified request method, and adapt to the user's (BrAPI-compliant) existing network of tools. This lowers the barrier to entry for adoption, and makes analysis pipelines easily repeatable. 
+
+
+#### SCT
+
+<!-- Keo -->
+The [Sugarcane Crossing Tool (SCT)](https://keocorak.shinyapps.io/STract/) is a lightweight RShiny dashboard application designed to receive, process, and visualize data from a linked BreedBase [@doi:10.1093/g3journal/jkac078] instance. This application is being developed collaboratively with members of the [Sugarcane Integrated Breeding System](https://www.amscl.org/sugarcane-integrated-breeding-system/), who have advocated for an application that assists them in designing crosses based on queried information from a list of available accessions. By leveraging existing community resources, the team has been able to develop a simple, BrAPI-enabled, application without possessing extensive programming knowledge or experience. The SCT is presented as an inspiration for similarly positioned scientists to consider developing custom applications for specific tasks. The modularized, open source code is available in a [GitHub repository](https://github.com/USDA-ARS-GBRU/SugarcaneCrossingTool) for community reference and reuse. 
+
+The crossing tool utilizes a modified version of the [BrAPI-R](https://github.com/CIP-RIU/brapi) library to access a compliant database, and it employs standard R/JavaScript packages to aggregate and visualize data. Modules within the application allow breeders to query the database (through BrAPI) for information relevant to their decision-making process. This includes the number and sex of flowering accessions, deep pedigree and relatedness information, summarized trial data, and the prior frequency and success of potential cross combinations. Future versions of this tool will provide additional decision support (e.g. ranked potential crosses) to enhance the accuracy and efficiency of crossing.
 
 
 ### General Infrastructure 

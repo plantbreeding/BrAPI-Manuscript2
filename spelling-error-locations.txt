@@ -1,6 +1,8 @@
 content/02.introduction.md:26:APIs
 content/03.01.02.GridScore.md:8:barcodes
 content/03.01.02.GridScore.md:8:georeferencing
+content/03.02.02.DArTView.md:4:curation
+content/03.02.02.DArTView.md:4:DArTView's
 content/03.02.04.GIGWA.md:4:EE
 content/03.02.04.GIGWA.md:6:Gigwa's
 content/03.02.06.DArT.md:3:Grzegorz
@@ -26,3 +28,10 @@ content/03.04.03.Breedbase.md:3:Lukas
 content/03.04.03.Breedbase.md:4:NIRS
 content/03.04.03.Breedbase.md:6:webpage
 content/03.05.02.Mr_Bean.md:3:Johan
+content/03.05.04.SCT.md:1:SCT
+content/03.05.04.SCT.md:3:Keo
+content/03.05.04.SCT.md:4:keocorak
+content/03.05.04.SCT.md:4:modularized
+content/03.05.04.SCT.md:4:RShiny
+content/03.05.04.SCT.md:4:SCT
+content/03.05.04.SCT.md:4:SCT

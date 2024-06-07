@@ -7,7 +7,10 @@ Berlinstraße
 Boizet
 Célia
 CIAT
+Corak
+curation
 DArTdb
+DArTView’s
 EE
 Florilège
 FLORILÈGE
@@ -19,6 +22,8 @@ Hok
 jndmose
 Johan
 Jülich
+Keo
+keocorak
 Kilian
 König
 Laporte
@@ -26,9 +31,12 @@ LIMS
 López
 Lukas
 marieALaporte
+modularized
 Nderitu
 NIRS
-Puthick
+puthick
+RShiny
+SCT
 Sempéré
 SEQART
 situ
