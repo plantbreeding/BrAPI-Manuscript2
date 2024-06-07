@@ -94,18 +94,18 @@ authors:
     orcid: 0000-0001-7602-0487
     affiliations: 
       - Cornell University
+  - name: Keo Corak
+    github: keocorak
+    initials: KC
+    email: keo.corak@usda.gov
+    affiliations:
+      - USDA-ARS Genomics and Bioinformatics Research Unit 
   - name: Chaney Courtney
     github: chaneylc
     initials: CC
     email: ccourtn@clemson.edu
     affiliations:
       - Clemson University
-   - name: Keo Corak
-    github: keocorak
-    initials: KC
-    email: keo.corak@usda.gov
-    affiliations:
-      - USDA-ARS Genomics and Bioinformatics Research Unit 
   - name: Mariano Crimi
     initials: MC
     email: m.crimi@integratedbreeding.net
@@ -279,6 +279,12 @@ authors:
     affiliations:
       - The James Hutton Institute
   - name: Lukas Mueller
+  - name: Moses Nderitu
+    github: jndmose
+    email: m.nderitu@seqart.net
+    initials: MN
+    affiliations:
+      - SEQART AFRICA
   - name: Cyril Pommier
     initials: CP
     github: cpommier
@@ -369,9 +375,3 @@ authors:
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
   - name: Shawn Yarnes
-  - name: Moses Nderitu
-    github: jndmose
-    email: m.nderitu@seqart.net
-    initials: MN
-    affiliations:
-      - SEQART AFRICA
