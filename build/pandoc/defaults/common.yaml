@@ -10,5 +10,5 @@ filters:
 wrap: preserve
 metadata:
   #csl: build/assets/style.csl
-  csl: https://www.zotero.org/styles/nature.csl
+  csl: https://www.zotero.org/styles/nature
   link-citations: true
