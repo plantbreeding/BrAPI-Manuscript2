@@ -20,7 +20,7 @@ FLORILÈGE
 georeferencing
 GH
 Gigwa’s
-Grzegorz
+grzegorz
 Hok
 jndmose
 Johan
@@ -38,7 +38,7 @@ Nderitu
 NIRS
 NOAA
 OpenAPI
-puthick
+Puthick
 RShiny
 SCT
 Sempéré

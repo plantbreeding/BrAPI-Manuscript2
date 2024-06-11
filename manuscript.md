@@ -83,8 +83,8 @@ header-includes: |
   <meta name="dc.date" content="2024-06-11" />
   <meta name="citation_publication_date" content="2024-06-11" />
   <meta property="article:published_time" content="2024-06-11" />
-  <meta name="dc.modified" content="2024-06-11T20:11:10+00:00" />
-  <meta property="article:modified_time" content="2024-06-11T20:11:10+00:00" />
+  <meta name="dc.modified" content="2024-06-11T22:01:59+00:00" />
+  <meta property="article:modified_time" content="2024-06-11T22:01:59+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -257,9 +257,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/017de2e19f0bde9e809a6b4d9cc5db820a293174/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/017de2e19f0bde9e809a6b4d9cc5db820a293174/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/017de2e19f0bde9e809a6b4d9cc5db820a293174/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/98e808867a27cccd266e497e9fc5b990a81fb7c3/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/98e808867a27cccd266e497e9fc5b990a81fb7c3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/98e808867a27cccd266e497e9fc5b990a81fb7c3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -281,9 +281,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/017de2e19f0bde9e809a6b4d9cc5db820a293174/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/98e808867a27cccd266e497e9fc5b990a81fb7c3/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@017de2e](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/017de2e19f0bde9e809a6b4d9cc5db820a293174)
+from [plantbreeding/BrAPI-Manuscript2@98e8088](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/98e808867a27cccd266e497e9fc5b990a81fb7c3)
 on June 11, 2024.
 </em></small>
 
@@ -1064,6 +1064,7 @@ The Scientific Advisory Committee of the ITPGRFA have repeatedly welcomed effort
 
 #### FLORILÈGE (Gateway to French Plant Genetic Resources)
 
+<!-- Alice B -->
 Designed primarily for the general public, Florilège provides access to public collections of all French plant biological resources centers. This web portal allows a user to browse available plant genetic resource accessions and allows the user to order some seeds or plant material for cultivation. It includes plant genetic resources of around 50 plant genus from 19 genebanks.
 
 Florilège retrieves accession information from different BrAPI compliant systems. They include OLGA, a genebank accessions information management system, and GnpIS, an INRAE data repository for plant genetic resources, phenomics, and genetics [@doi:10.34133/2019/1671403;@doi:10.1007/978-1-4939-6658-5_5]. Using BrAPI to gather data from these systems reduced development efforts and enabled standardized data retrieval. As a consequence, BrAPI is the de facto standard for exchanging data within the French plant genetic resources community. The Florilège team also requested several updates to the BrAPI specifications to better serve this use case, such as Collection or improved external references.
@@ -1188,7 +1189,7 @@ Phenotyping is crucial in the breeding process as it enables the identification 
 MIRA is a tool that enables the automatic deployment of a BrAPI server on a MIAPPE-compliant dataset in ISA Tab format. It can be deployed from a Docker image with the dataset mounted. By utilizing the mapping between MIAPPE, ISA, and BrAPI, there is no need for parsing or manual mapping of datasets that are already compliant with (meta-)data standards. By gaining programmatic access through BrAPI to these datasets, it facilitates the integration of phenotyping datasets into web applications.
 
 
-#### MIAPPE "BrAPI to ISA" service
+#### MIAPPE "BrAPI2ISA" service
 
 <!-- Bert -->
 Since the release of BrAPI 1.3, efforts have been made to incorporate support for the MIAPPE standard into the specification [@doi:10.1111/nph.16544]. This integration was finalized in BrAPI 2.0, resulting in full compatibility between the two standards. Consequently, BrAPI now encompasses all attributes necessary for MIAPPE compliance, adhering to standardized descriptions in accordance with MIAPPE guidelines. Leveraging BrAPI as a standardized RESTful web service API specification, we employ the ISA standard for storing metadata and phenotyping data in a standardized manner. This data is structured in the ISA-TAB file format and subjected to validation using the [MIAPPE ISA configuration](https://github.com/ELIXIR-Belgium/isatab-validation). The "BrAPI to ISA" service functions as a converter between BrAPI RESTful endpoints and ISA-TAB, facilitating the archiving of metadata and data and thereby enhancing data preservation and accessibility. The [BrAPI2ISA](https://github.com/elixir-europe/plant-brapi-to-isa) tool is designed to be compatible with BrAPI 1.3, and we invite contributions from the community to extend support for the latest versions of BrAPI.
@@ -1234,7 +1235,7 @@ The BrAPI specification will continue to grow, enabling more use cases and new t
 
 Expanding the BrAPI specification is important for the community, however it is important not to reinvent or compete with existing functional standards. Additions to the BrAPI specification are reviewed thoroughly by the community to make sure BrAPI is compliant with existing standards and data structures. For example, BrAPI is compliant with MIAPPE, MCPD, and VCF, adding pieces of these existing popular data structures into the overall standard. In some cases, BrAPI will reference other standards instead of including them in the specification. For example, the NOAA CDO standard for weather data, or the Galaxy Analytics API for analytics pipeline controls and information. These standards are perfectly adequate on their own, and recreating them in the BrAPI standard would be redundant.    
 
-## Conclusion
+### Conclusion
 
 The BrAPI project only exists because of the community of breeders, software engineers, and scientists who support and use it. WHile there were many tools and use cases presented here, it is not an exhaustive list of BrAPI compliant systems. As long as the standard continues to be supported, there is potential for exponential growth of the community. As more groups make their tools BrAPI compliant, these tools can be shared with the community. As more BrAPI compliant tools are shared with the community, more groups can see the value in implementing BrAPI in their own tools. This feedback loop will allow the community to strengthen and grow.
 
@@ -1254,16 +1255,88 @@ As discussed above, hackathon events are the primary way the BrAPI community sta
 
 ## Data Availability Statement {.page_break_before}
 
-## Code Availability Statement {.page_break_before}
+No data was generated from this project.
 
-## References {.page_break_before}
+## Code Availability Statement 
 
-<!-- Explicitly insert bibliography here -->
-<div id="refs"></div>
+The all of software and documentation generated by the BrAPI project is free, public, and open source. Everything is available under the MIT open source license, and can be accessed through [brapi.org](https://brapi.org). Most of the other software projects referenced and discussed here are also open source and the text contain links to their repositories or project pages. However, the authors take no responsibility for their availability or licensing. 
 
-## Acknowledgements {.page_break_before}
+## Competing Interests Statement 
+
+The authors declare no competing interests.
+
+## Acknowledgements 
+
+The authors would like to acknowledge the following funding sources:
+
++ USDA NIFA-DSFAS 2022-67021-37024
++ This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
 
 ## Author Contributions {.page_break_before}
 
-## Competing Interests Statement {.page_break_before}
++ Peter Selby: Peter wrote and edited a significant portion of the manuscript. Peter has been the BrAPI Project Coordinator since 2017, managing the day-to-day operations of the BrAPI project.
++ Rafael Abbeloos: Rafael wrote the section on the PIPPA project, and has made significant contributions to the BrAPI compatibility of the PIPPA project.
++ Anne-Francoise Adam-Blondon: Anne-Francoise has made significant contributions to the Florilège and Faidare projects.
++ Francisco Agosto: Francisco wrote the section on the ImageBreed project, and has made significant contributions to the BrAPI compatibility of the ImageBreed project.
++ Michael Alaux: Michael has made significant contributions to the AGENT Portal project.
++ Isabelle Alic: Isabelle wrote the section on the PHIS project, and has made significant contributions to the BrAPI compatibility of the PHIS project.
++ Khaled Al-Shamaa: Khaled wrote the section on the QBMS project, and has made significant contributions to the BrAPI compatibility of the QBMS project.
++ Johan Steven Aparicio: Johan wrote the section on the Mr.Bean project, and has made significant contributions to the BrAPI compatibility of the Mr.Bean project.
++ Jan Erik Backlund: Jan Erik has made significant contributions to the BMS project.
++ Aldrin Batac: Aldrin has made significant contributions to the BMS project.
++ Sebastian Beier: Sebastian wrote the section on the DivBrowse project, and has made significant contributions to the BrAPI compatibility of the DivBrowse project.
++ Alice Boizet: Alice wrote the section on the Florilège project, and has made significant contributions to the BrAPI compatibility of the Florilège and Faidare projects.
++ Matthijs Brouwer: Matthijs has made significant contributions to the AGENT Portal project.
++ Terry Casstevens: Terry has made significant contributions to the PHG project.
++ Keo Corak: Keo wrote the section on the SCT project, and has made significant contributions to the BrAPI compatibility of the SCT project.
++ Chaney Courtney: Chaney wrote the section on the Field Book project, and has made significant contributions to the BrAPI compatibility of the Field Book project.
++ Mariano Crimi: Mariano has made significant contributions to the BMS project.
++ Gouripriya Davuluri: Gouripriya has made significant contributions to the AGENT Portal project.
++ Jeremy Destin: Jeremy has made significant contributions to the Florilège and Faidare projects.
++ Bert Droesbeke: Bert wrote the section on the BrAPI2ISA project, and has made significant contributions to the BrAPI compatibility of the BrAPI2ISA project.
++ Manuel Feser: Manuel wrote the section on the MIRA project, and has made significant contributions to the BrAPI compatibility of the MIRA project.
++ Mirella Flores-Gonzalez: Mirella wrote the section on the Trait Selector BrAPP project, and has made significant contributions to the BrAPI compatibility of the Trait Selector BrAPP and Breedbase projects.
++ Valentin Guignon: Valentin wrote the section on the BrAPI Mapper project, and has made significant contributions to the BrAPI compatibility of the BrAPI Mapper and MGIS projects.
++ Corina Habito: Corina wrote the section on the BMS project, and has made significant contributions to the BrAPI compatibility of the BMS project.
++ Asis Hallab: Asis wrote the section on the Zendro project, and has made significant contributions to the BrAPI compatibility of the Zendro project.
++ Puthick Hok: Puthick has made significant contributions to the DArT Sample Submission project.
++ Lynn Johnson: Lynn wrote the section on the PHG project, and has made significant contributions to the BrAPI compatibility of the PHG project.
++ Sook Jung: Sook wrote the section on the BIMS project, and has made significant contributions to the BrAPI compatibility of the BIMS project.
++ Paul Kersey: Paul has made significant contributions to the AGENT Portal project.
++ Andrzej Kilian: Andrzej has made significant contributions to the DArT Sample Submission and DArTView projects.
++ Patrick König: Patrick has made significant contributions to the AGENT Portal project.
++ Suman Kumar: Suman has made significant contributions to the AGENT Portal project.
++ Josh Lamos-Sweeney: Josh wrote the section on the G-Crunch project, and has made significant contributions to the BrAPI compatibility of the G-Crunch project.
++ Laszlo Lang: Laszlo has made significant contributions to the Zendro project.
++ Matthias Lange: Matthias wrote the section on the AGENT Portal project, and has made significant contributions to the BrAPI compatibility of the AGENT Portal project.
++ Marie Angelique Laporte: Marie wrote the section on the ClimMob project, and has made significant contributions to the BrAPI compatibility of the ClimMob project.
++ Taein Lee: Taein has made significant contributions to the BIMS project.
++ Erwan Le-Floch: Erwan has made significant contributions to the AGENT Portal project.
++ Francisco López: Francisco has made significant contributions to the GLIS project.
++ Marco Marsella: Marco wrote the section on the GLIS project, and has made significant contributions to the BrAPI compatibility of the GLIS project.
++ Maud Marty: Maud has made significant contributions to the Florilège and Faidare projects.
++ Célia Michotey: Célia has made significant contributions to the Florilège and Faidare projects.
++ Zachary Miller: Zachary has made significant contributions to the PHG project.
++ Iain Milne: Iain has made significant contributions to the Flapjack, Gridscore, and Germinate projects.
++ Lukas Mueller: Lukas wrote the section on the Breedbase project, and has made significant contributions to the BrAPI compatibility of the Breedbase project. Lukas is also Co-PI on the current BrAPI Grant and has supported the project since its inception.
++ Moses Nderitu: Moses wrote the section on the DArTView project, and has made significant contributions to the BrAPI compatibility of the DArTView project.
++ Cyril Pommier: Cyril wrote the section on the Faidare project, and has made significant contributions to the BrAPI compatibility of the Florilège, Faidare, and AGENT Portal projects.
++ Sebastian Raubach: Sebastian wrote the sections on the GridScore and Germinate projects, and has made significant contributions to the BrAPI compatibility of the GridScore, Germinate, and Flapjack projects.
++ Trevor Rife: Trevor has made significant contributions to the Field Book project.
++ Mathieu Rouard: Mathieu wrote the section on the MGIS project, and has made significant contributions to the BrAPI compatibility of the MGIS project.
++ Joseph Ruff: Joseph has made significant contributions to the AGENT Portal project.
++ Guilhem Sempéré: Guilhem wrote the section on the Gigwa project, and has made significant contributions to the BrAPI compatibility of the Gigwa project.
++ Paul Shaw: Paul wrote the section on the Helium project, and has made significant contributions to the BrAPI compatibility of the Helium project.
++ Becky Smith: Becky has made significant contributions to the Flapjack project.
++ Nahuel Soldevilla: Nahuel has made significant contributions to the BMS project.
++ Clarysabel Tovar: Clarysabel has made significant contributions to the BMS project.
++ Grzegorz Uszynski: Grzegorz wrote the section on the DArT Sample Submission project, and has made significant contributions to the BrAPI compatibility of the DArT Sample Submission project.
++ Vivian Bass Vega: Vivian has made significant contributions to the Zendro project.
++ Stephan Weise: Stephan has made significant contributions to the AGENT Portal project.
++ Shawn Yarnes: Shawn wrote the section on the DeltaBreed project, and has made significant contributions to the BrAPI compatibility of the DeltaBreed project.
+
+## References {.page_break_before}
+
+<!-- Auto generated references here -->
+<div id="refs"></div>
 
