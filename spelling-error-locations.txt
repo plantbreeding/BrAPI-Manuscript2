@@ -34,3 +34,9 @@ content/03.05.04.SCT.md:4:keocorak
 content/03.05.04.SCT.md:4:RShiny
 content/03.05.04.SCT.md:4:SCT
 content/03.05.04.SCT.md:4:SCT
+content/04.discussion.md:21:CDO
+content/04.discussion.md:21:NOAA
+content/05.methods.md:5:accessability
+content/05.methods.md:5:OpenAPI
+content/05.methods.md:5:SwaggerHub
+content/05.methods.md:9:comradery

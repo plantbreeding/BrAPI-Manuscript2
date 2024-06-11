@@ -1,3 +1,4 @@
+accessability
 Agosto
 Andrzej
 Aparicio
@@ -5,8 +6,10 @@ APIs
 barcodes
 Berlinstraße
 Boizet
+CDO
 Célia
 CIAT
+comradery
 Corak
 curation
 DArTdb
@@ -33,13 +36,16 @@ Lukas
 marieALaporte
 Nderitu
 NIRS
-Puthick
+NOAA
+OpenAPI
+puthick
 RShiny
 SCT
 Sempéré
 SEQART
 situ
 Straße
+SwaggerHub
 Université
 Uszynski
 webpage
