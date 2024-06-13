@@ -1,6 +1,7 @@
 content/02.introduction.md:26:APIs
 content/03.01.02.GridScore.md:8:barcodes
 content/03.01.02.GridScore.md:8:georeferencing
+content/03.01.--.HEADER.Phenotyping.md:4:curation
 content/03.02.02.DArTView.md:4:curation
 content/03.02.02.DArTView.md:4:DArTView's
 content/03.02.04.GIGWA.md:4:EE
@@ -11,6 +12,10 @@ content/03.02.06.DArT.md:3:Puthick
 content/03.02.06.DArT.md:3:Uszynski
 content/03.02.06.DArT.md:4:DArTdb
 content/03.02.06.DArT.md:4:LIMS
+content/03.02.--.HEADER.Genotyping.md:4:GBS
+content/03.02.--.HEADER.Genotyping.md:4:SNP
+content/03.02.--.HEADER.Genotyping.md:4:SSRs
+content/03.02.--.HEADER.Genotyping.md:4:WGS
 content/03.03.01.MGIS.md:4:Florilège
 content/03.03.01.MGIS.md:4:Florilège
 content/03.03.02.AGENT_Portal.md:2:König

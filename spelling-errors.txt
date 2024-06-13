@@ -17,6 +17,7 @@ DArTView’s
 EE
 Florilège
 FLORILÈGE
+GBS
 georeferencing
 GH
 Gigwa’s
@@ -44,9 +45,12 @@ SCT
 Sempéré
 SEQART
 situ
+SNP
+SSRs
 Straße
 SwaggerHub
 Université
 Uszynski
 webpage
+WGS
 Yarnes
