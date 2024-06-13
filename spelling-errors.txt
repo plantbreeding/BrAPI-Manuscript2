@@ -38,7 +38,7 @@ Nderitu
 NIRS
 NOAA
 OpenAPI
-Puthick
+puthick
 RShiny
 SCT
 Sempéré
