@@ -1,5 +1,6 @@
 accessability
 Agosto
+Ajay
 Andrzej
 Aparicio
 APIs
@@ -14,14 +15,16 @@ Corak
 curation
 DArTdb
 DArTView’s
+Dhungana
 EE
 Florilège
 FLORILÈGE
 GBS
+GenAjay
 georeferencing
 GH
 Gigwa’s
-grzegorz
+Grzegorz
 Hok
 jndmose
 Johan
@@ -33,6 +36,7 @@ König
 Laporte
 LIMS
 López
+LSU
 Lukas
 marieALaporte
 Nderitu

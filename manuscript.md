@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-06-13'
+date-meta: '2024-06-17'
 author-meta:
 - Peter Selby
 - Rafael Abbeloos
@@ -28,6 +28,7 @@ author-meta:
 - Mariano Crimi
 - Gouripriya Davuluri
 - Jeremy Destin
+- Ajay Dhungana
 - Bert Droesbeke
 - Manuel Feser
 - Mirella Flores-Gonzalez
@@ -80,11 +81,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-06-13" />
-  <meta name="citation_publication_date" content="2024-06-13" />
-  <meta property="article:published_time" content="2024-06-13" />
-  <meta name="dc.modified" content="2024-06-13T19:45:19+00:00" />
-  <meta property="article:modified_time" content="2024-06-13T19:45:19+00:00" />
+  <meta name="dc.date" content="2024-06-17" />
+  <meta name="citation_publication_date" content="2024-06-17" />
+  <meta property="article:published_time" content="2024-06-17" />
+  <meta name="dc.modified" content="2024-06-17T19:07:56+00:00" />
+  <meta property="article:modified_time" content="2024-06-17T19:07:56+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -140,6 +141,8 @@ header-includes: |
   <meta name="citation_author" content="Jeremy Destin" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
+  <meta name="citation_author" content="Ajay Dhungana" />
+  <meta name="citation_author_institution" content="Louisiana State University (LSU)" />
   <meta name="citation_author" content="Bert Droesbeke" />
   <meta name="citation_author_institution" content="VIB Data Core" />
   <meta name="citation_author_orcid" content="0000-0003-0522-5674" />
@@ -257,9 +260,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d0e14601cfe2d4eec932533477d6602c0bd8d640/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d0e14601cfe2d4eec932533477d6602c0bd8d640/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d0e14601cfe2d4eec932533477d6602c0bd8d640/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/2b65f508d9a70fc30ec00fa0ba9825e8a0e0caff/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/2b65f508d9a70fc30ec00fa0ba9825e8a0e0caff/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/2b65f508d9a70fc30ec00fa0ba9825e8a0e0caff/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -281,10 +284,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/d0e14601cfe2d4eec932533477d6602c0bd8d640/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/2b65f508d9a70fc30ec00fa0ba9825e8a0e0caff/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@d0e1460](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/d0e14601cfe2d4eec932533477d6602c0bd8d640)
-on June 13, 2024.
+from [plantbreeding/BrAPI-Manuscript2@2b65f50](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/2b65f508d9a70fc30ec00fa0ba9825e8a0e0caff)
+on June 17, 2024.
 </em></small>
 
 
@@ -447,6 +450,15 @@ on June 13, 2024.
   <br>
   <small>
      Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
+  </small>
+
++ **Ajay Dhungana**
+  <br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [GenAjay](https://github.com/GenAjay)
+    <br>
+  <small>
+     Louisiana State University (LSU)
   </small>
 
 + **Bert Droesbeke**
@@ -896,7 +908,9 @@ Phenotyping is fundamental to plant breeding, providing the accurate, high-quali
 #### Field Book
 
 <!-- Trevor and Chaney -->
-Phenotypic data collection is an essential part of the breeding process. Historically, gathering data in the field was done with pen and paper, or perhaps some version of a digital spreadsheet. The abundance and prevalence of smart phones has allowed the Field Book mobile app [@doi:10.2135/cropsci2013.08.0579] to enhance data collection. Field Book can create well-formed digital observation records from the moment they are taken. This can improve the efficiency of data collection and reduce human error. 
+Phenotypic data collection underpins scientific crop research and plant breeding. Knowledge gained from collected data and its analysis alongside data visualizations inform further phenotypic trials and ideally support research hypotheses. The importance of accuracy and efficiency in the collection of this data as well as the infrastructure to facilitate the flow of data from the field to a knowledge base cannot be underestimated. 
+
+Historically, gathering data in the field was done with pen and paper, or perhaps some version of a digital spreadsheet. The abundance and prevalence of smart phones has allowed the Field Book mobile app [@doi:10.2135/cropsci2013.08.0579] to enhance data collection. Field Book can create well-formed digital observation records from the moment they are taken. This can improve the efficiency of data collection and reduce human error. 
 
 In 2018, BrAPI was introduced into Field Book; specifically, the Core and Phenotyping modules. BrAPI was able to take things a step further by automating the flow of data from the Field Book mobile app to a central database server. This workflow allows data collection and storage to be expedited, removing the need of the user to transfer export files manually. Since Field Book’s adoption of BrAPI, many community servers have been integrated to simplify data storage. In this work flow, data is collected and stored completely digitally with little-to-no human involvement.
 
@@ -906,9 +920,8 @@ In 2018, BrAPI was introduced into Field Book; specifically, the Core and Phenot
 <!-- Sebastian R -->
 <!-- Make distinct from Field Book, highlight what makes GridScore different -->
 <!-- Better flow is needed between Field Book and GridScore -->
-Phenotypic data collection underpins scientific crop research and plant breeding. Knowledge gained from collected data and its analysis alongside data visualizations inform further phenotypic trials and ideally support research hypotheses. The importance of accuracy and efficiency in the collection of this data as well as the infrastructure to facilitate the flow of data from the field to a knowledge base cannot be underestimated. 
 
-[GridScore](https://ics.hutton.ac.uk/get-gridscore/) [@doi:10.1186/s12859-022-04755-2] is a modern mobile application for phenotypic observations that harnesses technological advancements in the area of mobile devices to enrich the data collection process. GridScore focuses on user experience by closely mirroring the look and feel of printed field plans but enriching the experience with a wide range of functionalities including data validation, a huge range of visualizations, georeferencing, cross-platform support and BrAPI-independent data synchronization where multiple devices used for data collection are kept synchronized throughout. GridScore is a multi-platform tool which works on any reasonably modern device with a browser including laptops, PCs, tablets and phones. Once created, trials can be transferred to collection devices using a Quick Response (QR) code. Its approach towards data collection uses a top-down view onto the trial but also offers field navigation mechanisms using barcodes or QR codes or guided walks which take the data collector through the field in one of 16 pre-defined orders.
+[GridScore](https://ics.hutton.ac.uk/get-gridscore/) [@doi:10.1186/s12859-022-04755-2] is a modern mobile application for phenotypic observations that harnesses technological advancements in the area of mobile devices to enrich the data collection process. GridScore focuses on user experience by closely mirroring the look and feel of printed field plans but enriching the experience with a wide range of functionalities including data validation, a huge range of visualizations, georeferencing, cross-platform support, and BrAPI-independent data synchronization across multiple devices. GridScore is a multi-platform tool which works on any reasonably modern device with a web browser including laptops, PCs, tablets and phones. Once created, trials can be transferred to collection devices using a Quick Response (QR) code. Its approach towards data collection uses a top-down view onto the trial but also offers field navigation mechanisms using barcodes or QR codes or guided walks which take the data collector through the field in one of 16 pre-defined orders.
 
 BrAPI has further increased the value of GridScore by integrating it into the overarching workflow from trial creation, data collection, and its ultimate data storage for further processing. Specifically, trial designs as well as trait definitions can be imported into GridScore using BrAPI and a finalized trial can ultimately be exported via BrAPI to any compatible database.
 
