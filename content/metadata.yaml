@@ -122,6 +122,12 @@ authors:
     affiliations:
       - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, Versailles, France
+  - name: Ajay Dhungana
+    initials: AD
+    github: GenAjay
+    email: adhung4@lsu.edu
+    affiliations:
+      - Louisiana State University (LSU)
   - name: Bert Droesbeke
     initials: BD
     github: bedroesb
