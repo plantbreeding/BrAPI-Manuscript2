@@ -82,6 +82,13 @@ authors:
       - 'Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszentrum Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany'
       - Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany
   - name: Alice Boizet
+    initials: AB
+    github: aliceboizet
+    orcid: 0000-0003-4096-6689
+    email: alice.boizet@cirad.fr
+    affiliations: 
+      - CIRAD, UMR AGAP Institut, Montpellier, France.
+      - AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France.
   - name: Matthijs Brouwer
     email: matthijs.brouwer@wur.nl
     initials: MB
