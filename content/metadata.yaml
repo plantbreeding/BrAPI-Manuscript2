@@ -301,6 +301,14 @@ authors:
       - Université Paris-Saclay, INRAE, URGI, Versailles, France
     funders: 
       - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
+  - name: Jean-François Rami
+    initials: JFR
+    github: jframi
+    orcid: https://orcid.org/0000-0002-5679-3877
+    email: jean-francois.rami@cirad.fr
+    affiliations:
+      - CIRAD, UMR AGAP Institut, Montpellier, France.
+      - AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France.
   - name: Sebastian Raubach
     initials: SR
     github: sebastian-raubach
