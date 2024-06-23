@@ -33,7 +33,15 @@ authors:
     affiliations:
       - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, Versailles, France   
-  - name: Francisco Agosto
+  - name: Francisco J. Agosto-Pérez
+    initials: FJAP
+    github: agostof
+    orcid: 0000-0002-5059-253X
+    email: fja32@cornell.edu 
+    affiliations: 
+      - Cornell University
+    funders: 
+      - Innovation Lab for Crop Improvement Cornell, FFAR
   - name: Michael Alaux
     email: michael.alaux@inrae.fr
     initials: MA
@@ -176,7 +184,12 @@ authors:
     affiliations:
       - Diversity Arrays Technology (DArT)
     corresponding: false
-  - name: Lynn Johnson
+  - name: Lynn Carol Johnson
+    initials: LCJ
+    orcid: 0000-0001-8103-2722
+    email: lcj34@cornell.edu
+    affiliations:
+      - Buckler Lab and Institute for Genomic Diversity, Cornell University
   - name: Sook Jung
     initials: SJ
     email: sook_jung@wsu.edu
