@@ -7,12 +7,12 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-06-17'
+date-meta: '2024-06-23'
 author-meta:
 - Peter Selby
 - Rafael Abbeloos
 - Anne-Francoise Adam-Blondon
-- Francisco Agosto
+- Francisco J. Agosto-Pérez
 - Michael Alaux
 - Isabelle Alic
 - Khaled Al-Shamaa
@@ -36,7 +36,7 @@ author-meta:
 - Corina Habito
 - Asis Hallab
 - Puthick Hok
-- Lynn Johnson
+- Lynn Carol Johnson
 - Sook Jung
 - Paul Kersey
 - Andrzej Kilian
@@ -81,11 +81,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-06-17" />
-  <meta name="citation_publication_date" content="2024-06-17" />
-  <meta property="article:published_time" content="2024-06-17" />
-  <meta name="dc.modified" content="2024-06-17T23:25:48+00:00" />
-  <meta property="article:modified_time" content="2024-06-17T23:25:48+00:00" />
+  <meta name="dc.date" content="2024-06-23" />
+  <meta name="citation_publication_date" content="2024-06-23" />
+  <meta property="article:published_time" content="2024-06-23" />
+  <meta name="dc.modified" content="2024-06-23T05:14:35+00:00" />
+  <meta property="article:modified_time" content="2024-06-23T05:14:35+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -102,7 +102,9 @@ header-includes: |
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
   <meta name="citation_author_orcid" content="0000-0002-3412-9086" />
-  <meta name="citation_author" content="Francisco Agosto" />
+  <meta name="citation_author" content="Francisco J. Agosto-Pérez" />
+  <meta name="citation_author_institution" content="Cornell University" />
+  <meta name="citation_author_orcid" content="0000-0002-5059-253X" />
   <meta name="citation_author" content="Michael Alaux" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
@@ -163,7 +165,9 @@ header-includes: |
   <meta name="citation_author_orcid" content="0000-0002-2421-5431" />
   <meta name="citation_author" content="Puthick Hok" />
   <meta name="citation_author_institution" content="Diversity Arrays Technology (DArT)" />
-  <meta name="citation_author" content="Lynn Johnson" />
+  <meta name="citation_author" content="Lynn Carol Johnson" />
+  <meta name="citation_author_institution" content="Buckler Lab and Institute for Genomic Diversity, Cornell University" />
+  <meta name="citation_author_orcid" content="0000-0001-8103-2722" />
   <meta name="citation_author" content="Sook Jung" />
   <meta name="citation_author_institution" content="Department of Horticulture, Washington State University" />
   <meta name="citation_author_orcid" content="0000-0003-3968-2769" />
@@ -260,9 +264,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/babbc5e55b03f03460d8b4951c07baec8c3e6e50/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/babbc5e55b03f03460d8b4951c07baec8c3e6e50/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/babbc5e55b03f03460d8b4951c07baec8c3e6e50/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/13cff1d99f753334e1800aa44bdda262edb028aa/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/13cff1d99f753334e1800aa44bdda262edb028aa/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/13cff1d99f753334e1800aa44bdda262edb028aa/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -284,10 +288,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/babbc5e55b03f03460d8b4951c07baec8c3e6e50/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/13cff1d99f753334e1800aa44bdda262edb028aa/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@babbc5e](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/babbc5e55b03f03460d8b4951c07baec8c3e6e50)
-on June 17, 2024.
+from [plantbreeding/BrAPI-Manuscript2@13cff1d](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/13cff1d99f753334e1800aa44bdda262edb028aa)
+on June 23, 2024.
 </em></small>
 
 
@@ -328,9 +332,16 @@ on June 17, 2024.
      Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
   </small>
 
-+ **Francisco Agosto**
++ **Francisco J. Agosto-Pérez**
   <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-5059-253X](https://orcid.org/0000-0002-5059-253X)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [agostof](https://github.com/agostof)
+    <br>
   <small>
+     Cornell University
+     · Funded by Innovation Lab for Crop Improvement Cornell, FFAR
   </small>
 
 + **Michael Alaux**
@@ -531,9 +542,13 @@ on June 17, 2024.
      Diversity Arrays Technology (DArT)
   </small>
 
-+ **Lynn Johnson**
++ **Lynn Carol Johnson**
   <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0001-8103-2722](https://orcid.org/0000-0001-8103-2722)
+    <br>
   <small>
+     Buckler Lab and Institute for Genomic Diversity, Cornell University
   </small>
 
 + **Sook Jung**
@@ -1093,7 +1108,7 @@ Florilège retrieves accession information from different BrAPI compliant system
 <!-- Cyril P, first draft-->
 [FAIDARE](https://urgi.versailles.inrae.fr/faidare/) [@https://urgi.versailles.inrae.fr/faidare] is a data discovery portal providing a biologist friendly search system over a global federation of 33 plant research databases. It allows a user to identify data resources using a full text search approach combined with domain specific filters. Each search result contains a link back to the original database for visualization, analysis, and download. The indexed data types are very broad and include genomic features, selected bibliography, QTL, markers, genetic variation studies, phenomic studies, and plant genetic resources. This inclusiveness is achieved thanks to a two stage indexation data model. The first, most generic, index provides basic search functionalities and relies on five fields: name, link back URL, data type, species, and exhaustive description. To provide more advanced filtering, the second stage indexation mechanism takes advantage of BrAPI endpoints to get more detailed metadata on genotyping and phenotyping studies. 
 
-The indexation mechanism relies on a [public software package](https://github.com/elixir-europe/plant-brapi-etl-faidare) that allows data resource managers to request the indexation of their database. This BrAPI client is able to extract data from any BrAPI 1.3 and 1.2 endpoint. The development of BrAPI 2.x indexation will be initiated in 2025. Since not all databases are willing to implement BrAPI endpoints, we also provide the possibility to generate metadata as BrAPI compliant json files, using the standard as a file exchange format.
+The indexation mechanism relies on a [public software package](https://github.com/elixir-europe/plant-brapi-etl-faidare) that allows data resource managers to request the indexation of their database. This BrAPI client is able to extract data from any BrAPI 1.3 and 1.2 endpoint. The development of BrAPI 2.x indexation will be initiated in 2025. Since not all databases are willing to implement BrAPI endpoints, it is possible to generate metadata as static, BrAPI compliant, json files, using the standard as a file exchange format.
 
 The FAIDARE architecture has been designed by elaborating on the GnpIS Software Architecture [@doi:10.34133/2019/1671403]. As a consequence, BrAPI is at the core of its data model. The JSON data files served by the Elasticsearch NoSQL engine are enriched versions of the BrAPI JSON data model. FAIDARE also includes a BrAPI endpoint that serves all indexed metadata. FAIDARE has been adopted by several communities including the ELIXIR and EMPHASIS european infrastructures, and the WheatIS of the Wheat-Initiative. Several databases are added each year to the FAIDARE global federation, allowing to increase both the portal and the BrAPI adoption.
 
@@ -1121,7 +1136,7 @@ DeltaBreed is integrated with many other BrAPI community projects and tools. The
 <!-- Corina -->
 The [Breeding Management System (BMS)](https://bmspro.io), developed by the [Integrated Breeding Platform (IBP)](https://integratedbreeding.net/), is a suite of tools designed to enhance the efficiency and effectiveness of plant breeding. BMS covers all stages of the breeding process, with the emphasis on germplasm management and [ontology](https://cropontology.org)-harmonized phenotyping. It also features analytics and decision-support tools. With its focus on interoperability, BMS integrates smoothly with BrAPI, facilitating easy connections with a broad array of complementary tools and databases. Notably, the BMS is often deployed together with [Gigwa](https://southgreen.fr/content/gigwa) to fulfill the genotyping data management needs of BMS users.
 
-The [brapi-sync](https://github.com/IntegratedBreedingPlatform/brapi-sync) tool, a significant component of BMS’s BrAPI capabilities, was developed by the IBP and released as a BrAPP for community use. Brapi-sync is designed to enhance collaboration among partner institutes within a network such as Innovation and Plant Breeding in West Africa ([IAVAO](https://www.iavao.org/en)). The tool enables the sharing of germplasm and trials across BrAPI-enabled systems. It helps overcome traditional barriers to collaboration, ensuring data that was once isolated within specific programs or platforms can now be easily shared, integrated, and synchronized. 
+The [brapi-sync](https://github.com/IntegratedBreedingPlatform/brapi-sync) tool, a significant component of BMS’s BrAPI capabilities, was developed by the IBP and released as a BrAPP for community use. Brapi-sync is designed to enhance collaboration among partner institutes within a network such as Innovation and Plant Breeding in West Africa ([IAVAO](https://www.iavao.org/en)). The tool enables the sharing of germplasm and trial metadata across BrAPI-enabled systems. It helps overcome traditional barriers to collaboration, ensuring data that was once isolated within specific programs or platforms can now be easily shared, integrated, and synchronized. 
 
 Additionally, brapi-sync improves data management by maintaining links to the original source of each entity it transmits. This retains the original context of the data and establishes a traceability mechanism for accurate data source attribution and verification. Such practices are crucial for maintaining data integrity and fostering trust among collaborative partners, ensuring access to accurate, reliable, and current information.
 
@@ -1160,7 +1175,7 @@ While other tools listed above have the capability to do specialized analytics o
 <!-- Khaled -->
 Modern breeding programs can utilize data management systems to maintain both phenotypic and genotypic data. Numerous systems are available for adoption. To fully leverage the benefits of digitalization in this ecosystem, breeders need to utilize data from different sources to make efficient data-driven decisions. With increased computational power at their disposal, scientists can construct more advanced analysis pipelines by combining various data sources.
 
-The [QBMS](https://icarda-git.github.io/QBMS) [@doi:10.5281/zenodo.10791627] R package eliminates technical barriers scientists experience when using the BrAPI specification in their analysis scripts and pipelines. This barrier arises from the complexity of managing API backend processes, such as authentication, tokens, TCP/IP protocol, JSON format, pagination, stateless calls, asynchronous communication, database IDs, and more. To bridge this gap, the QBMS package abstracts the technical complexities, providing breeders with stateful functions familiar to them when navigating their GUI systems. It enables them to query and extract data into a standard data frame structure, consistent with their use of R language, one of the most common statistical tools in the breeding community.
+The [QBMS](https://icarda-git.github.io/QBMS) [@doi:10.5281/zenodo.10791627] R package eliminates technical barriers scientists experience when using the BrAPI specification in their analysis scripts and pipelines. This barrier arises from the complexity of managing API backend processes, such as authentication, tokens, TCP/IP protocol, JSON format, pagination, stateless calls, asynchronous communication, database IDs, and more. To bridge this gap, the QBMS package abstracts the technical complexities, providing breeders with stateful functions familiar to them when navigating their GUI systems. It enables them to query and extract data into a standard data frame structure, consistent with their use of the R language, one of the most common statistical tools in the breeding community.
 
 Since its release on the official CRAN repository in October 2021, the QBMS R package has garnered over 9400 downloads. Several tools, such as MrBean, rely on the QBMS package as their source data adapter. Moreover, the community has started building extended solutions on top of it. QBMS can serve as a cornerstone in the breeding modernization revolution by providing access to actionable data and by enabling the creation of dashboards to reduce the time between harvest and decision-making for the next breeding cycle.
 
@@ -1197,36 +1212,38 @@ The crossing tool utilizes a modified version of the [BrAPI-R](https://github.co
 Adopting BrAPI compatibility into an existing system can be difficult sometimes. The BrAPI Community has developed several tools to make adoption easier. This includes things like pre built code libraries, connectors to other technology standards, and mappers to alternate data types or data files. The goal is to lower the barrier to entry for the BrAPI community, making it easier for other groups to get started and connect their existing data to the standard. 
 
 
-#### MIAPPE ISA to BrAPI service
+#### MIRA
 
 <!-- Manuel -->
-Phenotyping is crucial in the breeding process as it enables the identification of desirable traits, selection of breeding lines, and evaluation of breeding success. In the plant community, MIAPPE (Minimal Information About a Plant Phenotyping Experiment) [@doi:10.1111/nph.16544] is an established standard for phenotyping experiments. It is commonly serialized as a ISA Tab file type. [@doi:10.1038/ng.1054] Although ISA Tab is easy to read for non-technical experts due to its file-based approach, it lacks programmatic accessibility, particularly for web applications. BrAPI, which is aligned with MIAPPE, can help solve this problem.
+In the plant phenotyping community, [MIAPPE](https://www.miappe.org/) (Minimal Information About a Plant Phenotyping Experiment) [@doi:10.1111/nph.16544] is an established standard for phenotyping experiments. It is commonly serialized into the ISA-Tab file type. [@doi:10.1038/ng.1054] Although ISA-Tab is easy to read for non-technical experts due to its file-based approach, it lacks programmatic accessibility, particularly for web applications. BrAPI, which is aligned with MIAPPE, can help solve this problem.
 
-MIRA is a tool that enables the automatic deployment of a BrAPI server on a MIAPPE-compliant dataset in ISA Tab format. It can be deployed from a Docker image with the dataset mounted. By utilizing the mapping between MIAPPE, ISA, and BrAPI, there is no need for parsing or manual mapping of datasets that are already compliant with (meta-)data standards. By gaining programmatic access through BrAPI to these datasets, it facilitates the integration of phenotyping datasets into web applications.
+MIRA is a tool that enables the automatic deployment of a BrAPI server on a MIAPPE-compliant dataset in ISA-Tab format. It can be deployed from a Docker image with the dataset mounted. By utilizing the mapping between MIAPPE, ISA-Tab, and BrAPI, there is no need for parsing or manual mapping of datasets that are already compliant with (meta-)data standards. By gaining programmatic access through BrAPI to these datasets, it facilitates the integration of phenotyping datasets into web applications.
 
 
-#### MIAPPE "BrAPI2ISA" service
+#### BrAPI2ISA
 
 <!-- Bert -->
-Since the release of BrAPI 1.3, efforts have been made to incorporate support for the MIAPPE standard into the specification [@doi:10.1111/nph.16544]. This integration was finalized in BrAPI 2.0, resulting in full compatibility between the two standards. Consequently, BrAPI now encompasses all attributes necessary for MIAPPE compliance, adhering to standardized descriptions in accordance with MIAPPE guidelines. Leveraging BrAPI as a standardized RESTful web service API specification, we employ the ISA standard for storing metadata and phenotyping data in a standardized manner. This data is structured in the ISA-TAB file format and subjected to validation using the [MIAPPE ISA configuration](https://github.com/ELIXIR-Belgium/isatab-validation). The "BrAPI to ISA" service functions as a converter between BrAPI RESTful endpoints and ISA-TAB, facilitating the archiving of metadata and data and thereby enhancing data preservation and accessibility. The [BrAPI2ISA](https://github.com/elixir-europe/plant-brapi-to-isa) tool is designed to be compatible with BrAPI 1.3, and we invite contributions from the community to extend support for the latest versions of BrAPI.
+Since the release of BrAPI 1.3, efforts have been made to incorporate support for the MIAPPE standard into the specification [@doi:10.1111/nph.16544]. This integration was finalized in BrAPI 2.0, resulting in full compatibility between the two standards. Consequently, BrAPI now encompasses all attributes necessary for MIAPPE compliance, adhering to standardized descriptions in accordance with MIAPPE guidelines. 
+
+In some communities and projects, phenotyping data and metadata is archived and published as structured ISA-Tab files, and validated using the [MIAPPE ISA configuration](https://github.com/ELIXIR-Belgium/isatab-validation). The [BrAPI2ISA](https://github.com/elixir-europe/plant-brapi-to-isa) service functions as a converter between a BrAPI compatible server and the ISA-Tab format. This simplifies, automates, and facilitates the archiving of data, thereby enhancing data preservation and accessibility. The BrAPI2ISA tool is designed to be compatible with BrAPI 1.3, and is open to contributions from the community to extend support for the latest versions of BrAPI.
 
 
 #### BrAPIMapper
 
 <!-- Valentin G: I'm planning to add a figure in supplementary data that shows data sets on a side, the mapper with some internal parts and the exposed BrAPI services. -->
-BrAPIMapper is a full BrAPI implementation designed to be a wrapper for any data source missing BrAPI implementation. BrAPIMapper is provided as a docker application that can get its external data sources from mySQL or PostgreSQL databases, generic REST services, flat files (XML, JSON, CSV/TSV/GFF3/VCF, YAML), or any combination of these. It provides an administration interface to map BrAPI data models to external data sources. The interface allows administrators to select the BrAPI specification versions to use and which endpoints to enable. Data mapping configuration export and import features simplify upgrades to future BrAPI specifications changes as administrators would only have to map missing fields or make minor adjustments. BrAPIMapper supports the primary BrAPI features including paging, deferred search results, user lists, and authentication. Access restrictions to specific endpoints can be managed through the administration interface as well. This tool aims to accelerate BrAPI services deployment while ensuring specification compliance. 
+BrAPIMapper is a full BrAPI implementation designed to be a convenient wrapper for any breeding related data source. BrAPIMapper is provided as a Docker application that can connect to a variety of external data sources including mySQL or PostgreSQL databases, generic REST services, flat files (XML, JSON, CSV/TSV/GFF3/VCF, YAML), or any combination of these. It provides an administration user interface to map BrAPI data models to external data sources. The interface allows administrators to select the BrAPI specification versions to use and which endpoints to enable. Data mapping configuration import and export features simplify upgrades to future BrAPI versions; administrators only have to map missing fields or make minor adjustments. BrAPIMapper supports the primary BrAPI features including paging, deferred search results, user lists, and authentication. Access restrictions to specific endpoints can be managed through the administration interface as well. This tool aims to accelerate BrAPI services deployment while ensuring specification compliance. 
 
 
-#### BrAPI plug and play GraphQL based data-warehouse
+#### GraphQL Data-warehouse
 
 <!-- Asis Hallab -->
-Using the "Zendro" set of automatic software code generators (zendro-dev.github.io), a fully functional, efficient, and cloud-capable BrAPI data-warehouse has been created for the current version of the BrAPI data models. Unlike most BrAPI compliant data sources, this data-warehouse supports a GraphQL API rather than a RESTful API. This API provides secure access to data read and write functions for all BrAPI data models. It provides create, read, update, and delete (CRUD) functions that are standardized and accept the same parameters for all data models.
+Using the [Zendro](https://zendro-dev.github.io) set of automatic software code generators, a fully functional, efficient, and cloud-capable BrAPI data-warehouse has been created for the current version of the BrAPI data models. Unlike most BrAPI compliant data sources, this data-warehouse supports a GraphQL API rather than a RESTful API. This API provides secure access to data read and write functions for all BrAPI data models. It provides create, read, update, and delete (CRUD) functions that are standardized and accept the same parameters for all data models.
 
-The GraphQL server is particularly rich in features. Records are paginated using the highly efficient cursor based pagination model as proposed in the GraphQL standard. Logical filters allow for exhaustive search queries, whose structure is highly intuitive and based around logical triplets. A data model field is validated using an operator and a value, e.g. "Study name equals 'my_study'". A large collection of operators is available and triplets can be combined to logical search trees using "and" or "or" operators. Searches can be extended over relationships between data models, thus enabling a user to query the warehouse for exactly the required data. Access security is implemented with the OAuth2 user authentication standard (datatracker.ietf.org/doc/html/rfc6749). Authorization is based on user roles and can be configured differently for each single data model read or write function. The generated graphical interface allows for the integration of interactive scientific plots and analysis tools written in JavaScript or WebAssembly.
+The GraphQL server is particularly rich in features. Records are paginated using the highly efficient cursor based pagination model as proposed in the GraphQL standard. Logical filters allow for exhaustive search queries, whose structure is highly intuitive and based around logical triplets. A large collection of operators is available and triplets can be combined to logical search trees using "and" or "or" operators. Searches can be extended over relationships between data models, thus enabling a user to query the warehouse for exactly the required data. Access security is implemented with the OAuth2 user authentication standard [@https://datatracker.ietf.org/doc/html/rfc6749]. Authorization is based on user roles and can be configured differently for each single data model read or write function. The generated graphical interface allows for the integration of interactive scientific plots and analysis tools written in JavaScript or WebAssembly.
 
 <!-- Asis Hallab: To Do: (i) provide the link to an example running data warehouse, and (ii) include and describe example scientific plots. -->
 
-The Zendro data-warehouse is capable of forming an efficient cloud of data servers. This is achieved simply by linking (URLs) other Zendro based warehouses that expose the same GraphQL API to the same data models, or a subset of data models. Any network of such Zendro GraphQL servers can be set up using this configuration approach. The code generated then exposes full access to all data records stored on any node of the network, while maintaining full security control at each node. Importantly, the warehouses are programmed in such a way that any number of data servers can be joined without loss of efficiency. Only the network connection speed and size of requested record sets influence the performance.
+The Zendro data-warehouse is capable of forming an efficient cloud of data servers. This is achieved simply by linking other Zendro based warehouses that expose the same GraphQL API to the same data models, or a subset of data models. Any network of such Zendro GraphQL servers can be set up using this configuration approach. The code generated then exposes full access to all data records stored on any node of the network, while maintaining full security control at each node. Importantly, the warehouses are programmed in such a way that any number of data servers can be joined without loss of efficiency.
 
 
 ## Discussion
@@ -1243,19 +1260,19 @@ The Zendro data-warehouse is capable of forming an efficient cloud of data serve
 
 ### BrAPI for Breeders and Scientists
 
-The BrAPI technical specification document is meant to be read and used by software developers. However, the purpose of the specification, and the community around it, is to make things faster, easier, and cheaper for the breeders and scientists working to make the world a better place. BrAPI offers a convenient path to automation and data integration for software tools in the breeding domain. All of the example use cases described above can be achieved with manual effort, moving and editing data files by hand. However, when the basic structure and flow of data becomes automated, breeders and scientists can spend less time on data management and more time focusing on the science. For many, the ultimate goal is the development of a digital ecosystem: a collection of software tools and applications that can all work together seamlessly. In this digital ecosystem, data is collected digitally from the beginning, reducing as much human error as possible. The data is checked by quality control and stored automatically, then it can be sent to any internal tool or external lab for further analysis with just the click of a button. This idea might sound too good to be true, but as more tools start sharing a universal data standard, automating data flow becomes easier, and the community gets closer to total interoperability. 
+The BrAPI technical specification document is meant to be read and used by software developers. However, the purpose of the specification, and the community around it, is to make things faster, easier, and cheaper for the breeders and scientists working on breeding and other agricultural projects. BrAPI offers a convenient path to automation, interoperability, and data integration for software tools in the breeding domain. All of the example use cases described above can be achieved with manual effort, moving and editing data files by hand. However, when the basic structure and flow of data becomes automated, breeders and scientists can spend less time on data management and more time focusing on the science. For many, the ultimate goal is the development of a digital ecosystem: a collection of software tools and applications that can all work together seamlessly. In this digital ecosystem, data is collected digitally from the beginning, reducing as much human error as possible. The data is checked by quality control and stored automatically, then it can be sent to any internal tool or external lab for further analysis with just the click of a button. This idea might sound too good to be true, but as more tools start sharing a universal data standard, automating data flow becomes easier, and the community gets closer to total interoperability. 
 
 ### Looking Ahead
 
-The BrAPI specification will continue to grow, enabling more use cases and new types of data. These new use cases might include newer scientific techniques and technologies. Things like drone imaging data, spectroscopy, LIDAR, metabolomics, transcriptomics, high-throughput phenotyping, and machine learning analysis. All of these technologies can open new avenues for research and development of new crop varieties. All of these technologies also generate more data, and require data sharing between different software applications and data repositories. The BrAPI project leadership and community is committed to building the standards to support these new use cases as they arrive and become accepted by the scientific community. In fact, small groups within the BrAPI community have already start building generic data models and communication standards for many of the technologies listed above. These community efforts will eventually become part of the BrAPI standard in a future version of the specification document. 
+The BrAPI specification will continue to grow, enabling more use cases and new types of data. These new use cases might include newer scientific techniques and technologies. Things like drone imaging data, spectroscopy, LIDAR, metabolomics, transcriptomics, high-throughput phenotyping, and machine learning analysis. All of these technologies can open new avenues for research and development of new crop varieties. All of these technologies also generate more data, and require data sharing between different software applications and data repositories. The BrAPI project leadership and community is committed to building the standards to support these new use cases as they arrive and become accepted by the scientific community. In fact, small groups within the BrAPI community have already start building generic data models and proposed communication standards for many of the technologies listed above. These community efforts will eventually become part of the BrAPI standard in a future version of the specification document. 
 
-Expanding the BrAPI specification is important for the community, however it is important not to reinvent or compete with existing functional standards. Additions to the BrAPI specification are reviewed thoroughly by the community to make sure BrAPI is compliant with existing standards and data structures. For example, BrAPI is compliant with MIAPPE, MCPD, and VCF, adding pieces of these existing popular data structures into the overall standard. In some cases, BrAPI will reference other standards instead of including them in the specification. For example, the NOAA CDO standard for weather data, or the Galaxy Analytics API for analytics pipeline controls and information. These standards are perfectly adequate on their own, and recreating them in the BrAPI standard would be redundant.    
+Expanding the BrAPI specification is important for the community, however it is just as important not to reinvent or compete with existing functional standards. Additions to the BrAPI specification are reviewed thoroughly by the community to make sure BrAPI is compliant with existing standards and data structures. For example, BrAPI is compliant with MIAPPE, MCPD, and VCF, adding pieces of these existing popular data structures into the overall standard. In some cases, BrAPI will reference other standards instead of including them in the specification. For example, the NOAA CDO standard for weather data, or the Galaxy Analytics API for analytics pipeline controls and information. These standards are perfectly adequate on their own, and recreating them in the BrAPI standard would be redundant.
 
 ### Conclusion
 
-The BrAPI project only exists because of the community of breeders, software engineers, and scientists who support and use it. WHile there were many tools and use cases presented here, it is not an exhaustive list of BrAPI compliant systems. As long as the standard continues to be supported, there is potential for exponential growth of the community. As more groups make their tools BrAPI compliant, these tools can be shared with the community. As more BrAPI compliant tools are shared with the community, more groups can see the value in implementing BrAPI in their own tools. This feedback loop will allow the community to strengthen and grow.
+The BrAPI project only exists because of the community of breeders, software engineers, and scientists who support and use it. While there were many tools and use cases presented here, it is not an exhaustive list of all BrAPI compliant systems. As long as the standard continues to be supported, there is potential for exponential growth of the community. As more groups make their tools BrAPI compliant, these tools can be shared with the community. As more BrAPI compliant tools are shared with the community, more groups can see the value in implementing BrAPI in their own tools. This feedback loop will allow the community to strengthen and grow.
 
-If this manuscript is your first introduction to the BrAPI project, we invite you to join the community. More information is always available at [brapi.org](https://brapi.org). 
+If this manuscript is your first introduction to the BrAPI project, the authors invite you to join the community. More information is always available at [brapi.org](https://brapi.org). 
 
 
 ## Methods

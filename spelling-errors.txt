@@ -1,5 +1,6 @@
 accessability
 Agosto
+agostof
 Ajay
 Andrzej
 Aparicio
@@ -17,6 +18,7 @@ DArTdb
 DArTView’s
 Dhungana
 EE
+FFAR
 Florilège
 FLORILÈGE
 GBS
@@ -43,7 +45,8 @@ Nderitu
 NIRS
 NOAA
 OpenAPI
-puthick
+Pérez
+Puthick
 RShiny
 SCT
 Sempéré
