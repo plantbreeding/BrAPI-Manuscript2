@@ -57,6 +57,7 @@ author-meta:
 - Lukas Mueller
 - Moses Nderitu
 - Cyril Pommier
+- Jean-François Rami
 - Sebastian Raubach
 - Trevor Rife
 - Mathieu Rouard
@@ -84,8 +85,8 @@ header-includes: |
   <meta name="dc.date" content="2024-06-25" />
   <meta name="citation_publication_date" content="2024-06-25" />
   <meta property="article:published_time" content="2024-06-25" />
-  <meta name="dc.modified" content="2024-06-25T19:31:16+00:00" />
-  <meta property="article:modified_time" content="2024-06-25T19:31:16+00:00" />
+  <meta name="dc.modified" content="2024-06-25T19:32:42+00:00" />
+  <meta property="article:modified_time" content="2024-06-25T19:32:42+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -225,6 +226,10 @@ header-includes: |
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
   <meta name="citation_author_orcid" content="0000-0002-9040-8733" />
+  <meta name="citation_author" content="Jean-François Rami" />
+  <meta name="citation_author_institution" content="CIRAD, UMR AGAP Institut, Montpellier, France." />
+  <meta name="citation_author_institution" content="AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France." />
+  <meta name="citation_author_orcid" content="0000-0002-5679-3877" />
   <meta name="citation_author" content="Sebastian Raubach" />
   <meta name="citation_author_institution" content="The James Hutton Institute" />
   <meta name="citation_author_orcid" content="0000-0001-5659-247X" />
@@ -267,9 +272,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/387443d3d57f2b145e9799f428bf6e9ae8246e1f/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/387443d3d57f2b145e9799f428bf6e9ae8246e1f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/387443d3d57f2b145e9799f428bf6e9ae8246e1f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/4a8c6b0fdd2e0be8754e9e701e2f7a251c07d1dd/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/4a8c6b0fdd2e0be8754e9e701e2f7a251c07d1dd/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/4a8c6b0fdd2e0be8754e9e701e2f7a251c07d1dd/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -291,9 +296,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/387443d3d57f2b145e9799f428bf6e9ae8246e1f/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/4a8c6b0fdd2e0be8754e9e701e2f7a251c07d1dd/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@387443d](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/387443d3d57f2b145e9799f428bf6e9ae8246e1f)
+from [plantbreeding/BrAPI-Manuscript2@4a8c6b0](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/4a8c6b0fdd2e0be8754e9e701e2f7a251c07d1dd)
 on June 25, 2024.
 </em></small>
 
@@ -733,6 +738,17 @@ on June 25, 2024.
   <small>
      Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
      · Funded by This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
+  </small>
+
++ **Jean-François Rami**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-5679-3877](https://orcid.org/0000-0002-5679-3877)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [jframi](https://github.com/jframi)
+    <br>
+  <small>
+     CIRAD, UMR AGAP Institut, Montpellier, France.; AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France.
   </small>
 
 + **Sebastian Raubach**
@@ -1216,6 +1232,27 @@ The Sugarcane Crossing Tool (SCT) is a lightweight RShiny dashboard application 
 The crossing tool utilizes a modified version of the [BrAPI-R](https://github.com/CIP-RIU/brapi) library to access a compliant database, and it employs standard R/JavaScript packages to aggregate and visualize data. Modules within the application allow breeders to query the database (through BrAPI) for information relevant to their decision-making process. This includes the number and sex of flowering accessions, deep pedigree and relatedness information, summarized trial data, and the prior frequency and success of potential cross combinations. Future versions of this tool will provide additional decision support (e.g. ranked potential crosses) to enhance the accuracy and efficiency of crossing.
 
 
+#### ShinyBrAPPs
+
+Data management systems are generic and robust centralized applications, with a large community of users, long term development cycles and release plans. 
+BrAPI compliance offers these systems the opportunity to add functionalities in a modular way through the development of external plugin applications that can 
+quickly fulfill  specific needs of a group of users. [R-Shiny](https://shiny.posit.co/)  is a R-package that opens the possibility to develop rich and productive 
+interactive web applications to R users and developers. As such it allows user communities to quickly prototype and produce applications that are finely tailored to their needs, 
+thus improving adoption and daily use of data management systems. The Breeding Management System (BMS) of the IBP and Gigwa are BrAPI compliant and are being widely used by breeding programs, 
+including national breeding programs in Africa. CIRAD and the IBP teams have been working together as part of the [IAVAO](https://www.iavao.org/) breeders community to develop the Shiny-BrAPPs, 
+a set of R-Shiny applications using BrAPI as a core technology for data exchange. These applications are connected to BMS and/or Gigwa and provide tools for specific use cases. 
+So far, four applications have been developed covering the fields of trial data quality control, single trial statistical analysis, breeding decision support, and raw genotyping data visual inspection.
+The first three of them are grouped into a single R-package ([ShinyBrAPPs](https://github.com/IntegratedBreedingPlatform/ShinyBrAPPs/)) with modular code shared across applications and make use of the [brapir-v1](https://github.com/mverouden/brapir-v1) and 
+[brapir-v2](https://github.com/mverouden/brapir-v2) R packages. 
+
+- **BMS trial data explorer** retrieves data from a single multi-location trial and displays data counts and summary boxplot for all variables measured in different studies. 
+It also provides  an interactive distribution plot to easily select observations that require curation and a report of candidate issues that needs to be addressed by the breeder.
+- **STABrAPP** is an application for single trial mixed model analysis. It basically provides a GUI to the [StatGen-STA](https://biometris.github.io/statgenSTA/) R package. 
+- **DSBrAPP** is a decision support tool helping breeders to select germplasm according to their various characteristics and save this germplasm list into BMS.
+- **[snplust](https://github.com/jframi/snpclust)** enables to check and manually correct the clustering of fluorescence based SNP genotyping data.
+
+
+
 ### General Infrastructure 
 
 Adopting BrAPI compatibility into an existing system can be difficult sometimes. The BrAPI Community has developed several tools to make adoption easier. This includes things like pre built code libraries, connectors to other technology standards, and mappers to alternate data types or data files. The goal is to lower the barrier to entry for the BrAPI community, making it easier for other groups to get started and connect their existing data to the standard. 
@@ -1327,7 +1364,7 @@ The authors would like to acknowledge the following funding sources:
 + **Jan Erik Backlund**: Jan Erik has made significant contributions to the BMS project.
 + **Aldrin Batac**: Aldrin has made significant contributions to the BMS project.
 + **Sebastian Beier**: Sebastian wrote the section on the DivBrowse project, and has made significant contributions to the BrAPI compatibility of the DivBrowse project.
-+ **Alice Boizet**: Alice wrote the section on the Florilège project, and has made significant contributions to the BrAPI compatibility of the Florilège and Faidare projects.
++ **Alice Boizet**: Alice wrote the section on the Florilège project, and has made significant contributions to the BrAPI compatibility of the Florilège, Gigwa and ShinyBrAPPs projects.
 + **Matthijs Brouwer**: Matthijs has made significant contributions to the AGENT Portal project.
 + **Terry Casstevens**: Terry has made significant contributions to the PHG project.
 + **Keo Corak**: Keo wrote the section on the SCT project, and has made significant contributions to the BrAPI compatibility of the SCT project.
@@ -1363,6 +1400,7 @@ The authors would like to acknowledge the following funding sources:
 + **Lukas Mueller**: Lukas wrote the section on the Breedbase project, and has made significant contributions to the BrAPI compatibility of the Breedbase project. Lukas is also Co-PI on the current BrAPI Grant and has supported the project since its inception.
 + **Moses Nderitu**: Moses wrote the section on the DArTView project, and has made significant contributions to the BrAPI compatibility of the DArTView project.
 + **Cyril Pommier**: Cyril wrote the section on the Faidare project, and has made significant contributions to the BrAPI compatibility of the Florilège, Faidare, and AGENT Portal projects.
++ **Jean-François Rami**: Jean-François wrote the section on the ShinyBrAPPs project, and has made significant contributions to the BrAPI compatibility of the ShinyBrAPPs project.
 + **Sebastian Raubach**: Sebastian wrote the sections on the GridScore and Germinate projects, and has made significant contributions to the BrAPI compatibility of the GridScore, Germinate, and Flapjack projects.
 + **Trevor Rife**: Trevor has made significant contributions to the Field Book project.
 + **Mathieu Rouard**: Mathieu wrote the section on the MGIS project, and has made significant contributions to the BrAPI compatibility of the MGIS project.
