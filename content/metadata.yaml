@@ -304,13 +304,37 @@ authors:
     email: iain.milne@hutton.ac.uk
     affiliations:
       - The James Hutton Institute
-  - name: Lukas Mueller
+  - name: Lukas A. Mueller
+    initials: LAM
+    email: lam87@cornell.edu
+    github: lukasmueller
+    orcid: 0000-0001-8640-1750
+    affiliations: 
+      - The Boyce Thompson Institute
   - name: Moses Nderitu
     github: jndmose
     email: m.nderitu@seqart.net
     initials: MN
     affiliations:
       - SEQART AFRICA
+  - name: Tim Parsons
+    initials: TEP
+    email: tim@timparsons.io
+    github: timparsons
+    orcid: 0000-0001-6209-2455
+    affiliations: 
+      - Breeding Insight, Cornell University
+    funders: 
+      - U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
+  - name: Nick Palladino
+    initials: NP
+    email: np398@cornell.edu
+    github: nickpalladino
+    orcid: 0009-0009-1645-297X
+    affiliations: 
+      - Breeding Insight, Cornell University
+    funders: 
+      - U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
   - name: Cyril Pommier
     initials: CP
     github: cpommier
@@ -343,6 +367,12 @@ authors:
     email: twrife@clemson.edu
     affiliations:
       - Clemson University
+  - name: Kelly Robbins
+    initials: KR
+    orcid: 0000-0001-9522-9585
+    email: krr73@cornell.edu
+    affiliations:
+      - Cornell University
   - name: Mathieu Rouard
     initials: MR
     github: mrouard
@@ -408,4 +438,13 @@ authors:
     orcid: 0000-0003-4031-9131
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
-  - name: Shawn Yarnes
+  - name: Shawn C Yarnes 
+    initials: SCY 
+    email: scy32@cornell.edu 
+    github: SCYarnes 
+    orcid: 0000-0002-1090-0403 
+    affiliations: 
+      - Breeding Insight, Cornell University 
+    funders: 
+      - U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
+
