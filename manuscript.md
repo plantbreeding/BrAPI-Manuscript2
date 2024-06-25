@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-06-23'
+date-meta: '2024-06-25'
 author-meta:
 - Peter Selby
 - Rafael Abbeloos
@@ -81,11 +81,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-06-23" />
-  <meta name="citation_publication_date" content="2024-06-23" />
-  <meta property="article:published_time" content="2024-06-23" />
-  <meta name="dc.modified" content="2024-06-23T05:14:35+00:00" />
-  <meta property="article:modified_time" content="2024-06-23T05:14:35+00:00" />
+  <meta name="dc.date" content="2024-06-25" />
+  <meta name="citation_publication_date" content="2024-06-25" />
+  <meta property="article:published_time" content="2024-06-25" />
+  <meta name="dc.modified" content="2024-06-25T19:29:08+00:00" />
+  <meta property="article:modified_time" content="2024-06-25T19:29:08+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -127,6 +127,9 @@ header-includes: |
   <meta name="citation_author_institution" content="Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany" />
   <meta name="citation_author_orcid" content="0000-0002-2177-8781" />
   <meta name="citation_author" content="Alice Boizet" />
+  <meta name="citation_author_institution" content="CIRAD, UMR AGAP Institut, Montpellier, France." />
+  <meta name="citation_author_institution" content="AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France." />
+  <meta name="citation_author_orcid" content="0000-0003-4096-6689" />
   <meta name="citation_author" content="Matthijs Brouwer" />
   <meta name="citation_author_institution" content="Wageningen University and Research" />
   <meta name="citation_author" content="Terry Casstevens" />
@@ -264,9 +267,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/13cff1d99f753334e1800aa44bdda262edb028aa/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/13cff1d99f753334e1800aa44bdda262edb028aa/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/13cff1d99f753334e1800aa44bdda262edb028aa/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/adc63314660ee6abe110b6fa2c5143314bed90f3/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/adc63314660ee6abe110b6fa2c5143314bed90f3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/adc63314660ee6abe110b6fa2c5143314bed90f3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -288,10 +291,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/13cff1d99f753334e1800aa44bdda262edb028aa/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/adc63314660ee6abe110b6fa2c5143314bed90f3/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@13cff1d](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/13cff1d99f753334e1800aa44bdda262edb028aa)
-on June 23, 2024.
+from [plantbreeding/BrAPI-Manuscript2@adc6331](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/adc63314660ee6abe110b6fa2c5143314bed90f3)
+on June 25, 2024.
 </em></small>
 
 
@@ -407,7 +410,13 @@ on June 23, 2024.
 
 + **Alice Boizet**
   <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0003-4096-6689](https://orcid.org/0000-0003-4096-6689)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [aliceboizet](https://github.com/aliceboizet)
+    <br>
   <small>
+     CIRAD, UMR AGAP Institut, Montpellier, France.; AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France.
   </small>
 
 + **Matthijs Brouwer**

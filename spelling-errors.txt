@@ -1,7 +1,9 @@
 accessability
+AGAP
 Agosto
 agostof
 Ajay
+aliceboizet
 Andrzej
 Aparicio
 APIs
@@ -28,6 +30,7 @@ GH
 Gigwa’s
 Grzegorz
 Hok
+Institut
 jndmose
 Johan
 Jülich
@@ -46,7 +49,7 @@ NIRS
 NOAA
 OpenAPI
 Pérez
-Puthick
+puthick
 RShiny
 SCT
 Sempéré
@@ -56,6 +59,7 @@ SNP
 SSRs
 Straße
 SwaggerHub
+UMR
 Université
 Uszynski
 webpage
