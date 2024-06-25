@@ -84,8 +84,8 @@ header-includes: |
   <meta name="dc.date" content="2024-06-25" />
   <meta name="citation_publication_date" content="2024-06-25" />
   <meta property="article:published_time" content="2024-06-25" />
-  <meta name="dc.modified" content="2024-06-25T19:29:08+00:00" />
-  <meta property="article:modified_time" content="2024-06-25T19:29:08+00:00" />
+  <meta name="dc.modified" content="2024-06-25T19:31:16+00:00" />
+  <meta property="article:modified_time" content="2024-06-25T19:31:16+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -267,9 +267,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/adc63314660ee6abe110b6fa2c5143314bed90f3/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/adc63314660ee6abe110b6fa2c5143314bed90f3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/adc63314660ee6abe110b6fa2c5143314bed90f3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/387443d3d57f2b145e9799f428bf6e9ae8246e1f/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/387443d3d57f2b145e9799f428bf6e9ae8246e1f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/387443d3d57f2b145e9799f428bf6e9ae8246e1f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -291,9 +291,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/adc63314660ee6abe110b6fa2c5143314bed90f3/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/387443d3d57f2b145e9799f428bf6e9ae8246e1f/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@adc6331](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/adc63314660ee6abe110b6fa2c5143314bed90f3)
+from [plantbreeding/BrAPI-Manuscript2@387443d](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/387443d3d57f2b145e9799f428bf6e9ae8246e1f)
 on June 25, 2024.
 </em></small>
 
@@ -1102,12 +1102,12 @@ Thanks to the adoption of Digital Object Identifiers (DOIs) for Multi-Crop Passp
 The Scientific Advisory Committee of the ITPGRFA have repeatedly welcomed efforts on interoperability among germplasm information systems. In this context, the GLIS Portal adopted the BrAPI v1 in 2022. Integrating BrAPI among the GLIS content negotiators facilitates queries and the exchange of content for data management in plant breeding. The Portal also offers other protocols (XML, DarwinCore, JSON and JSON-LD) to increase data and metadata connectivity. In the near future, depending on the availability of resources, upgrading to BrAPI v2 is planned.
 
 
-#### FLORILÈGE
+#### Florilège
 
 <!-- Alice B -->
-Designed primarily for the general public, Florilège provides access to public collections of all French plant biological resources centers. This web portal allows a user to browse available plant genetic resource accessions and allows the user to order some seeds or plant material for cultivation. It includes plant genetic resources of around 50 plant genus from 19 genebanks.
+[Florilège](https://florilege.arcad-project.org/) is a web portal designed primarily for the general public to access public plant genetic resources held by Biological Resource Centers across France. Through this portal, users can browse accessions from over 50 plant genera, spread across 19 genebanks. It allows users to view available seeds and plant material, including options for ordering material. Florilège provides a centralized access to the various French collections of plant genetic resources available to the public.
 
-Florilège retrieves accession information from different BrAPI compliant systems. They include OLGA, a genebank accessions information management system, and GnpIS, an INRAE data repository for plant genetic resources, phenomics, and genetics [@doi:10.34133/2019/1671403;@doi:10.1007/978-1-4939-6658-5_5]. Using BrAPI to gather data from these systems reduced development efforts and enabled standardized data retrieval. As a consequence, BrAPI is the de facto standard for exchanging data within the French plant genetic resources community. The Florilège team also requested several updates to the BrAPI specifications to better serve this use case, such as Collection or improved external references.
+Florilège retrieves accession information from several BrAPI compliant systems. Key among these are OLGA, a genebank accessions management system, and GnpIS, an INRAE data repository for plant genetic resources, phenomics, and genetics [@doi:10.34133/2019/1671403;@doi:10.1007/978-1-4939-6658-5_5]. Using BrAPI to gather data from these systems reduced development efforts and enabled standardized data retrieval. As a result, BrAPI has become the de facto standard within the French plant genetic resources community for exchanging information. During development, the Florilège team also proposed several enhancements to the BrAPI specifications themselves, such as additional support for Collection objects or improved reference linking, to better accommodate their specific use case.
 
 <!-- ![Figure Florilege Workflow](images/Schema_Florilege.jpg){#fig:Schema_Florilege width="100%"} -->
 

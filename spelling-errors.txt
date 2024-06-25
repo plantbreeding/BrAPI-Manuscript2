@@ -22,7 +22,6 @@ Dhungana
 EE
 FFAR
 Florilège
-FLORILÈGE
 GBS
 GenAjay
 georeferencing
@@ -49,7 +48,7 @@ NIRS
 NOAA
 OpenAPI
 Pérez
-puthick
+Puthick
 RShiny
 SCT
 Sempéré
