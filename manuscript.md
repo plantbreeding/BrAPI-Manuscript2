@@ -54,12 +54,15 @@ author-meta:
 - Célia Michotey
 - Zachary Miller
 - Iain Milne
-- Lukas Mueller
+- Lukas A. Mueller
 - Moses Nderitu
+- Tim Parsons
+- Nick Palladino
 - Cyril Pommier
 - Jean-François Rami
 - Sebastian Raubach
 - Trevor Rife
+- Kelly Robbins
 - Mathieu Rouard
 - Joseph Ruff
 - Guilhem Sempéré
@@ -70,7 +73,7 @@ author-meta:
 - Grzegorz Uszynski
 - Vivian Bass Vega
 - Stephan Weise
-- Shawn Yarnes
+- Shawn C Yarnes
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -85,8 +88,8 @@ header-includes: |
   <meta name="dc.date" content="2024-06-25" />
   <meta name="citation_publication_date" content="2024-06-25" />
   <meta property="article:published_time" content="2024-06-25" />
-  <meta name="dc.modified" content="2024-06-25T19:32:42+00:00" />
-  <meta property="article:modified_time" content="2024-06-25T19:32:42+00:00" />
+  <meta name="dc.modified" content="2024-06-25T21:34:40+00:00" />
+  <meta property="article:modified_time" content="2024-06-25T21:34:40+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -219,9 +222,17 @@ header-includes: |
   <meta name="citation_author" content="Iain Milne" />
   <meta name="citation_author_institution" content="The James Hutton Institute" />
   <meta name="citation_author_orcid" content="0000-0002-4126-0859" />
-  <meta name="citation_author" content="Lukas Mueller" />
+  <meta name="citation_author" content="Lukas A. Mueller" />
+  <meta name="citation_author_institution" content="The Boyce Thompson Institute" />
+  <meta name="citation_author_orcid" content="0000-0001-8640-1750" />
   <meta name="citation_author" content="Moses Nderitu" />
   <meta name="citation_author_institution" content="SEQART AFRICA" />
+  <meta name="citation_author" content="Tim Parsons" />
+  <meta name="citation_author_institution" content="Breeding Insight, Cornell University" />
+  <meta name="citation_author_orcid" content="0000-0001-6209-2455" />
+  <meta name="citation_author" content="Nick Palladino" />
+  <meta name="citation_author_institution" content="Breeding Insight, Cornell University" />
+  <meta name="citation_author_orcid" content="0009-0009-1645-297X" />
   <meta name="citation_author" content="Cyril Pommier" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
@@ -236,6 +247,9 @@ header-includes: |
   <meta name="citation_author" content="Trevor Rife" />
   <meta name="citation_author_institution" content="Clemson University" />
   <meta name="citation_author_orcid" content="0000-0002-5974-6523" />
+  <meta name="citation_author" content="Kelly Robbins" />
+  <meta name="citation_author_institution" content="Cornell University" />
+  <meta name="citation_author_orcid" content="0000-0001-9522-9585" />
   <meta name="citation_author" content="Mathieu Rouard" />
   <meta name="citation_author_institution" content="Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France" />
   <meta name="citation_author_orcid" content="0000-0003-0284-1885" />
@@ -265,16 +279,18 @@ header-includes: |
   <meta name="citation_author" content="Stephan Weise" />
   <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
   <meta name="citation_author_orcid" content="0000-0003-4031-9131" />
-  <meta name="citation_author" content="Shawn Yarnes" />
+  <meta name="citation_author" content="Shawn C Yarnes" />
+  <meta name="citation_author_institution" content="Breeding Insight, Cornell University" />
+  <meta name="citation_author_orcid" content="0000-0002-1090-0403" />
   <link rel="canonical" href="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="og:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta property="twitter:url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/4a8c6b0fdd2e0be8754e9e701e2f7a251c07d1dd/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/4a8c6b0fdd2e0be8754e9e701e2f7a251c07d1dd/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/4a8c6b0fdd2e0be8754e9e701e2f7a251c07d1dd/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/801c3171356a9c524eac7b5a0025c8bca77a87d4/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/801c3171356a9c524eac7b5a0025c8bca77a87d4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/801c3171356a9c524eac7b5a0025c8bca77a87d4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -296,9 +312,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/4a8c6b0fdd2e0be8754e9e701e2f7a251c07d1dd/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/801c3171356a9c524eac7b5a0025c8bca77a87d4/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@4a8c6b0](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/4a8c6b0fdd2e0be8754e9e701e2f7a251c07d1dd)
+from [plantbreeding/BrAPI-Manuscript2@801c317](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/801c3171356a9c524eac7b5a0025c8bca77a87d4)
 on June 25, 2024.
 </em></small>
 
@@ -714,9 +730,15 @@ on June 25, 2024.
      The James Hutton Institute
   </small>
 
-+ **Lukas Mueller**
++ **Lukas A. Mueller**
   <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0001-8640-1750](https://orcid.org/0000-0001-8640-1750)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [lukasmueller](https://github.com/lukasmueller)
+    <br>
   <small>
+     The Boyce Thompson Institute
   </small>
 
 + **Moses Nderitu**
@@ -726,6 +748,30 @@ on June 25, 2024.
     <br>
   <small>
      SEQART AFRICA
+  </small>
+
++ **Tim Parsons**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0001-6209-2455](https://orcid.org/0000-0001-6209-2455)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [timparsons](https://github.com/timparsons)
+    <br>
+  <small>
+     Breeding Insight, Cornell University
+     · Funded by U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
+  </small>
+
++ **Nick Palladino**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0009-0009-1645-297X](https://orcid.org/0009-0009-1645-297X)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [nickpalladino](https://github.com/nickpalladino)
+    <br>
+  <small>
+     Breeding Insight, Cornell University
+     · Funded by U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
   </small>
 
 + **Cyril Pommier**
@@ -771,6 +817,15 @@ on June 25, 2024.
     <br>
   <small>
      Clemson University
+  </small>
+
++ **Kelly Robbins**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0001-9522-9585](https://orcid.org/0000-0001-9522-9585)
+    <br>
+  <small>
+     Cornell University
   </small>
 
 + **Mathieu Rouard**
@@ -864,9 +919,16 @@ on June 25, 2024.
      Leibniz Institute of Plant Genetics and Crop Plant Research
   </small>
 
-+ **Shawn Yarnes**
++ **Shawn C Yarnes**
   <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-1090-0403](https://orcid.org/0000-0002-1090-0403)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [SCYarnes](https://github.com/SCYarnes)
+    <br>
   <small>
+     Breeding Insight, Cornell University
+     · Funded by U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
   </small>
 
 
@@ -1148,12 +1210,14 @@ While specialty data management is important for some use cases, often breeders 
 #### DeltaBreed
 
 <!-- Shawn Y.-->
-DeltaBreed is an open-source data management system designed and developed by Breeding Insight to support USDA-ARS specialty crop and animal breeders. DeltaBreed is a unified system for managing breeding data that connects a variety of BrAPI applications (see list below). BrAPI integration allows the complexity underlying interoperability to be hidden, shielding users from multifactorial differences between diverse applications. DeltaBreed, adhering to the BrAPI model, establishes data standards and validations for users and provides a singular framework for data management and user training.
+DeltaBreed is an open-source breeding data management system designed and developed by Breeding Insight to support USDA-ARS specialty crop and animal breeders. DeltaBreed differs from other related systems in that is customizable to small breeding teams and generalized enough to support the workflows of diverse niche species. DeltaBreed is a unified system that connects a variety of BrAPI applications (see list below). BrAPI integration allows the complexity underlying interoperability to be hidden, shielding users from multifactorial differences between various applications. DeltaBreed, adhering to the BrAPI model, establishes data standards and validations for users and provides a singular framework for data management and user training. 
 
-DeltaBreed users need not be aware of BrAPI or the specifics of underlying applications, but will notice that BrAPI interoperability reduces the need for human-mediated file transfers and data manipulation. Field Book users, for example, can connect to their DeltaBreed program, authenticate, and pull studies and traits directly from DeltaBreed to Field Book on their data collection device. The subsequent step of pushing observations from Field Book to DeltaBreed is straightforward via BrAPI, but has not been fully implemented yet. Users can expect DeltaBreed observation handling to become more seamless with future development.
+DeltaBreed users need not be aware of BrAPI or the specifics of underlying applications but will notice that BrAPI interoperability reduces the need for human-mediated file transfers and data manipulation. Field Book users, for example, can connect to their DeltaBreed program, authenticate, and pull studies and traits directly from DeltaBreed to Field Book on their data collection device. The subsequent step of pushing observations from Field Book to DeltaBreed is straightforward via BrAPI, but is pending implementation until observation transaction handling is improved, intentional and inadvertent repeated measures are differentiated, and a data staging area is implemented for quality control.
+
+Breeding Insight integrated several BrAPI applications to support 2021 phenotypic data collection by USDA-ARS blueberry breeders. DeltaBreed was used to create traits in Breedbase, and Field Book was used to pull studies and traits from Breedbase. The workflow also permitted users to push Field Book observations back to Breedbase via BrAPI. This effort served as a successful proof of concept for multi-application BrAPI integration, but highlighted limitations to the process of accepting BrAPI observations from Field Book. The Breeding Insight team is actively working with the rest of the BrAPI community to correct these limitations in future versions of the specification. 
 
 <!-- Submission is expected July 2024. We may need to trim this aspirational list down to reality in final edits.-->
-DeltaBreed is integrated with many other BrAPI community projects and tools. There is a BrAPI enabled connection, either in development or production, with all of the following tools: [BIMS](https://www.breedwithbims.org/), [BrAPI Java Server](https://test-server.brapi.org/brapi/v2/), [BrAPI Sync](https://github.com/IntegratedBreedingPlatform/brapi-sync), [BreedBase](https://breedbase.org/), [Diversity Arrays Technologies (DArT) genotyping services](https://ordering.diversityarrays.com), [Field Book](https://play.google.com/store/apps/details?id=com.fieldbook.tracker), [Gigwa](https://gigwa.southgreen.fr/gigwa/), [Mr Bean](https://github.com/AparicioJohan/MrBeanApp), and the [Pedigree Viewer](https://github.com/solgenomics/BrAPI-Pedigree-Viewer) BrAPP. 
+DeltaBreed is integrated with many other BrAPI community projects and tools. There is a BrAPI enabled connection, either in development or production, with all of the following tools: [BrAPI Java Test Server](https://test-server.brapi.org/brapi/v2/), [BreedBase](https://breedbase.org/), [Field Book](https://play.google.com/store/apps/details?id=com.fieldbook.tracker), [Gigwa](https://gigwa.southgreen.fr/gigwa/), [QBMS](https://icarda-git.github.io/QBMS), [Mr Bean](https://github.com/AparicioJohan/MrBeanApp), [Helium](https://helium.hutton.ac.uk/#/) and the [Pedigree Viewer](https://github.com/solgenomics/BrAPI-Pedigree-Viewer) BrAPP. 
 
 
 #### BMS
@@ -1221,6 +1285,13 @@ G-Crunch is an upcoming user-facing analysis tool that attempts to fill the spac
 G-Crunch, as a tool, couldn't feasibly exist without BrAPI. The support of BrAPI interfaces allows G-Crunch to use one unified request method, and adapt to the user's (BrAPI-compliant) existing network of tools. This lowers the barrier to entry for adoption, and makes analysis pipelines easily repeatable. 
 
 
+#### ShinyBrAPPs
+
+Data management systems are generic and robust centralized applications, with a large community of users, long term development cycles and release plans. BrAPI compliance offers these systems the opportunity to add functionalities in a modular way through the development of external plugin applications that can quickly fulfill  specific needs of a group of users. [R-Shiny](https://shiny.posit.co/) is a R-package that opens the possibility to develop rich and productive interactive web applications to R users and developers. As such it allows user communities to quickly prototype and produce applications that are finely tailored to their needs, thus improving adoption and daily use of data management systems. The Breeding Management System (BMS) of the IBP and Gigwa are BrAPI compliant and are being widely used by breeding programs, including national breeding programs in Africa. CIRAD and the IBP teams have been working together as part of the [IAVAO](https://www.iavao.org/) breeders community to develop the Shiny-BrAPPs, a set of R-Shiny applications using BrAPI as a core technology for data exchange. These applications are connected to BMS and/or Gigwa and provide tools for specific use cases. So far, four applications have been developed covering the fields of trial data quality control, single trial statistical analysis, breeding decision support, and raw genotyping data visual inspection.
+
+ The "BMS trial data explorer" retrieves data from a single multi-location trial and displays data counts and summary boxplot for all variables measured in different studies. It also provides an interactive distribution plot to easily select observations that require curation and a report of candidate issues that needs to be addressed by the breeder. The "STABrAPP" tool is an application for single trial mixed model analysis. It basically provides a GUI to the [StatGen-STA](https://biometris.github.io/statgenSTA/) R package. The "DSBrAPP" tool is a decision support tool helping breeders to select germplasm according to their various characteristics and save this germplasm list into BMS. These first three apps are grouped into a single repository ([ShinyBrAPPs](https://github.com/IntegratedBreedingPlatform/ShinyBrAPPs/)) with modular code shared across applications and make use of the [brapir-v1](https://github.com/mverouden/brapir-v1) and [brapir-v2](https://github.com/mverouden/brapir-v2) R packages. Finally, the "[snpclust](https://github.com/jframi/snpclust)" tool enables a user to check and manually correct the clustering of fluorescence based SNP genotyping data. 
+
+
 #### SCT
 
 <!-- Keo -->
@@ -1230,27 +1301,6 @@ The Sugarcane Crossing Tool (SCT) is a lightweight RShiny dashboard application 
 <!-- The modularized, open source code is available in a [GitHub repository](https://github.com/USDA-ARS-GBRU/SugarcaneCrossingTool) for community reference and reuse.  -->
 
 The crossing tool utilizes a modified version of the [BrAPI-R](https://github.com/CIP-RIU/brapi) library to access a compliant database, and it employs standard R/JavaScript packages to aggregate and visualize data. Modules within the application allow breeders to query the database (through BrAPI) for information relevant to their decision-making process. This includes the number and sex of flowering accessions, deep pedigree and relatedness information, summarized trial data, and the prior frequency and success of potential cross combinations. Future versions of this tool will provide additional decision support (e.g. ranked potential crosses) to enhance the accuracy and efficiency of crossing.
-
-
-#### ShinyBrAPPs
-
-Data management systems are generic and robust centralized applications, with a large community of users, long term development cycles and release plans. 
-BrAPI compliance offers these systems the opportunity to add functionalities in a modular way through the development of external plugin applications that can 
-quickly fulfill  specific needs of a group of users. [R-Shiny](https://shiny.posit.co/)  is a R-package that opens the possibility to develop rich and productive 
-interactive web applications to R users and developers. As such it allows user communities to quickly prototype and produce applications that are finely tailored to their needs, 
-thus improving adoption and daily use of data management systems. The Breeding Management System (BMS) of the IBP and Gigwa are BrAPI compliant and are being widely used by breeding programs, 
-including national breeding programs in Africa. CIRAD and the IBP teams have been working together as part of the [IAVAO](https://www.iavao.org/) breeders community to develop the Shiny-BrAPPs, 
-a set of R-Shiny applications using BrAPI as a core technology for data exchange. These applications are connected to BMS and/or Gigwa and provide tools for specific use cases. 
-So far, four applications have been developed covering the fields of trial data quality control, single trial statistical analysis, breeding decision support, and raw genotyping data visual inspection.
-The first three of them are grouped into a single R-package ([ShinyBrAPPs](https://github.com/IntegratedBreedingPlatform/ShinyBrAPPs/)) with modular code shared across applications and make use of the [brapir-v1](https://github.com/mverouden/brapir-v1) and 
-[brapir-v2](https://github.com/mverouden/brapir-v2) R packages. 
-
-- **BMS trial data explorer** retrieves data from a single multi-location trial and displays data counts and summary boxplot for all variables measured in different studies. 
-It also provides  an interactive distribution plot to easily select observations that require curation and a report of candidate issues that needs to be addressed by the breeder.
-- **STABrAPP** is an application for single trial mixed model analysis. It basically provides a GUI to the [StatGen-STA](https://biometris.github.io/statgenSTA/) R package. 
-- **DSBrAPP** is a decision support tool helping breeders to select germplasm according to their various characteristics and save this germplasm list into BMS.
-- **[snplust](https://github.com/jframi/snpclust)** enables to check and manually correct the clustering of fluorescence based SNP genotyping data.
-
 
 
 ### General Infrastructure 
@@ -1350,6 +1400,8 @@ The authors would like to acknowledge the following funding sources:
 
 + USDA NIFA-DSFAS 2022-67021-37024
 + This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
++ U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
++ Innovation Lab for Crop Improvement Cornell, FFAR
 
 ## Author Contributions {.page_break_before}
 
