@@ -90,8 +90,8 @@ header-includes: |
   <meta name="dc.date" content="2024-06-26" />
   <meta name="citation_publication_date" content="2024-06-26" />
   <meta property="article:published_time" content="2024-06-26" />
-  <meta name="dc.modified" content="2024-06-26T17:33:28+00:00" />
-  <meta property="article:modified_time" content="2024-06-26T17:33:28+00:00" />
+  <meta name="dc.modified" content="2024-06-26T18:53:37+00:00" />
+  <meta property="article:modified_time" content="2024-06-26T18:53:37+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -140,7 +140,7 @@ header-includes: |
   <meta name="citation_author_institution" content="Wageningen University and Research" />
   <meta name="citation_author_orcid" content="0000-0001-8183-0484" />
   <meta name="citation_author" content="Terry Casstevens" />
-  <meta name="citation_author_institution" content="Cornell University" />
+  <meta name="citation_author_institution" content="Buckler Lab and Institute for Genomic Diversity, Cornell University" />
   <meta name="citation_author_orcid" content="0000-0001-7602-0487" />
   <meta name="citation_author" content="Keo Corak" />
   <meta name="citation_author_institution" content="USDA-ARS Genomics and Bioinformatics Research Unit" />
@@ -222,7 +222,7 @@ header-includes: |
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
   <meta name="citation_author_orcid" content="0000-0003-1877-1703" />
   <meta name="citation_author" content="Zachary Miller" />
-  <meta name="citation_author_institution" content="Cornell University" />
+  <meta name="citation_author_institution" content="Buckler Lab and Institute for Genomic Diversity, Cornell University" />
   <meta name="citation_author_orcid" content="0000-0002-5454-4527" />
   <meta name="citation_author" content="Iain Milne" />
   <meta name="citation_author_institution" content="The James Hutton Institute" />
@@ -296,9 +296,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/31f24130b935c2a476426d8ce5e604d72b0eaa86/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/31f24130b935c2a476426d8ce5e604d72b0eaa86/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/31f24130b935c2a476426d8ce5e604d72b0eaa86/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/227b65a46fee2a56bb706b43738db4b4a3359eb2/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/227b65a46fee2a56bb706b43738db4b4a3359eb2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/227b65a46fee2a56bb706b43738db4b4a3359eb2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -320,9 +320,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/31f24130b935c2a476426d8ce5e604d72b0eaa86/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/227b65a46fee2a56bb706b43738db4b4a3359eb2/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@31f2413](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/31f24130b935c2a476426d8ce5e604d72b0eaa86)
+from [plantbreeding/BrAPI-Manuscript2@227b65a](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/227b65a46fee2a56bb706b43738db4b4a3359eb2)
 on June 26, 2024.
 </em></small>
 
@@ -467,7 +467,7 @@ on June 26, 2024.
     [tcasstevens](https://github.com/tcasstevens)
     <br>
   <small>
-     Cornell University
+     Buckler Lab and Institute for Genomic Diversity, Cornell University
   </small>
 
 + **Keo Corak**
@@ -735,7 +735,7 @@ on June 26, 2024.
     [zrm22](https://github.com/zrm22)
     <br>
   <small>
-     Cornell University
+     Buckler Lab and Institute for Genomic Diversity, Cornell University
   </small>
 
 + **Iain Milne**
@@ -1317,7 +1317,7 @@ G-Crunch, as a tool, couldn't feasibly exist without BrAPI. The support of BrAPI
 
 Data management systems are generic and robust centralized applications, with a large community of users, long term development cycles and release plans. BrAPI compliance offers these systems the opportunity to add functionalities in a modular way through the development of external plugin applications that can quickly fulfill  specific needs of a group of users. [R-Shiny](https://shiny.posit.co/) is a R-package that opens the possibility to develop rich and productive interactive web applications to R users and developers. As such it allows user communities to quickly prototype and produce applications that are finely tailored to their needs, thus improving adoption and daily use of data management systems. The Breeding Management System (BMS) of the IBP and Gigwa are BrAPI compliant and are being widely used by breeding programs, including national breeding programs in Africa. CIRAD and the IBP teams have been working together as part of the [IAVAO](https://www.iavao.org/) breeders community to develop the Shiny-BrAPPs, a set of R-Shiny applications using BrAPI as a core technology for data exchange. These applications are connected to BMS and/or Gigwa and provide tools for specific use cases. So far, four applications have been developed covering the fields of trial data quality control, single trial statistical analysis, breeding decision support, and raw genotyping data visual inspection.
 
- The "BMS trial data explorer" retrieves data from a single multi-location trial and displays data counts and summary boxplot for all variables measured in different studies. It also provides an interactive distribution plot to easily select observations that require curation and a report of candidate issues that needs to be addressed by the breeder. The "STABrAPP" tool is an application for single trial mixed model analysis. It basically provides a GUI to the [StatGen-STA](https://biometris.github.io/statgenSTA/) R package. The "DSBrAPP" tool is a decision support tool helping breeders to select germplasm according to their various characteristics and save this germplasm list into BMS. These first three apps are grouped into a single repository ([ShinyBrAPPs](https://github.com/IntegratedBreedingPlatform/ShinyBrAPPs/)) with modular code shared across applications and make use of the [brapir-v1](https://github.com/mverouden/brapir-v1) and [brapir-v2](https://github.com/mverouden/brapir-v2) R packages. Finally, the "[snpclust](https://github.com/jframi/snpclust)" tool enables a user to check and manually correct the clustering of fluorescence based SNP genotyping data. 
+The "BMS trial data explorer" retrieves data from a single multi-location trial and displays data counts and summary boxplot for all variables measured in different studies. It also provides an interactive distribution plot to easily select observations that require curation and a report of candidate issues that needs to be addressed by the breeder. The "STABrAPP" tool is an application for single trial mixed model analysis. It basically provides a GUI to the [StatGen-STA](https://biometris.github.io/statgenSTA/) R package. The "DSBrAPP" tool is a decision support tool helping breeders to select germplasm according to their various characteristics and save this germplasm list into BMS. These first three apps are grouped into a single repository ([ShinyBrAPPs](https://github.com/IntegratedBreedingPlatform/ShinyBrAPPs/)) with modular code shared across applications and make use of the [brapir-v1](https://github.com/mverouden/brapir-v1) and [brapir-v2](https://github.com/mverouden/brapir-v2) R packages. Finally, the "[snpclust](https://github.com/jframi/snpclust)" tool enables a user to check and manually correct the clustering of fluorescence based SNP genotyping data. 
 
 
 #### SCT

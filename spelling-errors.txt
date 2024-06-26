@@ -34,7 +34,7 @@ GenAjay
 georeferencing
 GH
 Gigwa’s
-grzegorz
+Grzegorz
 Hok
 Institut
 jframi
@@ -63,7 +63,7 @@ NOAA
 OpenAPI
 Palladino
 Pérez
-Puthick
+puthick
 Rami
 Rica
 RShiny
