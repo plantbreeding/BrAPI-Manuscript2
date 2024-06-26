@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-06-25'
+date-meta: '2024-06-26'
 author-meta:
 - Peter Selby
 - Rafael Abbeloos
@@ -49,6 +49,7 @@ author-meta:
 - Taein Lee
 - Erwan Le-Floch
 - Francisco López
+- Brandon Madriz
 - Marco Marsella
 - Maud Marty
 - Célia Michotey
@@ -69,6 +70,7 @@ author-meta:
 - Paul Shaw
 - Becky Smith
 - Nahuel Soldevilla
+- Kauê de Sousa
 - Clarysabel Tovar
 - Grzegorz Uszynski
 - Vivian Bass Vega
@@ -85,11 +87,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-06-25" />
-  <meta name="citation_publication_date" content="2024-06-25" />
-  <meta property="article:published_time" content="2024-06-25" />
-  <meta name="dc.modified" content="2024-06-25T21:34:40+00:00" />
-  <meta property="article:modified_time" content="2024-06-25T21:34:40+00:00" />
+  <meta name="dc.date" content="2024-06-26" />
+  <meta name="citation_publication_date" content="2024-06-26" />
+  <meta property="article:published_time" content="2024-06-26" />
+  <meta name="dc.modified" content="2024-06-26T17:33:28+00:00" />
+  <meta property="article:modified_time" content="2024-06-26T17:33:28+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -136,6 +138,7 @@ header-includes: |
   <meta name="citation_author_orcid" content="0000-0003-4096-6689" />
   <meta name="citation_author" content="Matthijs Brouwer" />
   <meta name="citation_author_institution" content="Wageningen University and Research" />
+  <meta name="citation_author_orcid" content="0000-0001-8183-0484" />
   <meta name="citation_author" content="Terry Casstevens" />
   <meta name="citation_author_institution" content="Cornell University" />
   <meta name="citation_author_orcid" content="0000-0001-7602-0487" />
@@ -196,7 +199,7 @@ header-includes: |
   <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
   <meta name="citation_author_orcid" content="0000-0002-4316-078X" />
   <meta name="citation_author" content="Marie Angelique Laporte" />
-  <meta name="citation_author_institution" content="Alliance Bioversity-CIAT" />
+  <meta name="citation_author_institution" content="Digital Inclusion, Bioversity International, Montpellier, France." />
   <meta name="citation_author_orcid" content="0000-0002-8461-9745" />
   <meta name="citation_author" content="Taein Lee" />
   <meta name="citation_author_institution" content="Department of Horticulture, Washington State University" />
@@ -206,6 +209,8 @@ header-includes: |
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
   <meta name="citation_author" content="Francisco López" />
   <meta name="citation_author_institution" content="International Treaty on Plant Genetic Resources for Food and Agriculture, FAO" />
+  <meta name="citation_author" content="Brandon Madriz" />
+  <meta name="citation_author_institution" content="MrBot Software Solutions, Cartago, Costa Rica" />
   <meta name="citation_author" content="Marco Marsella" />
   <meta name="citation_author_institution" content="International Treaty on Plant Genetic Resources for Food and Agriculture, FAO" />
   <meta name="citation_author_orcid" content="0000-0003-0334-8785" />
@@ -268,6 +273,9 @@ header-includes: |
   <meta name="citation_author" content="Nahuel Soldevilla" />
   <meta name="citation_author_institution" content="Integrated Breeding Platform" />
   <meta name="citation_author_institution" content="Leafnode LLC" />
+  <meta name="citation_author" content="Kauê de Sousa" />
+  <meta name="citation_author_institution" content="Digital Inclusion, Bioversity International, Montpellier, France" />
+  <meta name="citation_author_orcid" content="0000-0002-7571-7845" />
   <meta name="citation_author" content="Clarysabel Tovar" />
   <meta name="citation_author_institution" content="Integrated Breeding Platform" />
   <meta name="citation_author_institution" content="Leafnode LLC" />
@@ -288,9 +296,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/801c3171356a9c524eac7b5a0025c8bca77a87d4/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/801c3171356a9c524eac7b5a0025c8bca77a87d4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/801c3171356a9c524eac7b5a0025c8bca77a87d4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/31f24130b935c2a476426d8ce5e604d72b0eaa86/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/31f24130b935c2a476426d8ce5e604d72b0eaa86/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/31f24130b935c2a476426d8ce5e604d72b0eaa86/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -312,10 +320,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/801c3171356a9c524eac7b5a0025c8bca77a87d4/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/31f24130b935c2a476426d8ce5e604d72b0eaa86/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@801c317](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/801c3171356a9c524eac7b5a0025c8bca77a87d4)
-on June 25, 2024.
+from [plantbreeding/BrAPI-Manuscript2@31f2413](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/31f24130b935c2a476426d8ce5e604d72b0eaa86)
+on June 26, 2024.
 </em></small>
 
 
@@ -442,6 +450,11 @@ on June 25, 2024.
 
 + **Matthijs Brouwer**
   <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0001-8183-0484](https://orcid.org/0000-0001-8183-0484)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [matthijsbrouwer](https://github.com/matthijsbrouwer)
+    <br>
   <small>
      Wageningen University and Research
   </small>
@@ -658,7 +671,7 @@ on June 25, 2024.
     [marieALaporte](https://github.com/marieALaporte)
     <br>
   <small>
-     Alliance Bioversity-CIAT
+     Digital Inclusion, Bioversity International, Montpellier, France.
   </small>
 
 + **Taein Lee**
@@ -682,6 +695,12 @@ on June 25, 2024.
   <br>
   <small>
      International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
+  </small>
+
++ **Brandon Madriz**
+  <br>
+  <small>
+     MrBot Software Solutions, Cartago, Costa Rica
   </small>
 
 + **Marco Marsella**
@@ -882,6 +901,15 @@ on June 25, 2024.
   <br>
   <small>
      Integrated Breeding Platform; Leafnode LLC
+  </small>
+
++ **Kauê de Sousa**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-7571-7845](https://orcid.org/0000-0002-7571-7845)
+    <br>
+  <small>
+     Digital Inclusion, Bioversity International, Montpellier, France
   </small>
 
 + **Clarysabel Tovar**
@@ -1424,6 +1452,7 @@ The authors would like to acknowledge the following funding sources:
 + **Mariano Crimi**: Mariano has made significant contributions to the BMS project.
 + **Gouripriya Davuluri**: Gouripriya has made significant contributions to the AGENT Portal project.
 + **Jeremy Destin**: Jeremy has made significant contributions to the Florilège and Faidare projects.
++ **Ajay Dhungana**: Ajay wrote section introductions for the Phenotyping, Genotyping, and Germplasm topics.
 + **Bert Droesbeke**: Bert wrote the section on the BrAPI2ISA project, and has made significant contributions to the BrAPI compatibility of the BrAPI2ISA project.
 + **Manuel Feser**: Manuel wrote the section on the MIRA project, and has made significant contributions to the BrAPI compatibility of the MIRA project.
 + **Mirella Flores-Gonzalez**: Mirella wrote the section on the Trait Selector BrAPP project, and has made significant contributions to the BrAPI compatibility of the Trait Selector BrAPP and Breedbase projects.
@@ -1451,10 +1480,12 @@ The authors would like to acknowledge the following funding sources:
 + **Iain Milne**: Iain has made significant contributions to the Flapjack, Gridscore, and Germinate projects.
 + **Lukas Mueller**: Lukas wrote the section on the Breedbase project, and has made significant contributions to the BrAPI compatibility of the Breedbase project. Lukas is also Co-PI on the current BrAPI Grant and has supported the project since its inception.
 + **Moses Nderitu**: Moses wrote the section on the DArTView project, and has made significant contributions to the BrAPI compatibility of the DArTView project.
++ **Tim Parsons**: Tim has made significant contributions to the DeltaBreed project.
 + **Cyril Pommier**: Cyril wrote the section on the Faidare project, and has made significant contributions to the BrAPI compatibility of the Florilège, Faidare, and AGENT Portal projects.
 + **Jean-François Rami**: Jean-François wrote the section on the ShinyBrAPPs project, and has made significant contributions to the BrAPI compatibility of the ShinyBrAPPs project.
 + **Sebastian Raubach**: Sebastian wrote the sections on the GridScore and Germinate projects, and has made significant contributions to the BrAPI compatibility of the GridScore, Germinate, and Flapjack projects.
 + **Trevor Rife**: Trevor has made significant contributions to the Field Book project.
++ **Kelly Robbins**: Kelly is the PI for the BrAPI Project grant, and has supported all technical and scientific aspects of the project.
 + **Mathieu Rouard**: Mathieu wrote the section on the MGIS project, and has made significant contributions to the BrAPI compatibility of the MGIS project.
 + **Joseph Ruff**: Joseph has made significant contributions to the AGENT Portal project.
 + **Guilhem Sempéré**: Guilhem wrote the section on the Gigwa project, and has made significant contributions to the BrAPI compatibility of the Gigwa project.
