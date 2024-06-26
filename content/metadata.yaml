@@ -157,6 +157,9 @@ authors:
   - name: Stephan Weise
     email: Stephan.Weise@leibniz-ipk.de
     initials: SW
+    github: xxx
+    orcid: xxx
+    email: Stephan.Weise@leibniz-ipk.de
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
   - name: Patrick König
@@ -167,8 +170,13 @@ authors:
   - name: Gouripriya Davuluri
     email: Gouripriya.Davuluri@leibniz-ipk.de
     initials: GD
+    github: xxx
+    orcid: xxx
+    email: Gouripriya.Davuluri@leibniz-ipk.de
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
+    funders: 
+     - Long Version : The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement No 862613.
   - name: Paul Kersey
     email: P.Kersey@kew.org
     initials: PK
@@ -192,6 +200,9 @@ authors:
   - name: Suman Kumar
     email: kumar@ipk-gatersleben.de
     initials: SK
+    github: xxx
+    orcid: xxx
+    email: Suman.Kumar@leibniz-ipk.de
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
   - name: Matthijs Brouwer
