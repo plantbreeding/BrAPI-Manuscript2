@@ -248,7 +248,7 @@ authors:
     email: lange@ipk-gatersleben.de
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
-  - name: Marie Angelique Laporte
+  - name: Marie-Angélique Laporte
     initials: MAL
     github: marieALaporte
     orcid: 0000-0002-8461-9745
@@ -421,6 +421,7 @@ authors:
       - Leafnode LLC
   - name: Kauê de Sousa
     email: k.desousa@cgiar.org
+    github: kauedesousa
     orcid: 0000-0002-7571-7845
     affiliations:
       - Digital Inclusion, Bioversity International, Montpellier, France
