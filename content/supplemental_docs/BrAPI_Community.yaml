@@ -1,14 +1,4 @@
----
-title: "BrAPI Success Stories"
-date: null  # Defaults to date generated, but can specify like '2022-10-31'.
-keywords:
-  - brapi
-  - breeding
-  - api
-  - standards
-  - community
-lang: en-US
-authors:
+community:
   - name: Peter Selby
     initials: PS
     github: BrapiCoordinatorSelby
@@ -33,15 +23,7 @@ authors:
     affiliations:
       - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, Versailles, France   
-  - name: Francisco J. Agosto-Pérez
-    initials: FJAP
-    github: agostof
-    orcid: 0000-0002-5059-253X
-    email: fja32@cornell.edu 
-    affiliations: 
-      - Cornell University
-    funders: 
-      - Innovation Lab for Crop Improvement Cornell, FFAR
+  - name: Francisco Agosto
   - name: Michael Alaux
     email: michael.alaux@inrae.fr
     initials: MA
@@ -90,16 +72,7 @@ authors:
       - 'Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszentrum Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany'
       - Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany
   - name: Alice Boizet
-    initials: AB
-    github: aliceboizet
-    orcid: 0000-0003-4096-6689
-    email: alice.boizet@cirad.fr
-    affiliations: 
-      - CIRAD, UMR AGAP Institut, Montpellier, France.
-      - AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France.
   - name: Matthijs Brouwer
-    github: matthijsbrouwer
-    orcid: 0000-0001-8183-0484
     email: matthijs.brouwer@wur.nl
     initials: MB
     affiliations:
@@ -110,13 +83,7 @@ authors:
     github: tcasstevens
     orcid: 0000-0001-7602-0487
     affiliations: 
-      - Buckler Lab and Institute for Genomic Diversity, Cornell University
-  - name: Keo Corak
-    github: keocorak
-    initials: KC
-    email: keo.corak@usda.gov
-    affiliations:
-      - USDA-ARS Genomics and Bioinformatics Research Unit 
+      - Cornell University
   - name: Chaney Courtney
     github: chaneylc
     initials: CC
@@ -139,12 +106,6 @@ authors:
     affiliations:
       - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, Versailles, France
-  - name: Ajay Dhungana
-    initials: AD
-    github: GenAjay
-    email: adhung4@lsu.edu
-    affiliations:
-      - Louisiana State University (LSU)
   - name: Bert Droesbeke
     initials: BD
     github: bedroesb
@@ -193,12 +154,7 @@ authors:
     affiliations:
       - Diversity Arrays Technology (DArT)
     corresponding: false
-  - name: Lynn Carol Johnson
-    initials: LCJ
-    orcid: 0000-0001-8103-2722
-    email: lcj34@cornell.edu
-    affiliations:
-      - Buckler Lab and Institute for Genomic Diversity, Cornell University
+  - name: Lynn Johnson
   - name: Sook Jung
     initials: SJ
     email: sook_jung@wsu.edu
@@ -254,7 +210,7 @@ authors:
     orcid: 0000-0002-8461-9745
     email: m.a.laporte@cgiar.org
     affiliations:
-      - Digital Inclusion, Bioversity International, Montpellier, France.
+      - Alliance Bioversity-CIAT
   - name: Taein Lee
     initials: TL
     email: taein_lee@hotmail.com
@@ -273,10 +229,6 @@ authors:
     email: francisco.lopez@fao.org
     affiliations:
       - International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
-  - name: Brandon Madriz
-    email: bmadriz@mrbotcr.com
-    affiliations:
-     - MrBot Software Solutions, Cartago, Costa Rica
   - name: Marco Marsella
     initials: MM
     email: marco.marsella@fao.org
@@ -302,7 +254,7 @@ authors:
     github: zrm22
     orcid: 0000-0002-5454-4527
     affiliations:
-      - Buckler Lab and Institute for Genomic Diversity, Cornell University
+      - Cornell University
   - name: Iain Milne
     initials: IM
     github: imilne
@@ -310,37 +262,7 @@ authors:
     email: iain.milne@hutton.ac.uk
     affiliations:
       - The James Hutton Institute
-  - name: Lukas A. Mueller
-    initials: LAM
-    email: lam87@cornell.edu
-    github: lukasmueller
-    orcid: 0000-0001-8640-1750
-    affiliations: 
-      - The Boyce Thompson Institute
-  - name: Moses Nderitu
-    github: jndmose
-    email: m.nderitu@seqart.net
-    initials: MN
-    affiliations:
-      - SEQART AFRICA
-  - name: Tim Parsons
-    initials: TEP
-    email: tim@timparsons.io
-    github: timparsons
-    orcid: 0000-0001-6209-2455
-    affiliations: 
-      - Breeding Insight, Cornell University
-    funders: 
-      - U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
-  - name: Nick Palladino
-    initials: NP
-    email: np398@cornell.edu
-    github: nickpalladino
-    orcid: 0009-0009-1645-297X
-    affiliations: 
-      - Breeding Insight, Cornell University
-    funders: 
-      - U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
+  - name: Lukas Mueller
   - name: Cyril Pommier
     initials: CP
     github: cpommier
@@ -351,14 +273,6 @@ authors:
       - Université Paris-Saclay, INRAE, URGI, Versailles, France
     funders: 
       - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
-  - name: Jean-François Rami
-    initials: JFR
-    github: jframi
-    orcid: 0000-0002-5679-3877
-    email: jean-francois.rami@cirad.fr
-    affiliations:
-      - CIRAD, UMR AGAP Institut, Montpellier, France.
-      - AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France.
   - name: Sebastian Raubach
     initials: SR
     github: sebastian-raubach
@@ -373,12 +287,6 @@ authors:
     email: twrife@clemson.edu
     affiliations:
       - Clemson University
-  - name: Kelly Robbins
-    initials: KR
-    orcid: 0000-0001-9522-9585
-    email: krr73@cornell.edu
-    affiliations:
-      - Cornell University
   - name: Mathieu Rouard
     initials: MR
     github: mrouard
@@ -419,11 +327,6 @@ authors:
     affiliations:
       - Integrated Breeding Platform
       - Leafnode LLC
-  - name: Kauê de Sousa
-    email: k.desousa@cgiar.org
-    orcid: 0000-0002-7571-7845
-    affiliations:
-      - Digital Inclusion, Bioversity International, Montpellier, France
   - name: Clarysabel Tovar
     initials: CT
     email: 
@@ -449,13 +352,4 @@ authors:
     orcid: 0000-0003-4031-9131
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
-  - name: Shawn C Yarnes 
-    initials: SCY 
-    email: scy32@cornell.edu 
-    github: SCYarnes 
-    orcid: 0000-0002-1090-0403 
-    affiliations: 
-      - Breeding Insight, Cornell University 
-    funders: 
-      - U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
-
+  - name: Shawn Yarnes
