@@ -20,9 +20,11 @@ author-meta:
 - Jan Erik Backlund
 - Aldrin Batac
 - Sebastian Beier
+- Gabriel Besombes
 - Alice Boizet
 - Matthijs Brouwer
 - Terry Casstevens
+- Arnaud Charleroy
 - Keo Corak
 - Chaney Courtney
 - Mariano Crimi
@@ -57,6 +59,7 @@ author-meta:
 - Iain Milne
 - Lukas A. Mueller
 - Moses Nderitu
+- Pascal Neveu
 - Tim Parsons
 - Nick Palladino
 - Cyril Pommier
@@ -71,6 +74,7 @@ author-meta:
 - Becky Smith
 - Nahuel Soldevilla
 - Kauê de Sousa
+- Anne Tireau
 - Clarysabel Tovar
 - Grzegorz Uszynski
 - Vivian Bass Vega
@@ -90,8 +94,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-05" />
   <meta name="citation_publication_date" content="2024-07-05" />
   <meta property="article:published_time" content="2024-07-05" />
-  <meta name="dc.modified" content="2024-07-05T16:53:55+00:00" />
-  <meta property="article:modified_time" content="2024-07-05T16:53:55+00:00" />
+  <meta name="dc.modified" content="2024-07-05T16:54:59+00:00" />
+  <meta property="article:modified_time" content="2024-07-05T16:54:59+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -116,7 +120,7 @@ header-includes: |
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
   <meta name="citation_author_orcid" content="0000-0001-9356-4072" />
   <meta name="citation_author" content="Isabelle Alic" />
-  <meta name="citation_author_institution" content="INRAE" />
+  <meta name="citation_author_institution" content="MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France" />
   <meta name="citation_author_orcid" content="0000-0002-8961-6068" />
   <meta name="citation_author" content="Khaled Al-Shamaa" />
   <meta name="citation_author_institution" content="ICARDA" />
@@ -132,6 +136,8 @@ header-includes: |
   <meta name="citation_author_institution" content="Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszentrum Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany" />
   <meta name="citation_author_institution" content="Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany" />
   <meta name="citation_author_orcid" content="0000-0002-2177-8781" />
+  <meta name="citation_author" content="Gabriel Besombes" />
+  <meta name="citation_author_institution" content="MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France" />
   <meta name="citation_author" content="Alice Boizet" />
   <meta name="citation_author_institution" content="CIRAD, UMR AGAP Institut, Montpellier, France." />
   <meta name="citation_author_institution" content="AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France." />
@@ -142,6 +148,9 @@ header-includes: |
   <meta name="citation_author" content="Terry Casstevens" />
   <meta name="citation_author_institution" content="Buckler Lab and Institute for Genomic Diversity, Cornell University" />
   <meta name="citation_author_orcid" content="0000-0001-7602-0487" />
+  <meta name="citation_author" content="Arnaud Charleroy" />
+  <meta name="citation_author_institution" content="MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France" />
+  <meta name="citation_author_orcid" content="0009-0009-7575-3617" />
   <meta name="citation_author" content="Keo Corak" />
   <meta name="citation_author_institution" content="USDA-ARS Genomics and Bioinformatics Research Unit" />
   <meta name="citation_author" content="Chaney Courtney" />
@@ -232,6 +241,9 @@ header-includes: |
   <meta name="citation_author_orcid" content="0000-0001-8640-1750" />
   <meta name="citation_author" content="Moses Nderitu" />
   <meta name="citation_author_institution" content="SEQART AFRICA" />
+  <meta name="citation_author" content="Pascal Neveu" />
+  <meta name="citation_author_institution" content="MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France" />
+  <meta name="citation_author_orcid" content="0000-0003-4189-7793" />
   <meta name="citation_author" content="Tim Parsons" />
   <meta name="citation_author_institution" content="Breeding Insight, Cornell University" />
   <meta name="citation_author_orcid" content="0000-0001-6209-2455" />
@@ -276,6 +288,9 @@ header-includes: |
   <meta name="citation_author" content="Kauê de Sousa" />
   <meta name="citation_author_institution" content="Digital Inclusion, Bioversity International, Montpellier, France" />
   <meta name="citation_author_orcid" content="0000-0002-7571-7845" />
+  <meta name="citation_author" content="Anne Tireau" />
+  <meta name="citation_author_institution" content="MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France" />
+  <meta name="citation_author_orcid" content="0000-0001-8501-6922" />
   <meta name="citation_author" content="Clarysabel Tovar" />
   <meta name="citation_author_institution" content="Integrated Breeding Platform" />
   <meta name="citation_author_institution" content="Leafnode LLC" />
@@ -296,9 +311,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cc62dfe56f8a0c0a8bce2ba4927155bfa51d2e5e/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cc62dfe56f8a0c0a8bce2ba4927155bfa51d2e5e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cc62dfe56f8a0c0a8bce2ba4927155bfa51d2e5e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f87c4197b7cb26dfecb51960773f70097e1bdfd5/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f87c4197b7cb26dfecb51960773f70097e1bdfd5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f87c4197b7cb26dfecb51960773f70097e1bdfd5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -320,9 +335,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/cc62dfe56f8a0c0a8bce2ba4927155bfa51d2e5e/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/f87c4197b7cb26dfecb51960773f70097e1bdfd5/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@cc62dfe](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/cc62dfe56f8a0c0a8bce2ba4927155bfa51d2e5e)
+from [plantbreeding/BrAPI-Manuscript2@f87c419](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/f87c4197b7cb26dfecb51960773f70097e1bdfd5)
 on July 5, 2024.
 </em></small>
 
@@ -393,7 +408,7 @@ on July 5, 2024.
     [Isabelle-inrae](https://github.com/Isabelle-inrae)
     <br>
   <small>
-     INRAE
+     MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
      · Funded by This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
   </small>
 
@@ -437,6 +452,16 @@ on July 5, 2024.
      Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszentrum Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany; Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany
   </small>
 
++ **Gabriel Besombes**
+  <br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [Gabriel-Besombes](https://github.com/Gabriel-Besombes)
+    <br>
+  <small>
+     MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
+     · Funded by This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
+  </small>
+
 + **Alice Boizet**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
@@ -468,6 +493,18 @@ on July 5, 2024.
     <br>
   <small>
      Buckler Lab and Institute for Genomic Diversity, Cornell University
+  </small>
+
++ **Arnaud Charleroy**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0009-0009-7575-3617](https://orcid.org/0009-0009-7575-3617)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [niio972](https://github.com/niio972)
+    <br>
+  <small>
+     MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
+     · Funded by This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
   </small>
 
 + **Keo Corak**
@@ -769,6 +806,18 @@ on July 5, 2024.
      SEQART AFRICA
   </small>
 
++ **Pascal Neveu**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0003-4189-7793](https://orcid.org/0000-0003-4189-7793)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [pascalneveu](https://github.com/pascalneveu)
+    <br>
+  <small>
+     MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
+     · Funded by This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
+  </small>
+
 + **Tim Parsons**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
@@ -912,6 +961,18 @@ on July 5, 2024.
     <br>
   <small>
      Digital Inclusion, Bioversity International, Montpellier, France
+  </small>
+
++ **Anne Tireau**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0001-8501-6922](https://orcid.org/0000-0001-8501-6922)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [annetireau](https://github.com/annetireau)
+    <br>
+  <small>
+     MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
+     · Funded by This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
   </small>
 
 + **Clarysabel Tovar**
