@@ -28,6 +28,7 @@ curation
 customizable
 DArTdb
 DArTView’s
+dataflow
 Dhungana
 DSBrAPP
 EE
@@ -62,6 +63,7 @@ lukasmueller
 Madriz
 marieALaporte
 matthijsbrouwer
+Mayank
 MISTEA
 MrBot
 Nderitu
@@ -74,9 +76,10 @@ OpenAPI
 Palladino
 pascalneveu
 Pérez
-Puthick
+puthick
 Rami
 Rica
+romil
 RShiny
 SCT
 SCYarnes
@@ -89,6 +92,7 @@ SSRs
 STABrAPP
 StatGen
 Straße
+sumankumar
 SwaggerHub
 timparsons
 Tireau

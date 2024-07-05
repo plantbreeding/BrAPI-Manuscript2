@@ -70,6 +70,7 @@ author-meta:
 - Mathieu Rouard
 - Joseph Ruff
 - Guilhem Sempéré
+- Romil Mayank Shah
 - Paul Shaw
 - Becky Smith
 - Nahuel Soldevilla
@@ -94,8 +95,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-05" />
   <meta name="citation_publication_date" content="2024-07-05" />
   <meta property="article:published_time" content="2024-07-05" />
-  <meta name="dc.modified" content="2024-07-05T16:57:53+00:00" />
-  <meta property="article:modified_time" content="2024-07-05T16:57:53+00:00" />
+  <meta name="dc.modified" content="2024-07-05T16:59:27+00:00" />
+  <meta property="article:modified_time" content="2024-07-05T16:59:27+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -153,12 +154,14 @@ header-includes: |
   <meta name="citation_author_orcid" content="0009-0009-7575-3617" />
   <meta name="citation_author" content="Keo Corak" />
   <meta name="citation_author_institution" content="USDA-ARS Genomics and Bioinformatics Research Unit" />
+  <meta name="citation_author_orcid" content="0000-0002-4129-3319" />
   <meta name="citation_author" content="Chaney Courtney" />
   <meta name="citation_author_institution" content="Clemson University" />
   <meta name="citation_author" content="Mariano Crimi" />
   <meta name="citation_author_institution" content="Integrated Breeding Platform" />
   <meta name="citation_author" content="Gouripriya Davuluri" />
   <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
+  <meta name="citation_author_orcid" content="0009-0005-2308-0773" />
   <meta name="citation_author" content="Jeremy Destin" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
@@ -199,6 +202,7 @@ header-includes: |
   <meta name="citation_author_orcid" content="0000-0002-8948-6793" />
   <meta name="citation_author" content="Suman Kumar" />
   <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
+  <meta name="citation_author_orcid" content="0009-0005-5832-7190" />
   <meta name="citation_author" content="Josh Lamos-Sweeney" />
   <meta name="citation_author_institution" content="Cornell University" />
   <meta name="citation_author" content="Laszlo Lang" />
@@ -276,6 +280,8 @@ header-includes: |
   <meta name="citation_author_institution" content="CIRAD (french agricultural research and international cooperation organization)" />
   <meta name="citation_author_institution" content="South Green Platform" />
   <meta name="citation_author_orcid" content="0000-0001-7429-2091" />
+  <meta name="citation_author" content="Romil Mayank Shah" />
+  <meta name="citation_author_institution" content="North Carolina State University" />
   <meta name="citation_author" content="Paul Shaw" />
   <meta name="citation_author_institution" content="The James Hutton Institute" />
   <meta name="citation_author_orcid" content="0000-0002-0202-1150" />
@@ -311,9 +317,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/01f97e786525879db23a1d72a3716051fe743bd3/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/01f97e786525879db23a1d72a3716051fe743bd3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/01f97e786525879db23a1d72a3716051fe743bd3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/7d2efaea4b473861f4000c80c42a17eade5dcdb8/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/7d2efaea4b473861f4000c80c42a17eade5dcdb8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/7d2efaea4b473861f4000c80c42a17eade5dcdb8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -335,9 +341,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/01f97e786525879db23a1d72a3716051fe743bd3/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/7d2efaea4b473861f4000c80c42a17eade5dcdb8/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@01f97e7](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/01f97e786525879db23a1d72a3716051fe743bd3)
+from [plantbreeding/BrAPI-Manuscript2@7d2efae](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/7d2efaea4b473861f4000c80c42a17eade5dcdb8)
 on July 5, 2024.
 </em></small>
 
@@ -509,6 +515,8 @@ on July 5, 2024.
 
 + **Keo Corak**
   <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-4129-3319](https://orcid.org/0000-0002-4129-3319)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [keocorak](https://github.com/keocorak)
     <br>
@@ -533,8 +541,14 @@ on July 5, 2024.
 
 + **Gouripriya Davuluri**
   <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0009-0005-2308-0773](https://orcid.org/0009-0005-2308-0773)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [Gouripriya5](https://github.com/Gouripriya5)
+    <br>
   <small>
      Leibniz Institute of Plant Genetics and Crop Plant Research
+     · Funded by {'Short version': 'This work was supported by the project AGENT project under EU H2020 grant agreement No 862613.'}; {'Long Version': 'The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement No 862613.'}
   </small>
 
 + **Jeremy Destin**
@@ -665,6 +679,11 @@ on July 5, 2024.
 
 + **Suman Kumar**
   <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0009-0005-5832-7190](https://orcid.org/0009-0005-5832-7190)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [sumankumar1](https://github.com/sumankumar1)
+    <br>
   <small>
      Leibniz Institute of Plant Genetics and Crop Plant Research
   </small>
@@ -922,6 +941,15 @@ on July 5, 2024.
     <br>
   <small>
      CIRAD (french agricultural research and international cooperation organization); South Green Platform
+  </small>
+
++ **Romil Mayank Shah**
+  <br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [romil2807](https://github.com/romil2807)
+    <br>
+  <small>
+     North Carolina State University
   </small>
 
 + **Paul Shaw**
@@ -1248,7 +1276,7 @@ Suggested Authors: Matthias Lange, Patrick König, Stephan Weise, Gouripriya Dav
 <!-- Matthias Lange -->
 In the global system for ex situ conservation of plant genetic resources (PGR) [@doi:10.3390/plants10081557], a total of ~5.8 million accessions are conserved in 1750 ex situ genebanks [@doi:10.2135/cropsci2017.01.0014]. Unique and permanent identifiers in the form of DOIs are available for more than 1.7 million accessions [@{https://glis.fao.org/glis/}]. Each DOI is linked to some basic descriptive data that facilitates the use of these resources. Many DOIs are also linked to additional data from different domains or will be in the future. However, a data space beyond the most basic information is needed that includes genotypic and phenotypic data. This space will help answer questions on the global biological diversity of a plant species, on duplicate detection, on provenance tracking for the identification of genetic integrity, on the selection of the most suitable material for various purposes, and to support further applications in data mining or AI. In this context, the aim of the [AGENT project](https://www.agent-project.eu/), funded by the European Commission, is to develop a concept for the digital exploitation and activation of this PGR data space, [@doi:10.1038/sdata.2016.18] and to test it in practice using two important crops, barley and wheat. Thirteen European genebanks and five bioinformatics centers are cooperating and have agreed on standards and protocols for the data flow and data formats [@doi:10.12688/f1000research.109080.2] for central archiving of genotypic and phenotypic data.
 
-The BrAPI specification is one of the agreed standards. The implemented BrAPI interface enables AGENT to mine current and historic genotypic and phenotypic information. This will drive the discovery of genes, traits, and knowledge for future missions. The AGENT database backend aggregates curated passport data, phenotypic data, and genotypic data about wheat and barley accessions from the 18 project partners. This data is integrated via [BrAPI endpoints](https://github.com/AGENTproject/BrAPI) and explorable in a [web portal](https://agent.ipk-gatersleben.de). Genotyping data uses the DivBrowse [@doi:10.1093/gigascience/giad025] storage engine and its BrAPI interface. Soon, the BrAPI implementation will be expanded to enable the integration of analysis pipelines in the AGENT portal, such as the FIGS+ pipeline developed by ICARDA [@doi:10.22004/AG.ECON.266624].
+The BrAPI specification is one of the agreed standards, that are detailed in the AGENT guidelines for dataflow [@doi:10.5281/zenodo.12625360]. The implemented BrAPI interface enables AGENT to mine current and historic genotypic and phenotypic information. This will drive the discovery of genes, traits, and knowledge for future missions. The AGENT database backend aggregates curated passport data, phenotypic data, and genotypic data about wheat and barley accessions from the 18 project partners. This data is integrated via [BrAPI endpoints](https://github.com/AGENTproject/BrAPI) and explorable in a [web portal](https://agent.ipk-gatersleben.de). Genotyping data uses the DivBrowse [@doi:10.1093/gigascience/giad025] storage engine and its BrAPI interface. Soon, the BrAPI implementation will be expanded to enable the integration of analysis pipelines in the AGENT portal, such as the FIGS+ pipeline developed by ICARDA [@doi:10.22004/AG.ECON.266624].
 
 <!-- ![Figure Data flow of genotypic data from AGENT partner databases](images/AGENT_Genotyping_Data_Flow.png){#fig:AGENT_Genotyping_Data_Flow width="100%"} -->
 <!-- ![Figure AGENT Portal](images/AGENT_Web_Frontend.png){#fig:AGENT_Web_Frontend width="100%"} -->
