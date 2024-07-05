@@ -147,10 +147,16 @@ authors:
     affiliations:
       - Integrated Breeding Platform
   - name: Gouripriya Davuluri
-    email: davuluri@ipk-gatersleben.de
+    email: Gouripriya.Davuluri@leibniz-ipk.de
     initials: GD
+    github: Gouripriya5
+    orcid: 0009-0005-2308-0773
+    email: Gouripriya.Davuluri@leibniz-ipk.de
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
+    funders: 
+     - Short version : This work was supported by the project AGENT project under EU H2020 grant agreement No 862613.
+     - Long Version : The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement No 862613.
   - name: Jeremy Destin
     email: jeremy.destin@inrae.fr
     initials: JD
@@ -244,6 +250,9 @@ authors:
   - name: Suman Kumar
     email: kumar@ipk-gatersleben.de
     initials: SK
+    github: sumankumar1
+    orcid: 0009-0005-5832-7190
+    email: Suman.Kumar@leibniz-ipk.de
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
   - name: Josh Lamos-Sweeney
