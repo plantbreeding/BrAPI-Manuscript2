@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/gh-pages) branch hosts the contents of this directory at <https://plantbreeding.github.io/BrAPI-Manuscript2/>.
-The permalink for this webpage version is <https://plantbreeding.github.io/BrAPI-Manuscript2/v/7d2efaea4b473861f4000c80c42a17eade5dcdb8/>.
+The permalink for this webpage version is <https://plantbreeding.github.io/BrAPI-Manuscript2/v/1f5b73efe8d2d7a3b2ddfc70975f9c4d8560e2b3/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://plantbreeding.github.io/BrAPI-Manuscript2/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`7d2efaea4b473861f4000c80c42a17eade5dcdb8`](https://github.com/plantbreeding/BrAPI-Manuscript2/commit/7d2efaea4b473861f4000c80c42a17eade5dcdb8).
+[`1f5b73efe8d2d7a3b2ddfc70975f9c4d8560e2b3`](https://github.com/plantbreeding/BrAPI-Manuscript2/commit/1f5b73efe8d2d7a3b2ddfc70975f9c4d8560e2b3).
