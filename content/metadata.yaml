@@ -55,7 +55,7 @@ authors:
     orcid: 0000-0002-8961-6068
     email: isabelle.alic@inrae.fr
     affiliations:
-      - INRAE
+      - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
     funders: 
       - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
   - name: Khaled Al-Shamaa
@@ -89,6 +89,14 @@ authors:
     affiliations:
       - 'Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszentrum Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany'
       - Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany
+  - name: Gabriel Besombes
+    initials: GB
+    github: Gabriel-Besombes
+    email: gabriel.besombes@inrae.fr
+    affiliations:
+      - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
+    funders: 
+      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)           
   - name: Alice Boizet
     initials: AB
     github: aliceboizet
@@ -111,6 +119,15 @@ authors:
     orcid: 0000-0001-7602-0487
     affiliations: 
       - Buckler Lab and Institute for Genomic Diversity, Cornell University
+  - name: Arnaud Charleroy
+    initials: AC
+    github: niio972
+    email: arnaud.charleroy@inrae.fr
+    orcid: 0009-0009-7575-3617
+    affiliations:
+      - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
+    funders: 
+      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)           
   - name: Keo Corak
     github: keocorak
     initials: KC
@@ -323,6 +340,15 @@ authors:
     initials: MN
     affiliations:
       - SEQART AFRICA
+  - name: Pascal Neveu
+    initials: PN
+    github: pascalneveu
+    email: pascal.neveu@inrae.fr
+    orcid: 0000-0003-4189-7793
+    affiliations:
+      - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
+    funders: 
+      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)              
   - name: Tim Parsons
     initials: TEP
     email: tim@timparsons.io
@@ -425,6 +451,15 @@ authors:
     orcid: 0000-0002-7571-7845
     affiliations:
       - Digital Inclusion, Bioversity International, Montpellier, France
+  - name: Anne Tireau
+    initials: AT
+    github: annetireau
+    orcid: 0000-0001-8501-6922
+    email: anne.tireau@inrae.fr
+    affiliations:
+      - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
+    funders: 
+      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)      
   - name: Clarysabel Tovar
     initials: CT
     email: 
