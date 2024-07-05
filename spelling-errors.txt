@@ -39,7 +39,7 @@ GenAjay
 georeferencing
 GH
 Gigwa’s
-Grzegorz
+grzegorz
 Hok
 Institut
 INV
@@ -74,7 +74,7 @@ OpenAPI
 Palladino
 pascalneveu
 Pérez
-puthick
+Puthick
 Rami
 Rica
 RShiny

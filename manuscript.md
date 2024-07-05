@@ -94,8 +94,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-05" />
   <meta name="citation_publication_date" content="2024-07-05" />
   <meta property="article:published_time" content="2024-07-05" />
-  <meta name="dc.modified" content="2024-07-05T16:54:59+00:00" />
-  <meta property="article:modified_time" content="2024-07-05T16:54:59+00:00" />
+  <meta name="dc.modified" content="2024-07-05T16:57:53+00:00" />
+  <meta property="article:modified_time" content="2024-07-05T16:57:53+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -311,9 +311,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f87c4197b7cb26dfecb51960773f70097e1bdfd5/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f87c4197b7cb26dfecb51960773f70097e1bdfd5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f87c4197b7cb26dfecb51960773f70097e1bdfd5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/01f97e786525879db23a1d72a3716051fe743bd3/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/01f97e786525879db23a1d72a3716051fe743bd3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/01f97e786525879db23a1d72a3716051fe743bd3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -335,9 +335,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/f87c4197b7cb26dfecb51960773f70097e1bdfd5/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/01f97e786525879db23a1d72a3716051fe743bd3/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@f87c419](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/f87c4197b7cb26dfecb51960773f70097e1bdfd5)
+from [plantbreeding/BrAPI-Manuscript2@01f97e7](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/01f97e786525879db23a1d72a3716051fe743bd3)
 on July 5, 2024.
 </em></small>
 
@@ -1140,9 +1140,9 @@ When the raw images have been processed through the standardization pipelines in
 <!-- Isabelle -->
 The Hybrid Phenotyping Information System ([PHIS](http://www.phis.inrae.fr/) [@doi:10.1111/nph.15385]), based on the [OpenSILEX](https://github.com/OpenSILEX/) framework, is an ontology-driven information system based on semantic web technologies. PHIS is deployed in several field and greenhouse platforms of the French national [PHENOME](https://www.phenome-emphasis.fr/) and European [EMPHASIS](https://emphasis.plant-phenotyping.eu/) infrastructures. It manages and collects data from basic phenotyping and high throughput phenotyping experiments on a day to day basis. PHIS unambiguously identifies all the objects and traits in an experiment, and establishes their types and relationships via ontologies and semantics.
 
-PHIS has been designed to be BrAPI-compliant. PHIS adheres to the standards and protocols specified by BrAPI and implements various services aligning with the BrAPI standards, encompassing the Core, Phenotyping, and Germplasm modules. This enables integration and compatibility with BrAPI-compliant systems and platforms. This prerequisite served as the basis for formalizing the data model, while also facilitating compatibility with other standards, such as the Minimal Information About a Plant Phenotyping Experiment ([MIAPPE](https://www.miappe.org/) [@doi:10.1111/nph.16544]). By integrating BrAPI requirements into its structure, PHIS not only meets the standards of the phenotyping field, but also strengthens its capacity for interoperability and effective collaboration in the wider context of plant breeding and related fields. The fact that data within a PHIS instance can be queried through BrAPI services makes the indexing of PHIS in [FAIDARE](https://urgi.versailles.inrae.fr/faidare/) [@https://urgi.versailles.inrae.fr/faidare] very easy to implement.
+PHIS has been designed to be BrAPI-compliant. PHIS adheres to the standards and protocols specified by BrAPI and implements various services aligning with the BrAPI standards, encompassing the Core, Phenotyping, and Germplasm modules. This enables integration and compatibility with BrAPI-compliant systems and platforms, such as OLGA, a genebank accessions management system, to retrieve accession information. This prerequisite served as the basis for formalizing the data model, while also facilitating compatibility with other standards, such as the Minimal Information About a Plant Phenotyping Experiment ([MIAPPE](https://www.miappe.org/) [@doi:10.1111/nph.16544]). By integrating BrAPI requirements into its structure, PHIS not only meets the standards of the phenotyping field, but also strengthens its capacity for interoperability and effective collaboration in the wider context of plant breeding and related fields. The fact that data within a PHIS instance can be queried through BrAPI services enables indexing of PHIS in [FAIDARE](https://urgi.versailles.inrae.fr/faidare/) [@https://urgi.versailles.inrae.fr/faidare].
 
-Furthermore, as PHIS offers BrAPI-compliant Web Services, it simplifies the integration and data exchange with other European information systems that handle phenotyping data. The adherence to BrAPI standards ensures a common interface and compatibility, facilitating communication and collaboration between PHIS and other systems in the European context. This interoperability not only eases data sharing, but also promotes a more coherent and efficient approach to the management and use of phenotyping data on various platforms and research initiatives within the European scientific community.
+Furthermore, as PHIS offers BrAPI-compliant Web Services, it simplifies the integration and data exchange with other European information systems that handle phenotyping data. The adhesion to BrAPI standards ensures a common interface and compatibility, facilitating communication and collaboration between PHIS and other systems in the European context. This interoperability not only eases data sharing, but also promotes a more coherent and efficient approach to the management and use of phenotyping data on various platforms and research initiatives within the European scientific community.
 
 
 #### PIPPA
