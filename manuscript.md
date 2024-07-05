@@ -95,8 +95,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-05" />
   <meta name="citation_publication_date" content="2024-07-05" />
   <meta property="article:published_time" content="2024-07-05" />
-  <meta name="dc.modified" content="2024-07-05T16:59:27+00:00" />
-  <meta property="article:modified_time" content="2024-07-05T16:59:27+00:00" />
+  <meta name="dc.modified" content="2024-07-05T17:16:54+00:00" />
+  <meta property="article:modified_time" content="2024-07-05T17:16:54+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -317,9 +317,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/7d2efaea4b473861f4000c80c42a17eade5dcdb8/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/7d2efaea4b473861f4000c80c42a17eade5dcdb8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/7d2efaea4b473861f4000c80c42a17eade5dcdb8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1f5b73efe8d2d7a3b2ddfc70975f9c4d8560e2b3/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1f5b73efe8d2d7a3b2ddfc70975f9c4d8560e2b3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1f5b73efe8d2d7a3b2ddfc70975f9c4d8560e2b3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -341,9 +341,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/7d2efaea4b473861f4000c80c42a17eade5dcdb8/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/1f5b73efe8d2d7a3b2ddfc70975f9c4d8560e2b3/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@7d2efae](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/7d2efaea4b473861f4000c80c42a17eade5dcdb8)
+from [plantbreeding/BrAPI-Manuscript2@1f5b73e](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/1f5b73efe8d2d7a3b2ddfc70975f9c4d8560e2b3)
 on July 5, 2024.
 </em></small>
 
@@ -1062,10 +1062,10 @@ Peter Selby \<ps664@cornell.edu\>.
 
 ## Abstract {.page_break_before}
 
-Population growth and climate change require extraordinary efforts to increase efficiency in breeding programs around the world. In the last few years, genomics technologies and genomic prediction approaches have provided a boost in genetic gain in breeding, but has also created a flood of data that needs careful management to be fully harnessed.
+Population growth and climate change require extraordinary efforts to increase efficiency in breeding programs around the world. In the last few years, genomics technologies and genomic prediction approaches have provided a boost in genetic gain in breeding, but have also created a flood of data that needs careful management to be fully harnessed.
 The Breeding API (BrAPI) project is an international, grass-roots effort to enable more efficient data management by enabling interoperability among plant breeding databases and tools, using a standardized RESTful web service API specification for communicating plant breeding data.
 This community driven standard is free to be used by anyone interested in plant breeding data management, including trial data, phenotypic data and genotyping data management.
-This manuscript describes advances in implementations of BrAPI in different breeding tools, and outlook for the current version of BrAPI. 
+This manuscript presents the current version of BrAPI, the substantial growth of the project, and a wide variety of open source breeding research tools with active BrAPI implementations.
 
 
 ## Introduction
@@ -1548,7 +1548,7 @@ The authors would like to acknowledge the following funding sources:
 + **Bert Droesbeke**: Bert wrote the section on the BrAPI2ISA project, and has made significant contributions to the BrAPI compatibility of the BrAPI2ISA project.
 + **Manuel Feser**: Manuel wrote the section on the MIRA project, and has made significant contributions to the BrAPI compatibility of the MIRA project.
 + **Mirella Flores-Gonzalez**: Mirella wrote the section on the Trait Selector BrAPP project, and has made significant contributions to the BrAPI compatibility of the Trait Selector BrAPP and Breedbase projects.
-+ **Valentin Guignon**: Valentin wrote the section on the BrAPI Mapper project, and has made significant contributions to the BrAPI compatibility of the BrAPI Mapper and MGIS projects.
++ **Valentin Guignon**: Valentin wrote the section on the BrAPI Mapper project, and has made significant contributions to the BrAPI compatibility of the BrAPI Mapper, MGIS projects and the Trait Selector BrAPP.
 + **Corina Habito**: Corina wrote the section on the BMS project, and has made significant contributions to the BrAPI compatibility of the BMS project.
 + **Asis Hallab**: Asis wrote the section on the Zendro project, and has made significant contributions to the BrAPI compatibility of the Zendro project.
 + **Puthick Hok**: Puthick has made significant contributions to the DArT Sample Submission project.
