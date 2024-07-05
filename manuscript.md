@@ -29,6 +29,7 @@ author-meta:
 - Chaney Courtney
 - Mariano Crimi
 - Gouripriya Davuluri
+- Kauê de Sousa
 - Jeremy Destin
 - Ajay Dhungana
 - Bert Droesbeke
@@ -60,8 +61,8 @@ author-meta:
 - Lukas A. Mueller
 - Moses Nderitu
 - Pascal Neveu
-- Tim Parsons
 - Nick Palladino
+- Tim Parsons
 - Cyril Pommier
 - Jean-François Rami
 - Sebastian Raubach
@@ -74,13 +75,12 @@ author-meta:
 - Paul Shaw
 - Becky Smith
 - Nahuel Soldevilla
-- Kauê de Sousa
 - Anne Tireau
 - Clarysabel Tovar
 - Grzegorz Uszynski
 - Vivian Bass Vega
 - Stephan Weise
-- Shawn C Yarnes
+- Shawn C. Yarnes
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -95,8 +95,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-05" />
   <meta name="citation_publication_date" content="2024-07-05" />
   <meta property="article:published_time" content="2024-07-05" />
-  <meta name="dc.modified" content="2024-07-05T17:16:54+00:00" />
-  <meta property="article:modified_time" content="2024-07-05T17:16:54+00:00" />
+  <meta name="dc.modified" content="2024-07-05T23:12:21+00:00" />
+  <meta property="article:modified_time" content="2024-07-05T23:12:21+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -162,6 +162,9 @@ header-includes: |
   <meta name="citation_author" content="Gouripriya Davuluri" />
   <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
   <meta name="citation_author_orcid" content="0009-0005-2308-0773" />
+  <meta name="citation_author" content="Kauê de Sousa" />
+  <meta name="citation_author_institution" content="Digital Inclusion, Bioversity International, Montpellier, France" />
+  <meta name="citation_author_orcid" content="0000-0002-7571-7845" />
   <meta name="citation_author" content="Jeremy Destin" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
@@ -248,12 +251,12 @@ header-includes: |
   <meta name="citation_author" content="Pascal Neveu" />
   <meta name="citation_author_institution" content="MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France" />
   <meta name="citation_author_orcid" content="0000-0003-4189-7793" />
+  <meta name="citation_author" content="Nick Palladino" />
+  <meta name="citation_author_institution" content="Breeding Insight, Cornell University" />
+  <meta name="citation_author_orcid" content="nickpalladino" />
   <meta name="citation_author" content="Tim Parsons" />
   <meta name="citation_author_institution" content="Breeding Insight, Cornell University" />
   <meta name="citation_author_orcid" content="0000-0001-6209-2455" />
-  <meta name="citation_author" content="Nick Palladino" />
-  <meta name="citation_author_institution" content="Breeding Insight, Cornell University" />
-  <meta name="citation_author_orcid" content="0009-0009-1645-297X" />
   <meta name="citation_author" content="Cyril Pommier" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, Versailles, France" />
@@ -291,9 +294,6 @@ header-includes: |
   <meta name="citation_author" content="Nahuel Soldevilla" />
   <meta name="citation_author_institution" content="Integrated Breeding Platform" />
   <meta name="citation_author_institution" content="Leafnode LLC" />
-  <meta name="citation_author" content="Kauê de Sousa" />
-  <meta name="citation_author_institution" content="Digital Inclusion, Bioversity International, Montpellier, France" />
-  <meta name="citation_author_orcid" content="0000-0002-7571-7845" />
   <meta name="citation_author" content="Anne Tireau" />
   <meta name="citation_author_institution" content="MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France" />
   <meta name="citation_author_orcid" content="0000-0001-8501-6922" />
@@ -308,7 +308,7 @@ header-includes: |
   <meta name="citation_author" content="Stephan Weise" />
   <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
   <meta name="citation_author_orcid" content="0000-0003-4031-9131" />
-  <meta name="citation_author" content="Shawn C Yarnes" />
+  <meta name="citation_author" content="Shawn C. Yarnes" />
   <meta name="citation_author_institution" content="Breeding Insight, Cornell University" />
   <meta name="citation_author_orcid" content="0000-0002-1090-0403" />
   <link rel="canonical" href="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
@@ -317,9 +317,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1f5b73efe8d2d7a3b2ddfc70975f9c4d8560e2b3/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1f5b73efe8d2d7a3b2ddfc70975f9c4d8560e2b3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1f5b73efe8d2d7a3b2ddfc70975f9c4d8560e2b3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e9960952ac33c9ca8f86c309da795d4913d47234/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e9960952ac33c9ca8f86c309da795d4913d47234/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e9960952ac33c9ca8f86c309da795d4913d47234/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -341,9 +341,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/1f5b73efe8d2d7a3b2ddfc70975f9c4d8560e2b3/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/e9960952ac33c9ca8f86c309da795d4913d47234/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@1f5b73e](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/1f5b73efe8d2d7a3b2ddfc70975f9c4d8560e2b3)
+from [plantbreeding/BrAPI-Manuscript2@e996095](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/e9960952ac33c9ca8f86c309da795d4913d47234)
 on July 5, 2024.
 </em></small>
 
@@ -362,7 +362,7 @@ on July 5, 2024.
     <br>
   <small>
      Cornell University
-     · Funded by NIFA-DSFAS 2022-67021-37024
+     · Funded by The BrAPI Project is funded by the USDA grant NIFA-DSFAS 2022-67021-37024.
   </small>
 
 + **Rafael Abbeloos**
@@ -548,7 +548,18 @@ on July 5, 2024.
     <br>
   <small>
      Leibniz Institute of Plant Genetics and Crop Plant Research
-     · Funded by {'Short version': 'This work was supported by the project AGENT project under EU H2020 grant agreement No 862613.'}; {'Long Version': 'The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement No 862613.'}
+     · Funded by The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement No 862613.
+  </small>
+
++ **Kauê de Sousa**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-7571-7845](https://orcid.org/0000-0002-7571-7845)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [kauedesousa](https://github.com/kauedesousa)
+    <br>
+  <small>
+     Digital Inclusion, Bioversity International, Montpellier, France
   </small>
 
 + **Jeremy Destin**
@@ -621,7 +632,7 @@ on July 5, 2024.
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-2421-5431](https://orcid.org/0000-0002-2421-5431)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [https://github.com/asishallab](https://github.com/https://github.com/asishallab)
+    [asishallab](https://github.com/asishallab)
     <br>
   <small>
      Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany
@@ -837,24 +848,24 @@ on July 5, 2024.
      · Funded by This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
   </small>
 
-+ **Tim Parsons**
++ **Nick Palladino**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [0000-0001-6209-2455](https://orcid.org/0000-0001-6209-2455)
+    [nickpalladino](https://orcid.org/nickpalladino)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [timparsons](https://github.com/timparsons)
+    [np398@cornell.edu](https://github.com/np398@cornell.edu)
     <br>
   <small>
      Breeding Insight, Cornell University
      · Funded by U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
   </small>
 
-+ **Nick Palladino**
++ **Tim Parsons**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [0009-0009-1645-297X](https://orcid.org/0009-0009-1645-297X)
+    [0000-0001-6209-2455](https://orcid.org/0000-0001-6209-2455)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [nickpalladino](https://github.com/nickpalladino)
+    [timparsons](https://github.com/timparsons)
     <br>
   <small>
      Breeding Insight, Cornell University
@@ -980,17 +991,6 @@ on July 5, 2024.
      Integrated Breeding Platform; Leafnode LLC
   </small>
 
-+ **Kauê de Sousa**
-  <br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [0000-0002-7571-7845](https://orcid.org/0000-0002-7571-7845)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [kauedesousa](https://github.com/kauedesousa)
-    <br>
-  <small>
-     Digital Inclusion, Bioversity International, Montpellier, France
-  </small>
-
 + **Anne Tireau**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
@@ -1038,7 +1038,7 @@ on July 5, 2024.
      Leibniz Institute of Plant Genetics and Crop Plant Research
   </small>
 
-+ **Shawn C Yarnes**
++ **Shawn C. Yarnes**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-1090-0403](https://orcid.org/0000-0002-1090-0403)
@@ -1525,72 +1525,78 @@ The authors would like to acknowledge the following funding sources:
 
 ## Author Contributions {.page_break_before}
 
-+ **Peter Selby**: Peter wrote and edited a significant portion of the manuscript. Peter has been the BrAPI Project Coordinator since 2017, managing the day-to-day operations of the BrAPI project.
-+ **Rafael Abbeloos**: Rafael wrote the section on the PIPPA project, and has made significant contributions to the BrAPI compatibility of the PIPPA project.
-+ **Anne-Francoise Adam-Blondon**: Anne-Francoise has made significant contributions to the Florilège and Faidare projects.
-+ **Francisco Agosto**: Francisco wrote the section on the ImageBreed project, and has made significant contributions to the BrAPI compatibility of the ImageBreed project.
-+ **Michael Alaux**: Michael has made significant contributions to the AGENT Portal project.
-+ **Isabelle Alic**: Isabelle wrote the section on the PHIS project, and has made significant contributions to the BrAPI compatibility of the PHIS project.
-+ **Khaled Al-Shamaa**: Khaled wrote the section on the QBMS project, and has made significant contributions to the BrAPI compatibility of the QBMS project.
-+ **Johan Steven Aparicio**: Johan wrote the section on the Mr.Bean project, and has made significant contributions to the BrAPI compatibility of the Mr.Bean project.
-+ **Jan Erik Backlund**: Jan Erik has made significant contributions to the BMS project.
-+ **Aldrin Batac**: Aldrin has made significant contributions to the BMS project.
-+ **Sebastian Beier**: Sebastian wrote the section on the DivBrowse project, and has made significant contributions to the BrAPI compatibility of the DivBrowse project.
-+ **Alice Boizet**: Alice wrote the section on the Florilège project, and has made significant contributions to the BrAPI compatibility of the Florilège, Gigwa and ShinyBrAPPs projects.
-+ **Matthijs Brouwer**: Matthijs has made significant contributions to the AGENT Portal project.
-+ **Terry Casstevens**: Terry has made significant contributions to the PHG project.
-+ **Keo Corak**: Keo wrote the section on the SCT project, and has made significant contributions to the BrAPI compatibility of the SCT project.
-+ **Chaney Courtney**: Chaney wrote the section on the Field Book project, and has made significant contributions to the BrAPI compatibility of the Field Book project.
-+ **Mariano Crimi**: Mariano has made significant contributions to the BMS project.
-+ **Gouripriya Davuluri**: Gouripriya has made significant contributions to the AGENT Portal project.
-+ **Jeremy Destin**: Jeremy has made significant contributions to the Florilège and Faidare projects.
-+ **Ajay Dhungana**: Ajay wrote section introductions for the Phenotyping, Genotyping, and Germplasm topics.
-+ **Bert Droesbeke**: Bert wrote the section on the BrAPI2ISA project, and has made significant contributions to the BrAPI compatibility of the BrAPI2ISA project.
-+ **Manuel Feser**: Manuel wrote the section on the MIRA project, and has made significant contributions to the BrAPI compatibility of the MIRA project.
-+ **Mirella Flores-Gonzalez**: Mirella wrote the section on the Trait Selector BrAPP project, and has made significant contributions to the BrAPI compatibility of the Trait Selector BrAPP and Breedbase projects.
-+ **Valentin Guignon**: Valentin wrote the section on the BrAPI Mapper project, and has made significant contributions to the BrAPI compatibility of the BrAPI Mapper, MGIS projects and the Trait Selector BrAPP.
-+ **Corina Habito**: Corina wrote the section on the BMS project, and has made significant contributions to the BrAPI compatibility of the BMS project.
-+ **Asis Hallab**: Asis wrote the section on the Zendro project, and has made significant contributions to the BrAPI compatibility of the Zendro project.
-+ **Puthick Hok**: Puthick has made significant contributions to the DArT Sample Submission project.
-+ **Lynn Johnson**: Lynn wrote the section on the PHG project, and has made significant contributions to the BrAPI compatibility of the PHG project.
-+ **Sook Jung**: Sook wrote the section on the BIMS project, and has made significant contributions to the BrAPI compatibility of the BIMS project.
-+ **Paul Kersey**: Paul has made significant contributions to the AGENT Portal project.
-+ **Andrzej Kilian**: Andrzej has made significant contributions to the DArT Sample Submission and DArTView projects.
-+ **Patrick König**: Patrick has made significant contributions to the AGENT Portal project.
-+ **Suman Kumar**: Suman has made significant contributions to the AGENT Portal project.
-+ **Josh Lamos-Sweeney**: Josh wrote the section on the G-Crunch project, and has made significant contributions to the BrAPI compatibility of the G-Crunch project.
-+ **Laszlo Lang**: Laszlo has made significant contributions to the Zendro project.
-+ **Matthias Lange**: Matthias wrote the section on the AGENT Portal project, and has made significant contributions to the BrAPI compatibility of the AGENT Portal project.
-+ **Marie-Angélique Laporte**: Wrote the section on the ClimMob project, and has made significant contributions to the BrAPI compatibility of the ClimMob project.
-+ **Kauê de Sousa**: Wrote the section on the ClimMob project, and has made significant contributions to the BrAPI compatibility of the ClimMob project.
-+ **Brandon Madriz**: Wrote the section on the ClimMob project, and has made significant contributions to the BrAPI compatibility of the ClimMob project.
-+ **Taein Lee**: Taein has made significant contributions to the BIMS project.
-+ **Erwan Le-Floch**: Erwan has made significant contributions to the AGENT Portal project.
-+ **Francisco López**: Francisco has made significant contributions to the GLIS project.
-+ **Marco Marsella**: Marco wrote the section on the GLIS project, and has made significant contributions to the BrAPI compatibility of the GLIS project.
-+ **Maud Marty**: Maud has made significant contributions to the Florilège and Faidare projects.
-+ **Célia Michotey**: Célia has made significant contributions to the Florilège and Faidare projects.
-+ **Zachary Miller**: Zachary has made significant contributions to the PHG project.
-+ **Iain Milne**: Iain has made significant contributions to the Flapjack, Gridscore, and Germinate projects.
-+ **Lukas Mueller**: Lukas wrote the section on the Breedbase project, and has made significant contributions to the BrAPI compatibility of the Breedbase project. Lukas is also Co-PI on the current BrAPI Grant and has supported the project since its inception.
-+ **Moses Nderitu**: Moses wrote the section on the DArTView project, and has made significant contributions to the BrAPI compatibility of the DArTView project.
-+ **Tim Parsons**: Tim has made significant contributions to the DeltaBreed project.
-+ **Cyril Pommier**: Cyril wrote the section on the Faidare project, and has made significant contributions to the BrAPI compatibility of the Florilège, Faidare, and AGENT Portal projects.
-+ **Jean-François Rami**: Jean-François wrote the section on the ShinyBrAPPs project, and has made significant contributions to the BrAPI compatibility of the ShinyBrAPPs project.
-+ **Sebastian Raubach**: Sebastian wrote the sections on the GridScore and Germinate projects, and has made significant contributions to the BrAPI compatibility of the GridScore, Germinate, and Flapjack projects.
-+ **Trevor Rife**: Trevor has made significant contributions to the Field Book project.
+"+ **Peter Selby**: Peter wrote and edited a significant portion of the manuscript. Peter has been the BrAPI Project Coordinator since 2017, managing the day-to-day operations of the BrAPI project.
++ **Rafael Abbeloos**: Rafael wrote the section on the PIPPA project, and has made significant contributions to the BrAPI compatibility of the PIPPA project. 
++ **Anne-Francoise Adam-Blondon**: Anne-Francoise has made significant contributions to the Florilège and Faidare projects. 
++ **Francisco J. Agosto-Pérez**: Francisco wrote the section on the ImageBreed project, and has made significant contributions to the BrAPI compatibility of the ImageBreed project. 
++ **Michael Alaux**: Michael has made significant contributions to the AGENT Portal project. 
++ **Isabelle Alic**: Isabelle wrote the section on the PHIS project, and has made significant contributions to the BrAPI compatibility of the PHIS project. 
++ **Khaled Al-Shamaa**: Khaled wrote the section on the QBMS project, and has made significant contributions to the BrAPI compatibility of the QBMS project. 
++ **Johan Steven Aparicio**: Johan wrote the section on the Mr.Bean project, and has made significant contributions to the BrAPI compatibility of the Mr.Bean project. 
++ **Jan Erik Backlund**: Jan Erik has made significant contributions to the BMS project. 
++ **Aldrin Batac**: Aldrin has made significant contributions to the BMS project. 
++ **Sebastian Beier**: Sebastian wrote the section on the DivBrowse project, and has made significant contributions to the BrAPI compatibility of the DivBrowse project. 
++ **Gabriel Besombes**: Gabriel has made significant contributions to the PHIS project. 
++ **Alice Boizet**: Alice wrote the section on the Florilège projects, and has made significant contributions to the BrAPI compatibility of the Florilège, Gigwa and ShinyBrAPPs projects. 
++ **Matthijs Brouwer**: Matthijs has made significant contributions to the AGENT Portal project. 
++ **Terry Casstevens**: Terry has made significant contributions to the PHG project. 
++ **Arnaud Charleroy**: Arnaud has made significant contributions to the PHIS project. 
++ **Keo Corak**: Keo wrote the section on the SCT project, and has made significant contributions to the BrAPI compatibility of the SCT project. 
++ **Chaney Courtney**: Chaney wrote the section on the Field Book project, and has made significant contributions to the BrAPI compatibility of the Field Book project. 
++ **Mariano Crimi**: Mariano has made significant contributions to the BMS project. 
++ **Gouripriya Davuluri**: Gouripriya has made significant contributions to the AGENT Portal project. 
++ **Kauê de Sousa**: Kauê wrote the section on the ClimMob project, and has made significant contributions to the BrAPI compatibility of the ClimMob project. 
++ **Jeremy Destin**: Jeremy has made significant contributions to the Florilège and Faidare projects. 
++ **Ajay Dhungana**: Ajay wrote the section introductions for the Phenotyping, Genotyping, and Germplasm topics.
++ **Bert Droesbeke**: Bert wrote the section on the BrAPI2ISA project, and has made significant contributions to the BrAPI compatibility of the BrAPI2ISA project. 
++ **Manuel Feser**: Manuel wrote the section on the MIRA project, and has made significant contributions to the BrAPI compatibility of the MIRA project. 
++ **Mirella Flores-Gonzalez**: Mirella wrote the section on the Trait Selector BrAPP projects, and has made significant contributions to the BrAPI compatibility of the Trait Selector BrAPP and Breedbase projects. 
++ **Valentin Guignon**: Valentin wrote the section on the BrAPI Mapper projects, and has made significant contributions to the BrAPI compatibility of the BrAPI Mapper, MGIS, and the Trait Selector BrAPP projects. 
++ **Corina Habito**: Corina wrote the section on the BMS project, and has made significant contributions to the BrAPI compatibility of the BMS project. 
++ **Asis Hallab**: Asis wrote the section on the Zendro project, and has made significant contributions to the BrAPI compatibility of the Zendro project. 
++ **Puthick Hok**: Puthick has made significant contributions to the DArT Sample Submission project. 
++ **Lynn Carol Johnson**: Lynn wrote the section on the PHG project, and has made significant contributions to the BrAPI compatibility of the PHG project. 
++ **Sook Jung**: Sook wrote the section on the BIMS project, and has made significant contributions to the BrAPI compatibility of the BIMS project. 
++ **Paul Kersey**: Paul has made significant contributions to the AGENT Portal project. 
++ **Andrzej Kilian**: Andrzej has made significant contributions to the DArT Sample Submission and DArTView projects. 
++ **Patrick König**: Patrick has made significant contributions to the AGENT Portal project. 
++ **Suman Kumar**: Suman has made significant contributions to the AGENT Portal project. 
++ **Josh Lamos-Sweeney**: Josh wrote the section on the G-Crunch project, and has made significant contributions to the BrAPI compatibility of the G-Crunch project. 
++ **Laszlo Lang**: Laszlo has made significant contributions to the Zendro project. 
++ **Matthias Lange**: Matthias wrote the section on the AGENT Portal project, and has made significant contributions to the BrAPI compatibility of the AGENT Portal project. 
++ **Marie-Angélique Laporte**: Marie-Angélique wrote the section on the ClimMob project, and has made significant contributions to the BrAPI compatibility of the ClimMob project. 
++ **Taein Lee**: Taein has made significant contributions to the BIMS project. 
++ **Erwan Le-Floch**: Erwan has made significant contributions to the AGENT Portal project. 
++ **Francisco López**: Francisco has made significant contributions to the GLIS project. 
++ **Brandon Madriz**: Brandon wrote the section on the ClimMob project, and has made significant contributions to the BrAPI compatibility of the ClimMob project. 
++ **Marco Marsella**: Marco wrote the section on the GLIS project, and has made significant contributions to the BrAPI compatibility of the GLIS project. 
++ **Maud Marty**: Maud has made significant contributions to the Florilège and Faidare projects. 
++ **Célia Michotey**: Célia has made significant contributions to the Florilège and Faidare projects. 
++ **Zachary Miller**: Zachary has made significant contributions to the PHG project. 
++ **Iain Milne**: Iain has made significant contributions to the Flapjack, Gridscore, and Germinate projects. 
++ **Lukas A. Mueller**: Lukas wrote the section on the Breedbase project, and has made significant contributions to the BrAPI compatibility of the Breedbase project. Lukas is also Co-PI on the current BrAPI Grant and has supported the BrAPI project since its inception.
++ **Moses Nderitu**: Moses wrote the section on the DArTView project, and has made significant contributions to the BrAPI compatibility of the DArTView project. 
++ **Pascal Neveu**: Pascal has made significant contributions to the PHIS project. 
++ **Nick Palladino**: Nick has made significant contributions to the DeltaBreed project. 
++ **Tim Parsons**: Tim has made significant contributions to the DeltaBreed project. 
++ **Cyril Pommier**: Cyril wrote the section on the Faidare projects, and has made significant contributions to the BrAPI compatibility of the Florilège, Faidare, and AGENT Portal projects. 
++ **Jean-François Rami**: Jean-François wrote the section on the ShinyBrAPPs project, and has made significant contributions to the BrAPI compatibility of the ShinyBrAPPs project. 
++ **Sebastian Raubach**: Sebastian wrote the section on the GridScore and Germinate projects, and has made significant contributions to the BrAPI compatibility of the GridScore, Germinate, and Flapjack projects. 
++ **Trevor Rife**: Trevor has made significant contributions to the Field Book project. 
 + **Kelly Robbins**: Kelly is the PI for the BrAPI Project grant, and has supported all technical and scientific aspects of the project.
-+ **Mathieu Rouard**: Mathieu wrote the section on the MGIS project, and has made significant contributions to the BrAPI compatibility of the MGIS project.
-+ **Joseph Ruff**: Joseph has made significant contributions to the AGENT Portal project.
-+ **Guilhem Sempéré**: Guilhem wrote the section on the Gigwa project, and has made significant contributions to the BrAPI compatibility of the Gigwa project.
-+ **Paul Shaw**: Paul wrote the section on the Helium project, and has made significant contributions to the BrAPI compatibility of the Helium project.
-+ **Becky Smith**: Becky has made significant contributions to the Flapjack project.
-+ **Nahuel Soldevilla**: Nahuel has made significant contributions to the BMS project.
-+ **Clarysabel Tovar**: Clarysabel has made significant contributions to the BMS project.
-+ **Grzegorz Uszynski**: Grzegorz wrote the section on the DArT Sample Submission project, and has made significant contributions to the BrAPI compatibility of the DArT Sample Submission project.
-+ **Vivian Bass Vega**: Vivian has made significant contributions to the Zendro project.
-+ **Stephan Weise**: Stephan has made significant contributions to the AGENT Portal project.
-+ **Shawn Yarnes**: Shawn wrote the section on the DeltaBreed project, and has made significant contributions to the BrAPI compatibility of the DeltaBreed project.
++ **Mathieu Rouard**: Mathieu wrote the section on the MGIS project, and has made significant contributions to the BrAPI compatibility of the MGIS project. 
++ **Joseph Ruff**: Joseph has made significant contributions to the AGENT Portal project. 
++ **Guilhem Sempéré**: Guilhem wrote the section on the Gigwa project, and has made significant contributions to the BrAPI compatibility of the Gigwa project. 
++ **Romil Mayank Shah**: Romil has made significant contributions to the SCT project. 
++ **Paul Shaw**: Paul wrote the section on the Helium project, and has made significant contributions to the BrAPI compatibility of the Helium project. 
++ **Becky Smith**: Becky has made significant contributions to the Flapjack project. 
++ **Nahuel Soldevilla**: Nahuel has made significant contributions to the BMS project. 
++ **Anne Tireau**: Anne has made significant contributions to the PHIS project. 
++ **Clarysabel Tovar**: Clarysabel has made significant contributions to the BMS project. 
++ **Grzegorz Uszynski**: Grzegorz wrote the section on the DArT Sample Submission project, and has made significant contributions to the BrAPI compatibility of the DArT Sample Submission project. 
++ **Vivian Bass Vega**: Vivian has made significant contributions to the Zendro project. 
++ **Stephan Weise**: Stephan has made significant contributions to the AGENT Portal project. 
++ **Shawn C. Yarnes**: Shawn wrote the section on the DeltaBreed project, and has made significant contributions to the BrAPI compatibility of the DeltaBreed project. "
 
 ## References {.page_break_before}
 

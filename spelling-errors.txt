@@ -10,6 +10,7 @@ annetireau
 Aparicio
 APIs
 Arnaud
+asishallab
 barcodes
 Berlinstraße
 Besombes
@@ -40,7 +41,7 @@ GenAjay
 georeferencing
 GH
 Gigwa’s
-Grzegorz
+grzegorz
 Hok
 Institut
 INV
@@ -79,7 +80,7 @@ Pérez
 puthick
 Rami
 Rica
-Romil
+romil
 RShiny
 SCT
 SCYarnes
