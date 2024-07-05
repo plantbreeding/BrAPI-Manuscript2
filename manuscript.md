@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-06-26'
+date-meta: '2024-07-05'
 author-meta:
 - Peter Selby
 - Rafael Abbeloos
@@ -45,7 +45,7 @@ author-meta:
 - Josh Lamos-Sweeney
 - Laszlo Lang
 - Matthias Lange
-- Marie Angelique Laporte
+- Marie-Angélique Laporte
 - Taein Lee
 - Erwan Le-Floch
 - Francisco López
@@ -87,11 +87,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-06-26" />
-  <meta name="citation_publication_date" content="2024-06-26" />
-  <meta property="article:published_time" content="2024-06-26" />
-  <meta name="dc.modified" content="2024-06-26T18:53:37+00:00" />
-  <meta property="article:modified_time" content="2024-06-26T18:53:37+00:00" />
+  <meta name="dc.date" content="2024-07-05" />
+  <meta name="citation_publication_date" content="2024-07-05" />
+  <meta property="article:published_time" content="2024-07-05" />
+  <meta name="dc.modified" content="2024-07-05T16:53:55+00:00" />
+  <meta property="article:modified_time" content="2024-07-05T16:53:55+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -198,7 +198,7 @@ header-includes: |
   <meta name="citation_author" content="Matthias Lange" />
   <meta name="citation_author_institution" content="Leibniz Institute of Plant Genetics and Crop Plant Research" />
   <meta name="citation_author_orcid" content="0000-0002-4316-078X" />
-  <meta name="citation_author" content="Marie Angelique Laporte" />
+  <meta name="citation_author" content="Marie-Angélique Laporte" />
   <meta name="citation_author_institution" content="Digital Inclusion, Bioversity International, Montpellier, France." />
   <meta name="citation_author_orcid" content="0000-0002-8461-9745" />
   <meta name="citation_author" content="Taein Lee" />
@@ -296,9 +296,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/227b65a46fee2a56bb706b43738db4b4a3359eb2/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/227b65a46fee2a56bb706b43738db4b4a3359eb2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/227b65a46fee2a56bb706b43738db4b4a3359eb2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cc62dfe56f8a0c0a8bce2ba4927155bfa51d2e5e/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cc62dfe56f8a0c0a8bce2ba4927155bfa51d2e5e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cc62dfe56f8a0c0a8bce2ba4927155bfa51d2e5e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -320,10 +320,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/227b65a46fee2a56bb706b43738db4b4a3359eb2/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/cc62dfe56f8a0c0a8bce2ba4927155bfa51d2e5e/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@227b65a](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/227b65a46fee2a56bb706b43738db4b4a3359eb2)
-on June 26, 2024.
+from [plantbreeding/BrAPI-Manuscript2@cc62dfe](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/cc62dfe56f8a0c0a8bce2ba4927155bfa51d2e5e)
+on July 5, 2024.
 </em></small>
 
 
@@ -663,7 +663,7 @@ on June 26, 2024.
      Leibniz Institute of Plant Genetics and Crop Plant Research
   </small>
 
-+ **Marie Angelique Laporte**
++ **Marie-Angélique Laporte**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-8461-9745](https://orcid.org/0000-0002-8461-9745)
@@ -907,6 +907,8 @@ on June 26, 2024.
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-7571-7845](https://orcid.org/0000-0002-7571-7845)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [kauedesousa](https://github.com/kauedesousa)
     <br>
   <small>
      Digital Inclusion, Bioversity International, Montpellier, France
@@ -1430,6 +1432,7 @@ The authors would like to acknowledge the following funding sources:
 + This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
 + U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
 + Innovation Lab for Crop Improvement Cornell, FFAR
++ Research time for Marie-Angélique Laporte and Kauê de Sousa was provided through the 1000FARMS project (INV-031561) funded by the Bill & Melinda Gates Foundation.
 
 ## Author Contributions {.page_break_before}
 
@@ -1469,7 +1472,9 @@ The authors would like to acknowledge the following funding sources:
 + **Josh Lamos-Sweeney**: Josh wrote the section on the G-Crunch project, and has made significant contributions to the BrAPI compatibility of the G-Crunch project.
 + **Laszlo Lang**: Laszlo has made significant contributions to the Zendro project.
 + **Matthias Lange**: Matthias wrote the section on the AGENT Portal project, and has made significant contributions to the BrAPI compatibility of the AGENT Portal project.
-+ **Marie Angelique Laporte**: Marie wrote the section on the ClimMob project, and has made significant contributions to the BrAPI compatibility of the ClimMob project.
++ **Marie-Angélique Laporte**: Wrote the section on the ClimMob project, and has made significant contributions to the BrAPI compatibility of the ClimMob project.
++ **Kauê de Sousa**: Wrote the section on the ClimMob project, and has made significant contributions to the BrAPI compatibility of the ClimMob project.
++ **Brandon Madriz**: Wrote the section on the ClimMob project, and has made significant contributions to the BrAPI compatibility of the ClimMob project.
 + **Taein Lee**: Taein has made significant contributions to the BIMS project.
 + **Erwan Le-Floch**: Erwan has made significant contributions to the AGENT Portal project.
 + **Francisco López**: Francisco has made significant contributions to the GLIS project.

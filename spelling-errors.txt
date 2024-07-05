@@ -5,6 +5,7 @@ agostof
 Ajay
 aliceboizet
 Andrzej
+Angélique
 Aparicio
 APIs
 barcodes
@@ -37,11 +38,13 @@ Gigwa’s
 Grzegorz
 Hok
 Institut
+INV
 jframi
 jndmose
 Johan
 Jülich
 Kauê
+kauedesousa
 Keo
 keocorak
 Kilian
@@ -63,7 +66,7 @@ NOAA
 OpenAPI
 Palladino
 Pérez
-puthick
+Puthick
 Rami
 Rica
 RShiny
