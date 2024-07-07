@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-07-05'
+date-meta: '2024-07-07'
 author-meta:
 - Peter Selby
 - Rafael Abbeloos
@@ -53,6 +53,7 @@ author-meta:
 - Erwan Le-Floch
 - Francisco López
 - Brandon Madriz
+- Dorrie  Main
 - Marco Marsella
 - Maud Marty
 - Célia Michotey
@@ -92,11 +93,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-07-05" />
-  <meta name="citation_publication_date" content="2024-07-05" />
-  <meta property="article:published_time" content="2024-07-05" />
-  <meta name="dc.modified" content="2024-07-05T23:12:21+00:00" />
-  <meta property="article:modified_time" content="2024-07-05T23:12:21+00:00" />
+  <meta name="dc.date" content="2024-07-07" />
+  <meta name="citation_publication_date" content="2024-07-07" />
+  <meta property="article:published_time" content="2024-07-07" />
+  <meta name="dc.modified" content="2024-07-07T21:53:37+00:00" />
+  <meta property="article:modified_time" content="2024-07-07T21:53:37+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -227,6 +228,9 @@ header-includes: |
   <meta name="citation_author_institution" content="International Treaty on Plant Genetic Resources for Food and Agriculture, FAO" />
   <meta name="citation_author" content="Brandon Madriz" />
   <meta name="citation_author_institution" content="MrBot Software Solutions, Cartago, Costa Rica" />
+  <meta name="citation_author" content="Dorrie  Main" />
+  <meta name="citation_author_institution" content="Department of Horticulture, Washington State University" />
+  <meta name="citation_author_orcid" content="0000-0002-1162-2724" />
   <meta name="citation_author" content="Marco Marsella" />
   <meta name="citation_author_institution" content="International Treaty on Plant Genetic Resources for Food and Agriculture, FAO" />
   <meta name="citation_author_orcid" content="0000-0003-0334-8785" />
@@ -253,7 +257,7 @@ header-includes: |
   <meta name="citation_author_orcid" content="0000-0003-4189-7793" />
   <meta name="citation_author" content="Nick Palladino" />
   <meta name="citation_author_institution" content="Breeding Insight, Cornell University" />
-  <meta name="citation_author_orcid" content="nickpalladino" />
+  <meta name="citation_author_orcid" content="0009-0009-1645-297X" />
   <meta name="citation_author" content="Tim Parsons" />
   <meta name="citation_author_institution" content="Breeding Insight, Cornell University" />
   <meta name="citation_author_orcid" content="0000-0001-6209-2455" />
@@ -280,8 +284,8 @@ header-includes: |
   <meta name="citation_author" content="Joseph Ruff" />
   <meta name="citation_author_institution" content="Royal Botanic Gardens, Kew" />
   <meta name="citation_author" content="Guilhem Sempéré" />
-  <meta name="citation_author_institution" content="CIRAD (french agricultural research and international cooperation organization)" />
-  <meta name="citation_author_institution" content="South Green Platform" />
+  <meta name="citation_author_institution" content="CIRAD, UMR INTERTRYP, Montpellier, France INTERTRYP, Univ Montpellier, CIRAD, IRD, Montpellier, France French Institute of Bioinformatics (IFB)" />
+  <meta name="citation_author_institution" content="South Green Bioinformatics Platform, Bioversity, CIRAD, INRAE, IRD, Montpellier, France" />
   <meta name="citation_author_orcid" content="0000-0001-7429-2091" />
   <meta name="citation_author" content="Romil Mayank Shah" />
   <meta name="citation_author_institution" content="North Carolina State University" />
@@ -317,9 +321,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e9960952ac33c9ca8f86c309da795d4913d47234/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e9960952ac33c9ca8f86c309da795d4913d47234/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e9960952ac33c9ca8f86c309da795d4913d47234/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ec7192d2a46c278aa545afe7caf969332708735f/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ec7192d2a46c278aa545afe7caf969332708735f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ec7192d2a46c278aa545afe7caf969332708735f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -341,10 +345,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/e9960952ac33c9ca8f86c309da795d4913d47234/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/ec7192d2a46c278aa545afe7caf969332708735f/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@e996095](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/e9960952ac33c9ca8f86c309da795d4913d47234)
-on July 5, 2024.
+from [plantbreeding/BrAPI-Manuscript2@ec7192d](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/ec7192d2a46c278aa545afe7caf969332708735f)
+on July 7, 2024.
 </em></small>
 
 
@@ -404,6 +408,7 @@ on July 5, 2024.
     <br>
   <small>
      Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
+     · Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   </small>
 
 + **Isabelle Alic**
@@ -548,7 +553,7 @@ on July 5, 2024.
     <br>
   <small>
      Leibniz Institute of Plant Genetics and Crop Plant Research
-     · Funded by The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement No 862613.
+     · Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   </small>
 
 + **Kauê de Sousa**
@@ -663,12 +668,14 @@ on July 5, 2024.
     <br>
   <small>
      Department of Horticulture, Washington State University
+     · Funded by USDA National Institute of Food and Agriculture National Research Support Project 10
   </small>
 
 + **Paul Kersey**
   <br>
   <small>
      Royal Botanic Gardens, Kew
+     · Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   </small>
 
 + **Andrzej Kilian**
@@ -686,6 +693,7 @@ on July 5, 2024.
     <br>
   <small>
      Leibniz Institute of Plant Genetics and Crop Plant Research
+     · Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   </small>
 
 + **Suman Kumar**
@@ -697,6 +705,7 @@ on July 5, 2024.
     <br>
   <small>
      Leibniz Institute of Plant Genetics and Crop Plant Research
+     · Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   </small>
 
 + **Josh Lamos-Sweeney**
@@ -728,6 +737,7 @@ on July 5, 2024.
     <br>
   <small>
      Leibniz Institute of Plant Genetics and Crop Plant Research
+     · Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   </small>
 
 + **Marie-Angélique Laporte**
@@ -756,6 +766,7 @@ on July 5, 2024.
   <br>
   <small>
      Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France; Université Paris-Saclay, INRAE, URGI, Versailles, France
+     · Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   </small>
 
 + **Francisco López**
@@ -768,6 +779,16 @@ on July 5, 2024.
   <br>
   <small>
      MrBot Software Solutions, Cartago, Costa Rica
+  </small>
+
++ **Dorrie  Main**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-1162-2724](https://orcid.org/0000-0002-1162-2724)
+    <br>
+  <small>
+     Department of Horticulture, Washington State University
+     · Funded by {'USDA NIFA': '2022-51181-38449'}
   </small>
 
 + **Marco Marsella**
@@ -851,9 +872,9 @@ on July 5, 2024.
 + **Nick Palladino**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [nickpalladino](https://orcid.org/nickpalladino)
+    [0009-0009-1645-297X](https://orcid.org/0009-0009-1645-297X)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [np398@cornell.edu](https://github.com/np398@cornell.edu)
+    [nickpalladino](https://github.com/nickpalladino)
     <br>
   <small>
      Breeding Insight, Cornell University
@@ -924,6 +945,7 @@ on July 5, 2024.
     <br>
   <small>
      Cornell University
+     · Funded by The Bill and Malinda Gates Foundation in cooperation with the Excellence in Breeding Platform of the CGIAR
   </small>
 
 + **Mathieu Rouard**
@@ -941,6 +963,7 @@ on July 5, 2024.
   <br>
   <small>
      Royal Botanic Gardens, Kew
+     · Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   </small>
 
 + **Guilhem Sempéré**
@@ -951,7 +974,7 @@ on July 5, 2024.
     [GuilhemSempere](https://github.com/GuilhemSempere)
     <br>
   <small>
-     CIRAD (french agricultural research and international cooperation organization); South Green Platform
+     CIRAD, UMR INTERTRYP, Montpellier, France INTERTRYP, Univ Montpellier, CIRAD, IRD, Montpellier, France French Institute of Bioinformatics (IFB); South Green Bioinformatics Platform, Bioversity, CIRAD, INRAE, IRD, Montpellier, France
   </small>
 
 + **Romil Mayank Shah**
@@ -1036,6 +1059,7 @@ on July 5, 2024.
     <br>
   <small>
      Leibniz Institute of Plant Genetics and Crop Plant Research
+     · Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   </small>
 
 + **Shawn C. Yarnes**
@@ -1271,13 +1295,12 @@ Since its inception, MGIS developers have actively participated in the BrAPI com
 
 <!-- Contribution BrAPI 2.0 paper
 Suggested Authors: Matthias Lange, Patrick König, Stephan Weise, Gouripriya Davuluri, Suman Kumar, Joseph Ruff, Paul Kersey, Cyril Pommier, Michael Alaux, Erwan Le-Floch -->
-#### AGENT Portal
+#### AGENT
 
 <!-- Matthias Lange -->
-In the global system for ex situ conservation of plant genetic resources (PGR) [@doi:10.3390/plants10081557], a total of ~5.8 million accessions are conserved in 1750 ex situ genebanks [@doi:10.2135/cropsci2017.01.0014]. Unique and permanent identifiers in the form of DOIs are available for more than 1.7 million accessions [@{https://glis.fao.org/glis/}]. Each DOI is linked to some basic descriptive data that facilitates the use of these resources. Many DOIs are also linked to additional data from different domains or will be in the future. However, a data space beyond the most basic information is needed that includes genotypic and phenotypic data. This space will help answer questions on the global biological diversity of a plant species, on duplicate detection, on provenance tracking for the identification of genetic integrity, on the selection of the most suitable material for various purposes, and to support further applications in data mining or AI. In this context, the aim of the [AGENT project](https://www.agent-project.eu/), funded by the European Commission, is to develop a concept for the digital exploitation and activation of this PGR data space, [@doi:10.1038/sdata.2016.18] and to test it in practice using two important crops, barley and wheat. Thirteen European genebanks and five bioinformatics centers are cooperating and have agreed on standards and protocols for the data flow and data formats [@doi:10.12688/f1000research.109080.2] for central archiving of genotypic and phenotypic data.
+In the global system for ex situ conservation of plant genetic resources (PGR) [@doi:10.3390/plants10081557], material is being conserved in about 1750 collections [@doi:10.2135/cropsci2017.01.0014] totalling ~5.8 million accessions. Unique and permanent identifiers in the form of DOIs are available for more than 1.7 million accessions via the Global Information System [@{https://glis.fao.org/glis/}] of the International Treaty on Plant Genetic Resources for Food and Agriculture. Each DOI is linked to some basic descriptive data that facilitates the use of these resources, mainly passport data. Many DOIs are also linked to additional data from different domains or will be in the future. However, a data space beyond the most basic information is needed that includes genotypic and phenotypic data. This space will help to answer questions about the global biological diversity of plant species, the detection of duplicates, the tracking of provenance for the identification of genetic integrity, the selection of the most suitable material for different purposes, and to support further applications in the field of data mining or AI. In this context, the aim of the [AGENT project](https://www.agent-project.eu/), funded by the European Commission, is to develop a concept for the digital exploitation and activation of this PGR via European ex situ genebanks according to the FAIR principles [@doi:10.1038/sdata.2016.18] and to test it in practice using two important crops, barley and wheat. Thirteen European genebanks and five bioinformatics centers are working together and have agreed on standards and protocols for data flow and data formats [@doi:10.12688/f1000research.109080.2] for the collection, integration, and archiving of genotypic and phenotypic data.
 
-The BrAPI specification is one of the agreed standards, that are detailed in the AGENT guidelines for dataflow [@doi:10.5281/zenodo.12625360]. The implemented BrAPI interface enables AGENT to mine current and historic genotypic and phenotypic information. This will drive the discovery of genes, traits, and knowledge for future missions. The AGENT database backend aggregates curated passport data, phenotypic data, and genotypic data about wheat and barley accessions from the 18 project partners. This data is integrated via [BrAPI endpoints](https://github.com/AGENTproject/BrAPI) and explorable in a [web portal](https://agent.ipk-gatersleben.de). Genotyping data uses the DivBrowse [@doi:10.1093/gigascience/giad025] storage engine and its BrAPI interface. Soon, the BrAPI implementation will be expanded to enable the integration of analysis pipelines in the AGENT portal, such as the FIGS+ pipeline developed by ICARDA [@doi:10.22004/AG.ECON.266624].
-
+The BrAPI specification is one of the agreed standards, that are detailed in the AGENT guidelines for dataflow [@doi:10.5281/zenodo.12625360]. The implemented BrAPI interface enables the analysis of current and historic genotypic and phenotypic information. This will drive the discovery of genes, traits, and knowledge for future missions, complement existing information for wheat and barley, and use the new data standards and infrastructure to promote better access and use of PGR for other crops in European genebanks. The AGENT database backend aggregates curated passport data, phenotypic data, and genotypic data on wheat and barley accessions of 18 project partners. This data is accessible via [BrAPI endpoints](https://github.com/AGENTproject/BrAPI) and explorable in a [web portal](https://agent.ipk-gatersleben.de). Genotyping data uses the DivBrowse [@doi:10.1093/gigascience/giad025] storage engine and its BrAPI interface. Soon, the BrAPI implementation will be expanded to enable the integration of analysis pipelines in the AGENT portal, such as the FIGS+ pipeline developed by ICARDA [@doi:10.22004/AG.ECON.266624]. There is also a plan to integrate the data collected by the AGENT project into the European Search Catalogue for Plant Genetic Resources (EURISCO) [@doi:10.1093/nar/gkac852].
 <!-- ![Figure Data flow of genotypic data from AGENT partner databases](images/AGENT_Genotyping_Data_Flow.png){#fig:AGENT_Genotyping_Data_Flow width="100%"} -->
 <!-- ![Figure AGENT Portal](images/AGENT_Web_Frontend.png){#fig:AGENT_Web_Frontend width="100%"} -->
 
@@ -1360,7 +1383,7 @@ The BrAPI interface is crucial for Breedbase. Breedbase uses BrAPI to connect wi
 #### BIMS
 
 <!-- Sook -->
-BIMS (Breeding Information Management System) [@doi:10.1093/database/baab054] is a free, secure, and online breeding management system which allows breeders to store, manage, archive, and analyze their private breeding program data. BIMS enables individual breeders to have complete control of their own breeding data along with access to tools such as data import/export, data analysis, and data archiving for their germplasm, phenotype, genotype, and image data. BIMS is currently implemented in five community databases, the Genome Database for Rosaceae [@doi:10.1093/nar/gky1000], CottonGEN [@doi:10.3390/plants10122805], the Citrus Genome Database, the Pulse Crop Database, and the Genome Database for Vaccinium. BIMS in these five community databases enables individual breeders to import publicly available data so that they can utilize public data in their breeding program. 
+BIMS (Breeding Information Management System) [@doi:10.1093/database/baab054] is a free, secure, and online breeding management system which allows breeders to store, manage, archive, and analyze their private breeding program data. BIMS enables individual breeders to have complete control of their own breeding data along with access to tools such as data import/export, data analysis, and data archiving for their germplasm, phenotype, genotype, and image data. BIMS is currently implemented in five community databases, the Genome Database for Rosaceae [@doi:10.1093/nar/gky1000], CottonGEN [@doi:10.3390/plants10122805], the Citrus Genome Database, the Pulse Crop Database, and the Genome Database for Vaccinium. BIMS in these five community databases enables individual breeders to import publicly available data so that they can utilize public data in their breeding program. BIMS is also implemented in the public database [breedwithbims.org](https://wwww.breedwithbims.org) that any crop breeder can use.
 
 Right now, BIMS primarily utilizes BrAPI to connect with the Field Book Android App [@doi:10.2135/cropsci2013.08.0579], enabling seamless data transfer between BIMS and the app. Data transfer through BrAPI between BIMS and other resources such as BreedBase[@doi:10.1093/g3journal/jkac078], GIGWA[@doi:10.1093/gigascience/giz051], and Breeder Genomics Hub is on the way. Hopefully, the BIMS development team can easily reuse some of the solved use cases and workflows created by others in the BrAPI community.
 
@@ -1517,19 +1540,22 @@ The authors declare no competing interests.
 
 The authors would like to acknowledge the following funding sources:
 
-+ USDA NIFA-DSFAS 2022-67021-37024
-+ This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
-+ U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
++ The BrAPI Project is funded by the USDA grant NIFA-DSFAS 2022-67021-37024.
 + Innovation Lab for Crop Improvement Cornell, FFAR
-+ Research time for Marie-Angélique Laporte and Kauê de Sousa was provided through the 1000FARMS project (INV-031561) funded by the Bill & Melinda Gates Foundation.
++ The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
++ This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)      
++ USDA National Institute of Food and Agriculture National Research Support Project 10
++ USDA NIFA: 2022-51181-38449
++ U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
++ The Bill and Malinda Gates Foundation in cooperation with the Excellence in Breeding Platform of the CGIAR
 
 ## Author Contributions {.page_break_before}
 
-"+ **Peter Selby**: Peter wrote and edited a significant portion of the manuscript. Peter has been the BrAPI Project Coordinator since 2017, managing the day-to-day operations of the BrAPI project.
++ **Peter Selby**: Peter wrote and edited a significant portion of the manuscript. Peter has been the BrAPI Project Coordinator since 2017, managing the day-to-day operations of the BrAPI project.
 + **Rafael Abbeloos**: Rafael wrote the section on the PIPPA project, and has made significant contributions to the BrAPI compatibility of the PIPPA project. 
 + **Anne-Francoise Adam-Blondon**: Anne-Francoise has made significant contributions to the Florilège and Faidare projects. 
 + **Francisco J. Agosto-Pérez**: Francisco wrote the section on the ImageBreed project, and has made significant contributions to the BrAPI compatibility of the ImageBreed project. 
-+ **Michael Alaux**: Michael has made significant contributions to the AGENT Portal project. 
++ **Michael Alaux**: Michael has made significant contributions to the AGENT project. 
 + **Isabelle Alic**: Isabelle wrote the section on the PHIS project, and has made significant contributions to the BrAPI compatibility of the PHIS project. 
 + **Khaled Al-Shamaa**: Khaled wrote the section on the QBMS project, and has made significant contributions to the BrAPI compatibility of the QBMS project. 
 + **Johan Steven Aparicio**: Johan wrote the section on the Mr.Bean project, and has made significant contributions to the BrAPI compatibility of the Mr.Bean project. 
@@ -1538,37 +1564,38 @@ The authors would like to acknowledge the following funding sources:
 + **Sebastian Beier**: Sebastian wrote the section on the DivBrowse project, and has made significant contributions to the BrAPI compatibility of the DivBrowse project. 
 + **Gabriel Besombes**: Gabriel has made significant contributions to the PHIS project. 
 + **Alice Boizet**: Alice wrote the section on the Florilège projects, and has made significant contributions to the BrAPI compatibility of the Florilège, Gigwa and ShinyBrAPPs projects. 
-+ **Matthijs Brouwer**: Matthijs has made significant contributions to the AGENT Portal project. 
++ **Matthijs Brouwer**: Matthijs has made significant contributions to the AGENT project. 
 + **Terry Casstevens**: Terry has made significant contributions to the PHG project. 
 + **Arnaud Charleroy**: Arnaud has made significant contributions to the PHIS project. 
 + **Keo Corak**: Keo wrote the section on the SCT project, and has made significant contributions to the BrAPI compatibility of the SCT project. 
 + **Chaney Courtney**: Chaney wrote the section on the Field Book project, and has made significant contributions to the BrAPI compatibility of the Field Book project. 
 + **Mariano Crimi**: Mariano has made significant contributions to the BMS project. 
-+ **Gouripriya Davuluri**: Gouripriya has made significant contributions to the AGENT Portal project. 
++ **Gouripriya Davuluri**: Gouripriya has made significant contributions to the AGENT project. 
 + **Kauê de Sousa**: Kauê wrote the section on the ClimMob project, and has made significant contributions to the BrAPI compatibility of the ClimMob project. 
 + **Jeremy Destin**: Jeremy has made significant contributions to the Florilège and Faidare projects. 
 + **Ajay Dhungana**: Ajay wrote the section introductions for the Phenotyping, Genotyping, and Germplasm topics.
 + **Bert Droesbeke**: Bert wrote the section on the BrAPI2ISA project, and has made significant contributions to the BrAPI compatibility of the BrAPI2ISA project. 
 + **Manuel Feser**: Manuel wrote the section on the MIRA project, and has made significant contributions to the BrAPI compatibility of the MIRA project. 
 + **Mirella Flores-Gonzalez**: Mirella wrote the section on the Trait Selector BrAPP projects, and has made significant contributions to the BrAPI compatibility of the Trait Selector BrAPP and Breedbase projects. 
-+ **Valentin Guignon**: Valentin wrote the section on the BrAPI Mapper projects, and has made significant contributions to the BrAPI compatibility of the BrAPI Mapper, MGIS, and the Trait Selector BrAPP projects. 
++ **Valentin Guignon**: Valentin wrote the section on the BrAPI Mapper and MGIS  projects, and has made significant contributions to the BrAPI compatibility of the BrAPI Mapper, MGIS, and the Trait Selector BrAPP projects. 
 + **Corina Habito**: Corina wrote the section on the BMS project, and has made significant contributions to the BrAPI compatibility of the BMS project. 
 + **Asis Hallab**: Asis wrote the section on the Zendro project, and has made significant contributions to the BrAPI compatibility of the Zendro project. 
 + **Puthick Hok**: Puthick has made significant contributions to the DArT Sample Submission project. 
 + **Lynn Carol Johnson**: Lynn wrote the section on the PHG project, and has made significant contributions to the BrAPI compatibility of the PHG project. 
 + **Sook Jung**: Sook wrote the section on the BIMS project, and has made significant contributions to the BrAPI compatibility of the BIMS project. 
-+ **Paul Kersey**: Paul has made significant contributions to the AGENT Portal project. 
++ **Paul Kersey**: Paul has made significant contributions to the AGENT project. 
 + **Andrzej Kilian**: Andrzej has made significant contributions to the DArT Sample Submission and DArTView projects. 
-+ **Patrick König**: Patrick has made significant contributions to the AGENT Portal project. 
-+ **Suman Kumar**: Suman has made significant contributions to the AGENT Portal project. 
++ **Patrick König**: Patrick has made significant contributions to the AGENT project. 
++ **Suman Kumar**: Suman has made significant contributions to the AGENT project. 
 + **Josh Lamos-Sweeney**: Josh wrote the section on the G-Crunch project, and has made significant contributions to the BrAPI compatibility of the G-Crunch project. 
 + **Laszlo Lang**: Laszlo has made significant contributions to the Zendro project. 
-+ **Matthias Lange**: Matthias wrote the section on the AGENT Portal project, and has made significant contributions to the BrAPI compatibility of the AGENT Portal project. 
++ **Matthias Lange**: Matthias wrote the section on the AGENT project, and has made significant contributions to the BrAPI compatibility of the AGENT project. 
 + **Marie-Angélique Laporte**: Marie-Angélique wrote the section on the ClimMob project, and has made significant contributions to the BrAPI compatibility of the ClimMob project. 
 + **Taein Lee**: Taein has made significant contributions to the BIMS project. 
-+ **Erwan Le-Floch**: Erwan has made significant contributions to the AGENT Portal project. 
++ **Erwan Le-Floch**: Erwan has made significant contributions to the AGENT project. 
 + **Francisco López**: Francisco has made significant contributions to the GLIS project. 
 + **Brandon Madriz**: Brandon wrote the section on the ClimMob project, and has made significant contributions to the BrAPI compatibility of the ClimMob project. 
++ **Dorrie  Main**: Dorrie  has made significant contributions to the BIMS project. 
 + **Marco Marsella**: Marco wrote the section on the GLIS project, and has made significant contributions to the BrAPI compatibility of the GLIS project. 
 + **Maud Marty**: Maud has made significant contributions to the Florilège and Faidare projects. 
 + **Célia Michotey**: Célia has made significant contributions to the Florilège and Faidare projects. 
@@ -1579,13 +1606,13 @@ The authors would like to acknowledge the following funding sources:
 + **Pascal Neveu**: Pascal has made significant contributions to the PHIS project. 
 + **Nick Palladino**: Nick has made significant contributions to the DeltaBreed project. 
 + **Tim Parsons**: Tim has made significant contributions to the DeltaBreed project. 
-+ **Cyril Pommier**: Cyril wrote the section on the Faidare projects, and has made significant contributions to the BrAPI compatibility of the Florilège, Faidare, and AGENT Portal projects. 
++ **Cyril Pommier**: Cyril wrote the section on the Faidare projects, and has made significant contributions to the BrAPI compatibility of the Florilège, Faidare, and AGENT projects. 
 + **Jean-François Rami**: Jean-François wrote the section on the ShinyBrAPPs project, and has made significant contributions to the BrAPI compatibility of the ShinyBrAPPs project. 
 + **Sebastian Raubach**: Sebastian wrote the section on the GridScore and Germinate projects, and has made significant contributions to the BrAPI compatibility of the GridScore, Germinate, and Flapjack projects. 
 + **Trevor Rife**: Trevor has made significant contributions to the Field Book project. 
 + **Kelly Robbins**: Kelly is the PI for the BrAPI Project grant, and has supported all technical and scientific aspects of the project.
-+ **Mathieu Rouard**: Mathieu wrote the section on the MGIS project, and has made significant contributions to the BrAPI compatibility of the MGIS project. 
-+ **Joseph Ruff**: Joseph has made significant contributions to the AGENT Portal project. 
++ **Mathieu Rouard**: Mathieu wrote the section on the MGIS and GIGWA projects, and has made significant contributions to the BrAPI compatibility of the MGIS and GIGWA projects. 
++ **Joseph Ruff**: Joseph has made significant contributions to the AGENT project. 
 + **Guilhem Sempéré**: Guilhem wrote the section on the Gigwa project, and has made significant contributions to the BrAPI compatibility of the Gigwa project. 
 + **Romil Mayank Shah**: Romil has made significant contributions to the SCT project. 
 + **Paul Shaw**: Paul wrote the section on the Helium project, and has made significant contributions to the BrAPI compatibility of the Helium project. 
@@ -1595,8 +1622,8 @@ The authors would like to acknowledge the following funding sources:
 + **Clarysabel Tovar**: Clarysabel has made significant contributions to the BMS project. 
 + **Grzegorz Uszynski**: Grzegorz wrote the section on the DArT Sample Submission project, and has made significant contributions to the BrAPI compatibility of the DArT Sample Submission project. 
 + **Vivian Bass Vega**: Vivian has made significant contributions to the Zendro project. 
-+ **Stephan Weise**: Stephan has made significant contributions to the AGENT Portal project. 
-+ **Shawn C. Yarnes**: Shawn wrote the section on the DeltaBreed project, and has made significant contributions to the BrAPI compatibility of the DeltaBreed project. "
++ **Stephan Weise**: Stephan has made significant contributions to the AGENT project. 
++ **Shawn C. Yarnes**: Shawn wrote the section on the DeltaBreed project, and has made significant contributions to the BrAPI compatibility of the DeltaBreed project. 
 
 ## References {.page_break_before}
 

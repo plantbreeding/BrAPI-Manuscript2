@@ -17,6 +17,7 @@ Besombes
 Boizet
 boxplot
 brapir
+breedwithbims
 Cartago
 CDO
 Célia
@@ -31,6 +32,7 @@ DArTdb
 DArTView’s
 dataflow
 Dhungana
+Dorrie
 DSBrAPP
 EE
 FFAR
@@ -41,10 +43,12 @@ GenAjay
 georeferencing
 GH
 Gigwa’s
-grzegorz
+Grzegorz
 Hok
+IFB
 Institut
-INV
+INTERTRYP
+IRD
 jframi
 jndmose
 Johan
