@@ -49,6 +49,8 @@ authors:
     affiliations:
       - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, Versailles, France
+    funders: 
+      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Isabelle Alic
     initials: IA
     github: Isabelle-inrae
@@ -57,7 +59,7 @@ authors:
     affiliations:
       - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
     funders: 
-      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
+      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)      
   - name: Khaled Al-Shamaa
     initials: KS
     github: khaled-alshamaa
@@ -96,7 +98,7 @@ authors:
     affiliations:
       - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
     funders: 
-      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)           
+      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)      
   - name: Alice Boizet
     initials: AB
     github: aliceboizet
@@ -127,7 +129,7 @@ authors:
     affiliations:
       - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
     funders: 
-      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)           
+      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)      
   - name: Keo Corak
     initials: KC
     github: keocorak
@@ -154,7 +156,7 @@ authors:
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
     funders: 
-      - The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement No 862613.
+      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Kauê de Sousa
     initials: KDS
     github: kauedesousa
@@ -233,11 +235,15 @@ authors:
     email: sook_jung@wsu.edu
     affiliations:
       - Department of Horticulture, Washington State University
+    funders: 
+      - USDA National Institute of Food and Agriculture National Research Support Project 10
   - name: Paul Kersey
     initials: PK
     email: P.Kersey@kew.org
     affiliations:
       - Royal Botanic Gardens, Kew
+    funders: 
+      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Andrzej Kilian
     initials: AK
     email: zej@diversityarrays.com
@@ -250,6 +256,8 @@ authors:
     email: koenig@ipk-gatersleben.de
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
+    funders: 
+      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Suman Kumar
     initials: SK
     github: sumankumar1
@@ -257,6 +265,8 @@ authors:
     email: Suman.Kumar@leibniz-ipk.de
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
+    funders: 
+      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Josh Lamos-Sweeney
     initials: JDLS
     github: jlamossweeney
@@ -277,6 +287,8 @@ authors:
     email: lange@ipk-gatersleben.de
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
+    funders: 
+      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Marie-Angélique Laporte
     initials: MAL
     github: marieALaporte
@@ -297,6 +309,8 @@ authors:
     affiliations:
       - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, Versailles, France   
+    funders: 
+      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Francisco López
     initials: FL
     email: francisco.lopez@fao.org
@@ -307,6 +321,14 @@ authors:
     email: bmadriz@mrbotcr.com
     affiliations:
       - MrBot Software Solutions, Cartago, Costa Rica
+  - name: Dorrie  Main
+    initials: DM
+    orcid: 0000-0002-1162-2724
+    email: dorrie@wsu.edu
+    affiliations:
+      - Department of Horticulture, Washington State University
+    funders: 
+      - USDA NIFA: 2022-51181-38449
   - name: Marco Marsella
     initials: MM
     orcid: 0000-0003-0334-8785
@@ -361,12 +383,12 @@ authors:
     affiliations:
       - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
     funders: 
-      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)              
+      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)      
   - name: Nick Palladino
     initials: NP
-    github: np398@cornell.edu
-    orcid: nickpalladino
-    email: 0009-0009-1645-297X
+    github: nickpalladino
+    orcid: 0009-0009-1645-297X
+    email: np398@cornell.edu
     affiliations:
       - Breeding Insight, Cornell University
     funders: 
@@ -389,7 +411,7 @@ authors:
       - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, Versailles, France
     funders: 
-      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
+      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)      
   - name: Jean-François Rami
     initials: JFR
     github: jframi
@@ -418,6 +440,8 @@ authors:
     email: krr73@cornell.edu
     affiliations:
       - Cornell University
+    funders: 
+      - The Bill and Malinda Gates Foundation in cooperation with the Excellence in Breeding Platform of the CGIAR
   - name: Mathieu Rouard
     initials: MR
     github: mrouard
@@ -430,14 +454,16 @@ authors:
     email: J.Ruff@kew.org
     affiliations:
       - Royal Botanic Gardens, Kew
+    funders: 
+      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Guilhem Sempéré
     initials: GS
     github: GuilhemSempere
     orcid: 0000-0001-7429-2091
     email: guilhem.sempere@cirad.fr
     affiliations:
-      - CIRAD (french agricultural research and international cooperation organization)
-      - South Green Platform
+      - CIRAD, UMR INTERTRYP, Montpellier, France INTERTRYP, Univ Montpellier, CIRAD, IRD, Montpellier, France French Institute of Bioinformatics (IFB) 
+      - South Green Bioinformatics Platform, Bioversity, CIRAD, INRAE, IRD, Montpellier, France
   - name: Romil Mayank Shah
     initials: RMS
     github: romil2807
@@ -475,6 +501,7 @@ authors:
       - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)      
   - name: Clarysabel Tovar
     initials: CT
+    email: clarysabel@leafnode.io
     affiliations:
       - Integrated Breeding Platform
       - Leafnode LLC
@@ -497,6 +524,8 @@ authors:
     email: weise@ipk-gatersleben.de
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
+    funders: 
+      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Shawn C. Yarnes
     initials: SCY 
     github: SCYarnes 
