@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-07-07'
+date-meta: '2024-07-08'
 author-meta:
 - Peter Selby
 - Rafael Abbeloos
@@ -93,11 +93,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-07-07" />
-  <meta name="citation_publication_date" content="2024-07-07" />
-  <meta property="article:published_time" content="2024-07-07" />
-  <meta name="dc.modified" content="2024-07-07T21:53:37+00:00" />
-  <meta property="article:modified_time" content="2024-07-07T21:53:37+00:00" />
+  <meta name="dc.date" content="2024-07-08" />
+  <meta name="citation_publication_date" content="2024-07-08" />
+  <meta property="article:published_time" content="2024-07-08" />
+  <meta name="dc.modified" content="2024-07-08T00:29:12+00:00" />
+  <meta property="article:modified_time" content="2024-07-08T00:29:12+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -321,9 +321,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ec7192d2a46c278aa545afe7caf969332708735f/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ec7192d2a46c278aa545afe7caf969332708735f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ec7192d2a46c278aa545afe7caf969332708735f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/b52e623c01842a06f9c52ea7b3d32c7951acdc7b/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/b52e623c01842a06f9c52ea7b3d32c7951acdc7b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/b52e623c01842a06f9c52ea7b3d32c7951acdc7b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -345,10 +345,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/ec7192d2a46c278aa545afe7caf969332708735f/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/b52e623c01842a06f9c52ea7b3d32c7951acdc7b/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@ec7192d](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/ec7192d2a46c278aa545afe7caf969332708735f)
-on July 7, 2024.
+from [plantbreeding/BrAPI-Manuscript2@b52e623](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/b52e623c01842a06f9c52ea7b3d32c7951acdc7b)
+on July 8, 2024.
 </em></small>
 
 
@@ -1086,9 +1086,9 @@ Peter Selby \<ps664@cornell.edu\>.
 
 ## Abstract {.page_break_before}
 
-Population growth and climate change require extraordinary efforts to increase efficiency in breeding programs around the world. In the last few years, genomics technologies and genomic prediction approaches have provided a boost in genetic gain in breeding, but have also created a flood of data that needs careful management to be fully harnessed.
-The Breeding API (BrAPI) project is an international, grass-roots effort to enable more efficient data management by enabling interoperability among plant breeding databases and tools, using a standardized RESTful web service API specification for communicating plant breeding data.
-This community driven standard is free to be used by anyone interested in plant breeding data management, including trial data, phenotypic data and genotyping data management.
+Population growth and climate change require extraordinary efforts to increase efficiency in breeding programs around the world. In the last few years, new phenotyping techniques, genomics technologies, and genomic prediction approaches have provided a boost in genetic gain in breeding, but have also created a flood of data that needs careful management to be fully harnessed. Data integration is a significant challenge with multiple types of data being collected and stored by a variety of disparate systems. 
+The Breeding API (BrAPI) project is an international, grass-roots effort to enable more efficient data management by enabling interoperability among research databases and tools, using a standardized RESTful web service API specification for communicating breeding related data.
+This community driven standard is software agnostic and free to be used by anyone interested in breeding data management, including trial, germplasm, phenotypic, and genotyping data management.
 This manuscript presents the current version of BrAPI, the substantial growth of the project, and a wide variety of open source breeding research tools with active BrAPI implementations.
 
 
@@ -1111,7 +1111,7 @@ To address consequences of climate change and population growth, plant and anima
 
 The Breeding API (BrAPI) project is an effort to enable interoperability among breeding tools, systems, and databases. BrAPI is a standardized Representational State Transfer (REST), web service, Application Programming Interface (API), specification for breeding and related agricultural data. [@doi:10.1093/bioinformatics/btz190] By using the BrAPI standard, breeding software can more easily become interoperable, allowing groups to more easily share data and software tools. 
 
-This manuscript will present BrAPI in its latest iteration. This includes a short technical description of the standard and a showcase of the applications, services, and tools available in the BrAPI community. BrAPI has become an essential part of the digital infrastructure for breeding applications and related agricultural projects. It is the intention of this manuscript to demonstrate the value of BrAPI to the wider scientific community as an effective and efficient means to collaborate and share resources. 
+Since its first publication [@doi:10.1093/bioinformatics/btz190], BrAPI has seen a significant increase in community services, compatible tools, and participating organizations. The community has organized numerous hackathons to evolve the specifications, resulting in continuous improvements and enhancements. This report includes a short technical description of the standard and a showcase of the applications, services, and tools available in the BrAPI community. BrAPI has become an essential part of the digital infrastructure for breeding applications and related agricultural projects. It is the intention of this manuscript to demonstrate the value of BrAPI to the wider scientific community as an effective and efficient means to collaborate and share resources. 
 
 ### How it works
 
@@ -1131,7 +1131,7 @@ As the specification has matured, so have the tools, services, and libraries ava
 
 ### Community Growth
 
-The international BrAPI Community consists of software developers, breeders, and other scientists working on BrAPI related projects and data sources. This community is what sustains the BrAPI project, builds implementations, maintains development tools, and provides input to enhance the specification. As the project has grown, so has the community. The BrAPI project started in June 2014 with less than ten people coming together to discuss the idea. Over the next ten years, the community has grown to between 200 and 250 members. 
+The international BrAPI Community consists of software developers, biologists, and other scientists working on BrAPI related projects and data sources. This community is what sustains the BrAPI project, builds implementations, maintains development tools, and provides input to enhance the specification. As the project has grown, so has the community. The BrAPI project started in June 2014 with less than ten people coming together to discuss the idea. Over the next ten years, the community has grown to between 200 and 250 members. 
 
 The BrAPI Hackathons are a major staple of the BrAPI community. Twice a year, the community gathers to discuss the specification and collaborate on BrAPI related projects. This time is very valuable to the community; for some organizations, the hackathon is the only time during the year when they have time to work on anything related to BrAPI. During the COVID-19 pandemic, virtual hackathons took the place of in-person events. While the virtual hackathons do not provide the same level of face-to-face time that is crucial to collaborative work, they did allow for more attendees to gather and share their opinions. Going forward, the community leadership has decided to have one in-person hackathon and one virtual hackathon each year, to balance the advantages of both. 
 
