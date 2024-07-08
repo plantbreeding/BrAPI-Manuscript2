@@ -41,9 +41,10 @@ François
 GBS
 GenAjay
 georeferencing
+GeoTIFF
 GH
 Gigwa’s
-Grzegorz
+grzegorz
 Hok
 IFB
 Institut

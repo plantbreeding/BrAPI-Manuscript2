@@ -19,11 +19,11 @@ content/03.02.--.HEADER.Genotyping.md:4:GBS
 content/03.02.--.HEADER.Genotyping.md:4:SNP
 content/03.02.--.HEADER.Genotyping.md:4:SSRs
 content/03.02.--.HEADER.Genotyping.md:4:WGS
-content/03.03.01.MGIS.md:4:Florilège
-content/03.03.02.AGENT_Portal.md:2:König
-content/03.03.02.AGENT_Portal.md:6:situ
-content/03.03.02.AGENT_Portal.md:6:situ
-content/03.03.02.AGENT_Portal.md:8:dataflow
+content/03.03.01.AGENT.md:2:König
+content/03.03.01.AGENT.md:6:situ
+content/03.03.01.AGENT.md:6:situ
+content/03.03.01.AGENT.md:8:dataflow
+content/03.03.02.MGIS.md:4:Florilège
 content/03.03.05.FLORILEGE.md:1:Florilège
 content/03.03.05.FLORILEGE.md:4:Florilège
 content/03.03.05.FLORILEGE.md:4:Florilège
@@ -34,6 +34,7 @@ content/03.04.01.DeltaBreed.md:4:customizable
 content/03.04.03.Breedbase.md:3:Lukas
 content/03.04.03.Breedbase.md:4:NIRS
 content/03.04.03.Breedbase.md:6:webpage
+content/03.04.04.BIMS.md:4:breedwithbims
 content/03.04.04.BIMS.md:4:breedwithbims
 content/03.04.04.BIMS.md:4:breedwithbims
 content/03.05.02.Mr_Bean.md:3:Johan
@@ -57,6 +58,7 @@ content/03.05.05.SCT.md:4:RShiny
 content/03.05.05.SCT.md:4:SCT
 content/03.05.05.SCT.md:4:SCT
 content/04.discussion.md:21:CDO
+content/04.discussion.md:21:GeoTIFF
 content/04.discussion.md:21:NOAA
 content/05.methods.md:5:accessability
 content/05.methods.md:5:OpenAPI
