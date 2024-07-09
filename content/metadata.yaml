@@ -273,6 +273,15 @@ authors:
     email: jdl232@cornell.edu
     affiliations:
       - Cornell University
+      - VIB AgroIncubator
+    corresponding: false
+  - name: Stijn Dhondt
+    initials: SD
+    orcid: 0000-0003-4402-2191
+    email: stijn.dhondt@vib.be
+    affiliations:
+      - VIB AgroIncubator
+    corresponding: false
   - name: Laszlo Lang
     initials: LL
     github: LzLang
