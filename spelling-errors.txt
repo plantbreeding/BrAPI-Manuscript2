@@ -82,10 +82,10 @@ OpenAPI
 Palladino
 pascalneveu
 Pérez
-Puthick
+puthick
 Rami
 Rica
-Romil
+romil
 RShiny
 SCT
 SCYarnes

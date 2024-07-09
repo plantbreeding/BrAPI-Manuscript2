@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-07-08'
+date-meta: '2024-07-09'
 author-meta:
 - Peter Selby
 - Rafael Abbeloos
@@ -93,11 +93,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-07-08" />
-  <meta name="citation_publication_date" content="2024-07-08" />
-  <meta property="article:published_time" content="2024-07-08" />
-  <meta name="dc.modified" content="2024-07-08T21:53:26+00:00" />
-  <meta property="article:modified_time" content="2024-07-08T21:53:26+00:00" />
+  <meta name="dc.date" content="2024-07-09" />
+  <meta name="citation_publication_date" content="2024-07-09" />
+  <meta property="article:published_time" content="2024-07-09" />
+  <meta name="dc.modified" content="2024-07-09T14:12:52+00:00" />
+  <meta property="article:modified_time" content="2024-07-09T14:12:52+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -245,7 +245,7 @@ header-includes: |
   <meta name="citation_author_institution" content="Buckler Lab and Institute for Genomic Diversity, Cornell University" />
   <meta name="citation_author_orcid" content="0000-0002-5454-4527" />
   <meta name="citation_author" content="Iain Milne" />
-  <meta name="citation_author_institution" content="The James Hutton Institute" />
+  <meta name="citation_author_institution" content="Information and Computational Sciences Department, The James Hutton Institute, Dundee, Scotland" />
   <meta name="citation_author_orcid" content="0000-0002-4126-0859" />
   <meta name="citation_author" content="Lukas A. Mueller" />
   <meta name="citation_author_institution" content="The Boyce Thompson Institute" />
@@ -270,7 +270,7 @@ header-includes: |
   <meta name="citation_author_institution" content="AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France." />
   <meta name="citation_author_orcid" content="0000-0002-5679-3877" />
   <meta name="citation_author" content="Sebastian Raubach" />
-  <meta name="citation_author_institution" content="The James Hutton Institute" />
+  <meta name="citation_author_institution" content="Information and Computational Sciences Department, The James Hutton Institute, Dundee, Scotland" />
   <meta name="citation_author_orcid" content="0000-0001-5659-247X" />
   <meta name="citation_author" content="Trevor Rife" />
   <meta name="citation_author_institution" content="Clemson University" />
@@ -290,10 +290,10 @@ header-includes: |
   <meta name="citation_author" content="Romil Mayank Shah" />
   <meta name="citation_author_institution" content="North Carolina State University" />
   <meta name="citation_author" content="Paul Shaw" />
-  <meta name="citation_author_institution" content="The James Hutton Institute" />
+  <meta name="citation_author_institution" content="Information and Computational Sciences Department, The James Hutton Institute, Dundee, Scotland" />
   <meta name="citation_author_orcid" content="0000-0002-0202-1150" />
   <meta name="citation_author" content="Becky Smith" />
-  <meta name="citation_author_institution" content="The James Hutton Institute" />
+  <meta name="citation_author_institution" content="Information and Computational Sciences Department, The James Hutton Institute, Dundee, Scotland" />
   <meta name="citation_author_orcid" content="0000-0002-8968-3383" />
   <meta name="citation_author" content="Nahuel Soldevilla" />
   <meta name="citation_author_institution" content="Integrated Breeding Platform" />
@@ -321,9 +321,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/95a2c7211089fbaeb417557db05cf57e4844ae4b/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/95a2c7211089fbaeb417557db05cf57e4844ae4b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/95a2c7211089fbaeb417557db05cf57e4844ae4b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/4dc279b8cc8829731e62fb3e3210ceaf8b16745d/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/4dc279b8cc8829731e62fb3e3210ceaf8b16745d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/4dc279b8cc8829731e62fb3e3210ceaf8b16745d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -345,10 +345,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/95a2c7211089fbaeb417557db05cf57e4844ae4b/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/4dc279b8cc8829731e62fb3e3210ceaf8b16745d/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@95a2c72](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/95a2c7211089fbaeb417557db05cf57e4844ae4b)
-on July 8, 2024.
+from [plantbreeding/BrAPI-Manuscript2@4dc279b](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/4dc279b8cc8829731e62fb3e3210ceaf8b16745d)
+on July 9, 2024.
 </em></small>
 
 
@@ -834,7 +834,7 @@ on July 8, 2024.
     [imilne](https://github.com/imilne)
     <br>
   <small>
-     The James Hutton Institute
+     Information and Computational Sciences Department, The James Hutton Institute, Dundee, Scotland
   </small>
 
 + **Lukas A. Mueller**
@@ -924,7 +924,7 @@ on July 8, 2024.
     [sebastian-raubach](https://github.com/sebastian-raubach)
     <br>
   <small>
-     The James Hutton Institute
+     Information and Computational Sciences Department, The James Hutton Institute, Dundee, Scotland
   </small>
 
 + **Trevor Rife**
@@ -994,7 +994,7 @@ on July 8, 2024.
     [cardinalb](https://github.com/cardinalb)
     <br>
   <small>
-     The James Hutton Institute
+     Information and Computational Sciences Department, The James Hutton Institute, Dundee, Scotland
   </small>
 
 + **Becky Smith**
@@ -1005,7 +1005,7 @@ on July 8, 2024.
     [Batbaby91](https://github.com/Batbaby91)
     <br>
   <small>
-     The James Hutton Institute
+     Information and Computational Sciences Department, The James Hutton Institute, Dundee, Scotland
   </small>
 
 + **Nahuel Soldevilla**
@@ -1391,7 +1391,7 @@ Right now, BIMS primarily utilizes BrAPI to connect with the Field Book Android 
 #### Germinate
 
 <!-- Sebastian R -->
-[Germinate](https://ics.hutton.ac.uk/get-germinate/) [@doi:10.1002/csc2.20248] is an open-source plant genetic resources database that combines and integrates various kinds of plant breeding data including genotypic data, phenotypic trials data, passport data, images, geographic information and climate data into a single repository. Germinate is tightly linked to the BrAPI specification and supports a majority of BrAPI endpoints for querying, filtering, and submission.
+[Germinate](https://ics.hutton.ac.uk/get-germinate/) [@doi:10.1002/csc2.20248;@doi:10.2135/cropsci2016.09.0814] is an open-source plant genetic resources database that combines and integrates various kinds of plant breeding data including genotypic data, phenotypic trials data, passport data, images, geographic information and climate data into a single repository. Germinate is tightly linked to the BrAPI specification and supports a majority of BrAPI endpoints for querying, filtering, and submission.
 
 Germinate integrates and connects with other BrAPI-enabled tools such as GridScore for phenotypic data collection, Flapjack for genotypic data visualization, and Helium for pedigree visualization. Additionally, due to the nature of BrAPI, Germinate can act as a data repository for any BrAPI-compatible tool. Thanks to the interoperability provided by BrAPI, the need for manual data handling becomes a rarity with the direct benefit of faster data processing, fewer to no human errors, data security, and data integrity.
 
