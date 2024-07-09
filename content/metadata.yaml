@@ -31,7 +31,7 @@ authors:
     orcid: 0000-0002-3412-9086
     email: anne-francoise.adam-blondon@inrae.fr
     affiliations:
-      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, Versailles, France
   - name: Francisco J. Agosto-Pérez
     initials: FJAP
@@ -47,7 +47,7 @@ authors:
     orcid: 0000-0001-9356-4072
     email: michael.alaux@inrae.fr
     affiliations:
-      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, Versailles, France
     funders: 
       - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
@@ -57,9 +57,7 @@ authors:
     orcid: 0000-0002-8961-6068
     email: isabelle.alic@inrae.fr
     affiliations:
-      - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
-    funders: 
-      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)      
+      - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France 
   - name: Khaled Al-Shamaa
     initials: KS
     github: khaled-alshamaa
@@ -97,8 +95,6 @@ authors:
     email: gabriel.besombes@inrae.fr
     affiliations:
       - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
-    funders: 
-      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)      
   - name: Alice Boizet
     initials: AB
     github: aliceboizet
@@ -128,8 +124,6 @@ authors:
     email: arnaud.charleroy@inrae.fr
     affiliations:
       - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
-    funders: 
-      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)      
   - name: Keo Corak
     initials: KC
     github: keocorak
@@ -166,9 +160,9 @@ authors:
       - Digital Inclusion, Bioversity International, Montpellier, France
   - name: Jeremy Destin
     initials: JD
-    email: jeremy.destin@inrae.fr
+    email: jeremy.destin3@gmail.com
     affiliations:
-      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, Versailles, France
   - name: Ajay Dhungana
     initials: AD
@@ -305,12 +299,12 @@ authors:
       - Department of Horticulture, Washington State University
   - name: Erwan Le-Floch
     initials: ELF
+    orcid: 0000-0002-1010-6859
+    github: erlefloch
     email: erwan.le-floch@inrae.fr
     affiliations:
-      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, Versailles, France   
-    funders: 
-      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Francisco López
     initials: FL
     email: francisco.lopez@fao.org
@@ -321,7 +315,7 @@ authors:
     email: bmadriz@mrbotcr.com
     affiliations:
       - MrBot Software Solutions, Cartago, Costa Rica
-  - name: Dorrie  Main
+  - name: Dorrie Main
     initials: DM
     orcid: 0000-0002-1162-2724
     email: dorrie@wsu.edu
@@ -337,16 +331,19 @@ authors:
       - International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
   - name: Maud Marty
     initials: MM
+    github: maudmarty
+    orcid: 0009-0001-8764-6466
     email: maud.marty@inrae.fr
     affiliations:
-      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, Versailles, France
   - name: Célia Michotey
     initials: CM
     orcid: 0000-0003-1877-1703
+    github: cmichotey
     email: celia.michotey@inrae.fr
     affiliations:
-      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, Versailles, France
   - name: Zachary Miller
     initials: ZM
@@ -408,11 +405,9 @@ authors:
     orcid: 0000-0002-9040-8733
     email: cyril.pommier@inrae.fr
     affiliations:
-      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, Versailles, France
-    funders: 
-      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)      
-  - name: Jean-François Rami
+ - name: Jean-François Rami
     initials: JFR
     github: jframi
     orcid: 0000-0002-5679-3877
@@ -496,9 +491,7 @@ authors:
     orcid: 0000-0001-8501-6922
     email: anne.tireau@inrae.fr
     affiliations:
-      - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
-    funders: 
-      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)      
+      - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France   
   - name: Clarysabel Tovar
     initials: CT
     email: clarysabel@leafnode.io
