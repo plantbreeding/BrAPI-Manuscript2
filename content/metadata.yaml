@@ -1,4 +1,14 @@
-community:
+---
+title: "BrAPI Success Stories"
+date: null  # Defaults to date generated, but can specify like '2022-10-31'.
+keywords:
+  - brapi
+  - breeding
+  - api
+  - standards
+  - community
+lang: en-US
+authors:
   - name: Peter Selby
     initials: PS
     github: BrapiCoordinatorSelby
@@ -16,9 +26,9 @@ community:
     affiliations:
       - VIB Agro-Incubator
   - name: Anne-Francoise Adam-Blondon
-    email: anne-francoise.adam-blondon@inrae.fr
     initials: AFAB
     orcid: 0000-0002-3412-9086
+    email: anne-francoise.adam-blondon@inrae.fr
     affiliations:
       - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
@@ -32,9 +42,9 @@ community:
     funders: 
       - Innovation Lab for Crop Improvement Cornell, FFAR
   - name: Michael Alaux
-    email: michael.alaux@inrae.fr
     initials: MA
     orcid: 0000-0001-9356-4072
+    email: michael.alaux@inrae.fr
     affiliations:
       - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
@@ -85,14 +95,22 @@ community:
     affiliations:
       - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
   - name: Alice Boizet
+    initials: AB
+    github: aliceboizet
+    orcid: 0000-0003-4096-6689
+    email: alice.boizet@cirad.fr
+    affiliations:
+      - CIRAD, UMR AGAP Institut, Montpellier, France.
+      - AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France.
   - name: Matthijs Brouwer
-    email: matthijs.brouwer@wur.nl
     initials: MB
+    github: matthijsbrouwer
+    orcid: 0000-0001-8183-0484
+    email: matthijs.brouwer@wur.nl
     affiliations:
       - Wageningen University and Research
   - name: Terry Casstevens
     initials: TC
-    email: tmc46@cornell.edu
     github: tcasstevens
     orcid: 0000-0001-7602-0487
     email: tmc46@cornell.edu
@@ -113,8 +131,8 @@ community:
     affiliations:
       - USDA-ARS Genomics and Bioinformatics Research Unit 
   - name: Chaney Courtney
-    github: chaneylc
     initials: CC
+    github: chaneylc
     email: ccourtn@clemson.edu
     affiliations:
       - Clemson University
@@ -124,22 +142,39 @@ community:
     affiliations:
       - Integrated Breeding Platform
   - name: Gouripriya Davuluri
-    email: davuluri@ipk-gatersleben.de
     initials: GD
+    github: Gouripriya5
+    orcid: 0009-0005-2308-0773
+    email: Gouripriya.Davuluri@leibniz-ipk.de
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
+    funders: 
+      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
+  - name: Kauê de Sousa
+    initials: KDS
+    github: kauedesousa
+    orcid: 0000-0002-7571-7845
+    email: k.desousa@cgiar.org
+    affiliations:
+      - Digital Inclusion, Bioversity International, Montpellier, France
   - name: Jeremy Destin
     initials: JD
     email: jeremy.destin3@gmail.com
     affiliations:
       - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
+  - name: Stijn Dhondt
+    initials: SD
+    orcid: 0000-0003-4402-2191
+    email: stijn.dhondt@vib.be
+    affiliations:
+      - VIB AgroIncubator
   - name: Ajay Dhungana
     initials: AD
     github: GenAjay
     email: adhung4@lsu.edu
     affiliations:
-      - VIB AgroIncubator
+      - Louisiana State University (LSU)
   - name: Bert Droesbeke
     initials: BD
     github: bedroesb
@@ -148,10 +183,10 @@ community:
     affiliations:
       - VIB Data Core
   - name: Manuel Feser
+    initials: MF
     github: feserm
     orcid: 0000-0001-6546-1818
     email: feser@ipk-gatersleben.de
-    initials: MF
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
       - Graduate School DILS, Bielefeld Institute for Bioinformatics Infrastructure (BIBI)
@@ -176,48 +211,61 @@ community:
       - Integrated Breeding Platform
   - name: Asis Hallab
     initials: AH
-    github: https://github.com/asishallab
+    github: asishallab
     orcid: 0000-0002-2421-5431
     email: a.hallab@fz-juelich.de
     affiliations:
       - Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany
   - name: Puthick Hok
+    initials: PH
     github: puthick
     email: puthick@diversityarrays.com
-    initials: PH
     affiliations:
       - Diversity Arrays Technology (DArT)
-    corresponding: false
-  - name: Lynn Johnson
+  - name: Lynn Carol Johnson
+    initials: LCJ
+    orcid: 0000-0001-8103-2722
+    email: lcj34@cornell.edu
+    affiliations:
+      - Buckler Lab and Institute for Genomic Diversity, Cornell University
   - name: Sook Jung
     initials: SJ
-    email: sook_jung@wsu.edu
     orcid: 0000-0003-3968-2769
-    affiliations: 
+    email: sook_jung@wsu.edu
+    affiliations:
       - Department of Horticulture, Washington State University
+    funders: 
+      - USDA National Institute of Food and Agriculture National Research Support Project 10
   - name: Paul Kersey
-    email: P.Kersey@kew.org
     initials: PK
+    email: P.Kersey@kew.org
     affiliations:
       - Royal Botanic Gardens, Kew
+    funders: 
+      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Andrzej Kilian
-    email: zej@diversityarrays.com
     initials: AK
+    email: zej@diversityarrays.com
     affiliations:
       - Diversity Arrays Technology (DArT)
-    corresponding: false
   - name: Patrick König
-    email: koenig@ipk-gatersleben.de
     initials: PK
-    orcid: 0000-0002-8948-6793
     github: patrick-koenig
+    orcid: 0000-0002-8948-6793
+    email: koenig@ipk-gatersleben.de
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
+    funders: 
+      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Suman Kumar
-    email: kumar@ipk-gatersleben.de
     initials: SK
+    github: sumankumar1
+    orcid: 0009-0005-5832-7190
+    email: Suman.Kumar@leibniz-ipk.de
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
+    funders: 
+      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Josh Lamos-Sweeney
     initials: JDLS
     github: jlamossweeney
@@ -238,26 +286,27 @@ community:
     email: lange@ipk-gatersleben.de
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
-  - name: Marie Angelique Laporte
+    funders: 
+      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
+  - name: Marie-Angélique Laporte
     initials: MAL
     github: marieALaporte
     orcid: 0000-0002-8461-9745
     email: m.a.laporte@cgiar.org
     affiliations:
-      - Alliance Bioversity-CIAT
+      - Digital Inclusion, Bioversity International, Montpellier, France.
   - name: Taein Lee
     initials: TL
-    email: taein_lee@hotmail.com
     github: leetaei
     orcid: 0000-0002-2000-2586
-    affiliations: 
+    email: taein_lee@hotmail.com
+    affiliations:
       - Department of Horticulture, Washington State University
   - name: Erwan Le-Floch
     initials: ELF
     github: erlefloch
     orcid: 0000-0002-1010-6859
     email: erwan.le-floch@inrae.fr
-    initials: ELF
     affiliations:
       - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France   
@@ -281,8 +330,8 @@ community:
       - USDA NIFA: 2022-51181-38449
   - name: Marco Marsella
     initials: MM
-    email: marco.marsella@fao.org
     orcid: 0000-0003-0334-8785
+    email: marco.marsella@fao.org
     affiliations:
       - International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
   - name: Maud Marty
@@ -290,25 +339,24 @@ community:
     github: maudmarty
     orcid: 0009-0001-8764-6466
     email: maud.marty@inrae.fr
-    initials: MM
     affiliations:
       - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
   - name: Célia Michotey
-    email: celia.michotey@inrae.fr
     initials: CM
     github: cmichotey
     orcid: 0000-0003-1877-1703
+    email: celia.michotey@inrae.fr
     affiliations:
       - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
   - name: Zachary Miller
     initials: ZM
-    email: zrm22@cornell.edu
     github: zrm22
     orcid: 0000-0002-5454-4527
+    email: zrm22@cornell.edu
     affiliations:
-      - Cornell University
+      - Buckler Lab and Institute for Genomic Diversity, Cornell University
   - name: Iain Milne
     initials: IM
     github: imilne
@@ -316,7 +364,46 @@ community:
     email: iain.milne@hutton.ac.uk
     affiliations:
       - The James Hutton Institute
-  - name: Lukas Mueller
+  - name: Lukas A. Mueller
+    initials: LAM
+    github: lukasmueller
+    orcid: 0000-0001-8640-1750
+    email: lam87@cornell.edu
+    affiliations:
+      - The Boyce Thompson Institute
+  - name: Moses Nderitu
+    initials: MN
+    github: jndmose
+    email: m.nderitu@seqart.net
+    affiliations:
+      - SEQART AFRICA
+  - name: Pascal Neveu
+    initials: PN
+    github: pascalneveu
+    orcid: 0000-0003-4189-7793
+    email: pascal.neveu@inrae.fr
+    affiliations:
+      - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
+    funders: 
+      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)      
+  - name: Nick Palladino
+    initials: NP
+    github: nickpalladino
+    orcid: 0009-0009-1645-297X
+    email: np398@cornell.edu
+    affiliations:
+      - Breeding Insight, Cornell University
+    funders: 
+      - U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
+  - name: Tim Parsons
+    initials: TEP
+    github: timparsons
+    orcid: 0000-0001-6209-2455
+    email: tim@timparsons.io
+    affiliations:
+      - Breeding Insight, Cornell University
+    funders: 
+      - U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
   - name: Cyril Pommier
     initials: CP
     github: cpommier
@@ -347,6 +434,14 @@ community:
     email: twrife@clemson.edu
     affiliations:
       - Clemson University
+  - name: Kelly Robbins
+    initials: KR
+    orcid: 0000-0001-9522-9585
+    email: krr73@cornell.edu
+    affiliations:
+      - Cornell University
+    funders: 
+      - The Bill and Malinda Gates Foundation in cooperation with the Excellence in Breeding Platform of the CGIAR
   - name: Mathieu Rouard
     initials: MR
     github: mrouard
@@ -355,18 +450,26 @@ community:
     affiliations:
       - Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France
   - name: Joseph Ruff
-    email: J.Ruff@kew.org
     initials: JR
+    email: J.Ruff@kew.org
     affiliations:
       - Royal Botanic Gardens, Kew
+    funders: 
+      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Guilhem Sempéré
     initials: GS
     github: GuilhemSempere
     orcid: 0000-0001-7429-2091
     email: guilhem.sempere@cirad.fr
     affiliations:
-      - CIRAD (french agricultural research and international cooperation organization)
-      - South Green Platform
+      - CIRAD, UMR INTERTRYP, Montpellier, France INTERTRYP, Univ Montpellier, CIRAD, IRD, Montpellier, France French Institute of Bioinformatics (IFB) 
+      - South Green Bioinformatics Platform, Bioversity, CIRAD, INRAE, IRD, Montpellier, France
+  - name: Romil Mayank Shah
+    initials: RMS
+    github: romil2807
+    email: rmshah3@ncsu.edu
+    affiliations:
+      - North Carolina State University
   - name: Paul Shaw
     initials: PDS
     github: cardinalb
@@ -396,14 +499,14 @@ community:
       - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
   - name: Clarysabel Tovar
     initials: CT
-    email: 
+    email: clarysabel@leafnode.io
     affiliations:
       - Integrated Breeding Platform
       - Leafnode LLC
   - name: Grzegorz Uszynski
+    initials: GU
     github: grzegorz69
     email: grzegorz@diversityarrays.com
-    initials: GU
     affiliations:
       - Diversity Arrays Technology (DArT)
   - name: Vivian Bass Vega
@@ -414,9 +517,19 @@ community:
     affiliations:
       - Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
   - name: Stephan Weise
-    email: weise@ipk-gatersleben.de
     initials: SW
     orcid: 0000-0003-4031-9131
+    email: weise@ipk-gatersleben.de
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
-  - name: Shawn Yarnes
+    funders: 
+      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
+  - name: Shawn C. Yarnes
+    initials: SCY 
+    github: SCYarnes 
+    orcid: 0000-0002-1090-0403 
+    email: scy32@cornell.edu 
+    affiliations:
+      - Breeding Insight, Cornell University 
+    funders: 
+      - U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
