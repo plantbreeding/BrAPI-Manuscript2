@@ -18,7 +18,6 @@ authors:
       - Cornell University
     funders: 
       - The BrAPI Project is funded by the USDA grant NIFA-DSFAS 2022-67021-37024.
-    corresponding: true
   - name: Rafael Abbeloos
     initials: RA
     github: raabb
@@ -31,8 +30,8 @@ authors:
     orcid: 0000-0002-3412-9086
     email: anne-francoise.adam-blondon@inrae.fr
     affiliations:
-      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
-      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
   - name: Francisco J. Agosto-Pérez
     initials: FJAP
     github: agostof
@@ -47,8 +46,8 @@ authors:
     orcid: 0000-0001-9356-4072
     email: michael.alaux@inrae.fr
     affiliations:
-      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
-      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
     funders: 
       - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Isabelle Alic
@@ -57,7 +56,7 @@ authors:
     orcid: 0000-0002-8961-6068
     email: isabelle.alic@inrae.fr
     affiliations:
-      - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France 
+      - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
   - name: Khaled Al-Shamaa
     initials: KS
     github: khaled-alshamaa
@@ -162,8 +161,8 @@ authors:
     initials: JD
     email: jeremy.destin3@gmail.com
     affiliations:
-      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
-      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
   - name: Ajay Dhungana
     initials: AD
     github: GenAjay
@@ -308,12 +307,12 @@ authors:
       - Department of Horticulture, Washington State University
   - name: Erwan Le-Floch
     initials: ELF
-    orcid: 0000-0002-1010-6859
     github: erlefloch
+    orcid: 0000-0002-1010-6859
     email: erwan.le-floch@inrae.fr
     affiliations:
-      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
-      - Université Paris-Saclay, INRAE, URGI, Versailles, France   
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France   
   - name: Francisco López
     initials: FL
     email: francisco.lopez@fao.org
@@ -344,16 +343,16 @@ authors:
     orcid: 0009-0001-8764-6466
     email: maud.marty@inrae.fr
     affiliations:
-      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
-      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
   - name: Célia Michotey
     initials: CM
-    orcid: 0000-0003-1877-1703
     github: cmichotey
+    orcid: 0000-0003-1877-1703
     email: celia.michotey@inrae.fr
     affiliations:
-      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
-      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
   - name: Zachary Miller
     initials: ZM
     github: zrm22
@@ -414,9 +413,9 @@ authors:
     orcid: 0000-0002-9040-8733
     email: cyril.pommier@inrae.fr
     affiliations:
-      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
-      - Université Paris-Saclay, INRAE, URGI, Versailles, France
- - name: Jean-François Rami
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
+  - name: Jean-François Rami
     initials: JFR
     github: jframi
     orcid: 0000-0002-5679-3877
@@ -500,7 +499,7 @@ authors:
     orcid: 0000-0001-8501-6922
     email: anne.tireau@inrae.fr
     affiliations:
-      - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France   
+      - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
   - name: Clarysabel Tovar
     initials: CT
     email: clarysabel@leafnode.io
