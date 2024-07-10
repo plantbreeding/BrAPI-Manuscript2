@@ -14,6 +14,7 @@ asishallab
 barcodes
 Berlinstraße
 Besombes
+BioinfOmics
 Boizet
 boxplot
 brapir
@@ -23,6 +24,7 @@ CDO
 Célia
 Charleroy
 CIAT
+cmichotey
 comradery
 Corak
 Costa
@@ -35,6 +37,7 @@ Dhungana
 Dorrie
 DSBrAPP
 EE
+erlefloch
 FFAR
 Florilège
 François
@@ -44,7 +47,7 @@ georeferencing
 GeoTIFF
 GH
 Gigwa’s
-grzegorz
+Grzegorz
 Hok
 IFB
 Institut
@@ -69,6 +72,7 @@ lukasmueller
 Madriz
 marieALaporte
 matthijsbrouwer
+maudmarty
 Mayank
 MISTEA
 MrBot
