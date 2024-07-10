@@ -85,9 +85,10 @@ community:
     affiliations: 
       - Cornell University
   - name: Chaney Courtney
-    github: chaneylc
     initials: CC
     email: ccourtn@clemson.edu
+    github: chaneylc
+    orcid: 0009-0004-7273-1280
     affiliations:
       - Clemson University
   - name: Mariano Crimi
@@ -282,9 +283,9 @@ community:
       - The James Hutton Institute
   - name: Trevor Rife
     initials: TR
+    email: twrife@clemson.edu
     github: trife
     orcid: 0000-0002-5974-6523
-    email: twrife@clemson.edu
     affiliations:
       - Clemson University
   - name: Mathieu Rouard
