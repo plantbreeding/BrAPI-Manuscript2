@@ -21,16 +21,16 @@ community:
     initials: AFAB
     orcid: 0000-0002-3412-9086
     affiliations:
-      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
-      - Université Paris-Saclay, INRAE, URGI, Versailles, France   
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France   
   - name: Francisco Agosto
   - name: Michael Alaux
     email: michael.alaux@inrae.fr
     initials: MA
     orcid: 0000-0001-9356-4072
     affiliations:
-      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
-      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
   - name: Isabelle Alic
     initials: IA
     github: Isabelle-inrae
@@ -38,8 +38,6 @@ community:
     email: isabelle.alic@inrae.fr
     affiliations:
       - INRAE
-    funders: 
-      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
   - name: Khaled Al-Shamaa
     initials: KS
     github: khaled-alshamaa
@@ -101,11 +99,11 @@ community:
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
   - name: Jeremy Destin
-    email: jeremy.destin@inrae.fr
+    email: jeremy.destin3@gmail.com
     initials: JD
     affiliations:
-      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
-      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
   - name: Bert Droesbeke
     initials: BD
     github: bedroesb
@@ -221,9 +219,11 @@ community:
   - name: Erwan Le-Floch
     email: erwan.le-floch@inrae.fr
     initials: ELF
+    github: erlefloch
+    orcid: 0000-0002-1010-6859
     affiliations:
-      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
-      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
   - name: Francisco López
     initials: FL
     email: francisco.lopez@fao.org
@@ -237,17 +237,20 @@ community:
       - International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
   - name: Maud Marty
     email: maud.marty@inrae.fr
+    github: maudmarty
+    orcid: 0009-0001-8764-6466
     initials: MM
     affiliations:
-      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
-      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
   - name: Célia Michotey
     email: celia.michotey@inrae.fr
     initials: CM
+    github: cmichotey
     orcid: 0000-0003-1877-1703
     affiliations:
-      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
-      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
   - name: Zachary Miller
     initials: ZM
     email: zrm22@cornell.edu
@@ -269,10 +272,8 @@ community:
     orcid: 0000-0002-9040-8733
     email: cyril.pommier@inrae.fr
     affiliations:
-      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
-      - Université Paris-Saclay, INRAE, URGI, Versailles, France
-    funders: 
-      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
   - name: Sebastian Raubach
     initials: SR
     github: sebastian-raubach

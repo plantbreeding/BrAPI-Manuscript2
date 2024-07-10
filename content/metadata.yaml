@@ -6,9 +6,8 @@ community:
     email: ps664@cornell.edu
     affiliations:
       - Cornell University
-    funders:
-      - NIFA-DSFAS 2022-67021-37024
-    corresponding: true
+    funders: 
+      - The BrAPI Project is funded by the USDA grant NIFA-DSFAS 2022-67021-37024.
   - name: Rafael Abbeloos
     initials: RA
     github: raabb
@@ -21,25 +20,33 @@ community:
     initials: AFAB
     orcid: 0000-0002-3412-9086
     affiliations:
-      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
-      - Université Paris-Saclay, INRAE, URGI, Versailles, France   
-  - name: Francisco Agosto
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
+  - name: Francisco J. Agosto-Pérez
+    initials: FJAP
+    github: agostof
+    orcid: 0000-0002-5059-253X
+    email: fja32@cornell.edu 
+    affiliations:
+      - Cornell University
+    funders: 
+      - Innovation Lab for Crop Improvement Cornell, FFAR
   - name: Michael Alaux
     email: michael.alaux@inrae.fr
     initials: MA
     orcid: 0000-0001-9356-4072
     affiliations:
-      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
-      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
+    funders: 
+      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Isabelle Alic
     initials: IA
     github: Isabelle-inrae
     orcid: 0000-0002-8961-6068
     email: isabelle.alic@inrae.fr
     affiliations:
-      - INRAE
-    funders: 
-      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
+      - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
   - name: Khaled Al-Shamaa
     initials: KS
     github: khaled-alshamaa
@@ -71,6 +78,12 @@ community:
     affiliations:
       - 'Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszentrum Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany'
       - Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany
+  - name: Gabriel Besombes
+    initials: GB
+    github: Gabriel-Besombes
+    email: gabriel.besombes@inrae.fr
+    affiliations:
+      - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
   - name: Alice Boizet
   - name: Matthijs Brouwer
     email: matthijs.brouwer@wur.nl
@@ -82,8 +95,23 @@ community:
     email: tmc46@cornell.edu
     github: tcasstevens
     orcid: 0000-0001-7602-0487
-    affiliations: 
-      - Cornell University
+    email: tmc46@cornell.edu
+    affiliations:
+      - Buckler Lab and Institute for Genomic Diversity, Cornell University
+  - name: Arnaud Charleroy
+    initials: AC
+    github: niio972
+    orcid: 0009-0009-7575-3617
+    email: arnaud.charleroy@inrae.fr
+    affiliations:
+      - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
+  - name: Keo Corak
+    initials: KC
+    github: keocorak
+    orcid: 0000-0002-4129-3319
+    email: kecorak@ncsu.edu
+    affiliations:
+      - USDA-ARS Genomics and Bioinformatics Research Unit 
   - name: Chaney Courtney
     github: chaneylc
     initials: CC
@@ -101,15 +129,15 @@ community:
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
   - name: Jeremy Destin
-    email: jeremy.destin@inrae.fr
     initials: JD
+    email: jeremy.destin3@gmail.com
     affiliations:
-      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
-      - Université Paris-Saclay, INRAE, URGI, Versailles, France
-  - name: Stijn Dhondt
-    initials: SD
-    orcid: 0000-0003-4402-2191
-    email: stijn.dhondt@vib.be
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
+  - name: Ajay Dhungana
+    initials: AD
+    github: GenAjay
+    email: adhung4@lsu.edu
     affiliations:
       - VIB AgroIncubator
   - name: Bert Droesbeke
@@ -225,16 +253,32 @@ community:
     affiliations: 
       - Department of Horticulture, Washington State University
   - name: Erwan Le-Floch
+    initials: ELF
+    github: erlefloch
+    orcid: 0000-0002-1010-6859
     email: erwan.le-floch@inrae.fr
     initials: ELF
     affiliations:
-      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
-      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France   
   - name: Francisco López
     initials: FL
     email: francisco.lopez@fao.org
     affiliations:
       - International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
+  - name: Brandon Madriz
+    initials: BM
+    email: bmadriz@mrbotcr.com
+    affiliations:
+      - MrBot Software Solutions, Cartago, Costa Rica
+  - name: Dorrie Main
+    initials: DM
+    orcid: 0000-0002-1162-2724
+    email: dorrie@wsu.edu
+    affiliations:
+      - Department of Horticulture, Washington State University
+    funders: 
+      - USDA NIFA: 2022-51181-38449
   - name: Marco Marsella
     initials: MM
     email: marco.marsella@fao.org
@@ -242,18 +286,22 @@ community:
     affiliations:
       - International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
   - name: Maud Marty
+    initials: MM
+    github: maudmarty
+    orcid: 0009-0001-8764-6466
     email: maud.marty@inrae.fr
     initials: MM
     affiliations:
-      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
-      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
   - name: Célia Michotey
     email: celia.michotey@inrae.fr
     initials: CM
+    github: cmichotey
     orcid: 0000-0003-1877-1703
     affiliations:
-      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
-      - Université Paris-Saclay, INRAE, URGI, Versailles, France
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
   - name: Zachary Miller
     initials: ZM
     email: zrm22@cornell.edu
@@ -275,10 +323,16 @@ community:
     orcid: 0000-0002-9040-8733
     email: cyril.pommier@inrae.fr
     affiliations:
-      - Université Paris-Saclay, INRAE, Bioinformatics, Plant Bioinformatics Facility, Versailles, France
-      - Université Paris-Saclay, INRAE, URGI, Versailles, France
-    funders: 
-      - This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)
+      - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
+  - name: Jean-François Rami
+    initials: JFR
+    github: jframi
+    orcid: 0000-0002-5679-3877
+    email: jean-francois.rami@cirad.fr
+    affiliations:
+      - CIRAD, UMR AGAP Institut, Montpellier, France.
+      - AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France.
   - name: Sebastian Raubach
     initials: SR
     github: sebastian-raubach
@@ -333,6 +387,13 @@ community:
     affiliations:
       - Integrated Breeding Platform
       - Leafnode LLC
+  - name: Anne Tireau
+    initials: AT
+    github: annetireau
+    orcid: 0000-0001-8501-6922
+    email: anne.tireau@inrae.fr
+    affiliations:
+      - MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
   - name: Clarysabel Tovar
     initials: CT
     email: 
