@@ -2,6 +2,7 @@ accessability
 AGAP
 Agosto
 agostof
+AgroIncubator
 Ajay
 aliceboizet
 Andrzej
@@ -33,6 +34,7 @@ customizable
 DArTdb
 DArTView’s
 dataflow
+Dhondt
 Dhungana
 Dorrie
 DSBrAPP
@@ -47,7 +49,7 @@ georeferencing
 GeoTIFF
 GH
 Gigwa’s
-Grzegorz
+grzegorz
 Hok
 IFB
 Institut
@@ -86,7 +88,7 @@ OpenAPI
 Palladino
 pascalneveu
 Pérez
-puthick
+Puthick
 Rami
 Rica
 romil
@@ -101,6 +103,7 @@ SNP
 SSRs
 STABrAPP
 StatGen
+Stijn
 Straße
 sumankumar
 SwaggerHub

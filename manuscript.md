@@ -31,6 +31,7 @@ author-meta:
 - Gouripriya Davuluri
 - Kauê de Sousa
 - Jeremy Destin
+- Stijn Dhondt
 - Ajay Dhungana
 - Bert Droesbeke
 - Manuel Feser
@@ -96,8 +97,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-10" />
   <meta name="citation_publication_date" content="2024-07-10" />
   <meta property="article:published_time" content="2024-07-10" />
-  <meta name="dc.modified" content="2024-07-10T19:53:17+00:00" />
-  <meta property="article:modified_time" content="2024-07-10T19:53:17+00:00" />
+  <meta name="dc.modified" content="2024-07-10T20:14:16+00:00" />
+  <meta property="article:modified_time" content="2024-07-10T20:14:16+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -169,6 +170,9 @@ header-includes: |
   <meta name="citation_author" content="Jeremy Destin" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France" />
+  <meta name="citation_author" content="Stijn Dhondt" />
+  <meta name="citation_author_institution" content="VIB AgroIncubator" />
+  <meta name="citation_author_orcid" content="0000-0003-4402-2191" />
   <meta name="citation_author" content="Ajay Dhungana" />
   <meta name="citation_author_institution" content="Louisiana State University (LSU)" />
   <meta name="citation_author" content="Bert Droesbeke" />
@@ -323,9 +327,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/6cf4226a86749a138fd83c639e964bc83d8d1875/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/6cf4226a86749a138fd83c639e964bc83d8d1875/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/6cf4226a86749a138fd83c639e964bc83d8d1875/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d2c4738ea9a2829770cfc37148a824d4d81e1d6b/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d2c4738ea9a2829770cfc37148a824d4d81e1d6b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d2c4738ea9a2829770cfc37148a824d4d81e1d6b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -347,9 +351,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/6cf4226a86749a138fd83c639e964bc83d8d1875/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/d2c4738ea9a2829770cfc37148a824d4d81e1d6b/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@6cf4226](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/6cf4226a86749a138fd83c639e964bc83d8d1875)
+from [plantbreeding/BrAPI-Manuscript2@d2c4738](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/d2c4738ea9a2829770cfc37148a824d4d81e1d6b)
 on July 10, 2024.
 </em></small>
 
@@ -570,6 +574,15 @@ on July 10, 2024.
   <br>
   <small>
      Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
+  </small>
+
++ **Stijn Dhondt**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0003-4402-2191](https://orcid.org/0000-0003-4402-2191)
+    <br>
+  <small>
+     VIB AgroIncubator
   </small>
 
 + **Ajay Dhungana**
@@ -1585,6 +1598,7 @@ The authors would like to acknowledge the following funding sources:
 + **Gouripriya Davuluri**: Gouripriya has made significant contributions to the AGENT project. 
 + **Kauê de Sousa**: Kauê wrote the section on the ClimMob project, and has made significant contributions to the BrAPI compatibility of the ClimMob project. 
 + **Jeremy Destin**: Jeremy has made significant contributions to the FAIDARE project. 
++ **Stijn Dhondt**: Stijn has made significant contributions to the PIPPA project. 
 + **Ajay Dhungana**: Ajay wrote the section introductions for the Phenotyping, Genotyping, and Germplasm topics.
 + **Bert Droesbeke**: Bert wrote the section on the BrAPI2ISA project, and has made significant contributions to the BrAPI compatibility of the BrAPI2ISA project. 
 + **Manuel Feser**: Manuel wrote the section on the MIRA project, and has made significant contributions to the BrAPI compatibility of the MIRA project. 
