@@ -163,6 +163,12 @@ authors:
     affiliations:
       - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
+  - name: Stijn Dhondt
+    initials: SD
+    orcid: 0000-0003-4402-2191
+    email: stijn.dhondt@vib.be
+    affiliations:
+      - VIB AgroIncubator
   - name: Ajay Dhungana
     initials: AD
     github: GenAjay
