@@ -97,8 +97,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-15" />
   <meta name="citation_publication_date" content="2024-07-15" />
   <meta property="article:published_time" content="2024-07-15" />
-  <meta name="dc.modified" content="2024-07-15T15:58:52+00:00" />
-  <meta property="article:modified_time" content="2024-07-15T15:58:52+00:00" />
+  <meta name="dc.modified" content="2024-07-15T16:32:22+00:00" />
+  <meta property="article:modified_time" content="2024-07-15T16:32:22+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -252,7 +252,7 @@ header-includes: |
   <meta name="citation_author_institution" content="Buckler Lab and Institute for Genomic Diversity, Cornell University" />
   <meta name="citation_author_orcid" content="0000-0002-5454-4527" />
   <meta name="citation_author" content="Iain Milne" />
-  <meta name="citation_author_institution" content="Information and Computational Sciences Department, The James Hutton Institute, Dundee, Scotland" />
+  <meta name="citation_author_institution" content="The James Hutton Institute" />
   <meta name="citation_author_orcid" content="0000-0002-4126-0859" />
   <meta name="citation_author" content="Lukas A. Mueller" />
   <meta name="citation_author_institution" content="The Boyce Thompson Institute" />
@@ -277,7 +277,7 @@ header-includes: |
   <meta name="citation_author_institution" content="AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France." />
   <meta name="citation_author_orcid" content="0000-0002-5679-3877" />
   <meta name="citation_author" content="Sebastian Raubach" />
-  <meta name="citation_author_institution" content="Information and Computational Sciences Department, The James Hutton Institute, Dundee, Scotland" />
+  <meta name="citation_author_institution" content="The James Hutton Institute" />
   <meta name="citation_author_orcid" content="0000-0001-5659-247X" />
   <meta name="citation_author" content="Trevor Rife" />
   <meta name="citation_author_institution" content="Clemson University" />
@@ -297,10 +297,10 @@ header-includes: |
   <meta name="citation_author" content="Romil Mayank Shah" />
   <meta name="citation_author_institution" content="North Carolina State University" />
   <meta name="citation_author" content="Paul Shaw" />
-  <meta name="citation_author_institution" content="Information and Computational Sciences Department, The James Hutton Institute, Dundee, Scotland" />
+  <meta name="citation_author_institution" content="The James Hutton Institute" />
   <meta name="citation_author_orcid" content="0000-0002-0202-1150" />
   <meta name="citation_author" content="Becky Smith" />
-  <meta name="citation_author_institution" content="Information and Computational Sciences Department, The James Hutton Institute, Dundee, Scotland" />
+  <meta name="citation_author_institution" content="The James Hutton Institute" />
   <meta name="citation_author_orcid" content="0000-0002-8968-3383" />
   <meta name="citation_author" content="Nahuel Soldevilla" />
   <meta name="citation_author_institution" content="Integrated Breeding Platform" />
@@ -328,9 +328,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0e79647e3348e2617b2c9665c5b16f558cbeefdf/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0e79647e3348e2617b2c9665c5b16f558cbeefdf/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0e79647e3348e2617b2c9665c5b16f558cbeefdf/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/511faa4c28e126a274c0f733c9fcaab35c0dfe49/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/511faa4c28e126a274c0f733c9fcaab35c0dfe49/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/511faa4c28e126a274c0f733c9fcaab35c0dfe49/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -352,9 +352,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/0e79647e3348e2617b2c9665c5b16f558cbeefdf/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/511faa4c28e126a274c0f733c9fcaab35c0dfe49/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@0e79647](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/0e79647e3348e2617b2c9665c5b16f558cbeefdf)
+from [plantbreeding/BrAPI-Manuscript2@511faa4](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/511faa4c28e126a274c0f733c9fcaab35c0dfe49)
 on July 15, 2024.
 </em></small>
 
@@ -860,7 +860,7 @@ on July 15, 2024.
     [imilne](https://github.com/imilne)
     <br>
   <small>
-     Information and Computational Sciences Department, The James Hutton Institute, Dundee, Scotland
+     The James Hutton Institute
   </small>
 
 + **Lukas A. Mueller**
@@ -949,7 +949,7 @@ on July 15, 2024.
     [sebastian-raubach](https://github.com/sebastian-raubach)
     <br>
   <small>
-     Information and Computational Sciences Department, The James Hutton Institute, Dundee, Scotland
+     The James Hutton Institute
   </small>
 
 + **Trevor Rife**
@@ -1019,7 +1019,7 @@ on July 15, 2024.
     [cardinalb](https://github.com/cardinalb)
     <br>
   <small>
-     Information and Computational Sciences Department, The James Hutton Institute, Dundee, Scotland
+     The James Hutton Institute
   </small>
 
 + **Becky Smith**
@@ -1030,7 +1030,7 @@ on July 15, 2024.
     [Batbaby91](https://github.com/Batbaby91)
     <br>
   <small>
-     Information and Computational Sciences Department, The James Hutton Institute, Dundee, Scotland
+     The James Hutton Institute
   </small>
 
 + **Nahuel Soldevilla**
@@ -1174,19 +1174,25 @@ FAIDARE: Core, Phenotyping, Genotyping, Germplasm Visualization .
 
 ### Phenotyping
 
-<!-- Ajay -->
-Phenotyping is fundamental to plant breeding, providing the accurate, high-quality data needed for downstream analyses and decisions. It goes beyond simple data collection, requiring a thorough understanding of research questions and strategic data gathering to ensure successful outcomes. Effective phenotyping can make or break a research project, underscoring the importance of mastering its techniques. The BrAPI specification supports phenotypic data throughout the entire phenomics and breeding pipeline, from initial collection and standardization to analysis, publication and archiving. The community has developed BrAPI-compatible tools to facilitate early data standardization, efficient storage, and curation of phenotypic data and trait metadata. Additionally, there are ongoing efforts to create tools for managing images and other high-throughput phenotyping techniques, further enhancing the precision and efficiency of plant breeding research.
+<!-- Ajay and Trevor -->
+Phenotyping is fundamental to plant breeding and genetics research, providing the accurate, high-quality data needed for downstream analyses and selection decisions.
+Effective phenotyping requires a thorough understanding of both biological research questions and operational data gathering to ensure successful outcomes.
+Collected data, subsequent analyses, and data visualizations all impact and shape downstream experiments.
+The BrAPI specification supports phenotypic data throughout the entire breeding pipeline, including collection, analyses, publication, and archiving.
+The BrAPI community has developed several BrAPI-compatible tools to facilitate data standardization, efficient storage, and curation of phenotypic data and trait metadata.
+Ongoing development efforts are creating tools to manage images and other high-throughput phenotypic data sources, further enhancing the precision and efficiency of plant breeding research.
+By supporting the accurate and efficient collection and storage of phenotypic data, BrAPI compatible tools simplify the conversion of phenotypes into insights that are necessary to help digitize and boost modern breeding and genetics research programs.
 
 
 #### Field Book
 
 <!-- Trevor and Chaney -->
-Phenotypic data collection underpins scientific crop research and plant breeding. Knowledge gained from collected data and its analysis, alongside data visualizations, inform further phenotypic trials and ideally support research hypotheses. The importance of accuracy and efficiency in the collection of this data as well as the infrastructure to facilitate the flow of data from the field to a knowledge base cannot be underestimated. 
 
-[Field Book](fieldbook.phenoapps.org/) [@doi:10.2135/cropsci2013.08.0579] is an android based mobile app for collecting field data. Historically, gathering data in the field was done with pen and paper, or perhaps some version of a digital spreadsheet. The abundance and prevalence of smart phones has allowed Field Book to enhance data collection. Field Book can create well-formed digital observation records from the moment they are taken. This can improve the efficiency of data collection and reduce human error. 
-
-In 2018, BrAPI was introduced into Field Book, allowing for the automated the flow of data from the mobile app into a central, BrAPI compatible, database server. This workflow allows data collection and storage to be expedited, removing the need of the user to export and transfer data files manually. Since Field Book’s adoption of BrAPI, many community servers have been integrated to simplify data storage. In this work flow, data is collected and stored completely digitally with little-to-no human involvement.
-
+Data from plant breeding and genetics experiments has traditionally been collected using pen and paper, but this approach often results in transcription errors and delayed analysis.
+[Field Book](fieldbook.phenoapps.org/) [@doi:10.2135/cropsci2013.08.0579], a highly-customizable Android app, was developed to help scientists digitize and organize their phenotypic data as measurements are collected.
+This effectively improves data collection speed, reduces errors, and enables larger and more robust breeding populations and data sets. 
+Field Book has added support for BrAPI to streamline data transfer to and from BrAPI-compatible servers.
+Removing the need to manually transfer data files simplifies data exchange between these systems and reduces the opportunities for human error and data loss.
 
 #### GridScore
 
@@ -1571,9 +1577,9 @@ The authors would like to acknowledge the following funding sources:
 + The BrAPI Project is funded by the USDA grant NIFA-DSFAS 2022-67021-37024.
 + Innovation Lab for Crop Improvement Cornell, FFAR
 + The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
-+ This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)      
 + USDA National Institute of Food and Agriculture National Research Support Project 10
 + USDA NIFA: 2022-51181-38449
++ This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)      
 + U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
 + The Bill and Malinda Gates Foundation in cooperation with the Excellence in Breeding Platform of the CGIAR
 + This work was funded by ELIXIR, the research infrastructure for life science data.
@@ -1641,7 +1647,7 @@ The authors would like to acknowledge the following funding sources:
 + **Cyril Pommier**: Cyril wrote the section on the FAIDARE projects, and has made significant contributions to the BrAPI compatibility of the Florilège, FAIDARE, and AGENT projects. Cyril has also made significant contributions to the Germplasm and Phenotyping modules of the BrAPI specification.
 + **Jean-François Rami**: Jean-François wrote the section on the ShinyBrAPPs project, and has made significant contributions to the BrAPI compatibility of the ShinyBrAPPs project. 
 + **Sebastian Raubach**: Sebastian wrote the section on the GridScore and Germinate projects, and has made significant contributions to the BrAPI compatibility of the GridScore, Germinate, and Flapjack projects. 
-+ **Trevor Rife**: Trevor has made significant contributions to the Field Book project. 
++ **Trevor Rife**: Trevor wrote the section on the Field Book project, and has made significant contributions to the BrAPI compatibility of the Field Book project. 
 + **Kelly Robbins**: Kelly is the PI for the BrAPI Project grant, and has supported all technical and scientific aspects of the project.
 + **Mathieu Rouard**: Mathieu wrote the section on the MGIS and GIGWA projects, and has made significant contributions to the BrAPI compatibility of the MGIS and GIGWA projects. 
 + **Joseph Ruff**: Joseph has made significant contributions to the AGENT project. 
