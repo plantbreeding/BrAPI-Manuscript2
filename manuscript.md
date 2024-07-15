@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-07-10'
+date-meta: '2024-07-15'
 author-meta:
 - Peter Selby
 - Rafael Abbeloos
@@ -94,11 +94,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-07-10" />
-  <meta name="citation_publication_date" content="2024-07-10" />
-  <meta property="article:published_time" content="2024-07-10" />
-  <meta name="dc.modified" content="2024-07-10T20:14:16+00:00" />
-  <meta property="article:modified_time" content="2024-07-10T20:14:16+00:00" />
+  <meta name="dc.date" content="2024-07-15" />
+  <meta name="citation_publication_date" content="2024-07-15" />
+  <meta property="article:published_time" content="2024-07-15" />
+  <meta name="dc.modified" content="2024-07-15T15:34:22+00:00" />
+  <meta property="article:modified_time" content="2024-07-15T15:34:22+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -141,6 +141,7 @@ header-includes: |
   <meta name="citation_author_orcid" content="0000-0002-2177-8781" />
   <meta name="citation_author" content="Gabriel Besombes" />
   <meta name="citation_author_institution" content="MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France" />
+  <meta name="citation_author_orcid" content="0009-0004-1359-2145" />
   <meta name="citation_author" content="Alice Boizet" />
   <meta name="citation_author_institution" content="CIRAD, UMR AGAP Institut, Montpellier, France." />
   <meta name="citation_author_institution" content="AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France." />
@@ -327,9 +328,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d2c4738ea9a2829770cfc37148a824d4d81e1d6b/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d2c4738ea9a2829770cfc37148a824d4d81e1d6b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d2c4738ea9a2829770cfc37148a824d4d81e1d6b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/32aae214871d15a6b71edc71f88539f347bb9dc7/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/32aae214871d15a6b71edc71f88539f347bb9dc7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/32aae214871d15a6b71edc71f88539f347bb9dc7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -351,10 +352,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/d2c4738ea9a2829770cfc37148a824d4d81e1d6b/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/32aae214871d15a6b71edc71f88539f347bb9dc7/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@d2c4738](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/d2c4738ea9a2829770cfc37148a824d4d81e1d6b)
-on July 10, 2024.
+from [plantbreeding/BrAPI-Manuscript2@32aae21](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/32aae214871d15a6b71edc71f88539f347bb9dc7)
+on July 15, 2024.
 </em></small>
 
 
@@ -470,6 +471,8 @@ on July 10, 2024.
 
 + **Gabriel Besombes**
   <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0009-0004-1359-2145](https://orcid.org/0009-0004-1359-2145)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [Gabriel-Besombes](https://github.com/Gabriel-Besombes)
     <br>
