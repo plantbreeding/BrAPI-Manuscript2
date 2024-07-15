@@ -97,8 +97,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-15" />
   <meta name="citation_publication_date" content="2024-07-15" />
   <meta property="article:published_time" content="2024-07-15" />
-  <meta name="dc.modified" content="2024-07-15T15:34:22+00:00" />
-  <meta property="article:modified_time" content="2024-07-15T15:34:22+00:00" />
+  <meta name="dc.modified" content="2024-07-15T15:58:52+00:00" />
+  <meta property="article:modified_time" content="2024-07-15T15:58:52+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -328,9 +328,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/32aae214871d15a6b71edc71f88539f347bb9dc7/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/32aae214871d15a6b71edc71f88539f347bb9dc7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/32aae214871d15a6b71edc71f88539f347bb9dc7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0e79647e3348e2617b2c9665c5b16f558cbeefdf/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0e79647e3348e2617b2c9665c5b16f558cbeefdf/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0e79647e3348e2617b2c9665c5b16f558cbeefdf/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -352,9 +352,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/32aae214871d15a6b71edc71f88539f347bb9dc7/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/0e79647e3348e2617b2c9665c5b16f558cbeefdf/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@32aae21](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/32aae214871d15a6b71edc71f88539f347bb9dc7)
+from [plantbreeding/BrAPI-Manuscript2@0e79647](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/0e79647e3348e2617b2c9665c5b16f558cbeefdf)
 on July 15, 2024.
 </em></small>
 
@@ -365,7 +365,7 @@ on July 15, 2024.
 
 
 + **Peter Selby**
-  <br>
+  ^[✉](#correspondence)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0001-7151-4445](https://orcid.org/0000-0001-7151-4445)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
@@ -1101,6 +1101,9 @@ on July 15, 2024.
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/plantbreeding/BrAPI-Manuscript2/issues)
+or email to
+Peter Selby \<ps664@cornell.edu\>.
+
 
 :::
 
