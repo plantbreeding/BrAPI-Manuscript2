@@ -372,7 +372,7 @@ authors:
     orcid: 0000-0002-4126-0859
     email: iain.milne@hutton.ac.uk
     affiliations:
-      - Information and Computational Sciences Department, The James Hutton Institute, Dundee, Scotland
+      - The James Hutton Institute
   - name: Lukas A. Mueller
     initials: LAM
     github: lukasmueller
@@ -435,7 +435,7 @@ authors:
     orcid: 0000-0001-5659-247X
     email: sebastian.raubach@hutton.ac.uk
     affiliations:
-      - Information and Computational Sciences Department, The James Hutton Institute, Dundee, Scotland
+      - The James Hutton Institute
   - name: Trevor Rife
     initials: TR
     github: trife
@@ -485,14 +485,14 @@ authors:
     orcid: 0000-0002-0202-1150
     email: paul.shaw@hutton.ac.uk
     affiliations:
-      - Information and Computational Sciences Department, The James Hutton Institute, Dundee, Scotland
+      - The James Hutton Institute
   - name: Becky Smith
     initials: BS
     github: Batbaby91
     orcid: 0000-0002-8968-3383
     email: becky.smith@hutton.ac.uk
     affiliations:
-      - Information and Computational Sciences Department, The James Hutton Institute, Dundee, Scotland
+      - The James Hutton Institute
   - name: Nahuel Soldevilla
     initials: NS
     email: n.soldevilla@integratedbreeding.net
