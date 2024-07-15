@@ -18,6 +18,7 @@ authors:
       - Cornell University
     funders: 
       - The BrAPI Project is funded by the USDA grant NIFA-DSFAS 2022-67021-37024.
+    corresponding: true
   - name: Rafael Abbeloos
     initials: RA
     github: raabb
