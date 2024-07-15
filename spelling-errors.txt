@@ -34,6 +34,7 @@ customizable
 DArTdb
 DArTView’s
 dataflow
+deployable
 Dhondt
 Dhungana
 Dorrie
@@ -49,7 +50,7 @@ georeferencing
 GeoTIFF
 GH
 Gigwa’s
-Grzegorz
+grzegorz
 Hok
 IFB
 Institut
@@ -88,7 +89,7 @@ OpenAPI
 Palladino
 pascalneveu
 Pérez
-puthick
+Puthick
 Rami
 Rica
 Romil
