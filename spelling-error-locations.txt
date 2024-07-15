@@ -67,6 +67,7 @@ content/05.methods.md:5:OpenAPI
 content/05.methods.md:5:SwaggerHub
 content/05.methods.md:9:comradery
 content/90.back-matter.md:18:FFAR
+content/90.back-matter.md:18:ILCI
 content/90.back-matter.md:33:Florilège
 content/90.back-matter.md:34:Agosto
 content/90.back-matter.md:34:Pérez

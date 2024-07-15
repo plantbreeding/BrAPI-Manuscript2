@@ -97,8 +97,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-15" />
   <meta name="citation_publication_date" content="2024-07-15" />
   <meta property="article:published_time" content="2024-07-15" />
-  <meta name="dc.modified" content="2024-07-15T18:31:39+00:00" />
-  <meta property="article:modified_time" content="2024-07-15T18:31:39+00:00" />
+  <meta name="dc.modified" content="2024-07-15T18:47:53+00:00" />
+  <meta property="article:modified_time" content="2024-07-15T18:47:53+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -328,9 +328,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d00841fc47e8764c25a9c65e15c4d72427b78a96/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d00841fc47e8764c25a9c65e15c4d72427b78a96/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/d00841fc47e8764c25a9c65e15c4d72427b78a96/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/982057ee7978b2e4e83a9452e1bdb9cd6a851231/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/982057ee7978b2e4e83a9452e1bdb9cd6a851231/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/982057ee7978b2e4e83a9452e1bdb9cd6a851231/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -352,9 +352,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/d00841fc47e8764c25a9c65e15c4d72427b78a96/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/982057ee7978b2e4e83a9452e1bdb9cd6a851231/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@d00841f](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/d00841fc47e8764c25a9c65e15c4d72427b78a96)
+from [plantbreeding/BrAPI-Manuscript2@982057e](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/982057ee7978b2e4e83a9452e1bdb9cd6a851231)
 on July 15, 2024.
 </em></small>
 
@@ -970,7 +970,7 @@ on July 15, 2024.
     <br>
   <small>
      Cornell University
-     · Funded by The Bill and Malinda Gates Foundation in cooperation with the Excellence in Breeding Platform of the CGIAR
+     · Funded by The BrAPI Project is funded by the USDA grant NIFA-DSFAS 2022-67021-37024.
   </small>
 
 + **Mathieu Rouard**
@@ -1217,7 +1217,7 @@ During a crop trial, all farmer-collected data is stored in ClimMob. When data c
 
 #### ImageBreed
 
-[ImageBreed](https://imagebreed.org/) [@doi:10.1002/ppj2.20004] is an image collection pipeline tool to support regular use of UAVs and UGVs. High-throughput phenotyping has been gaining significant traction lately as a way to collect lots of data very quickly. Image collection from unmanned aerial and ground vehicles (UAVs and UGVs) are a great way to collect a lot of raw data all at once, then analyze it later. 
+[ImageBreed](https://imagebreed.org/) [@doi:10.1002/ppj2.20004] is an image collection pipeline tool to support regular use of UAVs and UGVs. High-throughput phenotyping has been gaining significant traction lately as a way to collect large amounts of data very quickly. Image collection from unmanned aerial and ground vehicles (UAVs and UGVs) are a great way to collect a lot of raw data all at once, then analyze it later. 
 
 When the raw images have been processed through the standardization pipelines in ImageBreed, useful phenotypes can be extracted from the images. The BrAPI standard is used to push these phenotypes back to a central breeding database where they can be analyzed with other data. In addition to this, ImageBreed has the ability to use BrAPI to upload the raw images to the central breeding database, or any other BrAPI compatible long term storage service. In the current version of the standard (V2.1), the BrAPI data models for images are rudimentary, but effective. The ImageBreed team has put in some work into enhancing the BrAPI image data standards, collaborating with others in the community. 
 
@@ -1441,7 +1441,7 @@ The tools developed by the BrAPI community can pull in data from multiple BrAPI 
 #### G-Crunch
 
 <!-- Josh -->
-G-Crunch is an upcoming user-facing analysis tool that attempts to fill the space of simple, user driven analytics requests, with a generic user interface and the ability to swap out data sources and analysis tools. G-Crunch hopes to streamline repeatable, debuggable, simple analytic requests and results.
+G-Crunch is an upcoming user-facing analysis tool that integrates genomic and phenotypic data to fulfill the need for simple, user driven analytics requests. It includes a generic user interface and the ability to swap out data sources and analysis tools. The G-Crunch team hopes to streamline repeatable, debuggable, simple analytic requests and results.
 
 G-Crunch, as a tool, couldn't feasibly exist without BrAPI. The support of BrAPI interfaces allows G-Crunch to use one unified request method, and adapt to the user's (BrAPI-compliant) existing network of tools. This lowers the barrier to entry for adoption, and makes analysis pipelines easily repeatable. 
 
@@ -1532,7 +1532,7 @@ The BrAPI technical specification document is meant to be read and used by softw
 
 ### Looking Ahead
 
-The BrAPI specification will continue a controlled and necessary growth. It will enable more use cases and new types of data that might include newer scientific techniques and technologies. There will be careful evaluation the relevance of using REST web service approaches, and in particular BrAPI, for things like drone imaging data, spectroscopy, LIDAR, metabolomics, transcriptomics, high-throughput phenotyping, pan genomes, and machine learning analysis. All of these technologies can open new avenues for research and development of new crop varieties. All of these technologies also generate more data, and require data sharing between different software applications and data repositories. The BrAPI project leadership and community is committed to building the standards to support these new use cases as they arrive and become accepted by the scientific community. In fact, small groups within the BrAPI community have already start building generic data models and proposed communication standards for many of the technologies listed above. These community efforts will eventually become part of the BrAPI standard in a future version of the specification document. 
+The BrAPI specification will continue a controlled and necessary growth. It will enable more use cases and new types of data that might include newer scientific techniques and technologies. There will be careful evaluation of the relevance of using REST web service approaches, and in particular BrAPI, for things like drone imaging data, spectroscopy, LIDAR, metabolomics, transcriptomics, high-throughput phenotyping, pan genomes, and machine learning analysis. All of these technologies can open new avenues for research and development of new crop varieties. However, they will also generate more data, more types of data, and require data sharing between different software applications and data repositories. The BrAPI project leadership and community is committed to building the standards to support these new use cases as they arrive and become accepted by the scientific community. In fact, small groups within the BrAPI community have already start building generic data models and proposed communication standards for many of the technologies listed above. These community efforts will eventually become part of the BrAPI standard in a future version of the specification document. 
 
 Expanding the BrAPI specification is important for the community, however it is just as important not to reinvent or compete with existing functional standards. Additions to the BrAPI specification are reviewed thoroughly by the community to make sure BrAPI is compliant with existing standards and data structures. For example, the community has requested compliance with the GFF3 standard for genomic data and the GeoTIFF standard for aerial image data. Pieces of these existing popular data structures might be integrated into the overall BrAPI standard documentation. In some cases, BrAPI will only reference other standards instead of including them in the specification. For example, there have been community discussions around developing connections with the NOAA CDO standard for weather data, or the Galaxy Analytics API for analytics pipeline controls and information. These standards are perfectly adequate on their own, recreating them in the BrAPI standard would be redundant and outside the main scope of the project.
 
@@ -1571,7 +1571,7 @@ The authors declare no competing interests.
 The authors would like to acknowledge the following funding sources:
 
 + The BrAPI Project is funded by the USDA grant NIFA-DSFAS 2022-67021-37024.
-+ Innovation Lab for Crop Improvement Cornell, FFAR
++ Innovation Lab for Crop Improvement Cornell, ILCI: 7200AA19LE00005, FFAR: CA20-SS-0000000103
 + The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
 + USDA National Institute of Food and Agriculture National Research Support Project 10
 + USDA NIFA: 2022-51181-38449

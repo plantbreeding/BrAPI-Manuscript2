@@ -50,9 +50,10 @@ georeferencing
 GeoTIFF
 GH
 Gigwa’s
-grzegorz
+Grzegorz
 Hok
 IFB
+ILCI
 Institut
 INTERTRYP
 IRD
@@ -89,10 +90,10 @@ OpenAPI
 Palladino
 pascalneveu
 Pérez
-Puthick
+puthick
 Rami
 Rica
-Romil
+romil
 RShiny
 SCT
 SCYarnes
