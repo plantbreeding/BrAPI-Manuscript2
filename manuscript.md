@@ -97,8 +97,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-17" />
   <meta name="citation_publication_date" content="2024-07-17" />
   <meta property="article:published_time" content="2024-07-17" />
-  <meta name="dc.modified" content="2024-07-17T17:52:38+00:00" />
-  <meta property="article:modified_time" content="2024-07-17T17:52:38+00:00" />
+  <meta name="dc.modified" content="2024-07-17T19:28:45+00:00" />
+  <meta property="article:modified_time" content="2024-07-17T19:28:45+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -328,9 +328,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/26c4eec2fbed9cad8920acee8889742a388e83b3/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/26c4eec2fbed9cad8920acee8889742a388e83b3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/26c4eec2fbed9cad8920acee8889742a388e83b3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/5a9cf7ed6278bbe38a59f9345d0de9642fc6427e/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/5a9cf7ed6278bbe38a59f9345d0de9642fc6427e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/5a9cf7ed6278bbe38a59f9345d0de9642fc6427e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -352,9 +352,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/26c4eec2fbed9cad8920acee8889742a388e83b3/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/5a9cf7ed6278bbe38a59f9345d0de9642fc6427e/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@26c4eec](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/26c4eec2fbed9cad8920acee8889742a388e83b3)
+from [plantbreeding/BrAPI-Manuscript2@5a9cf7e](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/5a9cf7ed6278bbe38a59f9345d0de9642fc6427e)
 on July 17, 2024.
 </em></small>
 
@@ -1113,7 +1113,7 @@ Peter Selby \<ps664@cornell.edu\>.
 Population growth and climate change require extraordinary efforts to increase efficiency in breeding programs around the world. In the last few years, new phenotyping techniques, genomics technologies, and genetic approaches such as genomic prediction have provided a boost in genetic gain in breeding, but have also created a flood of data that needs careful management to be fully harnessed. In particular, data integration is a challenge due to the multiple types of data being handled by a variety of disparate and dispersed systems. 
 The Breeding API (BrAPI) project is an international, grass-roots effort to enable more efficient data management by enabling interoperability among research databases and tools, using a standardized RESTful web service API specification for exchanging breeding related data.
 This community driven standard is software agnostic and free to be used by anyone interested in plant breeding, genetics and agronomy data management, including trial, germplasm, phenotyping, and genotyping data management.
-This manuscript presents the current version of BrAPI, the substantial growth of the project, and a wide variety of open source plant genetics research tools with active BrAPI implementations.
+This manuscript presents the substantial growth of the project, a wide variety of open source breeding research tools with active BrAPI implementations, and an overview about the current version of BrAPI.
 
 
 ## Introduction
@@ -1227,7 +1227,7 @@ When the raw images have been processed through the standardization pipelines in
 <!-- Isabelle -->
 [PHIS](http://www.phis.inrae.fr/) [@doi:10.1111/nph.15385], the Hybrid Phenotyping Information System, is an ontology-driven information system based on semantic web technologies, based on the [OpenSILEX](https://github.com/OpenSILEX/) framework. PHIS is deployed in several field and greenhouse platforms of the French national [PHENOME](https://www.phenome-emphasis.fr/) and European [EMPHASIS](https://emphasis.plant-phenotyping.eu/) infrastructures. It manages and collects data from basic phenotyping and high throughput phenotyping experiments on a day to day basis. PHIS unambiguously identifies all the objects and traits in an experiment, and establishes their types and relationships via ontologies and semantics.
 
-PHIS has been designed to be BrAPI-compliant. PHIS adheres to the standards and protocols specified by BrAPI and implements various services aligning with the BrAPI standards, encompassing the Core, Phenotyping, and Germplasm modules. This enables integration and compatibility with BrAPI-compliant systems and platforms, such as OLGA, a genebank accessions management system, to retrieve accession information. This prerequisite served as the basis for formalizing the data model, while also facilitating compatibility with other standards, such as the Minimal Information About a Plant Phenotyping Experiment ([MIAPPE](https://www.miappe.org/) [@doi:10.1111/nph.16544]). By integrating BrAPI requirements into its structure, PHIS not only meets the standards of the phenotyping field, but also strengthens its capacity for interoperability and effective collaboration in the wider context of plant breeding and related fields. The fact that data within a PHIS instance can be queried through BrAPI services enables indexing of PHIS in the [FAIDARE](https://urgi.versailles.inrae.fr/faidare/) data portal [@https://hal.inrae.fr/hal-04638310].
+PHIS has been designed to be BrAPI-compliant. PHIS adheres to the standards and protocols specified by BrAPI and implements various services aligning with the BrAPI standards, encompassing the Core, Phenotyping, and Germplasm modules. This enables integration and compatibility with BrAPI-compliant systems and platforms, such as OLGA, a genebank accessions management system, to retrieve accession information. This prerequisite served as the basis for formalizing the data model, while also facilitating compatibility with other standards, such as the Minimal Information About a Plant Phenotyping Experiment ([MIAPPE](https://www.miappe.org/) [@doi:10.1111/nph.16544]). By integrating BrAPI requirements into its structure, PHIS not only meets the standards of the phenotyping field, but also strengthens its capacity for interoperability and effective collaboration in the wider context of plant breeding and related fields. The fact that data within a PHIS instance can be queried through BrAPI services enables indexing of PHIS in the [FAIDARE](https://urgi.versailles.inrae.fr/faidare/) data portal [@https://hal.inrae.fr/hal-04425516].
 
 Furthermore, as PHIS offers BrAPI-compliant Web Services, it simplifies the integration and data exchange with other European information systems that handle phenotyping data. The adhesion to BrAPI standards ensures a common interface and compatibility, facilitating communication and collaboration between PHIS and other systems in the European context. This interoperability not only eases data sharing, but also promotes a more coherent and efficient approach to the management and use of phenotyping data on various platforms and research initiatives within the European scientific community.
 
@@ -1237,7 +1237,7 @@ Furthermore, as PHIS offers BrAPI-compliant Web Services, it simplifies the inte
 <!-- Rafael -->
 [PIPPA](https://pippa.psb.ugent.be) [@https://pippa.psb.ugent.be] is a data management system used for collecting data from the [WIWAM](https://www.wiwam.be/) [@https://www.wiwam.be] range of automated high throughput phenotyping platforms. These platforms have been deployed at different research institutes and commercial breeders across Europe. They can be setup in a variety of configurations with different types of equipment including weighing scales, cameras, and environment sensors. The software features a web interface with functionality for setting up new experiments, planning imaging and irrigation treatments, linking metadata to pots (genotype, growth media, manual treatments), importing data, exporting data, and visualizing data. It also supports the integration of image analysis scripts and connections to a compute cluster for job submission.
 
-To share the phenotype data of the experiments linked to publications, an implementation of BrAPI v1.3 was developed which allowed read only access to the data in the BrAPI standardized format. This server was registered on [FAIDARE](https://urgi.versailles.inrae.fr/faidare/) [@https://hal.inrae.fr/hal-04638310] which allows the data to be found alongside data from other BrAPI compatible repositories.
+To share the phenotype data of the experiments linked to publications, an implementation of BrAPI v1.3 was developed which allowed read only access to the data in the BrAPI standardized format. This server was registered on [FAIDARE](https://urgi.versailles.inrae.fr/faidare/) [@https://hal.inrae.fr/hal-04425516] which allows the data to be found alongside data from other BrAPI compatible repositories.
 
 As the BrAPI ecosystem has matured, it has created a clear path for the further development of PIPPA. The BrAPI specification demonstrates how to share data in a manner consistent with the FAIR principles, [@doi:10.1038/sdata.2016.18] which are becoming best practices in plant research data management. The BrAPI technical standard, in combination with the [MIAPPE](https://www.miappe.org/) [@doi:10.1111/nph.16544] scientific standard, have served as guidelines in the current development effort of the PIPPA project. This development is focused on delivering a public BrAPI v2.1 endpoint and making more high throughput datasets publicly available via BrAPI.
 
@@ -1405,16 +1405,14 @@ The BrAPI interface is crucial for Breedbase. Breedbase uses BrAPI to connect wi
 
 DeltaBreed users need not be aware of BrAPI or the specifics of underlying applications but will notice that BrAPI interoperability reduces the need for human-mediated file transfers and data manipulation. Field Book users, for example, can connect to their DeltaBreed program, authenticate, and pull studies and traits directly from DeltaBreed to Field Book on their data collection device. The subsequent step of pushing observations from Field Book to DeltaBreed is straightforward via BrAPI, but is pending implementation until observation transaction handling is improved, intentional and inadvertent repeated measures are differentiated, and a data staging area is implemented for quality control.
 
-Breeding Insight integrated several BrAPI applications to support 2021 phenotypic data collection by USDA-ARS blueberry breeders. DeltaBreed was used to create traits in Breedbase, and Field Book was used to pull studies and traits from Breedbase. The workflow also permitted users to push Field Book observations back to Breedbase via BrAPI. This effort served as a successful proof of concept for multi-application BrAPI integration, but highlighted limitations to the process of accepting BrAPI observations from Field Book. The Breeding Insight team is actively working with the rest of the BrAPI community to correct these limitations in future versions of the specification. 
-
 <!-- Submission is expected July 2024. We may need to trim this aspirational list down to reality in final edits.-->
-DeltaBreed is integrated with many other BrAPI community projects and tools. There is a BrAPI enabled connection, either in development or production, with all of the following tools: [BrAPI Java Test Server](https://test-server.brapi.org/brapi/v2/), [BreedBase](https://breedbase.org/), [Field Book](https://play.google.com/store/apps/details?id=com.fieldbook.tracker), [Gigwa](https://gigwa.southgreen.fr/gigwa/), [QBMS](https://icarda-git.github.io/QBMS), [Mr Bean](https://github.com/AparicioJohan/MrBeanApp), [Helium](https://helium.hutton.ac.uk/#/) and the [Pedigree Viewer](https://github.com/solgenomics/BrAPI-Pedigree-Viewer) BrAPP. 
+DeltaBreed is integrated with at least eight other BrAPI community tools, and plans to integrate with several more as the project continues. There is a BrAPI enabled connection, either in development or production, with all of the following tools: [BrAPI Java Test Server](https://test-server.brapi.org/brapi/v2/), [BreedBase](https://breedbase.org/), [Field Book](https://play.google.com/store/apps/details?id=com.fieldbook.tracker), [Gigwa](https://gigwa.southgreen.fr/gigwa/), [QBMS](https://icarda-git.github.io/QBMS), [Mr Bean](https://github.com/AparicioJohan/MrBeanApp), [Helium](https://helium.hutton.ac.uk/#/) and the [Pedigree Viewer](https://github.com/solgenomics/BrAPI-Pedigree-Viewer) BrAPP. 
 
 
 #### FAIDARE
 
 <!-- Cyril P, first draft-->
-[FAIDARE](https://urgi.versailles.inrae.fr/faidare/) [@https://hal.inrae.fr/hal-04638310] is a data discovery portal providing a biologist friendly search system over a global federation of 40 plant research databases at the time of writing. It allows users to identify data resources using a full text search approach combined with domain specific filters. Each search result contains a link back to the original database for visualization, analysis, and download. The indexed data types are very broad and include genomic features, selected bibliography, QTL, markers, genetic variation studies, phenomic studies, and plant genetic resources. This inclusiveness is achieved thanks to a two stage indexation data model. The first index, more generic, provides basic search functionalities and relies on five fields: name, link back URL, data type, species, and exhaustive description. To provide more advanced filtering, the second stage indexation mechanism takes advantage of BrAPI endpoints to get more detailed metadata on germplasm, genotyping studies and phenotyping studies. 
+[FAIDARE](https://urgi.versailles.inrae.fr/faidare/) [@https://hal.inrae.fr/hal-04425516] is a data discovery portal providing a biologist friendly search system over a global federation of 40 plant research databases at the time of writing. It allows users to identify data resources using a full text search approach combined with domain specific filters. Each search result contains a link back to the original database for visualization, analysis, and download. The indexed data types are very broad and include genomic features, selected bibliography, QTL, markers, genetic variation studies, phenomic studies, and plant genetic resources. This inclusiveness is achieved thanks to a two stage indexation data model. The first index, more generic, provides basic search functionalities and relies on five fields: name, link back URL, data type, species, and exhaustive description. To provide more advanced filtering, the second stage indexation mechanism takes advantage of BrAPI endpoints to get more detailed metadata on germplasm, genotyping studies and phenotyping studies. 
 
 The indexation mechanism relies on a [public software package](https://github.com/elixir-europe/plant-brapi-etl-faidare) that allows data resource managers to request the indexation of their database. This BrAPI client is able to extract data from any BrAPI 1.3 and 1.2 endpoint. The development of BrAPI 2.x indexation will be initiated in 2025. Since not all databases are willing to implement BrAPI endpoints, it is possible to generate metadata as static BrAPI compliant JSON files, using the BrAPI standard as a file exchange format.
 
