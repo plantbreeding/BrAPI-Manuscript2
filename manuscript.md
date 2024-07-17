@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-07-15'
+date-meta: '2024-07-17'
 author-meta:
 - Peter Selby
 - Rafael Abbeloos
@@ -94,11 +94,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-07-15" />
-  <meta name="citation_publication_date" content="2024-07-15" />
-  <meta property="article:published_time" content="2024-07-15" />
-  <meta name="dc.modified" content="2024-07-15T18:47:53+00:00" />
-  <meta property="article:modified_time" content="2024-07-15T18:47:53+00:00" />
+  <meta name="dc.date" content="2024-07-17" />
+  <meta name="citation_publication_date" content="2024-07-17" />
+  <meta property="article:published_time" content="2024-07-17" />
+  <meta name="dc.modified" content="2024-07-17T00:27:17+00:00" />
+  <meta property="article:modified_time" content="2024-07-17T00:27:17+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -328,9 +328,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/982057ee7978b2e4e83a9452e1bdb9cd6a851231/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/982057ee7978b2e4e83a9452e1bdb9cd6a851231/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/982057ee7978b2e4e83a9452e1bdb9cd6a851231/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/057055eaaf87cffb90552155e4fbd8beee8833de/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/057055eaaf87cffb90552155e4fbd8beee8833de/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/057055eaaf87cffb90552155e4fbd8beee8833de/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -352,10 +352,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/982057ee7978b2e4e83a9452e1bdb9cd6a851231/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/057055eaaf87cffb90552155e4fbd8beee8833de/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@982057e](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/982057ee7978b2e4e83a9452e1bdb9cd6a851231)
-on July 15, 2024.
+from [plantbreeding/BrAPI-Manuscript2@057055e](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/057055eaaf87cffb90552155e4fbd8beee8833de)
+on July 17, 2024.
 </em></small>
 
 
@@ -1375,7 +1375,7 @@ While specialty data management is important for some use cases, often breeders 
 #### BIMS
 
 <!-- Sook -->
-[BIMS](https://wwww.breedwithbims.org) (Breeding Information Management System) [@doi:10.1093/database/baab054] is a free, secure, and online breeding management system which allows breeders to store, manage, archive, and analyze their private breeding program data. BIMS enables individual breeders to have complete control of their own breeding data along with access to tools such as data import/export, data analysis, and data archiving for their germplasm, phenotype, genotype, and image data. BIMS is currently implemented in five community databases, the Genome Database for Rosaceae [@doi:10.1093/nar/gky1000], CottonGEN [@doi:10.3390/plants10122805], the Citrus Genome Database, the Pulse Crop Database, and the Genome Database for Vaccinium. BIMS in these five community databases enables individual breeders to import publicly available data so that they can utilize public data in their breeding program. BIMS is also implemented in the public database [breedwithbims.org](https://wwww.breedwithbims.org) that any crop breeder can use.
+The [Breeding Information Management System (BIMS)](https://wwww.breedwithbims.org) [@doi:10.1093/database/baab054] is a free, secure, and online breeding management system which allows breeders to store, manage, archive, and analyze their private breeding program data. BIMS enables individual breeders to have complete control of their own breeding data along with access to tools such as data import/export, data analysis, and data archiving for their germplasm, phenotype, genotype, and image data. BIMS is currently implemented in five community databases, the Genome Database for Rosaceae [@doi:10.1093/nar/gky1000], CottonGEN [@doi:10.3390/plants10122805], the Citrus Genome Database, the Pulse Crop Database, and the Genome Database for Vaccinium. BIMS in these five community databases enables individual breeders to import publicly available data so that they can utilize public data in their breeding program. BIMS is also implemented in the public database [breedwithbims.org](https://wwww.breedwithbims.org) that any crop breeder can use.
 
 Right now, BIMS primarily utilizes BrAPI to connect with the Field Book Android App [@doi:10.2135/cropsci2013.08.0579], enabling seamless data transfer between BIMS and the app. Data transfer through BrAPI between BIMS and other resources such as BreedBase[@doi:10.1093/g3journal/jkac078], GIGWA[@doi:10.1093/gigascience/giz051], and Breeder Genomics Hub is on the way. Hopefully, the BIMS development team can easily reuse some of the solved use cases and workflows created by others in the BrAPI community.
 
@@ -1466,7 +1466,7 @@ Mr.Bean boasts flexibility in importing different file types, yet for users mana
 #### SCT
 
 <!-- Keo -->
-The [Sugarcane Crossing Tool](https://github.com/USDA-ARS-GBRU/SugarcaneCrossingTool) (SCT) is a lightweight RShiny dashboard application designed to receive, process, and visualize data from a linked BreedBase [@doi:10.1093/g3journal/jkac078] instance. This application is being developed collaboratively with members of the [Sugarcane Integrated Breeding System](https://www.amscl.org/sugarcane-integrated-breeding-system/), who have advocated for an application that assists them in designing crosses based on queried information from a list of available accessions. By leveraging existing community resources, the team has been able to develop a simple, BrAPI-enabled, application without possessing extensive programming knowledge or experience. The SCT is presented as an inspiration for similarly positioned scientists to consider developing custom applications for specific tasks. 
+The [Sugarcane Crossing Tool (SCT)](https://github.com/USDA-ARS-GBRU/SugarcaneCrossingTool) is a lightweight R-Shiny dashboard application designed to receive, process, and visualize data from a linked BreedBase [@doi:10.1093/g3journal/jkac078] instance. This application is being developed collaboratively with members of the [Sugarcane Integrated Breeding System](https://www.amscl.org/sugarcane-integrated-breeding-system/), who have advocated for an application that assists them in designing crosses based on queried information from a list of available accessions. By leveraging existing community resources, the team has been able to develop a simple, BrAPI-enabled, application without possessing extensive programming knowledge or experience. The SCT is presented as an inspiration for similarly positioned scientists to consider developing custom applications for specific tasks. 
 
 <!-- Add this sentence if the repository becomes public -->
 <!-- The modularized, open source code is available in a [GitHub repository](https://github.com/USDA-ARS-GBRU/SugarcaneCrossingTool) for community reference and reuse.  -->
@@ -1476,9 +1476,9 @@ The crossing tool utilizes a modified version of the [BrAPI-R](https://github.co
 
 #### ShinyBrAPPs
 
-Data management systems are generic and robust centralized applications, with a large community of users, long term development cycles and release plans. BrAPI compliance offers these systems the opportunity to add functionalities in a modular way through the development of external plugin applications that can quickly fulfill  specific needs of a group of users. [R-Shiny](https://shiny.posit.co/) is a R-package that opens the possibility to develop rich and productive interactive web applications to R users and developers. As such it allows user communities to quickly prototype and produce applications that are finely tailored to their needs, thus improving adoption and daily use of data management systems. The Breeding Management System (BMS) of the IBP and Gigwa are BrAPI compliant and are being widely used by breeding programs, including national breeding programs in Africa. CIRAD and the IBP teams have been working together as part of the [IAVAO](https://www.iavao.org/) breeders community to develop the Shiny-BrAPPs, a set of R-Shiny applications using BrAPI as a core technology for data exchange. These applications are connected to BMS and/or Gigwa and provide tools for specific use cases. So far, four applications have been developed covering the fields of trial data quality control, single trial statistical analysis, breeding decision support, and raw genotyping data visual inspection.
+The [ShinyBrAPPs](https://github.com/IntegratedBreedingPlatform/ShinyBrAPPs/) code repository contains a number of useful tools, built using the[R-Shiny](https://shiny.posit.co/) framework and the [BrAPI R](https://github.com/mverouden/brapir-v2) open source library. The R-Shiny framework allows user communities to quickly prototype and produce applications that are finely tailored to their needs, thus improving adoption and daily use of data management systems. An international collaboration of developers from CIRAD and the IBP have been working together as part of the [IAVAO](https://www.iavao.org/) breeders community to develop these ShinyBrAPPs, in support of national breeding programs in western Africa. These applications are typically connected to BMS and/or Gigwa and provide tools for specific use cases. BrAPI compliance offers these systems the opportunity to add functionalities in a modular way through the development of external plugin applications that can quickly fulfill specific needs for this group of breeders and scientists.
 
-The "BMS trial data explorer" retrieves data from a single multi-location trial and displays data counts and summary boxplot for all variables measured in different studies. It also provides an interactive distribution plot to easily select observations that require curation and a report of candidate issues that needs to be addressed by the breeder. The "STABrAPP" tool is an application for single trial mixed model analysis. It basically provides a GUI to the [StatGen-STA](https://biometris.github.io/statgenSTA/) R package. The "DSBrAPP" tool is a decision support tool helping breeders to select germplasm according to their various characteristics and save this germplasm list into BMS. These first three apps are grouped into a single repository ([ShinyBrAPPs](https://github.com/IntegratedBreedingPlatform/ShinyBrAPPs/)) with modular code shared across applications and make use of the [brapir-v1](https://github.com/mverouden/brapir-v1) and [brapir-v2](https://github.com/mverouden/brapir-v2) R packages. Finally, the "[snpclust](https://github.com/jframi/snpclust)" tool enables a user to check and manually correct the clustering of fluorescence based SNP genotyping data. 
+So far, four applications have been developed covering the fields of trial data quality control, single trial statistical analysis, breeding decision support, and raw genotyping data visual inspection. The "BMS trial data explorer" retrieves data from a single multi-location trial and displays data counts and summary box-plot for all variables measured in different studies. It also provides an interactive distribution plot to easily select observations that require curation and a report of candidate issues that needs to be addressed by the breeder. The "STABrAPP" tool is an application for single trial mixed model analysis. It basically provides a GUI to the [StatGen-STA](https://biometris.github.io/statgenSTA/) R package. The "DSBrAPP" tool is a decision support tool helping breeders to select germplasm according to their various characteristics and save this germplasm list into BMS. Finally, the "[snpclust](https://github.com/jframi/snpclust)" tool enables a user to check and manually correct the clustering of fluorescence based SNP genotyping data. 
 
 
 ### General Infrastructure 
@@ -1492,7 +1492,7 @@ Adopting BrAPI compatibility into an existing system can be difficult sometimes.
 [BrAPIMapper](https://github.com/plantbreeding/BrAPIMapper) is a full BrAPI implementation designed to be a convenient wrapper for any breeding related data source. BrAPIMapper is provided as a Docker application that can connect to a variety of external data sources including mySQL or PostgreSQL databases, generic REST services, flat files (XML, JSON, CSV/TSV/GFF3/VCF, YAML), or any combination of these. It provides an administration user interface to map BrAPI data models to external data sources. The interface allows administrators to select the BrAPI specification versions to use and which endpoints to enable. Data mapping configuration import and export features simplify upgrades to future BrAPI versions; administrators only have to map missing fields or make minor adjustments. BrAPIMapper supports the primary BrAPI features including paging, deferred search results, user lists, and authentication. Access restrictions to specific endpoints can be managed through the administration interface as well. This tool aims to accelerate BrAPI services deployment while ensuring specification compliance. 
 
 
-#### BrAPI2ISA
+#### MIRA and BrAPI2ISA
 
 <!-- Manuel & Bert -->
 Since the release of BrAPI 1.3, efforts have been made to incorporate support for the [MIAPPE](https://www.miappe.org/) (Minimal Information About a Plant Phenotyping Experiment) [@doi:10.1111/nph.16544] standard into the specification, achieving full compatibility in BrAPI 2.0. Consequently, BrAPI now includes all attributes necessary for MIAPPE compliance, adhering to standardized descriptions in accordance with MIAPPE guidelines. In some communities and projects, phenotyping data and metadata are archived and published as structured ISA-Tab files, validated using the [MIAPPE ISA configuration](https://github.com/ELIXIR-Belgium/isatab-validation) [@doi:10.1038/ng.1054]. Although ISA-Tab is easy to read for non-technical experts due to its file-based approach, it lacks programmatic accessibility, particularly for web applications. 
