@@ -97,8 +97,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-17" />
   <meta name="citation_publication_date" content="2024-07-17" />
   <meta property="article:published_time" content="2024-07-17" />
-  <meta name="dc.modified" content="2024-07-17T17:23:17+00:00" />
-  <meta property="article:modified_time" content="2024-07-17T17:23:17+00:00" />
+  <meta name="dc.modified" content="2024-07-17T17:52:38+00:00" />
+  <meta property="article:modified_time" content="2024-07-17T17:52:38+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -328,9 +328,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e637fd19f9b9b3ca1f93ac23903a2304c2d0c92d/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e637fd19f9b9b3ca1f93ac23903a2304c2d0c92d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e637fd19f9b9b3ca1f93ac23903a2304c2d0c92d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/26c4eec2fbed9cad8920acee8889742a388e83b3/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/26c4eec2fbed9cad8920acee8889742a388e83b3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/26c4eec2fbed9cad8920acee8889742a388e83b3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -352,9 +352,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/e637fd19f9b9b3ca1f93ac23903a2304c2d0c92d/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/26c4eec2fbed9cad8920acee8889742a388e83b3/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@e637fd1](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/e637fd19f9b9b3ca1f93ac23903a2304c2d0c92d)
+from [plantbreeding/BrAPI-Manuscript2@26c4eec](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/26c4eec2fbed9cad8920acee8889742a388e83b3)
 on July 17, 2024.
 </em></small>
 
