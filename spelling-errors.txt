@@ -48,7 +48,7 @@ georeferencing
 GeoTIFF
 GH
 Gigwa’s
-Grzegorz
+grzegorz
 Hok
 IFB
 ILCI
@@ -91,7 +91,7 @@ Pérez
 puthick
 Rami
 Rica
-Romil
+romil
 SCT
 SCYarnes
 Sempéré
