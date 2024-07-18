@@ -27,5 +27,6 @@ If you would like to be recognized as a co-author, please add your details to th
 + [Markdown Formatting Cheat Sheet](content/formatting_help)
 + [HTML manuscript](https://plantbreeding.github.io/BrAPI-Manuscript2/)
 + [PDF manuscript](https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf)
++ [MS DOCX manuscript](https://github.com/plantbreeding/BrAPI-Manuscript2/raw/output/manuscript.docx)
 + [Manubot README](Manubot-README.md)
 + [Manubot Usage Instructions](USAGE.md)
