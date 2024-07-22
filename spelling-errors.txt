@@ -17,6 +17,7 @@ Berlinstraße
 Besombes
 BioinfOmics
 Boizet
+boxplot
 breedwithbims
 Cartago
 CDO
@@ -89,9 +90,11 @@ Palladino
 pascalneveu
 Pérez
 puthick
+raincloud
 Rami
 Rica
-romil
+Romil
+scatterplot
 SCT
 SCYarnes
 Sempéré

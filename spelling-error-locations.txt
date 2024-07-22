@@ -54,6 +54,9 @@ content/03.05.05.ShinyBrAPPs.md:5:SNP
 content/03.05.05.ShinyBrAPPs.md:5:STABrAPP
 content/03.05.05.ShinyBrAPPs.md:5:StatGen
 content/03.06.02.MIAPPE.md:6:deployable
+content/03.06.03.Zendro.md:10:boxplot
+content/03.06.03.Zendro.md:10:raincloud
+content/03.06.03.Zendro.md:10:scatterplot
 content/04.discussion.md:21:CDO
 content/04.discussion.md:21:GeoTIFF
 content/04.discussion.md:21:NOAA
