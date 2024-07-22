@@ -247,6 +247,13 @@ authors:
     corresponding: false
     affiliations:
       - Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany
+  - name: Jenna Hershberger
+    initials: JH
+    github: jmh579
+    orcid: 0000-0002-3147-6867
+    email: jmhersh@clemson.edu
+    affiliations:
+      - Clemson University
   - name: Puthick Hok
     initials: PH
     github: puthick
