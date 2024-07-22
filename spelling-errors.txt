@@ -33,6 +33,7 @@ customizable
 DArTdb
 DArTView’s
 dataflow
+dataframe
 deployable
 Dhondt
 Dhungana
@@ -50,6 +51,7 @@ GeoTIFF
 GH
 Gigwa’s
 Grzegorz
+Hershberger
 Hok
 IFB
 ILCI
@@ -57,6 +59,7 @@ Institut
 INTERTRYP
 IRD
 jframi
+jmh
 jndmose
 Johan
 Jülich
@@ -73,6 +76,7 @@ LSU
 Lukas
 lukasmueller
 Madriz
+managament
 marieALaporte
 matthijsbrouwer
 maudmarty
@@ -86,9 +90,11 @@ niio
 NIRS
 NOAA
 OpenAPI
+orthophotomosaics
 Palladino
 pascalneveu
 Pérez
+pipleines
 puthick
 raincloud
 Rami
@@ -111,6 +117,7 @@ sumankumar
 SwaggerHub
 timparsons
 Tireau
+UAV
 UMR
 Université
 Uszynski
