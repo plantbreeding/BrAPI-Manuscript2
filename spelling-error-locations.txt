@@ -37,11 +37,13 @@ content/03.03.--.HEADER.Germplasm_Management.md:3:Ajay
 content/03.04.01.BIMS.md:4:breedwithbims
 content/03.04.01.BIMS.md:7:breedwithbims
 content/03.04.01.BIMS.md:7:breedwithbims
-content/03.04.01.BIMS.md:9:managament
 content/03.04.03.Breedbase.md:3:Lukas
 content/03.04.03.Breedbase.md:4:NIRS
 content/03.04.03.Breedbase.md:6:webpage
 content/03.04.04.DeltaBreed.md:4:customizable
+content/03.05.01.G-Crunch.md:4:ASREML
+content/03.05.01.G-Crunch.md:4:NCP
+content/03.05.01.G-Crunch.md:4:sommer
 content/03.05.02.QBMS.md:8:dataframe
 content/03.05.03.Mr_Bean.md:3:Johan
 content/03.05.04.SCT.md:1:SCT

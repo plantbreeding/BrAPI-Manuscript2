@@ -98,8 +98,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-22" />
   <meta name="citation_publication_date" content="2024-07-22" />
   <meta property="article:published_time" content="2024-07-22" />
-  <meta name="dc.modified" content="2024-07-22T16:12:50+00:00" />
-  <meta property="article:modified_time" content="2024-07-22T16:12:50+00:00" />
+  <meta name="dc.modified" content="2024-07-22T17:57:55+00:00" />
+  <meta property="article:modified_time" content="2024-07-22T17:57:55+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -332,9 +332,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/24106c64f56ab519bceae0aa260b54223caf0fec/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/24106c64f56ab519bceae0aa260b54223caf0fec/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/24106c64f56ab519bceae0aa260b54223caf0fec/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e787e4c0ef83569aff82e68b4b63bcd7fbb05973/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e787e4c0ef83569aff82e68b4b63bcd7fbb05973/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e787e4c0ef83569aff82e68b4b63bcd7fbb05973/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -356,9 +356,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/24106c64f56ab519bceae0aa260b54223caf0fec/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/e787e4c0ef83569aff82e68b4b63bcd7fbb05973/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@24106c6](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/24106c64f56ab519bceae0aa260b54223caf0fec)
+from [plantbreeding/BrAPI-Manuscript2@e787e4c](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/e787e4c0ef83569aff82e68b4b63bcd7fbb05973)
 on July 22, 2024.
 </em></small>
 
@@ -1426,12 +1426,12 @@ While specialty data management is important for some use cases, often breeders 
 #### BIMS
 
 <!-- Sook -->
- [The Breeding Information Management System (BIMS)](https://wwww.breedwithbims.org) [@doi:10.1093/database/baab054] is a free, secure, online breeding management system which allows breeders to store, manage, archive, and analyze their private breeding program data. 
- BIMS enables individual breeders to have complete control of their own breeding data along with access to tools such as data import,export, analysis, and archiving for their germplasm, phenotype, genotype, and image data. 
- BIMS is currently implemented in five community databases, the Genome Database for Rosaceae [@doi:10.1093/nar/gky1000], CottonGEN [@doi:10.3390/plants10122805], the Citrus Genome Database, the Pulse Crop Database, and the Genome Database for Vaccinium, where it enables individual breeders to import publicly available data. 
- BIMS is also implemented in the public database [breedwithbims.org](https://wwww.breedwithbims.org) that any crop breeder can use.
+The [Breeding Information Management System (BIMS)](https://wwww.breedwithbims.org) [@doi:10.1093/database/baab054] is a free, secure, online breeding management system which allows breeders to store, manage, archive, and analyze their private breeding program data. 
+BIMS enables individual breeders to have complete control of their own breeding data along with access to tools such as data import, export, analysis, and archiving for their germplasm, phenotype, genotype, and image data. 
+BIMS is currently implemented in five community databases, the Genome Database for Rosaceae [@doi:10.1093/nar/gky1000], CottonGEN [@doi:10.3390/plants10122805], the Citrus Genome Database, the Pulse Crop Database, and the Genome Database for Vaccinium, where it enables individual breeders to import publicly available data. 
+BIMS is also implemented in the public database [breedwithbims.org](https://wwww.breedwithbims.org) that any crop breeder can use.
 
-BIMS primarily utilizes BrAPI to connect with Field Book [@doi:10.2135/cropsci2013.08.0579], enabling seamless data transfer between data collection and subsequent managament in BIMS. Data transfer through BrAPI between BIMS and other resources such as Breedbase [@doi:10.1093/g3journal/jkac078], GIGWA [@doi:10.1093/gigascience/giz051], and Breeder Genomics Hub is under development.
+BIMS primarily utilizes BrAPI to connect with Field Book [@doi:10.2135/cropsci2013.08.0579], enabling seamless data transfer between data collection and subsequent management in BIMS. Data transfer through BrAPI between BIMS and other resources such as Breedbase [@doi:10.1093/g3journal/jkac078], GIGWA [@doi:10.1093/gigascience/giz051], and Breeder Genomics Hub is under development.
 
 
 #### BMS
@@ -1507,7 +1507,9 @@ The tools developed by the BrAPI community can pull in data from multiple BrAPI 
 #### G-Crunch
 
 <!-- Josh -->
-G-Crunch is an upcoming user-facing analysis tool that integrates genomic and phenotypic data to fulfill the need for simple, user driven analytics requests. It includes a generic user interface and the ability to swap out data sources and analysis tools. The G-Crunch team hopes to streamline repeatable, debuggable, simple analytic requests and results.
+[G-Crunch](https://github.com/CornellILCI/G-CrunchUI) is an upcoming user-facing tool to make simple, repeatable analysis requests. By using BrAPI calls to phenotypic and genotypic data sources, as well as an API currently implemented in [Analytics Framework](https://github.com/CornellILCI/af-pipeline) similar to the proposed [Analytics NCP](https://brapinewconceptpreview.docs.apiary.io/), the lightweight UI can be used to specify and window incoming data, select specific analysis criteria built into Analytics Framework, and trigger any analytics pipeline that's baked into the specific framework instance, such as sommer and ASREML based pipelines currently in Analytics Framework.
+
+Since each piece can be separately specified, this can allow flexibility to run 'test' analyses on small data sets with small or local analytics instances, and quickly re-point G-Crunch to a larger organizational or cloud-based Analytics Framework and/or data set, without having to worry about moving data around or introducing errors in manually triggering the analysis steps.
 
 G-Crunch, as a tool, couldn't feasibly exist without BrAPI. The support of BrAPI interfaces allows G-Crunch to use one unified request method, and adapt to the user's existing network of BrAPI-compliant tools. This lowers the barrier to entry for adoption, and makes analysis pipelines easily repeatable. 
 
