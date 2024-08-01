@@ -44,6 +44,7 @@ EE
 erlefloch
 FFAR
 Florilège
+fo
 François
 GBS
 GenAjay
@@ -83,7 +84,6 @@ maudmarty
 Mayank
 MISTEA
 MrBot
-NCP
 Nderitu
 Neveu
 nickpalladino
