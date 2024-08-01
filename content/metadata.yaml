@@ -44,7 +44,7 @@ authors:
     affiliations:
       - Cornell University
     funders: 
-      - Innovation Lab for Crop Improvement Cornell, FFAR
+      - Innovation Lab for Crop Improvement Cornell, ILCI: 7200AA19LE00005, FFAR: CA20-SS-0000000103
   - name: Michael Alaux
     initials: MA
     orcid: 0000-0001-9356-4072
@@ -252,6 +252,7 @@ authors:
     github: jmh579
     orcid: 0000-0002-3147-6867
     email: jmhersh@clemson.edu
+    corresponding: false
     affiliations:
       - Clemson University
   - name: Puthick Hok
@@ -615,3 +616,8 @@ authors:
       - Breeding Insight, Cornell University 
     funders: 
       - U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
+  - name: The BrAPI Consortium
+    initials: TBC
+    corresponding: false
+    affiliations:
+      - The BrAPI Consortium
