@@ -1,4 +1,4 @@
-content/02.introduction.md:26:APIs
+content/02.introduction.md:11:APIs
 content/03.01.01.Field_Book.md:6:customizable
 content/03.01.02.GridScore.md:9:georeferencing
 content/03.01.02.GridScore.md:10:barcodes
@@ -64,10 +64,11 @@ content/03.06.02.MIAPPE.md:6:deployable
 content/03.06.03.Zendro.md:10:boxplot
 content/03.06.03.Zendro.md:10:raincloud
 content/03.06.03.Zendro.md:10:scatterplot
-content/04.discussion.md:21:CDO
-content/04.discussion.md:21:GeoTIFF
-content/04.discussion.md:21:NOAA
-content/05.methods.md:5:accessability
+content/04.discussion.md:9:agronomics
+content/04.discussion.md:9:pangenomics
+content/04.discussion.md:11:CDO
+content/04.discussion.md:11:GeoTIFF
+content/04.discussion.md:11:NOAA
 content/05.methods.md:5:OpenAPI
 content/05.methods.md:5:SwaggerHub
 content/05.methods.md:9:comradery

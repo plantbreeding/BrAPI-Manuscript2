@@ -1,8 +1,8 @@
-accessability
 AGAP
 Agosto
 agostof
 AgroIncubator
+agronomics
 Ajay
 aliceboizet
 Andrzej
@@ -52,7 +52,7 @@ georeferencing
 GeoTIFF
 GH
 Gigwa’s
-grzegorz
+Grzegorz
 Hershberger
 Hok
 IFB
@@ -93,6 +93,7 @@ NOAA
 OpenAPI
 orthophotomosaics
 Palladino
+pangenomics
 pascalneveu
 Pérez
 pipleines

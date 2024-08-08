@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-08-01'
+date-meta: '2024-08-08'
 author-meta:
 - Peter Selby
 - Rafael Abbeloos
@@ -96,11 +96,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-08-01" />
-  <meta name="citation_publication_date" content="2024-08-01" />
-  <meta property="article:published_time" content="2024-08-01" />
-  <meta name="dc.modified" content="2024-08-01T16:47:30+00:00" />
-  <meta property="article:modified_time" content="2024-08-01T16:47:30+00:00" />
+  <meta name="dc.date" content="2024-08-08" />
+  <meta name="citation_publication_date" content="2024-08-08" />
+  <meta property="article:published_time" content="2024-08-08" />
+  <meta name="dc.modified" content="2024-08-08T18:26:53+00:00" />
+  <meta property="article:modified_time" content="2024-08-08T18:26:53+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -335,9 +335,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cd105a0d6c9ddd8cefe2cf6e257d7329e9d9e59d/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cd105a0d6c9ddd8cefe2cf6e257d7329e9d9e59d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/cd105a0d6c9ddd8cefe2cf6e257d7329e9d9e59d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/433a3e3b45c3ec899af1a2680a69912055d4603e/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/433a3e3b45c3ec899af1a2680a69912055d4603e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/433a3e3b45c3ec899af1a2680a69912055d4603e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -359,10 +359,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/cd105a0d6c9ddd8cefe2cf6e257d7329e9d9e59d/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/433a3e3b45c3ec899af1a2680a69912055d4603e/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@cd105a0](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/cd105a0d6c9ddd8cefe2cf6e257d7329e9d9e59d)
-on August 1, 2024.
+from [plantbreeding/BrAPI-Manuscript2@433a3e3](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/433a3e3b45c3ec899af1a2680a69912055d4603e)
+on August 8, 2024.
 </em></small>
 
 
@@ -708,7 +708,7 @@ on August 1, 2024.
   <br>
   <small>
      Royal Botanic Gardens, Kew
-     · Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
+     · Funded by The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 862613.
   </small>
 
 + **Andrzej Kilian**
@@ -726,7 +726,7 @@ on August 1, 2024.
     <br>
   <small>
      Leibniz Institute of Plant Genetics and Crop Plant Research
-     · Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
+     · Funded by The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 862613.
   </small>
 
 + **Suman Kumar**
@@ -738,7 +738,7 @@ on August 1, 2024.
     <br>
   <small>
      Leibniz Institute of Plant Genetics and Crop Plant Research
-     · Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
+     · Funded by The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 862613.
   </small>
 
 + **Josh Lamos-Sweeney**
@@ -770,7 +770,7 @@ on August 1, 2024.
     <br>
   <small>
      Leibniz Institute of Plant Genetics and Crop Plant Research
-     · Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
+     · Funded by The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 862613.
   </small>
 
 + **Marie-Angélique Laporte**
@@ -1006,7 +1006,7 @@ on August 1, 2024.
   <br>
   <small>
      Royal Botanic Gardens, Kew
-     · Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
+     · Funded by The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 862613.
   </small>
 
 + **Guilhem Sempéré**
@@ -1101,7 +1101,7 @@ on August 1, 2024.
     <br>
   <small>
      Leibniz Institute of Plant Genetics and Crop Plant Research
-     · Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
+     · Funded by The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 862613.
   </small>
 
 + **Shawn C. Yarnes**
@@ -1134,54 +1134,41 @@ Peter Selby \<ps664@cornell.edu\>.
 
 ## Abstract {.page_break_before}
 
-Population growth and climate change require extraordinary efforts to increase efficiency in breeding programs around the world. In the last few years, new phenotyping techniques, genomics technologies, and genetic approaches such as genomic prediction have provided a boost in genetic gain in breeding, but have also created a flood of data that needs careful management to be fully harnessed. In particular, data integration is a challenge due to the multiple types of data being handled by a variety of disparate and dispersed systems. 
-The Breeding API (BrAPI) project is an international, grass-roots effort to enable more efficient data management by enabling interoperability among research databases and tools, using a standardized RESTful web service API specification for exchanging breeding related data.
-This community driven standard is software agnostic and free to be used by anyone interested in plant breeding, genetics and agronomy data management, including trial, germplasm, phenotyping, and genotyping data management.
-This manuscript presents the substantial growth of the project, a wide variety of open source breeding research tools with active BrAPI implementations, and an overview about the current version of BrAPI.
+Population growth and climate change necessitate extraordinary efforts to increase efficiency in breeding programs around the world. 
+Recent advancements in phenotyping techniques, genotyping technologies, and prediction approaches are facilitating increased genetic gain in breeding, but they have also created a torrent of disconnected data. 
+The successful implementation of these methods depends on proper data management, which is particularly challenging due to the need to integrate datasets across various types, formats, and sources. 
+The Breeding API (BrAPI) project is an international effort that is enabling more efficient data management through the development of interoperable research databases and tools that can be used to share and interpret breeding-related data. 
+This community driven standard is software agnostic, open-source, and can be used by anyone interested in plant breeding, phenotyping, germplasm, genotyping, and agronomy data management. 
+This manuscript presents an overview of the BrAPI project, the substantial growth of the data standard, and the wide variety of BrAPI-compatible, community-built tools for breeding and research.
 
 
-## Introduction
+## Introduction {.page_break_before}
 
-<!-- 
-Notes:
-* DIGITAL ECOSYSTEM
-* Justification for a second paper
-* Highlight Community Growth
-* Hackathons
-* sabbaticals
-* Updates for V2
-* Auth Data Access Control - super simplified - highlight data privacy and security elements
-* Project structure - Modules
-* Standardization of endpoints across objects - said in a non-tech way
--->
+Breeding programs aim to deliver improved lines or cultivars, the most fundamental input for farming, and are thus foundational for maintaining a productive agricultural system amidst the pressing challenges of climate change. Breeding efforts are time- and resource-intensive, with progress dependent on efficient program logistics and accurate selection decisions. While breeding programs can benefit from modern and emerging breeding techniques like genomic selection, machine learning, and high throughput phenotyping, the successful implementation of these methods depends on the ability to efficiently collect, manage, and analyze large volumes of carefully curated genomic and phenomic data [@doi:10.1007/978-3-030-41866-3_4]. Extracting actionable knowledge from these complex datasets is time-consuming, often prohibiting the adoption of new methods, especially by under-resourced breeding programs. To facilitate the collection, management, and analysis of these datasets, it is essential to transition to digital tools. Historically, independent applications were designed to address specific problems, but in many cases, this led to separate software solutions for each breeding program task and created data silos.
 
-To address consequences of climate change and population growth, plant and animal breeding needs to become more efficient and data driven to ensure a healthy, resilient, and sustainable agricultural production system. Modern breeding techniques require large amounts of high quality data to be effective, requiring digital methods for data collection, management, and analysis. They rely on several research disciplines, including plant phenomics, genetics, genomics, and agronomy, involving research institutes, genebanks, and breeding companies. Interoperability between research software tools, systems, and databases can substantially increase the efficiency of a breeding program. The ability to efficiently share data means access to larger and more complete datasets, enabling more accurate computational models, more accurate predictions, and improved selections.
+The [Breeding Application Programming Interface (BrAPI)](https://brapi.org) is a standardized, representational state transfer (REST), web service, application programming interface (API) specification for breeding and related agricultural data [@doi:10.1093/bioinformatics/btz190]. Since the project inception in 2014, BrAPI has become an essential part of the digital infrastructure for plant breeding, providing a domain-specific open data standard tailored to the needs of plant breeding and genetics projects. BrAPI enables interoperability between breeding software platforms, allowing groups to seamlessly share data and software tools both within and across breeding programs. It eases the merging of datasets of different types and provides access to shared trait ontologies, phenotypic data, genotypes, seed inventories, and other essential components for collaborative breeding efforts. 
 
-The [Breeding API (BrAPI)](https://brapi.org) project is an effort to enable interoperability among breeding tools, systems, and databases. BrAPI is a standardized Representational State Transfer (REST), web service, Application Programming Interface (API), specification for breeding, genetics, phenomics and related agricultural data. [@doi:10.1093/bioinformatics/btz190] By using the BrAPI standard, breeding software can more easily become interoperable, allowing groups to more easily share data and software tools. 
-
-Since its first publication [@doi:10.1093/bioinformatics/btz190], BrAPI has seen a significant increase in community services, compatible tools, and participating organizations. The community has organized numerous hackathons to evolve the specifications, resulting in continuous improvements and enhancements. This report includes a short technical description of the standard and a showcase of the applications, services, and tools available in the BrAPI community. BrAPI has become an essential part of the digital infrastructure for breeding, genetics and phenomics applications and related agricultural projects. It is the intention of this manuscript to demonstrate the value of BrAPI to the wider scientific community as an effective and efficient means to collaborate and share resources. 
+Since its first publication in 2019 [@doi:10.1093/bioinformatics/btz190], BrAPI has seen a significant increase in community services, compatible tools, and participating organizations. The community has organized numerous hackathons to evolve the specification, resulting in continuous improvements and enhancements. This report includes a short technical description of the standard and a showcase of the applications, services, and tools available from the BrAPI community. It is the intention of this manuscript to demonstrate the value of BrAPI to the wider scientific community as an effective and efficient means to collaborate and exchange data.
 
 ### How it works
 
-An API is a technical connection between two pieces of software. Just as a Graphical User Interface (GUI) or a Command Line Interface (CLI) allows a human user to interact with a piece of software, an API allows one software application to interact with another. A GUI or CLI might allow a user to input data, read data, and start processes within an application. An API allows one piece of software (sometimes called a client, user agent, or service consumer) to programmatically input data, read data, and start process within another piece of software (sometimes called a server or service provider).
+An API is a technical connection between two pieces of software. Just as a graphical user interface (GUI) or a command line interface (CLI) allows a human user to interact with a piece of software, an API allows one software application to interact with another. A REST-style (or RESTful) web service is a type of API commonly used in modern web infrastructure. REST is a technical architecture that describes the stateless transmission of data between applications. Typically, RESTful web service APIs are implemented using the standard HTTP protocol that most of the modern internet is built upon. These implementations generally use JavaScript Object Notation (JSON) to represent the data being transferred. Both HTTP and JSON are programming language agnostic, very stable, and highly flexible. This means BrAPI can be implemented in almost any piece of software and can solve a wide range of use cases.
 
-A REST style web service is a type of API commonly used in today's web infrastructure. REST is a technical architecture that describes the stateless transmission of data between applications. Typically, RESTful web service APIs are implemented using the standard HTTP protocol that most of the modern internet is built upon [@doi:10.1145/514183.514185]. These implementations generally use JavaScript Object Notation (JSON) to represent the data being transferred. Both HTTP and JSON are programming language agnostic, very stable, and very flexible. This means BrAPI can be implemented in almost any piece of software, and can solve a wide range of use cases.
-
-Data repositories and service providers can choose to represent their data as a BrAPI compatible API. By mapping their internal data structures to the standard models, data repositories can easily expose data to the outside world. Similarly, they can accept new data from external sources and automatically map the new data into an existing database. Client application developers can take advantage of this standardization by building tools and connectors that integrate with all BrAPI compatible data repositories. Visualization, reporting, analytics, data collection, and quality control tools can be built once and shared with other organizations following the standards. As the number of BrAPI compatible databases, tools, and organizations grows, so does the value added by implementing the standard into a given application. 
+Data repositories and service providers that are BrAPI compatible have mapped their internal data structures to the BrAPI standard models, allowing them to share data with the outside world in a standardized format. Similarly, they can accept new data from external sources and automatically map the new data to their existing database. Client application developers can take advantage of this standardization by building tools and connectors that integrate with all BrAPI-compatible data repositories. Visualization, reporting, analytics, data collection, and quality control tools can be built once and shared with other organizations that follow the standard. As the number of BrAPI-compatible databases, tools, and organizations grows, so does the value of implementing the standard into any given application.
 
 ### Project Updates
 
-Over its lifetime, the BrAPI project has grown and changed substantially. The latest stable version of the specification (v2.1) looks vastly different from the first version (v1.0) released in 2017. The total size of the specification has almost quadrupled in that time, going from 51 endpoints documented in v1.0 to 201 endpoints documented in v2.1. Because of this growth, the specification documents were reorganized into four modules: BrAPI-Core, BrAPI-Germplasm, BrAPI-Genotyping, and BrAPI-Phenotyping. Figure {@fig:domains} shows a simplified domain map of the whole BrAPI v2.1 data model, divided into the organizational modules. The early versions of the specification focused on read-only phenotype data, with a small consideration to the other domains. Now the specification has a full representation of most of the major concepts applicable to the breeding and research process. The new specification is also internally consistent, easier to navigate, and allows for read, write, and update capabilities. None of those qualities were a guarantee for the earlier versions. 
+Over its lifetime, the BrAPI project has grown and changed substantially. The total size of the specification has almost quadrupled since the release of version v1.0 in 2017, increasing from 51 endpoints in v1.0 to 201 endpoints in v2.1. Because of this growth, the specification documents were reorganized into four modules: BrAPI-Core, BrAPI-Phenotyping, BrAPI-Genotyping, and BrAPI-Germplasm {@fig:domains}. While early versions of the specification focused on read-only phenotype data, the specification now has representation from most of the major concepts related to breeding. The newest specification has also been updated to be internally consistent, easier to navigate, and allow for read, write, and update capabilities.
 
 ![A simplified domain map of the whole BrAPI data model, divided into organizational modules. A more detailed Entity Relationship Diagram (ERD) is available on brapi.org.](images/BrAPI_Domains_v2-1_vertical.png){#fig:domains width="100%"}
 
-As the specification has matured, so have the tools, services, and libraries available to the community to work with the specification. Every version of the specification is now released with a change log to guide developers upgrading from a previous version, an Entity Relationship Diagram (ERD) to describe the whole data model visually, and a JSON Schema data model to be used in some automated development and validation efforts. For groups who are using Java, Java Script, Python, R, or Drupal, there are community maintained libraries available that contain full BrAPI implementations ready to be added to some existing code. The BrAPI Test Server and the BRAVA validation tool are both still available to the community for testing purposes, and they have been maintained to support every version of the specification. Finally, there are three new resource list pages on brapi.org to advertise the BrAPI compatible software available in the community. The BrAPPs list page, servers list page, and compatible software list page showcase many of the BrAPI compatible applications and data resources available in the community.
+As BrAPI has matured, so have the tools, services, and libraries that work with the specification. Each new version is released with a change log to guide developers as they upgrade, an Entity Relationship Diagram (ERD) to visually describe the data model, and a JSON Schema data model to be used for automated development efforts. For groups using Java, Java Script, Python, R, or Drupal, community-maintained libraries are available with full BrAPI implementations ready to be integrated into existing code. The BrAPI Test Server is updated to support every version of the specification for testing purposes. Finally, there are resource pages on the [project website](brapi.org) that showcase BrAPI-compatible applications and data resources available in the community.
 
 ### Community Growth
 
-The international BrAPI Community consists of software developers, biologists, and other scientists working on BrAPI related projects and data sources. This community is what sustains the BrAPI project, builds implementations, maintains development tools, and provides input to enhance the specification. As the project has grown, so has the community. The BrAPI project started in June 2014 with less than ten people coming together to discuss the idea. Over the next ten years, the community has grown to between 200 and 250 members. 
+The international BrAPI Community consists of software developers, biologists, and other scientists working on BrAPI related projects and data sources. This community sustains the BrAPI project, builds implementations, maintains development tools, and provides input to enhance the specification. As the project has grown, so too has the community. The BrAPI project started in June 2014 with less than ten people coming together to discuss the idea and has since grown to more than 200 members.
 
-The BrAPI Hackathons are a major staple of the BrAPI community [@doi:10.1101/gr.228460.117]. Twice a year, the community gathers to discuss the specification and collaborate on BrAPI related projects. This time is very valuable to the community; for some organizations, the hackathon is the only time during the year when they can collaboratively work on anything related to BrAPI. During the COVID-19 pandemic, virtual hackathons took the place of in-person events. While the virtual hackathons do not provide the same level of face-to-face time that is crucial to collaborative work, they did allow for more attendees to gather and share their opinions. Going forward, the community leadership has decided to have one in-person hackathon and one virtual hackathon each year, to balance the advantages of both. 
+The BrAPI Hackathons are a major staple of the BrAPI community [@doi:10.1101/gr.228460.117]. Twice a year, the community gathers in person or virtually to discuss the specification and collaborate on BrAPI-related projects. These events have proven to be vital to the long-term growth of the community; for some organizations, the hackathon is the only time during the year when they can collaboratively work on BrAPI projects. 
 
 
 ## Results
@@ -1594,42 +1581,30 @@ An [example data warehouse](https://brapi-gui.zendro-dev.org) is publicly availa
 
 ## Discussion
 
-<!-- * how can BrAPI help breeders (specifically small breeders)
-* Looking ahead - what needs to be done further
-* Analytics
-* HDP
-* GraphQL?
-* Field management - treatments etc
-* Drones, image processing, HTP
-* ChatGPT integration - BreedersGPT
-* Weather & soil - why it won’t be in BrAPI -->
+### BrAPI for Breeders
 
-### BrAPI for Breeders and Scientists
-
-The BrAPI technical specification document is meant to be read and used by software developers. However, the purpose of the specification, and the community around it, is to make things faster, easier, and cheaper for the breeders and scientists working on breeding, genetics, phenomics and other agricultural projects. BrAPI offers a convenient path to automation, interoperability, and data integration for software tools in those domains. All of the software described above could be made interoperable with manual effort, moving and editing data files by hand from tool to tool. However, when the basic structure and flow of data becomes automated, breeders and scientists can spend less time on data management and more time focusing on the science. For many, the ultimate goal is the development of a digital ecosystem: a collection of software tools and applications that can all work together seamlessly. In this ideal digital ecosystem, data is collected digitally from the beginning, reducing as much human error as possible. The data is checked by quality control and stored automatically, then it can be sent to any internal tool or external lab for further analysis with just the click of a button. This idea might sound too good to be true, but as more tools start sharing a universal data standard, automating data flow becomes easier, and the community gets closer to total interoperability. 
+While the BrAPI technical specification is designed to be read and used by software developers, its underlying purpose is to support the work of breeders and other scientists by making routine processes faster, easier, and cheaper. BrAPI offers a convenient path to automation, interoperability, and data integration for software tools in breeding, genetics, phenomics, and other related agricultural domains. By integrating the tools described above, breeders and scientists can spend less time on data management and more time focusing on science. For many, the ultimate goal is the development of a digital data ecosystem: a collection of software tools and applications that can all work together seamlessly. In this scenario, data is digitally collected, automatically sent to quality control systems, batch analyzed to provide actionable insights, and finally stored in accessible databases for long-term applications. As tools continue to adopt the BrAPI standard, this vision is beginning to approach reality.
 
 ### Looking Ahead
 
-The BrAPI specification will continue a controlled and necessary growth. It will enable more use cases and new types of data that might include newer scientific techniques and technologies. There will be careful evaluation of the relevance of using REST web service approaches, and in particular BrAPI, for things like drone imaging data, spectroscopy, LIDAR, metabolomics, transcriptomics, high-throughput phenotyping, pan genomes, and machine learning analysis. All of these technologies can open new avenues for research and development of new crop varieties. However, they will also generate more data, more types of data, and require data sharing between different software applications and data repositories. The BrAPI project leadership and community is committed to building the standards to support these new use cases as they arrive and become accepted by the scientific community. In fact, small groups within the BrAPI community have already start building generic data models and proposed communication standards for many of the technologies listed above. These community efforts will eventually become part of the BrAPI standard in a future version of the specification document. 
+The BrAPI project leadership and community are committed to building standards to support new use cases and technologies as they are adopted by breeders and other scientists, potentially including drone imaging data, spectroscopy, LIDAR, metabolomics, transcriptomics, agronomics, high-throughput phenotyping, pangenomics, and machine learning based analysis. Each of these technologies will have unique challenges, generate different types of data, and require substantial thought and discussion before being added to the BrAPI specification. This process has already begun for several data types, with small groups working to build generic data models and proposed communication standards. As these community efforts are completed, they will become part of a future version of the BrAPI standard, enabling further interoperability and simplifying data exchange.
 
-Expanding the BrAPI specification is important for the community, however it is just as important not to reinvent or compete with existing functional standards. Additions to the BrAPI specification are reviewed thoroughly by the community to make sure BrAPI is compliant with existing standards and data structures. For example, the community has requested compliance with the GFF3 standard for genomic data and the GeoTIFF standard for aerial image data. Pieces of these existing popular data structures might be integrated into the overall BrAPI standard documentation. In some cases, BrAPI will only reference other standards instead of including them in the specification. For example, there have been community discussions around developing connections with the NOAA CDO standard for weather data, or the Galaxy Analytics API for analytics pipeline controls and information. These standards are perfectly adequate on their own, recreating them in the BrAPI standard would be redundant and outside the main scope of the project.
+Expanding the BrAPI specification is important for the community, but this growth should not reinvent or compete with existing functional standards. Additions to the BrAPI specification are reviewed thoroughly by the community to make sure BrAPI is compliant with existing standards and data structures. For example, the community has requested compliance with the GFF3 standard for genomic data and the GeoTIFF standard for aerial image data. Pieces of these existing popular data structures might be integrated into the overall BrAPI standard documentation. In some cases, BrAPI will only reference other standards instead of including them in the specification. For example, there have been community discussions around developing connections with the NOAA CDO standard for weather data or the Galaxy Analytics API for analytics pipeline controls and information. These standards are perfectly adequate on their own and recreating them in the BrAPI standard would be redundant.
 
 ### Conclusion
 
-The BrAPI project only exists because of the community of software engineers, biologists, and other scientists who support and use it. While there were many tools and use cases presented here, it is not an exhaustive list of all BrAPI-compliant systems. As long as the standard continues to be supported, there is potential for exponential growth of the community. As more groups make their tools BrAPI compliant, these tools can be shared with the community. As more BrAPI-compliant tools are shared with the community, more groups can see the value in implementing BrAPI in their own tools. This feedback loop will allow the community to strengthen and grow.
-
-If this manuscript is your first introduction to the BrAPI project, the authors invite you to join the community. More information is always available at [brapi.org](https://brapi.org). 
+The BrAPI project only exists because of the community of software engineers, biologists, and other scientists who support and use it. While there were many tools and use cases presented here, it is not an exhaustive list of all BrAPI-compliant systems. As long as the standard continues to be supported, the community will continue to expand. As more groups continue to make their tools BrAPI compliant, others will see the value in implementing BrAPI into their own tools, allowing the community to strengthen and grow. By providing an open standard for breeding data, and the infrastructure and community to support it, the BrAPI project is doing its part to support a productive agricultural system amidst the pressing challenges of climate change. If this manuscript is your first introduction to the BrAPI project, the authors invite you to join the community. More information is available at [brapi.org](https://brapi.org).
 
 
 ## Methods
 
-The BrAPI Project day-to-day operations are run by the BrAPI Project Coordinator, overseen by the grant PI and Co-PI. The BrAPI Project Coordinator is responsible for the general maintenance of the project infrastructure, as well as coordinating updates to the standard. They organize community events and encourage collaboration between community groups. Long term planning and organization is handled by the BrAPI Advisory board. This is a board of 6 community members who are elected by the community to represent their interest in the project. 
+The BrAPI Project Coordinator is responsible for the day-to-day operations and general maintenance of the project infrastructure, as well as coordinating updates to the standard. They organize community events and encourage collaboration between community groups. Long term planning and organization is handled by the BrAPI Advisory board. This is a board of six community members who are elected by the community to represent their interest in the project.
 
-The standard documentation is stored and maintained in a GitHub repository. The core documentation is written using the OpenAPI 3 documentation standard, and can be easily transformed into other documentation standards as needed. Copies of the core documentation is published on the API documentation sites Apiary and SwaggerHub for maximum accessability by the community. All these online locations are public, and the specification has a standard MIT open source license. 
+The standard documentation is stored and maintained in a public [GitHub repository]( https://github.com/plantbreeding/BrAPI). The core documentation is written using the OpenAPI 3 documentation standard. The core documentation is automatically published on Apiary and SwaggerHub, two API documentation hosting sites. The specification has a standard MIT open source license.
 
-New versions of the BrAPI standard are developed periodically based on community demand. Problems and enhancements are collected by the community over time, tracked in GitHub issues, then implemented together to create a new stable version. This ensures the standard stays up-to-date and relevant to the community, but maintains a certain level of stability over time. Minor version updates are designed to be backward compatible to further enhance the stability of the standard. 
+New versions of the BrAPI standard are developed based on community demand. Opportunities to enhance and improve the standard are identified by the community, tracked in GitHub issues, and implemented to create a new stable version. This process ensures the standard stays relevant, updated, and stable over time. Minor version updates are designed to be backwards compatible.
 
-As discussed above, hackathon events are the primary way the BrAPI community stays together. One in-person and one virtual event per year maintain project momentum and social comradery. The hackathons provide a dedicated time to discuss issues and enhancements with the specification, particular use cases, and generally how the community is run and organized. 
+Hackathon events are the primary approach used by the BrAPI community to foster collaboration and further development. One in-person and one virtual event per year maintain project momentum and social comradery. The hackathons provide a dedicated time to discuss improvements and issues with the specification, particular use cases, and project stewardship.
 
 
 ## Data Availability Statement {.page_break_before}
