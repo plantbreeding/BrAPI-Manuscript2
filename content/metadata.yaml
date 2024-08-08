@@ -144,7 +144,7 @@ authors:
     initials: KC
     github: keocorak
     orcid: 0000-0002-4129-3319
-    email: kecorak@ncsu.edu
+    email: keo.corak@usda.gov
     corresponding: false
     affiliations:
       - USDA-ARS Genomics and Bioinformatics Research Unit 
@@ -262,6 +262,14 @@ authors:
     corresponding: false
     affiliations:
       - Diversity Arrays Technology (DArT)
+  - name: Amanda M. Hulse-Kemp
+    initials: AMHK
+    github: ahulsekemp
+    orcid: 0000-0001-9670-9433
+    email: amanda.hulse-kemp@usda.gov
+    corresponding: false
+    affiliations:
+      - USDA-ARS Genomics and Bioinformatics Research Unit 
   - name: Lynn Carol Johnson
     initials: LCJ
     orcid: 0000-0001-8103-2722
