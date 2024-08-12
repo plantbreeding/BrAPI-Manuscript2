@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-08-09'
+date-meta: '2024-08-12'
 author-meta:
 - Peter Selby
 - Rafael Abbeloos
@@ -97,11 +97,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-08-09" />
-  <meta name="citation_publication_date" content="2024-08-09" />
-  <meta property="article:published_time" content="2024-08-09" />
-  <meta name="dc.modified" content="2024-08-09T16:47:04+00:00" />
-  <meta property="article:modified_time" content="2024-08-09T16:47:04+00:00" />
+  <meta name="dc.date" content="2024-08-12" />
+  <meta name="citation_publication_date" content="2024-08-12" />
+  <meta property="article:published_time" content="2024-08-12" />
+  <meta name="dc.modified" content="2024-08-12T19:58:37+00:00" />
+  <meta property="article:modified_time" content="2024-08-12T19:58:37+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -339,9 +339,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e3ef254b6ed6a4f13fc9353642410d5e11a2d169/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e3ef254b6ed6a4f13fc9353642410d5e11a2d169/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e3ef254b6ed6a4f13fc9353642410d5e11a2d169/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0de803181d1c2db5ea8dcd8ea97099a6d9a12101/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0de803181d1c2db5ea8dcd8ea97099a6d9a12101/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0de803181d1c2db5ea8dcd8ea97099a6d9a12101/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -363,10 +363,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/e3ef254b6ed6a4f13fc9353642410d5e11a2d169/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/0de803181d1c2db5ea8dcd8ea97099a6d9a12101/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@e3ef254](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/e3ef254b6ed6a4f13fc9353642410d5e11a2d169)
-on August 9, 2024.
+from [plantbreeding/BrAPI-Manuscript2@0de8031](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/0de803181d1c2db5ea8dcd8ea97099a6d9a12101)
+on August 12, 2024.
 </em></small>
 
 
@@ -426,7 +426,7 @@ on August 9, 2024.
     <br>
   <small>
      Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
-     · Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
+     · Funded by The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 862613.
   </small>
 
 + **Isabelle Alic**
@@ -570,7 +570,7 @@ on August 9, 2024.
     <br>
   <small>
      Leibniz Institute of Plant Genetics and Crop Plant Research
-     · Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
+     · Funded by The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 862613.
   </small>
 
 + **Kauê de Sousa**
@@ -1644,15 +1644,15 @@ The authors would like to acknowledge the following funding sources:
 
 + The BrAPI Project is funded by the USDA grant NIFA-DSFAS 2022-67021-37024.
 + Innovation Lab for Crop Improvement Cornell, ILCI: 7200AA19LE00005, FFAR: CA20-SS-0000000103
-+ The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
++ The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 862613.
 + USDA National Institute of Food and Agriculture National Research Support Project 10
 + USDA NIFA: 2022-51181-38449
 + This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)      
 + U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
-+ The Bill and Malinda Gates Foundation in cooperation with the Excellence in Breeding Platform of the CGIAR
 + This work was funded by ELIXIR, the research infrastructure for life science data.
 + This work was supported by ELIXIR, the research infrastructure for life science data.
 + The French Networks of Biological Resource Centres for Agricultural, Environmental and Life Sciences, doi: 10.15454/b4ec-tf49
++ The Bill and Malinda Gates Foundation in cooperation with the Excellence in Breeding Platform of the CGIAR
 
 ## Author Contributions {.page_break_before}
 
@@ -1686,9 +1686,9 @@ The authors would like to acknowledge the following funding sources:
 + **Valentin Guignon**: Valentin wrote the section on the BrAPI Mapper and MGIS  projects, and has made significant contributions to the BrAPI compatibility of the BrAPI Mapper, MGIS, and the Trait Selector BrAPP projects. 
 + **Corina Habito**: Corina wrote the section on the BMS project, and has made significant contributions to the BrAPI compatibility of the BMS project. 
 + **Asis Hallab**: Asis wrote the section on the Zendro project, and has made significant contributions to the BrAPI compatibility of the Zendro project. 
-+ **Jenna Hershberger**: Jenna did proofreading and editing of a significant portion of the manuscript.
-+ **Puthick Hok**: Puthick has made significant contributions to the DArT Sample Submission project.
-+ **Amanda M. Hulse-Kemp**: Amanda has made signification contributions to the SCT project, and did proofreading and editing of a significant portion of the manuscript.
++ **Jenna Hershberger**: Jenna did a significant amount of proofreading and editing to most sections of the manuscript.
++ **Puthick Hok**: Puthick has made significant contributions to the DArT Sample Submission project. 
++ **Amanda M. Hulse-Kemp**: Amanda has made significant contributions to the SCT project. Amanda also did a significant amount of proofreading and editing to most sections of the manuscript.
 + **Lynn Carol Johnson**: Lynn wrote the section on the PHG project, and has made significant contributions to the BrAPI compatibility of the PHG project. 
 + **Sook Jung**: Sook wrote the section on the BIMS project, and has made significant contributions to the BrAPI compatibility of the BIMS project. 
 + **Paul Kersey**: Paul has made significant contributions to the AGENT project. 
@@ -1717,7 +1717,7 @@ The authors would like to acknowledge the following funding sources:
 + **Cyril Pommier**: Cyril wrote the section on the FAIDARE projects, and has made significant contributions to the BrAPI compatibility of the Florilège, FAIDARE, and AGENT projects. Cyril has also made significant contributions to the Germplasm and Phenotyping modules of the BrAPI specification.
 + **Jean-François Rami**: Jean-François wrote the section on the ShinyBrAPPs project, and has made significant contributions to the BrAPI compatibility of the ShinyBrAPPs project. 
 + **Sebastian Raubach**: Sebastian wrote the section on the GridScore and Germinate projects, and has made significant contributions to the BrAPI compatibility of the GridScore, Germinate, and Flapjack projects. 
-+ **Trevor Rife**: Trevor wrote the section on the Field Book project, and has made significant contributions to the BrAPI compatibility of the Field Book project. 
++ **Trevor Rife**: Trevor wrote the section on the Field Book project, and has made significant contributions to the BrAPI compatibility of the Field Book project. Trevor also did a significant amount of proofreading and editing to most sections of the manuscript.
 + **Kelly Robbins**: Kelly is the PI for the BrAPI Project grant, and has supported all technical and scientific aspects of the project.
 + **Mathieu Rouard**: Mathieu wrote the section on the MGIS and GIGWA projects, and has made significant contributions to the BrAPI compatibility of the MGIS and GIGWA projects. 
 + **Joseph Ruff**: Joseph has made significant contributions to the AGENT project. 
