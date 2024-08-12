@@ -54,7 +54,7 @@ authors:
       - Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
       - Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
     funders: 
-      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
+      - The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Isabelle Alic
     initials: IA
     github: Isabelle-inrae
@@ -144,7 +144,7 @@ authors:
     initials: KC
     github: keocorak
     orcid: 0000-0002-4129-3319
-    email: keo.corak@usda.gov
+    email: kecorak@ncsu.edu
     corresponding: false
     affiliations:
       - USDA-ARS Genomics and Bioinformatics Research Unit 
@@ -170,7 +170,7 @@ authors:
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
     funders: 
-      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
+      - The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Kauê de Sousa
     initials: KDS
     github: kauedesousa
@@ -269,7 +269,7 @@ authors:
     email: amanda.hulse-kemp@usda.gov
     corresponding: false
     affiliations:
-      - USDA-ARS Genomics and Bioinformatics Research Unit 
+      - USDA-ARS Genomics and Bioinformatics Research Unit
   - name: Lynn Carol Johnson
     initials: LCJ
     orcid: 0000-0001-8103-2722
