@@ -53,7 +53,7 @@ author-meta:
 - Matthias Lange
 - Marie-Angélique Laporte
 - Taein Lee
-- Erwan Le-Floch
+- Erwan Le Floch
 - Francisco López
 - Brandon Madriz
 - Dorrie Main
@@ -100,8 +100,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-13" />
   <meta name="citation_publication_date" content="2024-08-13" />
   <meta property="article:published_time" content="2024-08-13" />
-  <meta name="dc.modified" content="2024-08-13T14:49:10+00:00" />
-  <meta property="article:modified_time" content="2024-08-13T14:49:10+00:00" />
+  <meta name="dc.modified" content="2024-08-13T14:51:26+00:00" />
+  <meta property="article:modified_time" content="2024-08-13T14:51:26+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -235,7 +235,7 @@ header-includes: |
   <meta name="citation_author" content="Taein Lee" />
   <meta name="citation_author_institution" content="Department of Horticulture, Washington State University" />
   <meta name="citation_author_orcid" content="0000-0002-2000-2586" />
-  <meta name="citation_author" content="Erwan Le-Floch" />
+  <meta name="citation_author" content="Erwan Le Floch" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France" />
   <meta name="citation_author_institution" content="Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France" />
   <meta name="citation_author_orcid" content="0000-0002-1010-6859" />
@@ -339,9 +339,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/6e54b99bb43132728945a3350322fd5a37f2cd2f/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/6e54b99bb43132728945a3350322fd5a37f2cd2f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/6e54b99bb43132728945a3350322fd5a37f2cd2f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ef50acd2916fb69d86df22260bb3b69449b6c1d0/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ef50acd2916fb69d86df22260bb3b69449b6c1d0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ef50acd2916fb69d86df22260bb3b69449b6c1d0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -363,9 +363,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/6e54b99bb43132728945a3350322fd5a37f2cd2f/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/ef50acd2916fb69d86df22260bb3b69449b6c1d0/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@6e54b99](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/6e54b99bb43132728945a3350322fd5a37f2cd2f)
+from [plantbreeding/BrAPI-Manuscript2@ef50acd](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/ef50acd2916fb69d86df22260bb3b69449b6c1d0)
 on August 13, 2024.
 </em></small>
 
@@ -810,7 +810,7 @@ on August 13, 2024.
      Department of Horticulture, Washington State University
   </small>
 
-+ **Erwan Le-Floch**
++ **Erwan Le Floch**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-1010-6859](https://orcid.org/0000-0002-1010-6859)
@@ -1385,7 +1385,7 @@ Germplasm data management is crucial due to the vast quantity of new accessions,
 
 
 <!-- Contribution BrAPI 2.0 paper
-Suggested Authors: Matthias Lange, Patrick König, Stephan Weise, Gouripriya Davuluri, Suman Kumar, Joseph Ruff, Paul Kersey, Cyril Pommier, Michael Alaux, Erwan Le-Floch -->
+Suggested Authors: Matthias Lange, Patrick König, Stephan Weise, Gouripriya Davuluri, Suman Kumar, Joseph Ruff, Paul Kersey, Cyril Pommier, Michael Alaux, Erwan Le Floch -->
 #### AGENT
 
 <!-- Matthias Lange -->
@@ -1395,6 +1395,7 @@ In the global system for ex situ conservation of PGRs, material is being conserv
 The BrAPI specification is one of the agreed standards, that are detailed in the AGENT guidelines for dataflow [@doi:10.5281/zenodo.12625360]. The implemented BrAPI interface enables the analysis of current and historic genotypic and phenotypic information. This will drive the discovery of genes, traits, and knowledge for future missions, complement existing information for wheat and barley, and use the new data standards and infrastructure to promote better access and use of PGR for other crops in European genebanks. The AGENT database backend aggregates curated passport data, phenotypic data, and genotypic data on wheat and barley accessions of 18 project partners. This data is accessible via [BrAPI endpoints](https://github.com/AGENTproject/BrAPI) and explorable in a [web portal](https://agent.ipk-gatersleben.de). Genotyping data uses the DivBrowse [@doi:10.1093/gigascience/giad025] storage engine and its BrAPI interface. Soon, the BrAPI implementation will be expanded to enable the integration of analysis pipelines in the AGENT portal, such as the FIGS+ pipeline developed by ICARDA [@doi:10.22004/AG.ECON.266624]. There is also a plan to integrate the data collected by the AGENT project into the European Search Catalogue for Plant Genetic Resources (EURISCO) [@doi:10.1093/nar/gkac852].
 <!-- ![Figure Data flow of genotypic data from AGENT partner databases](images/AGENT_Genotyping_Data_Flow.png){#fig:AGENT_Genotyping_Data_Flow width="100%"} -->
 <!-- ![Figure AGENT Portal](images/AGENT_Web_Frontend.png){#fig:AGENT_Web_Frontend width="100%"} -->
+
 
 #### Florilège
 
@@ -1700,7 +1701,7 @@ The authors would like to acknowledge the following funding sources:
 + **Matthias Lange**: Matthias wrote the section on the AGENT project, and has made significant contributions to the BrAPI compatibility of the AGENT project. 
 + **Marie-Angélique Laporte**: Marie-Angélique wrote the section on the ClimMob project, and has made significant contributions to the BrAPI compatibility of the ClimMob project. 
 + **Taein Lee**: Taein has made significant contributions to the BIMS project. 
-+ **Erwan Le-Floch**: Erwan has made significant contributions to the AGENT project. 
++ **Erwan Le Floch**: Erwan has made significant contributions to the AGENT project. 
 + **Francisco López**: Francisco has made significant contributions to the GLIS project. 
 + **Brandon Madriz**: Brandon wrote the section on the ClimMob project, and has made significant contributions to the BrAPI compatibility of the ClimMob project. 
 + **Dorrie Main**: Dorrie has made significant contributions to the BIMS project. 
