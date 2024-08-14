@@ -105,7 +105,7 @@ puthick
 raincloud
 Rami
 Rica
-romil
+Romil
 scatterplot
 SCT
 SCYarnes
