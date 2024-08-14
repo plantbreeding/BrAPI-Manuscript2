@@ -6,7 +6,6 @@ content/03.01.02.GridScore.md:10:barcodes
 content/03.01.04.Image_Breed.md:4:pipleines
 content/03.01.04.Image_Breed.md:5:orthophotomosaics
 content/03.01.04.Image_Breed.md:5:UAV
-content/03.01.06.PIPPA.md:4:whcih
 content/03.01.--.HEADER.Phenotyping.md:3:Ajay
 content/03.01.--.HEADER.Phenotyping.md:8:curation
 content/03.02.01.DArT.md:3:Grzegorz

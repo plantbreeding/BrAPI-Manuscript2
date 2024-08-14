@@ -100,8 +100,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-14" />
   <meta name="citation_publication_date" content="2024-08-14" />
   <meta property="article:published_time" content="2024-08-14" />
-  <meta name="dc.modified" content="2024-08-14T15:58:11+00:00" />
-  <meta property="article:modified_time" content="2024-08-14T15:58:11+00:00" />
+  <meta name="dc.modified" content="2024-08-14T16:09:58+00:00" />
+  <meta property="article:modified_time" content="2024-08-14T16:09:58+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -339,9 +339,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/13118e2cf2a2d455e44529e79097f9ba591501cb/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/13118e2cf2a2d455e44529e79097f9ba591501cb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/13118e2cf2a2d455e44529e79097f9ba591501cb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/5752688cf89414affb18f937e85e6a16c85ac6e6/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/5752688cf89414affb18f937e85e6a16c85ac6e6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/5752688cf89414affb18f937e85e6a16c85ac6e6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -363,9 +363,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/13118e2cf2a2d455e44529e79097f9ba591501cb/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/5752688cf89414affb18f937e85e6a16c85ac6e6/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@13118e2](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/13118e2cf2a2d455e44529e79097f9ba591501cb)
+from [plantbreeding/BrAPI-Manuscript2@5752688](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/5752688cf89414affb18f937e85e6a16c85ac6e6)
 on August 14, 2024.
 </em></small>
 
@@ -1280,7 +1280,7 @@ By integrating BrAPI requirements into its structure, PHIS strengthens its capac
 #### PIPPA
 
 <!-- Rafael -->
-[PIPPA](https://pippa.psb.ugent.be) [@https://pippa.psb.ugent.be] is a data management system used for collecting data from the Weighing, Imaging and Watering Machines ([WIWAM](https://www.wiwam.be/)) [@https://www.wiwam.be], whcih are a range of automated high-throughput phenotyping platforms. 
+[PIPPA](https://pippa.psb.ugent.be) [@https://pippa.psb.ugent.be] is a data management system used for collecting data from the Weighing, Imaging and Watering Machines ([WIWAM](https://www.wiwam.be/)) [@https://www.wiwam.be], which are a range of automated high-throughput phenotyping platforms. 
 These platforms have been deployed by research institutes and commercial breeders across Europe. 
 They can be set up in a variety of configurations with different types of equipment including weighing scales, cameras, and environment sensors. 
 The software features a web interface with functionality for setting up new experiments, planning imaging and irrigation treatments, linking metadata (genotype, growth media, manual treatments) to pots, and importing, exporting, and visualizing data. 
