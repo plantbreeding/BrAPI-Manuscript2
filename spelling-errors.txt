@@ -52,7 +52,7 @@ georeferencing
 GeoTIFF
 GH
 Gigwa’s
-Grzegorz
+grzegorz
 Hershberger
 Hok
 Hulse
@@ -100,11 +100,11 @@ Pérez
 PGRs
 polymorphism
 prebuilt
-Puthick
+puthick
 raincloud
 Rami
 Rica
-Romil
+romil
 scatterplot
 SCT
 SCYarnes

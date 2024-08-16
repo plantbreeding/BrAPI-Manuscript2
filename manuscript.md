@@ -100,8 +100,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-16" />
   <meta name="citation_publication_date" content="2024-08-16" />
   <meta property="article:published_time" content="2024-08-16" />
-  <meta name="dc.modified" content="2024-08-16T22:34:23+00:00" />
-  <meta property="article:modified_time" content="2024-08-16T22:34:23+00:00" />
+  <meta name="dc.modified" content="2024-08-16T23:02:39+00:00" />
+  <meta property="article:modified_time" content="2024-08-16T23:02:39+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -339,9 +339,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8609ef849b6801b17c55efffc7885e50849e0315/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8609ef849b6801b17c55efffc7885e50849e0315/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8609ef849b6801b17c55efffc7885e50849e0315/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/859cbdb7358f52659c3a5a98c9b0411b7fcec5f7/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/859cbdb7358f52659c3a5a98c9b0411b7fcec5f7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/859cbdb7358f52659c3a5a98c9b0411b7fcec5f7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -363,9 +363,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/8609ef849b6801b17c55efffc7885e50849e0315/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/859cbdb7358f52659c3a5a98c9b0411b7fcec5f7/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@8609ef8](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/8609ef849b6801b17c55efffc7885e50849e0315)
+from [plantbreeding/BrAPI-Manuscript2@859cbdb](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/859cbdb7358f52659c3a5a98c9b0411b7fcec5f7)
 on August 16, 2024.
 </em></small>
 
@@ -1191,7 +1191,7 @@ The BrAPI Hackathons are a major staple of the BrAPI community [@doi:10.1101/gr.
 
 Below are a number of short success stories from the BrAPI community. These tools, applications, and infrastructure projects serve as another indicator of community growth and success over the past 5 years. These stories clearly illustrate all the different ways the BrAPI standard can be used productively and in practice. Figure {@fig:apps} contains a summary of many of the currently available BrAPI-compliant tools, and each will be further described below.
 
-![A summary of all the tools described below and the general areas each tool is designed to handle](images/BrAPI_Paper_Applications_Chart.png){#fig:apps width="100%"}
+![A summary of all the tools described below and the general areas each tool is designed to handle. The “Generation/Collection” column indicates that an application is used to input or create new data. The “Storage” column indicates the tool stores that type of data. The “Visualization” column indicates that application has a way of presenting data to a human user. The “Analysis” column indicates the tool does some calculation to provide new insight.](images/BrAPI_Paper_Applications_Chart.png){#fig:apps width="100%"}
 
 <!-- NOTES TO UPDATE THE  BrAPI_Paper_Applications_Chart.png :
 FAIDARE: Core, Phenotyping, Genotyping, Germplasm Visualization .
