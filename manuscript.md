@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-08-14'
+date-meta: '2024-08-16'
 author-meta:
 - Peter Selby
 - Rafael Abbeloos
@@ -97,11 +97,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-08-14" />
-  <meta name="citation_publication_date" content="2024-08-14" />
-  <meta property="article:published_time" content="2024-08-14" />
-  <meta name="dc.modified" content="2024-08-14T16:34:52+00:00" />
-  <meta property="article:modified_time" content="2024-08-14T16:34:52+00:00" />
+  <meta name="dc.date" content="2024-08-16" />
+  <meta name="citation_publication_date" content="2024-08-16" />
+  <meta property="article:published_time" content="2024-08-16" />
+  <meta name="dc.modified" content="2024-08-16T22:34:23+00:00" />
+  <meta property="article:modified_time" content="2024-08-16T22:34:23+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -339,9 +339,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/58c3f231058f92728f1c67af88dc26730ecca656/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/58c3f231058f92728f1c67af88dc26730ecca656/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/58c3f231058f92728f1c67af88dc26730ecca656/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8609ef849b6801b17c55efffc7885e50849e0315/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8609ef849b6801b17c55efffc7885e50849e0315/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8609ef849b6801b17c55efffc7885e50849e0315/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -363,10 +363,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/58c3f231058f92728f1c67af88dc26730ecca656/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/8609ef849b6801b17c55efffc7885e50849e0315/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@58c3f23](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/58c3f231058f92728f1c67af88dc26730ecca656)
-on August 14, 2024.
+from [plantbreeding/BrAPI-Manuscript2@8609ef8](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/8609ef849b6801b17c55efffc7885e50849e0315)
+on August 16, 2024.
 </em></small>
 
 
@@ -1470,12 +1470,9 @@ The BrAPI interface is crucial for Breedbase. Breedbase uses BrAPI to connect wi
 #### DeltaBreed
 
 <!-- Shawn Y.-->
-[DeltaBreed](https://app.breedinginsight.net/) is an open-source breeding data management system designed and developed by [Breeding Insight](https://breedinginsight.org/) to support U.S. Department of Agriculture - Agricultural Research Service (USDA-ARS) specialty crop and animal breeders. DeltaBreed differs from other related systems in that is customizable to small breeding teams and generalized enough to support the workflows of diverse niche species. DeltaBreed is a unified system that connects a variety of BrAPI applications (see list below). BrAPI integration allows the complexity underlying interoperability to be hidden, shielding users from multifactorial differences between various applications. DeltaBreed, adhering to the BrAPI model, establishes data standards and validations for users and provides a singular framework for data management and user training. 
+[DeltaBreed](https://app.breedinginsight.net/) is an open-source breeding data management system designed and developed by [Breeding Insight](https://breedinginsight.org/) to support U.S. Department of Agriculture - Agricultural Research Service (USDA-ARS) specialty crop and animal breeders. DeltaBreed differs from other related systems in that it is customizable to small breeding teams and generalized enough to support the workflows of diverse species. DeltaBreed is a unified system that connects a variety of BrAPI applications. BrAPI integration allows the complexity underlying interoperability to be hidden, shielding users from multifactorial differences between various applications. DeltaBreed, adhering to the BrAPI model, establishes data standards and validations for users and provides a singular framework for data management and user training. BrAPI enabled connections are being used with all of the following tools: [BrAPI Java Test Server](https://test-server.brapi.org/brapi/v2/), [BreedBase](https://breedbase.org/), [Field Book](https://play.google.com/store/apps/details?id=com.fieldbook.tracker), [Gigwa](https://gigwa.southgreen.fr/gigwa/), [QBMS](https://icarda-git.github.io/QBMS), [Mr Bean](https://github.com/AparicioJohan/MrBeanApp), [Helium](https://helium.hutton.ac.uk/#/) and the [Pedigree Viewer](https://github.com/solgenomics/BrAPI-Pedigree-Viewer) BrAPP. 
 
-DeltaBreed users need not be aware of BrAPI or the specifics of underlying applications but will notice that BrAPI interoperability reduces the need for human-mediated file transfers and data manipulation. Field Book users, for example, can connect to their DeltaBreed program, authenticate, and pull studies and traits directly from DeltaBreed to Field Book on their data collection device. The subsequent step of pushing observations from Field Book to DeltaBreed is straightforward via BrAPI, but is pending implementation until some enhancements can be made to ensure quality data is being transferred. These enhancements include improved data transaction handling, differentiation of intentional and inadvertent repeated measures, and a data staging area is implemented for quality control.
-
-<!-- Submission is expected July 2024. We may need to trim this aspirational list down to reality in final edits.-->
-DeltaBreed is integrated with at least eight other BrAPI community tools, and plans are in place to integrate with several more as the project continues. There is a BrAPI enabled connection, either in development or production, with all of the following tools: [BrAPI Java Test Server](https://test-server.brapi.org/brapi/v2/), [BreedBase](https://breedbase.org/), [Field Book](https://play.google.com/store/apps/details?id=com.fieldbook.tracker), [Gigwa](https://gigwa.southgreen.fr/gigwa/), [QBMS](https://icarda-git.github.io/QBMS), [Mr Bean](https://github.com/AparicioJohan/MrBeanApp), [Helium](https://helium.hutton.ac.uk/#/) and the [Pedigree Viewer](https://github.com/solgenomics/BrAPI-Pedigree-Viewer) BrAPP. 
+DeltaBreed users may not be aware of BrAPI or the specifics of underlying tools, but will notice that BrAPI interoperability reduces the need for human-mediated file transfers and data manipulation. Field Book users, for example, can connect to their DeltaBreed program, authenticate, and pull studies and observation variables directly from DeltaBreed to Field Book on their data collection device. The subsequent step of pushing observations from Field Book to DeltaBreed is straightforward via BrAPI, but is pending implementation until data quality validations are put in place; these include improved data transaction handling and differentiation of intentional and inadvertent repeated measures.
 
 
 #### FAIDARE

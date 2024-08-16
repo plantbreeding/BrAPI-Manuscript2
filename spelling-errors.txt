@@ -52,7 +52,7 @@ georeferencing
 GeoTIFF
 GH
 Gigwa’s
-grzegorz
+Grzegorz
 Hershberger
 Hok
 Hulse
