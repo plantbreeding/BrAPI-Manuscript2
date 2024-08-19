@@ -37,6 +37,7 @@ DArTView’s
 dataflow
 dataframe
 deployable
+DFG
 Dhondt
 Dhungana
 Dorrie
@@ -87,6 +88,7 @@ MISTEA
 MrBot
 Nderitu
 Neveu
+NFDI
 nickpalladino
 niio
 NIRS

@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-08-16'
+date-meta: '2024-08-19'
 author-meta:
 - Peter Selby
 - Rafael Abbeloos
@@ -97,11 +97,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI Success Stories" />
   <meta property="og:title" content="BrAPI Success Stories" />
   <meta property="twitter:title" content="BrAPI Success Stories" />
-  <meta name="dc.date" content="2024-08-16" />
-  <meta name="citation_publication_date" content="2024-08-16" />
-  <meta property="article:published_time" content="2024-08-16" />
-  <meta name="dc.modified" content="2024-08-16T23:02:39+00:00" />
-  <meta property="article:modified_time" content="2024-08-16T23:02:39+00:00" />
+  <meta name="dc.date" content="2024-08-19" />
+  <meta name="citation_publication_date" content="2024-08-19" />
+  <meta property="article:published_time" content="2024-08-19" />
+  <meta name="dc.modified" content="2024-08-19T13:52:24+00:00" />
+  <meta property="article:modified_time" content="2024-08-19T13:52:24+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -339,9 +339,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/859cbdb7358f52659c3a5a98c9b0411b7fcec5f7/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/859cbdb7358f52659c3a5a98c9b0411b7fcec5f7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/859cbdb7358f52659c3a5a98c9b0411b7fcec5f7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/2afe9b485405236f56640f2fb300883843a1bb86/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/2afe9b485405236f56640f2fb300883843a1bb86/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/2afe9b485405236f56640f2fb300883843a1bb86/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -363,10 +363,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/859cbdb7358f52659c3a5a98c9b0411b7fcec5f7/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/2afe9b485405236f56640f2fb300883843a1bb86/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@859cbdb](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/859cbdb7358f52659c3a5a98c9b0411b7fcec5f7)
-on August 16, 2024.
+from [plantbreeding/BrAPI-Manuscript2@2afe9b4](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/2afe9b485405236f56640f2fb300883843a1bb86)
+on August 19, 2024.
 </em></small>
 
 
@@ -1579,7 +1579,7 @@ Adopting BrAPI compatibility into an existing system can be difficult sometimes.
 <!-- Manuel & Bert -->
 Since the release of BrAPI 1.3, efforts have been made to incorporate support for the [MIAPPE](https://www.miappe.org/) (Minimal Information About a Plant Phenotyping Experiment) [@doi:10.1111/nph.16544] standard into the specification, achieving full compatibility in BrAPI 2.0. Consequently, BrAPI now includes all attributes necessary for MIAPPE compliance, adhering to standardized descriptions in accordance with MIAPPE guidelines. In some communities and projects, phenotyping data and metadata are archived and published as structured ISA-Tab files, validated using the [MIAPPE ISA configuration](https://github.com/ELIXIR-Belgium/isatab-validation) [@doi:10.1038/ng.1054]. Although ISA-Tab is easy to read for non-technical experts due to its file-based approach, it lacks programmatic accessibility, particularly for web applications. 
 
-[MIRA](https://github.com/USDA-ARS-GBRU/SugarcaneCrossingTool) enables the automatic deployment of a BrAPI server on a MIAPPE-compliant dataset in ISA-Tab format, facilitating programmatic access to these datasets. It is deployable from a Docker image with the dataset mounted. The tool leverages the mapping between MIAPPE, ISA-Tab, and BrAPI, eliminating the need for parsing or manual mapping of datasets compliant with (meta-)data standards. By providing programmatic access through BrAPI, MIRA facilitates the integration of phenotyping datasets into web applications.
+[MIRA](https://github.com/IPK-BIT/mira) enables the automatic deployment of a BrAPI server on a MIAPPE-compliant dataset in ISA-Tab format, facilitating programmatic access to these datasets. It is deployable from a Docker image with the dataset mounted. The tool leverages the mapping between MIAPPE, ISA-Tab, and BrAPI, eliminating the need for parsing or manual mapping of datasets compliant with (meta-)data standards. By providing programmatic access through BrAPI, MIRA facilitates the integration of phenotyping datasets into web applications.
 
 The [BrAPI2ISA](https://github.com/elixir-europe/plant-brapi-to-isa) service functions as a converter between a BrAPI-compatible server and the ISA-Tab format. The tool simplifies, automates, and facilitates the archiving of data, thereby enhancing data preservation and accessibility. The BrAPI2ISA tool is compatible with BrAPI 1.3 and welcomes community contributions to support the latest versions of BrAPI.
 
@@ -1649,6 +1649,7 @@ The authors would like to acknowledge the following funding sources:
 + U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
 + This work was funded and supported by ELIXIR, the research infrastructure for life science data.
 + The French Networks of Biological Resource Centres for Agricultural, Environmental and Life Sciences, doi: 10.15454/b4ec-tf49
++ The work was supported by the German Research Foundation DFG under the grant agreement number  442032008 (NFDI4Biodiversity). NFDI4Biodiversity is part of NFDI, the National Research Data Infrastructure in Germany (<www.nfdi.de>).
 + The Bill and Malinda Gates Foundation in cooperation with the Excellence in Breeding Platform of the CGIAR
 
 ## Author Contributions {.page_break_before}
