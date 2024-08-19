@@ -530,6 +530,7 @@ authors:
       - Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France
   - name: Joseph Ruff
     initials: JR
+    github: JosephRuff
     email: J.Ruff@kew.org
     corresponding: false
     affiliations:
