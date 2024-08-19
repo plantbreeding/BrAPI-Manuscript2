@@ -18,6 +18,7 @@ barcodes
 Berlinstraße
 Besombes
 BioinfOmics
+BMBF
 Boizet
 boxplot
 breedwithbims
@@ -45,6 +46,7 @@ DSBrAPP
 EE
 erlefloch
 FFAR
+FKZ
 Florilège
 François
 GBS
@@ -53,7 +55,7 @@ georeferencing
 GeoTIFF
 GH
 Gigwa’s
-Grzegorz
+grzegorz
 Hershberger
 Hok
 Hulse

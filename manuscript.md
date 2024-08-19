@@ -100,8 +100,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-19" />
   <meta name="citation_publication_date" content="2024-08-19" />
   <meta property="article:published_time" content="2024-08-19" />
-  <meta name="dc.modified" content="2024-08-19T16:50:36+00:00" />
-  <meta property="article:modified_time" content="2024-08-19T16:50:36+00:00" />
+  <meta name="dc.modified" content="2024-08-19T20:08:37+00:00" />
+  <meta property="article:modified_time" content="2024-08-19T20:08:37+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -339,9 +339,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/dab19d16cde75b4702f4d6bcc35796de67310c51/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/dab19d16cde75b4702f4d6bcc35796de67310c51/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/dab19d16cde75b4702f4d6bcc35796de67310c51/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1d3e3a1526b0f6215dabf65bfeb018efbb9db827/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1d3e3a1526b0f6215dabf65bfeb018efbb9db827/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1d3e3a1526b0f6215dabf65bfeb018efbb9db827/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -363,9 +363,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/dab19d16cde75b4702f4d6bcc35796de67310c51/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/1d3e3a1526b0f6215dabf65bfeb018efbb9db827/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@dab19d1](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/dab19d16cde75b4702f4d6bcc35796de67310c51)
+from [plantbreeding/BrAPI-Manuscript2@1d3e3a1](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/1d3e3a1526b0f6215dabf65bfeb018efbb9db827)
 on August 19, 2024.
 </em></small>
 
@@ -741,7 +741,7 @@ on August 19, 2024.
     <br>
   <small>
      Leibniz Institute of Plant Genetics and Crop Plant Research
-     · Funded by The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 862613.
+     · Funded by The SHAPE3 project is funded by a grant from the German Ministry of Research and Education (BMBF, FKZ 031B1302A).
   </small>
 
 + **Suman Kumar**
@@ -1339,17 +1339,15 @@ Initially developed by DArT, the tool is gaining popularity within the breeding 
 
 #### DivBrowse
 
-<!-- Sebastian B -->
+<!-- Sebastian B and Patrick K -->
 [DivBrowse](https://divbrowse.ipk-gatersleben.de/) [@doi:10.1093/gigascience/giad025] is a web platform for exploratory data analysis of large genotyping studies. 
 The software can be run standalone or integrated as a plugin into existing web portals. 
 At its core, DivBrowse combines the convenience of a genome browser with features tailored to germplasm diversity analysis. 
 DivBrowse provides visual access to VCF files obtained through genotyping experiments and can handle hundreds of millions of variants across thousands of samples.
 It is able to display genomic features such as nucleotide sequence, associated gene models, and short genomic variants. DivBrowse also calculates and displays variant statistics such as minor allele frequencies, the proportion of heterozygous calls, and the proportion of missing variant calls. 
 Dynamic principal component analyses can be performed on a user-specified genomic area to provide information on local genomic diversity. 
-
-DivBrowse employs the BrAPI-Genotyping module to access genotypic data from external BrAPI endpoints. 
-DivBrowse also has an interface to [BLAST](https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi) [@doi:10.1016/S0022-2836(05)80360-2], which can be used to directly access genes or other genomic features. 
-The modular structure of DivBrowse allows developers to configure and easily embed links to other external information systems.
+DivBrowse also has an interface to BLAST+ tools [@doi:10.1186/1471-2105-10-421] installed on Galaxy servers [@doi:10.1186/s13742-015-0080-7], which can be used to directly access genes or other genomic features from results of custom BLAST query. 
+DivBrowse employs the BrAPI-Genotyping module to serve genotypic data as a BrAPI endpoint and to get genotypic data from other BrAPI endpoints.
 
 
 #### Flapjack
@@ -1654,6 +1652,7 @@ The authors would like to acknowledge the following funding sources:
 + The French Networks of Biological Resource Centres for Agricultural, Environmental and Life Sciences, doi: 10.15454/b4ec-tf49
 + The work was supported by the German Research Foundation DFG under the grant agreement number 442032008 (NFDI4Biodiversity). NFDI4Biodiversity is part of NFDI, the National Research Data Infrastructure in Germany ([www.nfdi.de](www.nfdi.de)).
 + The Bill and Malinda Gates Foundation in cooperation with the Excellence in Breeding Platform of the CGIAR
++ The development of DivBrowse is funded by a grant from the German Ministry of Research and Education (BMBF, FKZ 031B1302A).
 
 ## Author Contributions {.page_break_before}
 
@@ -1667,7 +1666,7 @@ The authors would like to acknowledge the following funding sources:
 + **Johan Steven Aparicio**: Johan wrote the section on the Mr.Bean project, and has made significant contributions to the BrAPI compatibility of the Mr.Bean project. 
 + **Jan Erik Backlund**: Jan Erik has made significant contributions to the BMS project. 
 + **Aldrin Batac**: Aldrin has made significant contributions to the BMS project. 
-+ **Sebastian Beier**: Sebastian wrote the section on the DivBrowse project, and has made significant contributions to the BrAPI compatibility of the DivBrowse project. 
++ **Sebastian Beier**: Sebastian wrote the section about the DivBrowse tool. 
 + **Gabriel Besombes**: Gabriel has made significant contributions to the PHIS project. 
 + **Alice Boizet**: Alice wrote the section on the Florilège projects, and has made significant contributions to the BrAPI compatibility of the Florilège, Gigwa and ShinyBrAPPs projects. 
 + **Matthijs Brouwer**: Matthijs has made significant contributions to the AGENT project. 
@@ -1694,7 +1693,7 @@ The authors would like to acknowledge the following funding sources:
 + **Sook Jung**: Sook wrote the section on the BIMS project, and has made significant contributions to the BrAPI compatibility of the BIMS project. 
 + **Paul Kersey**: Paul has made significant contributions to the AGENT project. 
 + **Andrzej Kilian**: Andrzej has made significant contributions to the DArT Sample Submission and DArTView projects. 
-+ **Patrick König**: Patrick has made significant contributions to the AGENT project. 
++ **Patrick König**: Patrick contributed to the section about the DivBrowse tool, and has made significant contributions to the BrAPI compatibility of the DivBrowse tool, and has made significant contributions to the BrAPI compatibility of the AGENT project.
 + **Suman Kumar**: Suman has made significant contributions to the AGENT project. 
 + **Josh Lamos-Sweeney**: Josh wrote the section on the G-Crunch project, and has made significant contributions to the BrAPI compatibility of the G-Crunch project. 
 + **Laszlo Lang**: Laszlo has made significant contributions to the Zendro project. 
