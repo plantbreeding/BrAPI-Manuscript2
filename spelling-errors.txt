@@ -53,7 +53,7 @@ georeferencing
 GeoTIFF
 GH
 Gigwa’s
-grzegorz
+Grzegorz
 Hershberger
 Hok
 Hulse
@@ -107,7 +107,7 @@ Puthick
 raincloud
 Rami
 Rica
-Romil
+romil
 scatterplot
 SCT
 SCYarnes
