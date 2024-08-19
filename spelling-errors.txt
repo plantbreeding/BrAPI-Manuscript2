@@ -66,6 +66,7 @@ jframi
 jmh
 jndmose
 Johan
+JosephRuff
 Jülich
 Kauê
 kauedesousa
@@ -102,11 +103,11 @@ Pérez
 PGRs
 polymorphism
 prebuilt
-puthick
+Puthick
 raincloud
 Rami
 Rica
-romil
+Romil
 scatterplot
 SCT
 SCYarnes

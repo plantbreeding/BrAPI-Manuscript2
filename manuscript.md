@@ -100,8 +100,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-19" />
   <meta name="citation_publication_date" content="2024-08-19" />
   <meta property="article:published_time" content="2024-08-19" />
-  <meta name="dc.modified" content="2024-08-19T13:52:24+00:00" />
-  <meta property="article:modified_time" content="2024-08-19T13:52:24+00:00" />
+  <meta name="dc.modified" content="2024-08-19T14:30:16+00:00" />
+  <meta property="article:modified_time" content="2024-08-19T14:30:16+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -339,9 +339,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/2afe9b485405236f56640f2fb300883843a1bb86/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/2afe9b485405236f56640f2fb300883843a1bb86/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/2afe9b485405236f56640f2fb300883843a1bb86/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e974bf4da566b76698264aeb8b886291d813c44c/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e974bf4da566b76698264aeb8b886291d813c44c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e974bf4da566b76698264aeb8b886291d813c44c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -363,9 +363,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/2afe9b485405236f56640f2fb300883843a1bb86/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/e974bf4da566b76698264aeb8b886291d813c44c/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@2afe9b4](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/2afe9b485405236f56640f2fb300883843a1bb86)
+from [plantbreeding/BrAPI-Manuscript2@e974bf4](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/e974bf4da566b76698264aeb8b886291d813c44c)
 on August 19, 2024.
 </em></small>
 
@@ -1019,6 +1019,9 @@ on August 19, 2024.
 
 + **Joseph Ruff**
   <br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [JosephRuff](https://github.com/JosephRuff)
+    <br>
   <small>
      Royal Botanic Gardens, Kew
      · Funded by The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 862613.
@@ -1649,7 +1652,7 @@ The authors would like to acknowledge the following funding sources:
 + U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
 + This work was funded and supported by ELIXIR, the research infrastructure for life science data.
 + The French Networks of Biological Resource Centres for Agricultural, Environmental and Life Sciences, doi: 10.15454/b4ec-tf49
-+ The work was supported by the German Research Foundation DFG under the grant agreement number  442032008 (NFDI4Biodiversity). NFDI4Biodiversity is part of NFDI, the National Research Data Infrastructure in Germany (<www.nfdi.de>).
++ The work was supported by the German Research Foundation DFG under the grant agreement number 442032008 (NFDI4Biodiversity). NFDI4Biodiversity is part of NFDI, the National Research Data Infrastructure in Germany ([www.nfdi.de](www.nfdi.de)).
 + The Bill and Malinda Gates Foundation in cooperation with the Excellence in Breeding Platform of the CGIAR
 
 ## Author Contributions {.page_break_before}
