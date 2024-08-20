@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-08-19'
+date-meta: '2024-08-20'
 author-meta:
 - Peter Selby
 - Rafael Abbeloos
@@ -97,11 +97,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI v2: An application showcase of a unified framework for data integration and collaboration for breeding and genetic resources" />
   <meta property="og:title" content="BrAPI v2: An application showcase of a unified framework for data integration and collaboration for breeding and genetic resources" />
   <meta property="twitter:title" content="BrAPI v2: An application showcase of a unified framework for data integration and collaboration for breeding and genetic resources" />
-  <meta name="dc.date" content="2024-08-19" />
-  <meta name="citation_publication_date" content="2024-08-19" />
-  <meta property="article:published_time" content="2024-08-19" />
-  <meta name="dc.modified" content="2024-08-19T20:08:37+00:00" />
-  <meta property="article:modified_time" content="2024-08-19T20:08:37+00:00" />
+  <meta name="dc.date" content="2024-08-20" />
+  <meta name="citation_publication_date" content="2024-08-20" />
+  <meta property="article:published_time" content="2024-08-20" />
+  <meta name="dc.modified" content="2024-08-20T16:07:30+00:00" />
+  <meta property="article:modified_time" content="2024-08-20T16:07:30+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -339,9 +339,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1d3e3a1526b0f6215dabf65bfeb018efbb9db827/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1d3e3a1526b0f6215dabf65bfeb018efbb9db827/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/1d3e3a1526b0f6215dabf65bfeb018efbb9db827/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/3c5e07c784f6ab41ceea7c16ff59fbf1a03610c1/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/3c5e07c784f6ab41ceea7c16ff59fbf1a03610c1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/3c5e07c784f6ab41ceea7c16ff59fbf1a03610c1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -363,10 +363,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/1d3e3a1526b0f6215dabf65bfeb018efbb9db827/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/3c5e07c784f6ab41ceea7c16ff59fbf1a03610c1/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@1d3e3a1](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/1d3e3a1526b0f6215dabf65bfeb018efbb9db827)
-on August 19, 2024.
+from [plantbreeding/BrAPI-Manuscript2@3c5e07c](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/3c5e07c784f6ab41ceea7c16ff59fbf1a03610c1)
+on August 20, 2024.
 </em></small>
 
 
@@ -1693,7 +1693,7 @@ The authors would like to acknowledge the following funding sources:
 + **Sook Jung**: Sook wrote the section on the BIMS project, and has made significant contributions to the BrAPI compatibility of the BIMS project. 
 + **Paul Kersey**: Paul has made significant contributions to the AGENT project. 
 + **Andrzej Kilian**: Andrzej has made significant contributions to the DArT Sample Submission and DArTView projects. 
-+ **Patrick König**: Patrick contributed to the section about the DivBrowse tool, and has made significant contributions to the BrAPI compatibility of the DivBrowse tool, and has made significant contributions to the BrAPI compatibility of the AGENT project.
++ **Patrick König**: Patrick contributed to the section about the DivBrowse tool, and has made significant contributions to the BrAPI compatibility of the DivBrowse tool and the AGENT project.
 + **Suman Kumar**: Suman has made significant contributions to the AGENT project. 
 + **Josh Lamos-Sweeney**: Josh wrote the section on the G-Crunch project, and has made significant contributions to the BrAPI compatibility of the G-Crunch project. 
 + **Laszlo Lang**: Laszlo has made significant contributions to the Zendro project. 
