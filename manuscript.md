@@ -100,8 +100,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-20" />
   <meta name="citation_publication_date" content="2024-08-20" />
   <meta property="article:published_time" content="2024-08-20" />
-  <meta name="dc.modified" content="2024-08-20T16:07:30+00:00" />
-  <meta property="article:modified_time" content="2024-08-20T16:07:30+00:00" />
+  <meta name="dc.modified" content="2024-08-20T16:43:41+00:00" />
+  <meta property="article:modified_time" content="2024-08-20T16:43:41+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -339,9 +339,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/3c5e07c784f6ab41ceea7c16ff59fbf1a03610c1/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/3c5e07c784f6ab41ceea7c16ff59fbf1a03610c1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/3c5e07c784f6ab41ceea7c16ff59fbf1a03610c1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/c573bc923f3e32d124a44ba9944e29331bd4cedf/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/c573bc923f3e32d124a44ba9944e29331bd4cedf/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/c573bc923f3e32d124a44ba9944e29331bd4cedf/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -363,9 +363,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/3c5e07c784f6ab41ceea7c16ff59fbf1a03610c1/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/c573bc923f3e32d124a44ba9944e29331bd4cedf/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@3c5e07c](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/3c5e07c784f6ab41ceea7c16ff59fbf1a03610c1)
+from [plantbreeding/BrAPI-Manuscript2@c573bc9](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/c573bc923f3e32d124a44ba9944e29331bd4cedf)
 on August 20, 2024.
 </em></small>
 
@@ -1155,7 +1155,7 @@ Peter Selby \<ps664@cornell.edu\>.
 Population growth and climate change necessitate extraordinary efforts to increase efficiency in breeding programs around the world. 
 Recent advancements in phenotyping techniques, genotyping technologies, and prediction approaches are facilitating increased genetic gain in breeding, but they have also created a torrent of disconnected data. 
 The successful implementation of these methods depends on proper data management, which is particularly challenging due to the need to integrate datasets across various types, formats, and sources. 
-The Breeding API (BrAPI) project is an international effort that is enabling more efficient data management through the development of interoperable research databases and tools that can be used to share and interpret breeding-related data. 
+The Breeding API (BrAPI) project is an international effort that is enabling more efficient data management through the development of interoperable databases and tools that can be used to share and interpret breeding-related data. 
 This community driven standard is software agnostic, open-source, and can be used by anyone interested in plant breeding, phenotyping, germplasm, genotyping, and agronomy data management. 
 This manuscript presents an overview of the BrAPI project, the substantial growth of the data standard, and the wide variety of BrAPI-compatible, community-built tools for breeding and research.
 
@@ -1642,17 +1642,17 @@ The authors declare no competing interests.
 The authors would like to acknowledge the following funding sources:
 
 + The BrAPI Project is funded by the USDA grant NIFA-DSFAS 2022-67021-37024.
-+ Innovation Lab for Crop Improvement Cornell, ILCI: 7200AA19LE00005, FFAR: CA20-SS-0000000103
++ 'Innovation Lab for Crop Improvement Cornell, ILCI: 7200AA19LE00005, FFAR: CA20-SS-0000000103'
 + The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 862613.
 + USDA National Institute of Food and Agriculture National Research Support Project 10
++ The SHAPE3 project is funded by a grant from the German Ministry of Research and Education (BMBF, FKZ 031B1302A).
 + USDA NIFA: 2022-51181-38449
 + This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)      
 + U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
-+ This work was funded and supported by ELIXIR, the research infrastructure for life science data.
++ This work was funded and supported by ELIXIR, the research infrastructure for life science data.
 + The French Networks of Biological Resource Centres for Agricultural, Environmental and Life Sciences, doi: 10.15454/b4ec-tf49
 + The work was supported by the German Research Foundation DFG under the grant agreement number 442032008 (NFDI4Biodiversity). NFDI4Biodiversity is part of NFDI, the National Research Data Infrastructure in Germany ([www.nfdi.de](www.nfdi.de)).
 + The Bill and Malinda Gates Foundation in cooperation with the Excellence in Breeding Platform of the CGIAR
-+ The development of DivBrowse is funded by a grant from the German Ministry of Research and Education (BMBF, FKZ 031B1302A).
 
 ## Author Contributions {.page_break_before}
 
@@ -1666,7 +1666,7 @@ The authors would like to acknowledge the following funding sources:
 + **Johan Steven Aparicio**: Johan wrote the section on the Mr.Bean project, and has made significant contributions to the BrAPI compatibility of the Mr.Bean project. 
 + **Jan Erik Backlund**: Jan Erik has made significant contributions to the BMS project. 
 + **Aldrin Batac**: Aldrin has made significant contributions to the BMS project. 
-+ **Sebastian Beier**: Sebastian wrote the section about the DivBrowse tool. 
++ **Sebastian Beier**: Sebastian wrote the section on the DivBrowse project.
 + **Gabriel Besombes**: Gabriel has made significant contributions to the PHIS project. 
 + **Alice Boizet**: Alice wrote the section on the Florilège projects, and has made significant contributions to the BrAPI compatibility of the Florilège, Gigwa and ShinyBrAPPs projects. 
 + **Matthijs Brouwer**: Matthijs has made significant contributions to the AGENT project. 
@@ -1693,7 +1693,7 @@ The authors would like to acknowledge the following funding sources:
 + **Sook Jung**: Sook wrote the section on the BIMS project, and has made significant contributions to the BrAPI compatibility of the BIMS project. 
 + **Paul Kersey**: Paul has made significant contributions to the AGENT project. 
 + **Andrzej Kilian**: Andrzej has made significant contributions to the DArT Sample Submission and DArTView projects. 
-+ **Patrick König**: Patrick contributed to the section about the DivBrowse tool, and has made significant contributions to the BrAPI compatibility of the DivBrowse tool and the AGENT project.
++ **Patrick König**: Patrick wrote the section on the DivBrowse projects, and has made significant contributions to the BrAPI compatibility of the DivBrowse and AGENT projects. 
 + **Suman Kumar**: Suman has made significant contributions to the AGENT project. 
 + **Josh Lamos-Sweeney**: Josh wrote the section on the G-Crunch project, and has made significant contributions to the BrAPI compatibility of the G-Crunch project. 
 + **Laszlo Lang**: Laszlo has made significant contributions to the Zendro project. 
@@ -1731,7 +1731,7 @@ The authors would like to acknowledge the following funding sources:
 + **Grzegorz Uszynski**: Grzegorz wrote the section on the DArT Sample Submission project, and has made significant contributions to the BrAPI compatibility of the DArT Sample Submission project. 
 + **Vivian Bass Vega**: Vivian has made significant contributions to the Zendro project. 
 + **Stephan Weise**: Stephan has made significant contributions to the AGENT project. 
-+ **Shawn C. Yarnes**: Shawn wrote the section on the DeltaBreed project, and has made significant contributions to the BrAPI compatibility of the DeltaBreed project.
++ **Shawn C. Yarnes**: Shawn wrote the section on the DeltaBreed project, and has made significant contributions to the BrAPI compatibility of the DeltaBreed project. 
 
 ## References {.page_break_before}
 
