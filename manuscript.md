@@ -100,8 +100,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-23" />
   <meta name="citation_publication_date" content="2024-08-23" />
   <meta property="article:published_time" content="2024-08-23" />
-  <meta name="dc.modified" content="2024-08-23T15:28:45+00:00" />
-  <meta property="article:modified_time" content="2024-08-23T15:28:45+00:00" />
+  <meta name="dc.modified" content="2024-08-23T16:41:36+00:00" />
+  <meta property="article:modified_time" content="2024-08-23T16:41:36+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -339,9 +339,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8998e037698e8a4f49623488e852190a4658f851/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8998e037698e8a4f49623488e852190a4658f851/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8998e037698e8a4f49623488e852190a4658f851/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/87d12dc4dbcdb1c873f6fea7b67cc88fde153936/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/87d12dc4dbcdb1c873f6fea7b67cc88fde153936/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/87d12dc4dbcdb1c873f6fea7b67cc88fde153936/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -363,9 +363,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/8998e037698e8a4f49623488e852190a4658f851/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/87d12dc4dbcdb1c873f6fea7b67cc88fde153936/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@8998e03](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/8998e037698e8a4f49623488e852190a4658f851)
+from [plantbreeding/BrAPI-Manuscript2@87d12dc](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/87d12dc4dbcdb1c873f6fea7b67cc88fde153936)
 on August 23, 2024.
 </em></small>
 
@@ -1178,7 +1178,7 @@ Data repositories and service providers that are BrAPI compatible have mapped th
 
 Over its lifetime, the BrAPI project has grown and changed substantially. The total size of the specification has almost quadrupled since the release of version v1.0 in 2017, increasing from 51 endpoints in v1.0 to 201 endpoints in v2.1. Because of this growth, the specification documents were reorganized into four modules: BrAPI-Core, BrAPI-Phenotyping, BrAPI-Genotyping, and BrAPI-Germplasm. Figure {@fig:domains} is a simplified domain map of the whole BrAPI data model, showing what kinds of data are defined in each module. While early versions of the specification focused on read-only phenotype data, the specification now has representation from most of the major concepts related to breeding. The newest specification has also been updated to be internally consistent, easier to navigate, and allow for read, write, and update capabilities.
 
-![A simplified domain map of the whole BrAPI data model, divided into organizational modules. A more detailed Entity Relationship Diagram (ERD) is available on brapi.org.](images/BrAPI_Domains_v2-1_vertical.png){#fig:domains width="100%"}
+![A simplified domain map of the whole BrAPI data model, divided into organizational modules. A more detailed Entity Relationship Diagram (ERD) is available on brapi.org.](images/FIGURE_1_BrAPI_Domains_v2.jpg){#fig:domains width="100%"}
 
 As BrAPI has matured, so have the tools, services, and libraries that work with the specification. Each new version is released with a change log to guide developers as they upgrade, an Entity Relationship Diagram (ERD) to visually describe the data model, and a JSON Schema data model to be used for automated development efforts. For groups using Java, Java Script, Python, R, or Drupal, community-maintained libraries are available with full BrAPI implementations ready to be integrated into existing code. The BrAPI Test Server is updated to support every version of the specification for testing purposes. Finally, there are resource pages on the [project website](brapi.org) that showcase BrAPI-compatible applications and data resources available in the community.
 
@@ -1194,7 +1194,7 @@ The BrAPI Hackathons are a major staple of the BrAPI community [@doi:10.1101/gr.
 
 Below are a number of short success stories from the BrAPI community. These tools, applications, and infrastructure projects serve as another indicator of community growth and success over the past 5 years. These stories clearly illustrate all the different ways the BrAPI standard can be used productively and in practice. Figure {@fig:apps} contains a summary of many of the currently available BrAPI-compliant tools, and each will be further described below.
 
-![A summary of all the tools described below and the general areas each tool is designed to handle. The “Generation/Collection” column indicates that an application is used to input or create new data. The “Storage” column indicates the tool stores that type of data. The “Visualization” column indicates that application has a way of presenting data to a human user. The “Analysis” column indicates the tool does some calculation to provide new insight.](images/BrAPI_Paper_Applications_Chart.png){#fig:apps width="100%"}
+![A summary of all the tools described below and the general areas each tool is designed to handle. The “Generation/Collection” column indicates that an application is used to input or create new data. The “Storage” column indicates the tool stores that type of data. The “Visualization” column indicates that application has a way of presenting data to a human user. The “Analysis” column indicates the tool does some calculation to provide new insight.](images/FIGURE_2_Applications_Chart.jpg){#fig:apps width="100%"}
 
 <!-- NOTES TO UPDATE THE  BrAPI_Paper_Applications_Chart.png :
 FAIDARE: Core, Phenotyping, Genotyping, Germplasm Visualization .

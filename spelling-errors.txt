@@ -105,11 +105,11 @@ Pérez
 PGRs
 polymorphism
 prebuilt
-puthick
+Puthick
 raincloud
 Rami
 Rica
-Romil
+romil
 scatterplot
 SCT
 SCYarnes
