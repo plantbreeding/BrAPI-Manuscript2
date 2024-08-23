@@ -1,5 +1,5 @@
 ---
-title: 'BrAPI v2: An application showcase of a unified framework for data integration and collaboration for breeding and genetic resources'
+title: BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources
 keywords:
 - brapi
 - breeding
@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-08-20'
+date-meta: '2024-08-23'
 author-meta:
 - Peter Selby
 - Rafael Abbeloos
@@ -93,15 +93,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="BrAPI v2: An application showcase of a unified framework for data integration and collaboration for breeding and genetic resources" />
-  <meta name="citation_title" content="BrAPI v2: An application showcase of a unified framework for data integration and collaboration for breeding and genetic resources" />
-  <meta property="og:title" content="BrAPI v2: An application showcase of a unified framework for data integration and collaboration for breeding and genetic resources" />
-  <meta property="twitter:title" content="BrAPI v2: An application showcase of a unified framework for data integration and collaboration for breeding and genetic resources" />
-  <meta name="dc.date" content="2024-08-20" />
-  <meta name="citation_publication_date" content="2024-08-20" />
-  <meta property="article:published_time" content="2024-08-20" />
-  <meta name="dc.modified" content="2024-08-20T16:43:41+00:00" />
-  <meta property="article:modified_time" content="2024-08-20T16:43:41+00:00" />
+  <meta name="dc.title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
+  <meta name="citation_title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
+  <meta property="og:title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
+  <meta property="twitter:title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
+  <meta name="dc.date" content="2024-08-23" />
+  <meta name="citation_publication_date" content="2024-08-23" />
+  <meta property="article:published_time" content="2024-08-23" />
+  <meta name="dc.modified" content="2024-08-23T15:28:45+00:00" />
+  <meta property="article:modified_time" content="2024-08-23T15:28:45+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -339,9 +339,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/c573bc923f3e32d124a44ba9944e29331bd4cedf/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/c573bc923f3e32d124a44ba9944e29331bd4cedf/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/c573bc923f3e32d124a44ba9944e29331bd4cedf/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8998e037698e8a4f49623488e852190a4658f851/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8998e037698e8a4f49623488e852190a4658f851/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8998e037698e8a4f49623488e852190a4658f851/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -363,10 +363,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/c573bc923f3e32d124a44ba9944e29331bd4cedf/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/8998e037698e8a4f49623488e852190a4658f851/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@c573bc9](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/c573bc923f3e32d124a44ba9944e29331bd4cedf)
-on August 20, 2024.
+from [plantbreeding/BrAPI-Manuscript2@8998e03](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/8998e037698e8a4f49623488e852190a4658f851)
+on August 23, 2024.
 </em></small>
 
 
@@ -1590,7 +1590,7 @@ The [BrAPI2ISA](https://github.com/elixir-europe/plant-brapi-to-isa) service fun
 <!-- Asis Hallab -->
 Using the [Zendro](https://zendro-dev.github.io) set of automatic software code generators, a fully functional, efficient, and cloud-capable BrAPI data-warehouse has been created for the current version of the BrAPI data models. Unlike most BrAPI-compliant data sources, this data-warehouse supports a GraphQL API rather than a RESTful API. This API provides secure access to data read and write functions for all BrAPI data models. It provides create, read, update, and delete (CRUD) functions that are standardized and accept the same parameters for all data models. Zendro supports a large number of underlying database systems, allowing flexibility during installation and integration.
 
-The GraphQL server is particularly rich in features. Logical filters allow for exhaustive search queries, whose structure is highly intuitive and based around logical triplets. A large collection of operators is available and triplets can be combined to logical search trees using "and" or "or" operators. Searches can be extended over relationships between data models, thus enabling a user to query the warehouse for exactly the required data. Authorization is based on user roles and can be configured differently for each single data model read or write function. The generated graphical interface allows for the integration of interactive scientific plots and analysis tools written in JavaScript or WebAssembly.
+The GraphQL server is particularly rich in features. Logical filters allow for exhaustive search queries, whose structure is highly intuitive and based around logical triplets. Such triplets consists of a BrAPI model property, a logical operator, and a value, e.g. "Study-name equals 'Nursery Study'". A large collection of operators is available and triplets can be combined to logical search trees using "and" or "or" operators. Searches can be extended over relationships between data models, thus enabling a user to query the warehouse for exactly the required data. Authorization is based on user roles and can be configured differently for each single data model read or write function. The generated graphical interface allows for the integration of interactive scientific plots and analysis tools written in JavaScript or WebAssembly.
 
 <!-- Asis Hallab: To Do: (i) provide the link to an example running data warehouse, and (ii) include and describe example scientific plots. -->
 
@@ -1633,9 +1633,10 @@ No data was generated from this project.
 
 The all of software and documentation generated by the BrAPI project is free, public, and open source. Everything is available under the MIT open-source license and can be accessed through [brapi.org](https://brapi.org). Most of the other software projects referenced and discussed here are also open source and the text contain links to their repositories or project pages. However, the authors take no responsibility for their availability or licensing. 
 
-## Competing Interests Statement 
+## References {.page_break_before}
 
-The authors declare no competing interests.
+<!-- Auto generated references here -->
+<div id="refs"></div>
 
 ## Acknowledgements 
 
@@ -1733,8 +1734,6 @@ The authors would like to acknowledge the following funding sources:
 + **Stephan Weise**: Stephan has made significant contributions to the AGENT project. 
 + **Shawn C. Yarnes**: Shawn wrote the section on the DeltaBreed project, and has made significant contributions to the BrAPI compatibility of the DeltaBreed project. 
 
-## References {.page_break_before}
+## Competing Interests Statement 
 
-<!-- Auto generated references here -->
-<div id="refs"></div>
-
+The authors declare no competing interests.
