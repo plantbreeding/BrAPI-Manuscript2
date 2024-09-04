@@ -100,8 +100,8 @@ header-includes: |
   <meta name="dc.date" content="2024-09-04" />
   <meta name="citation_publication_date" content="2024-09-04" />
   <meta property="article:published_time" content="2024-09-04" />
-  <meta name="dc.modified" content="2024-09-04T22:03:37+00:00" />
-  <meta property="article:modified_time" content="2024-09-04T22:03:37+00:00" />
+  <meta name="dc.modified" content="2024-09-04T22:08:47+00:00" />
+  <meta property="article:modified_time" content="2024-09-04T22:08:47+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -339,9 +339,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/479885ae4622f73c6e2d3d494456ff43592f7a94/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/479885ae4622f73c6e2d3d494456ff43592f7a94/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/479885ae4622f73c6e2d3d494456ff43592f7a94/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/16461246e6e6693a728017bec5423dd8de06972d/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/16461246e6e6693a728017bec5423dd8de06972d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/16461246e6e6693a728017bec5423dd8de06972d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -363,9 +363,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/479885ae4622f73c6e2d3d494456ff43592f7a94/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/16461246e6e6693a728017bec5423dd8de06972d/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@479885a](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/479885ae4622f73c6e2d3d494456ff43592f7a94)
+from [plantbreeding/BrAPI-Manuscript2@1646124](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/16461246e6e6693a728017bec5423dd8de06972d)
 on September 4, 2024.
 </em></small>
 
@@ -667,236 +667,435 @@ on September 4, 2024.
 <br>
 
 
-     Cornell University
-  </small>
-
-     VIB Agro-Incubator
-  </small>
-
-     Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
-  </small>
-
-     Cornell University
-  </small>
-
-     Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
-  </small>
-
-     MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
-  </small>
-
-     ICARDA
-  </small>
-
-     Alliance Bioversity-CIAT
-  </small>
-
-     Integrated Breeding Platform
-  </small>
-
-     Integrated Breeding Platform; Leafnode LLC
-  </small>
-
-     Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszentrum Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany; Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany
-  </small>
-
-     MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
-  </small>
-
-     CIRAD, UMR AGAP Institut, Montpellier, France.; AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France.
-  </small>
-
-     Wageningen University and Research
-  </small>
-
-     Buckler Lab and Institute for Genomic Diversity, Cornell University
-  </small>
-
-     MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
-  </small>
-
-     USDA-ARS Genomics and Bioinformatics Research Unit
-  </small>
-
-     Clemson University
-  </small>
-
-     Integrated Breeding Platform
-  </small>
-
-     Leibniz Institute of Plant Genetics and Crop Plant Research
-  </small>
-
-     Digital Inclusion, Bioversity International, Montpellier, France
-  </small>
-
-     Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
-  </small>
-
-     VIB AgroIncubator
-  </small>
-
-     Louisiana State University (LSU)
-  </small>
-
-     VIB Data Core
-  </small>
-
-     Leibniz Institute of Plant Genetics and Crop Plant Research; Graduate School DILS, Bielefeld Institute for Bioinformatics Infrastructure (BIBI)
-  </small>
-
-     Boyce Thompson Institute
-  </small>
-
-     Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France
-  </small>
-
-     Integrated Breeding Platform
-  </small>
-
-     Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany
-  </small>
-
-     Clemson University
-  </small>
-
-     Diversity Arrays Technology (DArT)
-  </small>
-
-     USDA-ARS Genomics and Bioinformatics Research Unit
-  </small>
-
-     Buckler Lab and Institute for Genomic Diversity, Cornell University
-  </small>
-
-     Department of Horticulture, Washington State University
-  </small>
-
-     Royal Botanic Gardens, Kew
-  </small>
-
-     Diversity Arrays Technology (DArT)
-  </small>
-
-     Leibniz Institute of Plant Genetics and Crop Plant Research
-  </small>
-
-     Leibniz Institute of Plant Genetics and Crop Plant Research
-  </small>
-
-     Cornell University
-  </small>
-
-     Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
-  </small>
-
-     Leibniz Institute of Plant Genetics and Crop Plant Research
-  </small>
-
-     Digital Inclusion, Bioversity International, Montpellier, France.
-  </small>
-
-     Department of Horticulture, Washington State University
-  </small>
-
-     Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
-  </small>
-
-     International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
-  </small>
-
-     MrBot Software Solutions, Cartago, Costa Rica
-  </small>
-
-     Department of Horticulture, Washington State University
-  </small>
-
-     International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
-  </small>
-
-     Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
-  </small>
-
-     Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
-  </small>
-
-     Buckler Lab and Institute for Genomic Diversity, Cornell University
-  </small>
-
-     The James Hutton Institute
-  </small>
-
-     The Boyce Thompson Institute
-  </small>
-
-     SEQART AFRICA
-  </small>
-
-     MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
-  </small>
-
-     Breeding Insight, Cornell University
-  </small>
-
-     Breeding Insight, Cornell University
-  </small>
-
-     Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
-  </small>
-
-     CIRAD, UMR AGAP Institut, Montpellier, France.; AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France.
-  </small>
-
-     The James Hutton Institute
-  </small>
-
-     Clemson University
-  </small>
-
-     Cornell University
-  </small>
-
-     Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France
-  </small>
-
-     Royal Botanic Gardens, Kew
-  </small>
-
-     CIRAD, UMR INTERTRYP, Montpellier, France INTERTRYP, Univ Montpellier, CIRAD, IRD, Montpellier, France French Institute of Bioinformatics (IFB); South Green Bioinformatics Platform, Bioversity, CIRAD, INRAE, IRD, Montpellier, France
-  </small>
-
-     North Carolina State University
-  </small>
-
-     The James Hutton Institute
-  </small>
-
-     The James Hutton Institute
-  </small>
-
-     Integrated Breeding Platform; Leafnode LLC
-  </small>
-
-     MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
-  </small>
-
-     Integrated Breeding Platform; Leafnode LLC
-  </small>
-
-     Diversity Arrays Technology (DArT)
-  </small>
-
-     Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
-  </small>
-
-     Leibniz Institute of Plant Genetics and Crop Plant Research
-  </small>
-
-     Breeding Insight, Cornell University
-  </small>
-
-     The BrAPI Consortium
-  </small>
+    
+      Cornell University
+      <br>
+    
+
+    
+      VIB Agro-Incubator
+      <br>
+    
+
+    
+      Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      <br>
+    
+      Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
+      <br>
+    
+
+    
+      Cornell University
+      <br>
+    
+
+    
+      Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      <br>
+    
+      Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
+      <br>
+    
+
+    
+      MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
+      <br>
+    
+
+    
+      ICARDA
+      <br>
+    
+
+    
+      Alliance Bioversity-CIAT
+      <br>
+    
+
+    
+      Integrated Breeding Platform
+      <br>
+    
+
+    
+      Integrated Breeding Platform
+      <br>
+    
+      Leafnode LLC
+      <br>
+    
+
+    
+      Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszentrum Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany
+      <br>
+    
+      Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany
+      <br>
+    
+
+    
+      MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
+      <br>
+    
+
+    
+      CIRAD, UMR AGAP Institut, Montpellier, France.
+      <br>
+    
+      AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France.
+      <br>
+    
+
+    
+      Wageningen University and Research
+      <br>
+    
+
+    
+      Buckler Lab and Institute for Genomic Diversity, Cornell University
+      <br>
+    
+
+    
+      MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
+      <br>
+    
+
+    
+      USDA-ARS Genomics and Bioinformatics Research Unit
+      <br>
+    
+
+    
+      Clemson University
+      <br>
+    
+
+    
+      Integrated Breeding Platform
+      <br>
+    
+
+    
+      Leibniz Institute of Plant Genetics and Crop Plant Research
+      <br>
+    
+
+    
+      Digital Inclusion, Bioversity International, Montpellier, France
+      <br>
+    
+
+    
+      Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      <br>
+    
+      Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
+      <br>
+    
+
+    
+      VIB AgroIncubator
+      <br>
+    
+
+    
+      Louisiana State University (LSU)
+      <br>
+    
+
+    
+      VIB Data Core
+      <br>
+    
+
+    
+      Leibniz Institute of Plant Genetics and Crop Plant Research
+      <br>
+    
+      Graduate School DILS, Bielefeld Institute for Bioinformatics Infrastructure (BIBI)
+      <br>
+    
+
+    
+      Boyce Thompson Institute
+      <br>
+    
+
+    
+      Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France
+      <br>
+    
+
+    
+      Integrated Breeding Platform
+      <br>
+    
+
+    
+      Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany
+      <br>
+    
+
+    
+      Clemson University
+      <br>
+    
+
+    
+      Diversity Arrays Technology (DArT)
+      <br>
+    
+
+    
+      USDA-ARS Genomics and Bioinformatics Research Unit
+      <br>
+    
+
+    
+      Buckler Lab and Institute for Genomic Diversity, Cornell University
+      <br>
+    
+
+    
+      Department of Horticulture, Washington State University
+      <br>
+    
+
+    
+      Royal Botanic Gardens, Kew
+      <br>
+    
+
+    
+      Diversity Arrays Technology (DArT)
+      <br>
+    
+
+    
+      Leibniz Institute of Plant Genetics and Crop Plant Research
+      <br>
+    
+
+    
+      Leibniz Institute of Plant Genetics and Crop Plant Research
+      <br>
+    
+
+    
+      Cornell University
+      <br>
+    
+
+    
+      Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
+      <br>
+    
+
+    
+      Leibniz Institute of Plant Genetics and Crop Plant Research
+      <br>
+    
+
+    
+      Digital Inclusion, Bioversity International, Montpellier, France.
+      <br>
+    
+
+    
+      Department of Horticulture, Washington State University
+      <br>
+    
+
+    
+      Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      <br>
+    
+      Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
+      <br>
+    
+
+    
+      International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
+      <br>
+    
+
+    
+      MrBot Software Solutions, Cartago, Costa Rica
+      <br>
+    
+
+    
+      Department of Horticulture, Washington State University
+      <br>
+    
+
+    
+      International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
+      <br>
+    
+
+    
+      Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      <br>
+    
+      Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
+      <br>
+    
+
+    
+      Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      <br>
+    
+      Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
+      <br>
+    
+
+    
+      Buckler Lab and Institute for Genomic Diversity, Cornell University
+      <br>
+    
+
+    
+      The James Hutton Institute
+      <br>
+    
+
+    
+      The Boyce Thompson Institute
+      <br>
+    
+
+    
+      SEQART AFRICA
+      <br>
+    
+
+    
+      MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
+      <br>
+    
+
+    
+      Breeding Insight, Cornell University
+      <br>
+    
+
+    
+      Breeding Insight, Cornell University
+      <br>
+    
+
+    
+      Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
+      <br>
+    
+      Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
+      <br>
+    
+
+    
+      CIRAD, UMR AGAP Institut, Montpellier, France.
+      <br>
+    
+      AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France.
+      <br>
+    
+
+    
+      The James Hutton Institute
+      <br>
+    
+
+    
+      Clemson University
+      <br>
+    
+
+    
+      Cornell University
+      <br>
+    
+
+    
+      Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France
+      <br>
+    
+
+    
+      Royal Botanic Gardens, Kew
+      <br>
+    
+
+    
+      CIRAD, UMR INTERTRYP, Montpellier, France INTERTRYP, Univ Montpellier, CIRAD, IRD, Montpellier, France French Institute of Bioinformatics (IFB)
+      <br>
+    
+      South Green Bioinformatics Platform, Bioversity, CIRAD, INRAE, IRD, Montpellier, France
+      <br>
+    
+
+    
+      North Carolina State University
+      <br>
+    
+
+    
+      The James Hutton Institute
+      <br>
+    
+
+    
+      The James Hutton Institute
+      <br>
+    
+
+    
+      Integrated Breeding Platform
+      <br>
+    
+      Leafnode LLC
+      <br>
+    
+
+    
+      MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
+      <br>
+    
+
+    
+      Integrated Breeding Platform
+      <br>
+    
+      Leafnode LLC
+      <br>
+    
+
+    
+      Diversity Arrays Technology (DArT)
+      <br>
+    
+
+    
+      Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
+      <br>
+    
+
+    
+      Leibniz Institute of Plant Genetics and Crop Plant Research
+      <br>
+    
+
+    
+      Breeding Insight, Cornell University
+      <br>
+    
+
+    
+      The BrAPI Consortium
+      <br>
+    
 
 
 ::: {#correspondence}
