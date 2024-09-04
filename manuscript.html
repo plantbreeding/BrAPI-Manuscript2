@@ -81,7 +81,7 @@
   <meta name="author" content="Stephan Weise" />
   <meta name="author" content="Shawn C. Yarnes" />
   <meta name="author" content="The BrAPI Consortium" />
-  <meta name="dcterms.date" content="2024-08-23" />
+  <meta name="dcterms.date" content="2024-09-04" />
   <meta name="keywords" content="brapi, breeding, api, standards, community" />
   <title>BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources</title>
   <style>
@@ -126,11 +126,11 @@
   <meta name="citation_title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
   <meta property="og:title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
   <meta property="twitter:title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
-  <meta name="dc.date" content="2024-08-23" />
-  <meta name="citation_publication_date" content="2024-08-23" />
-  <meta property="article:published_time" content="2024-08-23" />
-  <meta name="dc.modified" content="2024-08-23T16:41:36+00:00" />
-  <meta property="article:modified_time" content="2024-08-23T16:41:36+00:00" />
+  <meta name="dc.date" content="2024-09-04" />
+  <meta name="citation_publication_date" content="2024-09-04" />
+  <meta property="article:published_time" content="2024-09-04" />
+  <meta name="dc.modified" content="2024-09-04T22:03:37+00:00" />
+  <meta property="article:modified_time" content="2024-09-04T22:03:37+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -368,9 +368,9 @@
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/87d12dc4dbcdb1c873f6fea7b67cc88fde153936/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/87d12dc4dbcdb1c873f6fea7b67cc88fde153936/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/87d12dc4dbcdb1c873f6fea7b67cc88fde153936/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/479885ae4622f73c6e2d3d494456ff43592f7a94/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/479885ae4622f73c6e2d3d494456ff43592f7a94/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/479885ae4622f73c6e2d3d494456ff43592f7a94/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -387,705 +387,304 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/87d12dc4dbcdb1c873f6fea7b67cc88fde153936/">permalink</a>)
+(<a href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/479885ae4622f73c6e2d3d494456ff43592f7a94/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/plantbreeding/BrAPI-Manuscript2/tree/87d12dc4dbcdb1c873f6fea7b67cc88fde153936">plantbreeding/BrAPI-Manuscript2@87d12dc</a>
-on August 23, 2024.
+from <a href="https://github.com/plantbreeding/BrAPI-Manuscript2/tree/479885ae4622f73c6e2d3d494456ff43592f7a94">plantbreeding/BrAPI-Manuscript2@479885a</a>
+on September 4, 2024.
 </em></small></p>
 <h2 id="authors">Authors</h2>
-<ul>
-<li><p><strong>Peter Selby</strong>
-<sup><a href="#correspondence">✉</a></sup><br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0001-7151-4445">0000-0001-7151-4445</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/BrapiCoordinatorSelby">BrapiCoordinatorSelby</a>
-<br>
-<small>
-Cornell University
-· Funded by The BrAPI Project is funded by the USDA grant NIFA-DSFAS 2022-67021-37024.
-</small></p></li>
-<li><p><strong>Rafael Abbeloos</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-0177-3887">0000-0002-0177-3887</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/raabb">raabb</a>
-<br>
-<small>
-VIB Agro-Incubator
-</small></p></li>
-<li><p><strong>Anne-Francoise Adam-Blondon</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-3412-9086">0000-0002-3412-9086</a>
-<br>
-<small>
-Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
-</small></p></li>
-<li><p><strong>Francisco J. Agosto-Pérez</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-5059-253X">0000-0002-5059-253X</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/agostof">agostof</a>
-<br>
-<small>
-Cornell University
-· Funded by Innovation Lab for Crop Improvement Cornell, ILCI: 7200AA19LE00005, FFAR: CA20-SS-0000000103
-</small></p></li>
-<li><p><strong>Michael Alaux</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0001-9356-4072">0000-0001-9356-4072</a>
-<br>
-<small>
-Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
-· Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
-</small></p></li>
-<li><p><strong>Isabelle Alic</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-8961-6068">0000-0002-8961-6068</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/Isabelle-inrae">Isabelle-inrae</a>
-<br>
-<small>
-MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
-</small></p></li>
-<li><p><strong>Khaled Al-Shamaa</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-7668-3798">0000-0002-7668-3798</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/khaled-alshamaa">khaled-alshamaa</a>
-<br>
-<small>
-ICARDA
-</small></p></li>
-<li><p><strong>Johan Steven Aparicio</strong>
-<br>
-<small>
-Alliance Bioversity-CIAT
-</small></p></li>
-<li><p><strong>Jan Erik Backlund</strong>
-<br>
-<small>
-Integrated Breeding Platform
-</small></p></li>
-<li><p><strong>Aldrin Batac</strong>
-<br>
-<small>
-Integrated Breeding Platform; Leafnode LLC
-</small></p></li>
-<li><p><strong>Sebastian Beier</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-2177-8781">0000-0002-2177-8781</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/sebeier">sebeier</a>
-<br>
-<small>
-Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszentrum Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany; Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany
-</small></p></li>
-<li><p><strong>Gabriel Besombes</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0009-0004-1359-2145">0009-0004-1359-2145</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/Gabriel-Besombes">Gabriel-Besombes</a>
-<br>
-<small>
-MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
-</small></p></li>
-<li><p><strong>Alice Boizet</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0003-4096-6689">0000-0003-4096-6689</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/aliceboizet">aliceboizet</a>
-<br>
-<small>
-CIRAD, UMR AGAP Institut, Montpellier, France.; AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France.
-</small></p></li>
-<li><p><strong>Matthijs Brouwer</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0001-8183-0484">0000-0001-8183-0484</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/matthijsbrouwer">matthijsbrouwer</a>
-<br>
-<small>
-Wageningen University and Research
-</small></p></li>
-<li><p><strong>Terry Casstevens</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0001-7602-0487">0000-0001-7602-0487</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/tcasstevens">tcasstevens</a>
-<br>
-<small>
-Buckler Lab and Institute for Genomic Diversity, Cornell University
-</small></p></li>
-<li><p><strong>Arnaud Charleroy</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0009-0009-7575-3617">0009-0009-7575-3617</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/niio972">niio972</a>
-<br>
-<small>
-MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
-</small></p></li>
-<li><p><strong>Keo Corak</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-4129-3319">0000-0002-4129-3319</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/keocorak">keocorak</a>
-<br>
-<small>
-USDA-ARS Genomics and Bioinformatics Research Unit
-</small></p></li>
-<li><p><strong>Chaney Courtney</strong>
-<br>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/chaneylc">chaneylc</a>
-<br>
-<small>
-Clemson University
-</small></p></li>
-<li><p><strong>Mariano Crimi</strong>
-<br>
-<small>
-Integrated Breeding Platform
-</small></p></li>
-<li><p><strong>Gouripriya Davuluri</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0009-0005-2308-0773">0009-0005-2308-0773</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/Gouripriya5">Gouripriya5</a>
-<br>
-<small>
-Leibniz Institute of Plant Genetics and Crop Plant Research
-· Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
-</small></p></li>
-<li><p><strong>Kauê de Sousa</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-7571-7845">0000-0002-7571-7845</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/kauedesousa">kauedesousa</a>
-<br>
-<small>
-Digital Inclusion, Bioversity International, Montpellier, France
-</small></p></li>
-<li><p><strong>Jeremy Destin</strong>
-<br>
-<small>
-Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
-</small></p></li>
-<li><p><strong>Stijn Dhondt</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0003-4402-2191">0000-0003-4402-2191</a>
-<br>
-<small>
-VIB AgroIncubator
-</small></p></li>
-<li><p><strong>Ajay Dhungana</strong>
-<br>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/GenAjay">GenAjay</a>
-<br>
-<small>
-Louisiana State University (LSU)
-</small></p></li>
-<li><p><strong>Bert Droesbeke</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0003-0522-5674">0000-0003-0522-5674</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/bedroesb">bedroesb</a>
-<br>
-<small>
-VIB Data Core
-</small></p></li>
-<li><p><strong>Manuel Feser</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0001-6546-1818">0000-0001-6546-1818</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/feserm">feserm</a>
-<br>
-<small>
-Leibniz Institute of Plant Genetics and Crop Plant Research; Graduate School DILS, Bielefeld Institute for Bioinformatics Infrastructure (BIBI)
-</small></p></li>
-<li><p><strong>Mirella Flores-Gonzalez</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-7759-1617">0000-0002-7759-1617</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/mflores202">mflores202</a>
-<br>
-<small>
-Boyce Thompson Institute
-</small></p></li>
-<li><p><strong>Valentin Guignon</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0003-0903-6811">0000-0003-0903-6811</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/guignonv">guignonv</a>
-<br>
-<small>
-Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France
-</small></p></li>
-<li><p><strong>Corina Habito</strong>
-<br>
-<small>
-Integrated Breeding Platform
-</small></p></li>
-<li><p><strong>Asis Hallab</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-2421-5431">0000-0002-2421-5431</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/asishallab">asishallab</a>
-<br>
-<small>
-Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany
-</small></p></li>
-<li><p><strong>Jenna Hershberger</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-3147-6867">0000-0002-3147-6867</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/jmh579">jmh579</a>
-<br>
-<small>
-Clemson University
-</small></p></li>
-<li><p><strong>Puthick Hok</strong>
-<br>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/puthick">puthick</a>
-<br>
-<small>
-Diversity Arrays Technology (DArT)
-</small></p></li>
-<li><p><strong>Amanda M. Hulse-Kemp</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0001-9670-9433">0000-0001-9670-9433</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/ahulsekemp">ahulsekemp</a>
-<br>
-<small>
-USDA-ARS Genomics and Bioinformatics Research Unit
-</small></p></li>
-<li><p><strong>Lynn Carol Johnson</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0001-8103-2722">0000-0001-8103-2722</a>
-<br>
-<small>
-Buckler Lab and Institute for Genomic Diversity, Cornell University
-</small></p></li>
-<li><p><strong>Sook Jung</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0003-3968-2769">0000-0003-3968-2769</a>
-<br>
-<small>
-Department of Horticulture, Washington State University
-· Funded by USDA National Institute of Food and Agriculture National Research Support Project 10
-</small></p></li>
-<li><p><strong>Paul Kersey</strong>
-<br>
-<small>
-Royal Botanic Gardens, Kew
-· Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
-</small></p></li>
-<li><p><strong>Andrzej Kilian</strong>
-<br>
-<small>
-Diversity Arrays Technology (DArT)
-</small></p></li>
-<li><p><strong>Patrick König</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-8948-6793">0000-0002-8948-6793</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/patrick-koenig">patrick-koenig</a>
-<br>
-<small>
-Leibniz Institute of Plant Genetics and Crop Plant Research
-· Funded by The SHAPE3 project is funded by a grant from the German Ministry of Research and Education (BMBF, FKZ 031B1302A).
-</small></p></li>
-<li><p><strong>Suman Kumar</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0009-0005-5832-7190">0009-0005-5832-7190</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/sumankumar1">sumankumar1</a>
-<br>
-<small>
-Leibniz Institute of Plant Genetics and Crop Plant Research
-· Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
-</small></p></li>
-<li><p><strong>Josh Lamos-Sweeney</strong>
-<br>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/jlamossweeney">jlamossweeney</a>
-<br>
-<small>
-Cornell University
-</small></p></li>
-<li><p><strong>Laszlo Lang</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0009-0009-8936-4532">0009-0009-8936-4532</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/LzLang">LzLang</a>
-<br>
-<small>
-Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
-</small></p></li>
-<li><p><strong>Matthias Lange</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-4316-078X">0000-0002-4316-078X</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/langeipk">langeipk</a>
-<br>
-<small>
-Leibniz Institute of Plant Genetics and Crop Plant Research
-· Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
-</small></p></li>
-<li><p><strong>Marie-Angélique Laporte</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-8461-9745">0000-0002-8461-9745</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/marieALaporte">marieALaporte</a>
-<br>
-<small>
-Digital Inclusion, Bioversity International, Montpellier, France.
-</small></p></li>
-<li><p><strong>Taein Lee</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-2000-2586">0000-0002-2000-2586</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/leetaei">leetaei</a>
-<br>
-<small>
-Department of Horticulture, Washington State University
-</small></p></li>
-<li><p><strong>Erwan Le Floch</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-1010-6859">0000-0002-1010-6859</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/erlefloch">erlefloch</a>
-<br>
-<small>
-Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
-</small></p></li>
-<li><p><strong>Francisco López</strong>
-<br>
-<small>
-International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
-</small></p></li>
-<li><p><strong>Brandon Madriz</strong>
-<br>
-<small>
-MrBot Software Solutions, Cartago, Costa Rica
-</small></p></li>
-<li><p><strong>Dorrie Main</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-1162-2724">0000-0002-1162-2724</a>
-<br>
-<small>
-Department of Horticulture, Washington State University
-· Funded by {‘USDA NIFA’: ‘2022-51181-38449’}
-</small></p></li>
-<li><p><strong>Marco Marsella</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0003-0334-8785">0000-0003-0334-8785</a>
-<br>
-<small>
-International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
-</small></p></li>
-<li><p><strong>Maud Marty</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0009-0001-8764-6466">0009-0001-8764-6466</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/maudmarty">maudmarty</a>
-<br>
-<small>
-Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
-</small></p></li>
-<li><p><strong>Célia Michotey</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0003-1877-1703">0000-0003-1877-1703</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/cmichotey">cmichotey</a>
-<br>
-<small>
-Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
-</small></p></li>
-<li><p><strong>Zachary Miller</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-5454-4527">0000-0002-5454-4527</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/zrm22">zrm22</a>
-<br>
-<small>
-Buckler Lab and Institute for Genomic Diversity, Cornell University
-</small></p></li>
-<li><p><strong>Iain Milne</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-4126-0859">0000-0002-4126-0859</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/imilne">imilne</a>
-<br>
-<small>
-The James Hutton Institute
-</small></p></li>
-<li><p><strong>Lukas A. Mueller</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0001-8640-1750">0000-0001-8640-1750</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/lukasmueller">lukasmueller</a>
-<br>
-<small>
-The Boyce Thompson Institute
-</small></p></li>
-<li><p><strong>Moses Nderitu</strong>
-<br>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/jndmose">jndmose</a>
-<br>
-<small>
-SEQART AFRICA
-</small></p></li>
-<li><p><strong>Pascal Neveu</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0003-4189-7793">0000-0003-4189-7793</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/pascalneveu">pascalneveu</a>
-<br>
-<small>
-MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
-· Funded by This work was supported by the Agence Nationale de la Recherche, programme Investissements d’avenir, ANR-11-INBS-0012 (Phenome)
-</small></p></li>
-<li><p><strong>Nick Palladino</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0009-0009-1645-297X">0009-0009-1645-297X</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/nickpalladino">nickpalladino</a>
-<br>
-<small>
-Breeding Insight, Cornell University
-· Funded by U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
-</small></p></li>
-<li><p><strong>Tim Parsons</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0001-6209-2455">0000-0001-6209-2455</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/timparsons">timparsons</a>
-<br>
-<small>
-Breeding Insight, Cornell University
-· Funded by U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
-</small></p></li>
-<li><p><strong>Cyril Pommier</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-9040-8733">0000-0002-9040-8733</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/cpommier">cpommier</a>
-<br>
-<small>
-Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
-</small></p></li>
-<li><p><strong>Jean-François Rami</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-5679-3877">0000-0002-5679-3877</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/jframi">jframi</a>
-<br>
-<small>
-CIRAD, UMR AGAP Institut, Montpellier, France.; AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France.
-</small></p></li>
-<li><p><strong>Sebastian Raubach</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0001-5659-247X">0000-0001-5659-247X</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/sebastian-raubach">sebastian-raubach</a>
-<br>
-<small>
-The James Hutton Institute
-</small></p></li>
-<li><p><strong>Trevor Rife</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-5974-6523">0000-0002-5974-6523</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/trife">trife</a>
-<br>
-<small>
-Clemson University
-</small></p></li>
-<li><p><strong>Kelly Robbins</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0001-9522-9585">0000-0001-9522-9585</a>
-<br>
-<small>
-Cornell University
-· Funded by The BrAPI Project is funded by the USDA grant NIFA-DSFAS 2022-67021-37024.
-</small></p></li>
-<li><p><strong>Mathieu Rouard</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0003-0284-1885">0000-0003-0284-1885</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/mrouard">mrouard</a>
-<br>
-<small>
-Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France
-</small></p></li>
-<li><p><strong>Joseph Ruff</strong>
-<br>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/JosephRuff">JosephRuff</a>
-<br>
-<small>
-Royal Botanic Gardens, Kew
-· Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
-</small></p></li>
-<li><p><strong>Guilhem Sempéré</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0001-7429-2091">0000-0001-7429-2091</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/GuilhemSempere">GuilhemSempere</a>
-<br>
-<small>
-CIRAD, UMR INTERTRYP, Montpellier, France INTERTRYP, Univ Montpellier, CIRAD, IRD, Montpellier, France French Institute of Bioinformatics (IFB); South Green Bioinformatics Platform, Bioversity, CIRAD, INRAE, IRD, Montpellier, France
-</small></p></li>
-<li><p><strong>Romil Mayank Shah</strong>
-<br>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/romil2807">romil2807</a>
-<br>
-<small>
-North Carolina State University
-</small></p></li>
-<li><p><strong>Paul Shaw</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-0202-1150">0000-0002-0202-1150</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/cardinalb">cardinalb</a>
-<br>
-<small>
-The James Hutton Institute
-</small></p></li>
-<li><p><strong>Becky Smith</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-8968-3383">0000-0002-8968-3383</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/Batbaby91">Batbaby91</a>
-<br>
-<small>
-The James Hutton Institute
-</small></p></li>
-<li><p><strong>Nahuel Soldevilla</strong>
-<br>
-<small>
-Integrated Breeding Platform; Leafnode LLC
-</small></p></li>
-<li><p><strong>Anne Tireau</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0001-8501-6922">0000-0001-8501-6922</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/annetireau">annetireau</a>
-<br>
-<small>
-MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
-</small></p></li>
-<li><p><strong>Clarysabel Tovar</strong>
-<br>
-<small>
-Integrated Breeding Platform; Leafnode LLC
-</small></p></li>
-<li><p><strong>Grzegorz Uszynski</strong>
-<br>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/grzegorz69">grzegorz69</a>
-<br>
-<small>
-Diversity Arrays Technology (DArT)
-</small></p></li>
-<li><p><strong>Vivian Bass Vega</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0009-0002-2476-9888">0009-0002-2476-9888</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/VivianBass">VivianBass</a>
-<br>
-<small>
-Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
-</small></p></li>
-<li><p><strong>Stephan Weise</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0003-4031-9131">0000-0003-4031-9131</a>
-<br>
-<small>
-Leibniz Institute of Plant Genetics and Crop Plant Research
-· Funded by The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
-</small></p></li>
-<li><p><strong>Shawn C. Yarnes</strong>
-<br>
-<img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0002-1090-0403">0000-0002-1090-0403</a>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/SCYarnes">SCYarnes</a>
-<br>
-<small>
-Breeding Insight, Cornell University
-· Funded by U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
-</small></p></li>
-<li><p><strong>The BrAPI Consortium</strong>
-<br>
-<small>
-The BrAPI Consortium
-</small></p></li>
-</ul>
+<p><strong>Peter Selby</strong>
+<sup><a href="#correspondence">✉</a></sup>
+<a href="https://orcid.org/0000-0001-7151-4445"><img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" /></a></p>
+<p><strong>Rafael Abbeloos</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-0177-3887)</code></pre>
+<p><strong>Anne-Francoise Adam-Blondon</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-3412-9086)</code></pre>
+<p><strong>Francisco J. Agosto-Pérez</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-5059-253X)</code></pre>
+<p><strong>Michael Alaux</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-9356-4072)</code></pre>
+<p><strong>Isabelle Alic</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-8961-6068)</code></pre>
+<p><strong>Khaled Al-Shamaa</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-7668-3798)</code></pre>
+<p><strong>Johan Steven Aparicio</strong></p>
+<p><strong>Jan Erik Backlund</strong></p>
+<p><strong>Aldrin Batac</strong></p>
+<p><strong>Sebastian Beier</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-2177-8781)</code></pre>
+<p><strong>Gabriel Besombes</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0004-1359-2145)</code></pre>
+<p><strong>Alice Boizet</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-4096-6689)</code></pre>
+<p><strong>Matthijs Brouwer</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-8183-0484)</code></pre>
+<p><strong>Terry Casstevens</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-7602-0487)</code></pre>
+<p><strong>Arnaud Charleroy</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0009-7575-3617)</code></pre>
+<p><strong>Keo Corak</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-4129-3319)</code></pre>
+<p><strong>Chaney Courtney</strong></p>
+<p><strong>Mariano Crimi</strong></p>
+<p><strong>Gouripriya Davuluri</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0005-2308-0773)</code></pre>
+<p><strong>Kauê de Sousa</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-7571-7845)</code></pre>
+<p><strong>Jeremy Destin</strong></p>
+<p><strong>Stijn Dhondt</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-4402-2191)</code></pre>
+<p><strong>Ajay Dhungana</strong></p>
+<p><strong>Bert Droesbeke</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-0522-5674)</code></pre>
+<p><strong>Manuel Feser</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-6546-1818)</code></pre>
+<p><strong>Mirella Flores-Gonzalez</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-7759-1617)</code></pre>
+<p><strong>Valentin Guignon</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-0903-6811)</code></pre>
+<p><strong>Corina Habito</strong></p>
+<p><strong>Asis Hallab</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-2421-5431)</code></pre>
+<p><strong>Jenna Hershberger</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-3147-6867)</code></pre>
+<p><strong>Puthick Hok</strong></p>
+<p><strong>Amanda M. Hulse-Kemp</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-9670-9433)</code></pre>
+<p><strong>Lynn Carol Johnson</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-8103-2722)</code></pre>
+<p><strong>Sook Jung</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-3968-2769)</code></pre>
+<p><strong>Paul Kersey</strong></p>
+<p><strong>Andrzej Kilian</strong></p>
+<p><strong>Patrick König</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-8948-6793)</code></pre>
+<p><strong>Suman Kumar</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0005-5832-7190)</code></pre>
+<p><strong>Josh Lamos-Sweeney</strong></p>
+<p><strong>Laszlo Lang</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0009-8936-4532)</code></pre>
+<p><strong>Matthias Lange</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-4316-078X)</code></pre>
+<p><strong>Marie-Angélique Laporte</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-8461-9745)</code></pre>
+<p><strong>Taein Lee</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-2000-2586)</code></pre>
+<p><strong>Erwan Le Floch</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-1010-6859)</code></pre>
+<p><strong>Francisco López</strong></p>
+<p><strong>Brandon Madriz</strong></p>
+<p><strong>Dorrie Main</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-1162-2724)</code></pre>
+<p><strong>Marco Marsella</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-0334-8785)</code></pre>
+<p><strong>Maud Marty</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0001-8764-6466)</code></pre>
+<p><strong>Célia Michotey</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-1877-1703)</code></pre>
+<p><strong>Zachary Miller</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-5454-4527)</code></pre>
+<p><strong>Iain Milne</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-4126-0859)</code></pre>
+<p><strong>Lukas A. Mueller</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-8640-1750)</code></pre>
+<p><strong>Moses Nderitu</strong></p>
+<p><strong>Pascal Neveu</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-4189-7793)</code></pre>
+<p><strong>Nick Palladino</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0009-1645-297X)</code></pre>
+<p><strong>Tim Parsons</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-6209-2455)</code></pre>
+<p><strong>Cyril Pommier</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-9040-8733)</code></pre>
+<p><strong>Jean-François Rami</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-5679-3877)</code></pre>
+<p><strong>Sebastian Raubach</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-5659-247X)</code></pre>
+<p><strong>Trevor Rife</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-5974-6523)</code></pre>
+<p><strong>Kelly Robbins</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-9522-9585)</code></pre>
+<p><strong>Mathieu Rouard</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-0284-1885)</code></pre>
+<p><strong>Joseph Ruff</strong></p>
+<p><strong>Guilhem Sempéré</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-7429-2091)</code></pre>
+<p><strong>Romil Mayank Shah</strong></p>
+<p><strong>Paul Shaw</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-0202-1150)</code></pre>
+<p><strong>Becky Smith</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-8968-3383)</code></pre>
+<p><strong>Nahuel Soldevilla</strong></p>
+<p><strong>Anne Tireau</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-8501-6922)</code></pre>
+<p><strong>Clarysabel Tovar</strong></p>
+<p><strong>Grzegorz Uszynski</strong></p>
+<p><strong>Vivian Bass Vega</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0002-2476-9888)</code></pre>
+<p><strong>Stephan Weise</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-4031-9131)</code></pre>
+<p><strong>Shawn C. Yarnes</strong></p>
+<pre><code>[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-1090-0403)</code></pre>
+<p><strong>The BrAPI Consortium</strong></p>
+<p><br>
+<br></p>
+<pre><code> Cornell University</code></pre>
+<p></small></p>
+<pre><code> VIB Agro-Incubator</code></pre>
+<p></small></p>
+<pre><code> Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France</code></pre>
+<p></small></p>
+<pre><code> Cornell University</code></pre>
+<p></small></p>
+<pre><code> Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France</code></pre>
+<p></small></p>
+<pre><code> MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France</code></pre>
+<p></small></p>
+<pre><code> ICARDA</code></pre>
+<p></small></p>
+<pre><code> Alliance Bioversity-CIAT</code></pre>
+<p></small></p>
+<pre><code> Integrated Breeding Platform</code></pre>
+<p></small></p>
+<pre><code> Integrated Breeding Platform; Leafnode LLC</code></pre>
+<p></small></p>
+<pre><code> Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszentrum Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany; Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany</code></pre>
+<p></small></p>
+<pre><code> MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France</code></pre>
+<p></small></p>
+<pre><code> CIRAD, UMR AGAP Institut, Montpellier, France.; AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France.</code></pre>
+<p></small></p>
+<pre><code> Wageningen University and Research</code></pre>
+<p></small></p>
+<pre><code> Buckler Lab and Institute for Genomic Diversity, Cornell University</code></pre>
+<p></small></p>
+<pre><code> MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France</code></pre>
+<p></small></p>
+<pre><code> USDA-ARS Genomics and Bioinformatics Research Unit</code></pre>
+<p></small></p>
+<pre><code> Clemson University</code></pre>
+<p></small></p>
+<pre><code> Integrated Breeding Platform</code></pre>
+<p></small></p>
+<pre><code> Leibniz Institute of Plant Genetics and Crop Plant Research</code></pre>
+<p></small></p>
+<pre><code> Digital Inclusion, Bioversity International, Montpellier, France</code></pre>
+<p></small></p>
+<pre><code> Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France</code></pre>
+<p></small></p>
+<pre><code> VIB AgroIncubator</code></pre>
+<p></small></p>
+<pre><code> Louisiana State University (LSU)</code></pre>
+<p></small></p>
+<pre><code> VIB Data Core</code></pre>
+<p></small></p>
+<pre><code> Leibniz Institute of Plant Genetics and Crop Plant Research; Graduate School DILS, Bielefeld Institute for Bioinformatics Infrastructure (BIBI)</code></pre>
+<p></small></p>
+<pre><code> Boyce Thompson Institute</code></pre>
+<p></small></p>
+<pre><code> Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France</code></pre>
+<p></small></p>
+<pre><code> Integrated Breeding Platform</code></pre>
+<p></small></p>
+<pre><code> Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany</code></pre>
+<p></small></p>
+<pre><code> Clemson University</code></pre>
+<p></small></p>
+<pre><code> Diversity Arrays Technology (DArT)</code></pre>
+<p></small></p>
+<pre><code> USDA-ARS Genomics and Bioinformatics Research Unit</code></pre>
+<p></small></p>
+<pre><code> Buckler Lab and Institute for Genomic Diversity, Cornell University</code></pre>
+<p></small></p>
+<pre><code> Department of Horticulture, Washington State University</code></pre>
+<p></small></p>
+<pre><code> Royal Botanic Gardens, Kew</code></pre>
+<p></small></p>
+<pre><code> Diversity Arrays Technology (DArT)</code></pre>
+<p></small></p>
+<pre><code> Leibniz Institute of Plant Genetics and Crop Plant Research</code></pre>
+<p></small></p>
+<pre><code> Leibniz Institute of Plant Genetics and Crop Plant Research</code></pre>
+<p></small></p>
+<pre><code> Cornell University</code></pre>
+<p></small></p>
+<pre><code> Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany</code></pre>
+<p></small></p>
+<pre><code> Leibniz Institute of Plant Genetics and Crop Plant Research</code></pre>
+<p></small></p>
+<pre><code> Digital Inclusion, Bioversity International, Montpellier, France.</code></pre>
+<p></small></p>
+<pre><code> Department of Horticulture, Washington State University</code></pre>
+<p></small></p>
+<pre><code> Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France</code></pre>
+<p></small></p>
+<pre><code> International Treaty on Plant Genetic Resources for Food and Agriculture, FAO</code></pre>
+<p></small></p>
+<pre><code> MrBot Software Solutions, Cartago, Costa Rica</code></pre>
+<p></small></p>
+<pre><code> Department of Horticulture, Washington State University</code></pre>
+<p></small></p>
+<pre><code> International Treaty on Plant Genetic Resources for Food and Agriculture, FAO</code></pre>
+<p></small></p>
+<pre><code> Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France</code></pre>
+<p></small></p>
+<pre><code> Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France</code></pre>
+<p></small></p>
+<pre><code> Buckler Lab and Institute for Genomic Diversity, Cornell University</code></pre>
+<p></small></p>
+<pre><code> The James Hutton Institute</code></pre>
+<p></small></p>
+<pre><code> The Boyce Thompson Institute</code></pre>
+<p></small></p>
+<pre><code> SEQART AFRICA</code></pre>
+<p></small></p>
+<pre><code> MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France</code></pre>
+<p></small></p>
+<pre><code> Breeding Insight, Cornell University</code></pre>
+<p></small></p>
+<pre><code> Breeding Insight, Cornell University</code></pre>
+<p></small></p>
+<pre><code> Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France; Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France</code></pre>
+<p></small></p>
+<pre><code> CIRAD, UMR AGAP Institut, Montpellier, France.; AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France.</code></pre>
+<p></small></p>
+<pre><code> The James Hutton Institute</code></pre>
+<p></small></p>
+<pre><code> Clemson University</code></pre>
+<p></small></p>
+<pre><code> Cornell University</code></pre>
+<p></small></p>
+<pre><code> Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France</code></pre>
+<p></small></p>
+<pre><code> Royal Botanic Gardens, Kew</code></pre>
+<p></small></p>
+<pre><code> CIRAD, UMR INTERTRYP, Montpellier, France INTERTRYP, Univ Montpellier, CIRAD, IRD, Montpellier, France French Institute of Bioinformatics (IFB); South Green Bioinformatics Platform, Bioversity, CIRAD, INRAE, IRD, Montpellier, France</code></pre>
+<p></small></p>
+<pre><code> North Carolina State University</code></pre>
+<p></small></p>
+<pre><code> The James Hutton Institute</code></pre>
+<p></small></p>
+<pre><code> The James Hutton Institute</code></pre>
+<p></small></p>
+<pre><code> Integrated Breeding Platform; Leafnode LLC</code></pre>
+<p></small></p>
+<pre><code> MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France</code></pre>
+<p></small></p>
+<pre><code> Integrated Breeding Platform; Leafnode LLC</code></pre>
+<p></small></p>
+<pre><code> Diversity Arrays Technology (DArT)</code></pre>
+<p></small></p>
+<pre><code> Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany</code></pre>
+<p></small></p>
+<pre><code> Leibniz Institute of Plant Genetics and Crop Plant Research</code></pre>
+<p></small></p>
+<pre><code> Breeding Insight, Cornell University</code></pre>
+<p></small></p>
+<pre><code> The BrAPI Consortium</code></pre>
+<p></small></p>
 <div id="correspondence">
-<p>✉ — Correspondence possible via <a href="https://github.com/plantbreeding/BrAPI-Manuscript2/issues">GitHub Issues</a>
-or email to
+<p>✉ — Corresponding author email:
 Peter Selby &lt;ps664@cornell.edu&gt;.</p>
 </div>
 <h2 class="page_break_before" id="abstract">Abstract</h2>
@@ -1095,6 +694,7 @@ The successful implementation of these methods depends on proper data management
 The Breeding API (BrAPI) project is an international effort that is enabling more efficient data management through the development of interoperable databases and tools that can be used to share and interpret breeding-related data.
 This community driven standard is software agnostic, open-source, and can be used by anyone interested in plant breeding, phenotyping, germplasm, genotyping, and agronomy data management.
 This manuscript presents an overview of the BrAPI project, the substantial growth of the data standard, and the wide variety of BrAPI-compatible, community-built tools for breeding and research.</p>
+<h2 id="author-summary">Author Summary</h2>
 <h2 class="page_break_before" id="introduction">Introduction</h2>
 <p>Breeding programs aim to deliver improved lines or cultivars, the most fundamental input for farming, and are thus foundational for maintaining a productive agricultural system amidst the pressing challenges of climate change. Breeding efforts are time- and resource-intensive, with progress dependent on efficient program logistics and accurate selection decisions. While breeding programs can benefit from modern and emerging breeding techniques like genomic selection, machine learning, and high throughput phenotyping, the successful implementation of these methods depends on the ability to efficiently collect, manage, and analyze large volumes of carefully curated genomic and phenomic data<span class="citation" data-cites="YD25diXo"><sup><a href="#ref-YD25diXo" role="doc-biblioref">1</a></sup></span>. Extracting actionable knowledge from these complex datasets is time-consuming, often prohibiting the adoption of new methods, especially by under-resourced breeding programs. To facilitate the collection, management, and analysis of these datasets, it is essential to transition to digital tools. Historically, independent applications were designed to address specific problems, but in many cases, this led to separate software solutions for each breeding program task and created data silos.</p>
 <p>The <a href="https://brapi.org">Breeding Application Programming Interface (BrAPI)</a> is a standardized, representational state transfer (REST), web service, application programming interface (API) specification for breeding and related agricultural data<span class="citation" data-cites="QfGEJ6km"><sup><a href="#ref-QfGEJ6km" role="doc-biblioref">2</a></sup></span>. Since the project inception in 2014, BrAPI has become an essential part of the digital infrastructure for plant breeding, providing a domain-specific open data standard tailored to the needs of plant breeding and genetics projects. BrAPI enables interoperability between breeding software platforms, allowing groups to seamlessly share data and software tools both within and across breeding programs. It eases the merging of datasets of different types and provides access to shared trait ontologies, phenotypic data, genotypes, seed inventories, and other essential components for collaborative breeding efforts.</p>
@@ -1374,10 +974,23 @@ QBMS is open-source and available on the official CRAN repository, where it has 
 <p>The standard documentation is stored and maintained in a public <a href="https://github.com/plantbreeding/BrAPI">GitHub repository</a>. The core documentation is written using the OpenAPI 3 documentation standard. The core documentation is automatically published on Apiary and SwaggerHub, two API documentation hosting sites. The specification has a standard MIT open-source license.</p>
 <p>New versions of the BrAPI standard are developed based on community demand. Opportunities to enhance and improve the standard are identified by the community, tracked in <a href="https://github.com/plantbreeding/BrAPI/issues">GitHub issues</a>, and implemented to create a new stable version. This process ensures the standard stays relevant, updated, and stable over time. Minor version updates are designed to be backwards compatible.</p>
 <p>Hackathon events are the primary approach used by the BrAPI community to foster collaboration and further development. One in-person and one virtual event per year maintain project momentum and social comradery. The hackathons provide a dedicated time to discuss improvements and issues with the specification, particular use cases, and project stewardship.</p>
-<h2 class="page_break_before" id="data-availability-statement">Data Availability Statement</h2>
-<p>No data was generated from this project.</p>
-<h2 id="code-availability-statement">Code Availability Statement</h2>
-<p>The all of software and documentation generated by the BrAPI project is free, public, and open source. Everything is available under the MIT open-source license and can be accessed through <a href="https://brapi.org">brapi.org</a>. Most of the other software projects referenced and discussed here are also open source and the text contain links to their repositories or project pages. However, the authors take no responsibility for their availability or licensing.</p>
+<h2 id="acknowledgements">Acknowledgements</h2>
+<p>The authors would like to acknowledge the following funding sources:</p>
+<ul>
+<li>The BrAPI Project is funded by the USDA grant NIFA-DSFAS 2022-67021-37024.</li>
+<li>‘Innovation Lab for Crop Improvement Cornell, ILCI: 7200AA19LE00005, FFAR: CA20-SS-0000000103’</li>
+<li>The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.</li>
+<li>USDA National Institute of Food and Agriculture National Research Support Project 10</li>
+<li>The SHAPE3 project is funded by a grant from the German Ministry of Research and Education (BMBF, FKZ 031B1302A).</li>
+<li>USDA NIFA: 2022-51181-38449</li>
+<li>This work was supported by the Agence Nationale de la Recherche, programme Investissements d’avenir, ANR-11-INBS-0012 (Phenome)<br />
+</li>
+<li>U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]</li>
+<li>This work was funded and supported by ELIXIR, the research infrastructure for life science data.</li>
+<li>The French Networks of Biological Resource Centres for Agricultural, Environmental and Life Sciences, doi: 10.15454/b4ec-tf49</li>
+<li>The work was supported by the German Research Foundation DFG under the grant agreement number 442032008 (NFDI4Biodiversity). NFDI4Biodiversity is part of NFDI, the National Research Data Infrastructure in Germany (<a href="www.nfdi.de">www.nfdi.de</a>).</li>
+<li>The Bill and Malinda Gates Foundation in cooperation with the Excellence in Breeding Platform of the CGIAR</li>
+</ul>
 <h2 class="page_break_before" id="references">References</h2>
 <!-- Auto generated references here -->
 <div id="refs" class="references csl-bib-body" data-line-spacing="2" role="doc-bibliography">
@@ -1541,23 +1154,6 @@ QBMS is open-source and available on the official CRAN repository, where it has 
 <div class="csl-left-margin">53. </div><div class="csl-right-inline">Fernandez-Pozo, N. <em>et al.</em> <a href="https://doi.org/10.1093/nar/gku1195">The Sol Genomics Network (SGN)—from genotype to phenotype to breeding</a>. <em>Nucleic Acids Research</em> <strong>43</strong>, D1036–D1041 (2014).</div>
 </div>
 </div>
-<h2 id="acknowledgements">Acknowledgements</h2>
-<p>The authors would like to acknowledge the following funding sources:</p>
-<ul>
-<li>The BrAPI Project is funded by the USDA grant NIFA-DSFAS 2022-67021-37024.</li>
-<li>‘Innovation Lab for Crop Improvement Cornell, ILCI: 7200AA19LE00005, FFAR: CA20-SS-0000000103’</li>
-<li>The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.</li>
-<li>USDA National Institute of Food and Agriculture National Research Support Project 10</li>
-<li>The SHAPE3 project is funded by a grant from the German Ministry of Research and Education (BMBF, FKZ 031B1302A).</li>
-<li>USDA NIFA: 2022-51181-38449</li>
-<li>This work was supported by the Agence Nationale de la Recherche, programme Investissements d’avenir, ANR-11-INBS-0012 (Phenome)<br />
-</li>
-<li>U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]</li>
-<li>This work was funded and supported by ELIXIR, the research infrastructure for life science data.</li>
-<li>The French Networks of Biological Resource Centres for Agricultural, Environmental and Life Sciences, doi: 10.15454/b4ec-tf49</li>
-<li>The work was supported by the German Research Foundation DFG under the grant agreement number 442032008 (NFDI4Biodiversity). NFDI4Biodiversity is part of NFDI, the National Research Data Infrastructure in Germany (<a href="www.nfdi.de">www.nfdi.de</a>).</li>
-<li>The Bill and Malinda Gates Foundation in cooperation with the Excellence in Breeding Platform of the CGIAR</li>
-</ul>
 <h2 class="page_break_before" id="author-contributions">Author Contributions</h2>
 <ul>
 <li><strong>Peter Selby</strong>: Peter wrote and edited a significant portion of the manuscript. Peter has been the BrAPI Project Coordinator since 2017, managing the day-to-day operations of the BrAPI project.</li>
