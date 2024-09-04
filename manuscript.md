@@ -100,8 +100,8 @@ header-includes: |
   <meta name="dc.date" content="2024-09-04" />
   <meta name="citation_publication_date" content="2024-09-04" />
   <meta property="article:published_time" content="2024-09-04" />
-  <meta name="dc.modified" content="2024-09-04T22:54:16+00:00" />
-  <meta property="article:modified_time" content="2024-09-04T22:54:16+00:00" />
+  <meta name="dc.modified" content="2024-09-04T23:03:25+00:00" />
+  <meta property="article:modified_time" content="2024-09-04T23:03:25+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -339,9 +339,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8a2dec48001768d6befc594483b85af0f8cb0ec5/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8a2dec48001768d6befc594483b85af0f8cb0ec5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/8a2dec48001768d6befc594483b85af0f8cb0ec5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/32c0a32430a97f56970000f9cd23b7c9f5276048/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/32c0a32430a97f56970000f9cd23b7c9f5276048/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/32c0a32430a97f56970000f9cd23b7c9f5276048/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -363,9 +363,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/8a2dec48001768d6befc594483b85af0f8cb0ec5/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/32c0a32430a97f56970000f9cd23b7c9f5276048/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@8a2dec4](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/8a2dec48001768d6befc594483b85af0f8cb0ec5)
+from [plantbreeding/BrAPI-Manuscript2@32c0a32](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/32c0a32430a97f56970000f9cd23b7c9f5276048)
 on September 4, 2024.
 </em></small>
 
@@ -375,727 +375,727 @@ on September 4, 2024.
 
 
 
- **Peter Selby**
-  ^[✉](#correspondence)^
+**Peter Selby**
+^[✉](#correspondence)^
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-7151-4445)
 
- **Rafael Abbeloos**
-  
+**Rafael Abbeloos**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-0177-3887)
 
- **Anne-Francoise Adam-Blondon**
-  
+**Anne-Francoise Adam-Blondon**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-3412-9086)
 
- **Francisco J. Agosto-Pérez**
-  
+**Francisco J. Agosto-Pérez**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-5059-253X)
 
- **Michael Alaux**
-  
+**Michael Alaux**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-9356-4072)
 
- **Isabelle Alic**
-  
+**Isabelle Alic**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-8961-6068)
 
- **Khaled Al-Shamaa**
-  
+**Khaled Al-Shamaa**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-7668-3798)
 
- **Johan Steven Aparicio**
-  
+**Johan Steven Aparicio**
 
- **Jan Erik Backlund**
-  
 
- **Aldrin Batac**
-  
+**Jan Erik Backlund**
 
- **Sebastian Beier**
-  
+
+**Aldrin Batac**
+
+
+**Sebastian Beier**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-2177-8781)
 
- **Gabriel Besombes**
-  
+**Gabriel Besombes**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0004-1359-2145)
 
- **Alice Boizet**
-  
+**Alice Boizet**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-4096-6689)
 
- **Matthijs Brouwer**
-  
+**Matthijs Brouwer**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-8183-0484)
 
- **Terry Casstevens**
-  
+**Terry Casstevens**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-7602-0487)
 
- **Arnaud Charleroy**
-  
+**Arnaud Charleroy**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0009-7575-3617)
 
- **Keo Corak**
-  
+**Keo Corak**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-4129-3319)
 
- **Chaney Courtney**
-  
+**Chaney Courtney**
 
- **Mariano Crimi**
-  
 
- **Gouripriya Davuluri**
-  
+**Mariano Crimi**
+
+
+**Gouripriya Davuluri**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0005-2308-0773)
 
- **Kauê de Sousa**
-  
+**Kauê de Sousa**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-7571-7845)
 
- **Jeremy Destin**
-  
+**Jeremy Destin**
 
- **Stijn Dhondt**
-  
+
+**Stijn Dhondt**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-4402-2191)
 
- **Ajay Dhungana**
-  
+**Ajay Dhungana**
 
- **Bert Droesbeke**
-  
+
+**Bert Droesbeke**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-0522-5674)
 
- **Manuel Feser**
-  
+**Manuel Feser**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-6546-1818)
 
- **Mirella Flores-Gonzalez**
-  
+**Mirella Flores-Gonzalez**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-7759-1617)
 
- **Valentin Guignon**
-  
+**Valentin Guignon**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-0903-6811)
 
- **Corina Habito**
-  
+**Corina Habito**
 
- **Asis Hallab**
-  
+
+**Asis Hallab**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-2421-5431)
 
- **Jenna Hershberger**
-  
+**Jenna Hershberger**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-3147-6867)
 
- **Puthick Hok**
-  
+**Puthick Hok**
 
- **Amanda M. Hulse-Kemp**
-  
+
+**Amanda M. Hulse-Kemp**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-9670-9433)
 
- **Lynn Carol Johnson**
-  
+**Lynn Carol Johnson**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-8103-2722)
 
- **Sook Jung**
-  
+**Sook Jung**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-3968-2769)
 
- **Paul Kersey**
-  
+**Paul Kersey**
 
- **Andrzej Kilian**
-  
 
- **Patrick König**
-  
+**Andrzej Kilian**
+
+
+**Patrick König**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-8948-6793)
 
- **Suman Kumar**
-  
+**Suman Kumar**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0005-5832-7190)
 
- **Josh Lamos-Sweeney**
-  
+**Josh Lamos-Sweeney**
 
- **Laszlo Lang**
-  
+
+**Laszlo Lang**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0009-8936-4532)
 
- **Matthias Lange**
-  
+**Matthias Lange**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-4316-078X)
 
- **Marie-Angélique Laporte**
-  
+**Marie-Angélique Laporte**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-8461-9745)
 
- **Taein Lee**
-  
+**Taein Lee**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-2000-2586)
 
- **Erwan Le Floch**
-  
+**Erwan Le Floch**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-1010-6859)
 
- **Francisco López**
-  
+**Francisco López**
 
- **Brandon Madriz**
-  
 
- **Dorrie Main**
-  
+**Brandon Madriz**
+
+
+**Dorrie Main**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-1162-2724)
 
- **Marco Marsella**
-  
+**Marco Marsella**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-0334-8785)
 
- **Maud Marty**
-  
+**Maud Marty**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0001-8764-6466)
 
- **Célia Michotey**
-  
+**Célia Michotey**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-1877-1703)
 
- **Zachary Miller**
-  
+**Zachary Miller**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-5454-4527)
 
- **Iain Milne**
-  
+**Iain Milne**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-4126-0859)
 
- **Lukas A. Mueller**
-  
+**Lukas A. Mueller**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-8640-1750)
 
- **Moses Nderitu**
-  
+**Moses Nderitu**
 
- **Pascal Neveu**
-  
+
+**Pascal Neveu**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-4189-7793)
 
- **Nick Palladino**
-  
+**Nick Palladino**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0009-1645-297X)
 
- **Tim Parsons**
-  
+**Tim Parsons**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-6209-2455)
 
- **Cyril Pommier**
-  
+**Cyril Pommier**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-9040-8733)
 
- **Jean-François Rami**
-  
+**Jean-François Rami**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-5679-3877)
 
- **Sebastian Raubach**
-  
+**Sebastian Raubach**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-5659-247X)
 
- **Trevor Rife**
-  
+**Trevor Rife**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-5974-6523)
 
- **Kelly Robbins**
-  
+**Kelly Robbins**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-9522-9585)
 
- **Mathieu Rouard**
-  
+**Mathieu Rouard**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-0284-1885)
 
- **Joseph Ruff**
-  
+**Joseph Ruff**
 
- **Guilhem Sempéré**
-  
+
+**Guilhem Sempéré**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-7429-2091)
 
- **Romil Mayank Shah**
-  
+**Romil Mayank Shah**
 
- **Paul Shaw**
-  
+
+**Paul Shaw**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-0202-1150)
 
- **Becky Smith**
-  
+**Becky Smith**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-8968-3383)
 
- **Nahuel Soldevilla**
-  
+**Nahuel Soldevilla**
 
- **Anne Tireau**
-  
+
+**Anne Tireau**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-8501-6922)
 
- **Clarysabel Tovar**
-  
+**Clarysabel Tovar**
 
- **Grzegorz Uszynski**
-  
 
- **Vivian Bass Vega**
-  
+**Grzegorz Uszynski**
+
+
+**Vivian Bass Vega**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0002-2476-9888)
 
- **Stephan Weise**
-  
+**Stephan Weise**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-4031-9131)
 
- **Shawn C. Yarnes**
-  
+**Shawn C. Yarnes**
+
 [![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-1090-0403)
 
- **The BrAPI Consortium**
-  
+**The BrAPI Consortium**
+
 
 
 <br>
 <br>
 
 
-    
+
 Cornell University
 <br>
-    
 
-    
+
+
 VIB Agro-Incubator
 <br>
-    
 
-    
+
+
 Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
 <br>
-    
+
 Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
 <br>
-    
 
-    
+
+
 Cornell University
 <br>
-    
 
-    
+
+
 Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
 <br>
-    
+
 Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
 <br>
-    
 
-    
+
+
 MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
 <br>
-    
 
-    
+
+
 ICARDA
 <br>
-    
 
-    
+
+
 Alliance Bioversity-CIAT
 <br>
-    
 
-    
+
+
 Integrated Breeding Platform
 <br>
-    
 
-    
+
+
 Integrated Breeding Platform
 <br>
-    
+
 Leafnode LLC
 <br>
-    
 
-    
+
+
 Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszentrum Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany
 <br>
-    
+
 Bioeconomy Science Center (BioSC), Forschungszentrum Jülich GmbH, 52428 Jülich, Germany
 <br>
-    
 
-    
+
+
 MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
 <br>
-    
 
-    
+
+
 CIRAD, UMR AGAP Institut, Montpellier, France.
 <br>
-    
+
 AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France.
 <br>
-    
 
-    
+
+
 Wageningen University and Research
 <br>
-    
 
-    
+
+
 Buckler Lab and Institute for Genomic Diversity, Cornell University
 <br>
-    
 
-    
+
+
 MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
 <br>
-    
 
-    
+
+
 USDA-ARS Genomics and Bioinformatics Research Unit
 <br>
-    
 
-    
+
+
 Clemson University
 <br>
-    
 
-    
+
+
 Integrated Breeding Platform
 <br>
-    
 
-    
+
+
 Leibniz Institute of Plant Genetics and Crop Plant Research
 <br>
-    
 
-    
+
+
 Digital Inclusion, Bioversity International, Montpellier, France
 <br>
-    
 
-    
+
+
 Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
 <br>
-    
+
 Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
 <br>
-    
 
-    
+
+
 VIB AgroIncubator
 <br>
-    
 
-    
+
+
 Louisiana State University (LSU)
 <br>
-    
 
-    
+
+
 VIB Data Core
 <br>
-    
 
-    
+
+
 Leibniz Institute of Plant Genetics and Crop Plant Research
 <br>
-    
+
 Graduate School DILS, Bielefeld Institute for Bioinformatics Infrastructure (BIBI)
 <br>
-    
 
-    
+
+
 Boyce Thompson Institute
 <br>
-    
 
-    
+
+
 Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France
 <br>
-    
 
-    
+
+
 Integrated Breeding Platform
 <br>
-    
 
-    
+
+
 Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany
 <br>
-    
 
-    
+
+
 Clemson University
 <br>
-    
 
-    
+
+
 Diversity Arrays Technology (DArT)
 <br>
-    
 
-    
+
+
 USDA-ARS Genomics and Bioinformatics Research Unit
 <br>
-    
 
-    
+
+
 Buckler Lab and Institute for Genomic Diversity, Cornell University
 <br>
-    
 
-    
+
+
 Department of Horticulture, Washington State University
 <br>
-    
 
-    
+
+
 Royal Botanic Gardens, Kew
 <br>
-    
 
-    
+
+
 Diversity Arrays Technology (DArT)
 <br>
-    
 
-    
+
+
 Leibniz Institute of Plant Genetics and Crop Plant Research
 <br>
-    
 
-    
+
+
 Leibniz Institute of Plant Genetics and Crop Plant Research
 <br>
-    
 
-    
+
+
 Cornell University
 <br>
-    
 
-    
+
+
 Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
 <br>
-    
 
-    
+
+
 Leibniz Institute of Plant Genetics and Crop Plant Research
 <br>
-    
 
-    
+
+
 Digital Inclusion, Bioversity International, Montpellier, France.
 <br>
-    
 
-    
+
+
 Department of Horticulture, Washington State University
 <br>
-    
 
-    
+
+
 Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
 <br>
-    
+
 Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
 <br>
-    
 
-    
+
+
 International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
 <br>
-    
 
-    
+
+
 MrBot Software Solutions, Cartago, Costa Rica
 <br>
-    
 
-    
+
+
 Department of Horticulture, Washington State University
 <br>
-    
 
-    
+
+
 International Treaty on Plant Genetic Resources for Food and Agriculture, FAO
 <br>
-    
 
-    
+
+
 Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
 <br>
-    
+
 Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
 <br>
-    
 
-    
+
+
 Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
 <br>
-    
+
 Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
 <br>
-    
 
-    
+
+
 Buckler Lab and Institute for Genomic Diversity, Cornell University
 <br>
-    
 
-    
+
+
 The James Hutton Institute
 <br>
-    
 
-    
+
+
 The Boyce Thompson Institute
 <br>
-    
 
-    
+
+
 SEQART AFRICA
 <br>
-    
 
-    
+
+
 MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
 <br>
-    
 
-    
+
+
 Breeding Insight, Cornell University
 <br>
-    
 
-    
+
+
 Breeding Insight, Cornell University
 <br>
-    
 
-    
+
+
 Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, 78026, Versailles, France
 <br>
-    
+
 Université Paris-Saclay, INRAE, URGI, 78026, Versailles, France
 <br>
-    
 
-    
+
+
 CIRAD, UMR AGAP Institut, Montpellier, France.
 <br>
-    
+
 AGAP Institut, CIRAD, INRAE, Institut Agro, Université de Montpellier, Montpellier, France.
 <br>
-    
 
-    
+
+
 The James Hutton Institute
 <br>
-    
 
-    
+
+
 Clemson University
 <br>
-    
 
-    
+
+
 Cornell University
 <br>
-    
 
-    
+
+
 Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France
 <br>
-    
 
-    
+
+
 Royal Botanic Gardens, Kew
 <br>
-    
 
-    
+
+
 CIRAD, UMR INTERTRYP, Montpellier, France INTERTRYP, Univ Montpellier, CIRAD, IRD, Montpellier, France French Institute of Bioinformatics (IFB)
 <br>
-    
+
 South Green Bioinformatics Platform, Bioversity, CIRAD, INRAE, IRD, Montpellier, France
 <br>
-    
 
-    
+
+
 North Carolina State University
 <br>
-    
 
-    
+
+
 The James Hutton Institute
 <br>
-    
 
-    
+
+
 The James Hutton Institute
 <br>
-    
 
-    
+
+
 Integrated Breeding Platform
 <br>
-    
+
 Leafnode LLC
 <br>
-    
 
-    
+
+
 MISTEA, University of Montpellier, INRAE, Institut Agro, Montpellier, France
 <br>
-    
 
-    
+
+
 Integrated Breeding Platform
 <br>
-    
+
 Leafnode LLC
 <br>
-    
 
-    
+
+
 Diversity Arrays Technology (DArT)
 <br>
-    
 
-    
+
+
 Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
 <br>
-    
 
-    
+
+
 Leibniz Institute of Plant Genetics and Crop Plant Research
 <br>
-    
 
-    
+
+
 Breeding Insight, Cornell University
 <br>
-    
 
-    
+
+
 The BrAPI Consortium
 <br>
-    
+
 
 
 ::: {#correspondence}
