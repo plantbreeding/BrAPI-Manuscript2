@@ -192,7 +192,7 @@ authors:
     email: stijn.dhondt@vib.be
     corresponding: false
     affiliations:
-      - VIB AgroIncubator
+      - VIB Agro-Incubator
   - name: Ajay Dhungana
     initials: AD
     github: GenAjay
@@ -224,7 +224,7 @@ authors:
     email: mrf252@cornell.edu
     corresponding: false
     affiliations:
-      - Boyce Thompson Institute
+      - The Boyce Thompson Institute
   - name: Valentin Guignon
     initials: VG
     github: guignonv
@@ -232,7 +232,7 @@ authors:
     email: v.guignon@cgiar.org
     corresponding: false
     affiliations:
-      - Bioversity International, Parc Scientifique Agropolis II, 34397 Montpellier, France
+      - Digital Inclusion, Bioversity International, Montpellier, France
   - name: Corina Habito
     initials: CH
     email: c.habito@integratedbreeding.net
@@ -246,7 +246,8 @@ authors:
     email: a.hallab@fz-juelich.de
     corresponding: false
     affiliations:
-      - Jülich research center, Institute of Bio- and Geosciences (IBG), Bioinformatics (IBG-4) and Bingen Technical University of Applied Sciences, Germany
+      - 'Institute of Bio- and Geosciences (IBG-4: Bioinformatics), CEPLAS, Forschungszentrum Jülich GmbH, Wilhelm Johnen Straße, 52428 Jülich, Germany'
+      - Bingen Technical University of Applied Sciences, Berlinstraße 109, 55411 Bingen am Rhein, Germany
   - name: Jenna Hershberger
     initials: JH
     github: jmh579
@@ -352,7 +353,7 @@ authors:
     email: m.a.laporte@cgiar.org
     corresponding: false
     affiliations:
-      - Digital Inclusion, Bioversity International, Montpellier, France.
+      - Digital Inclusion, Bioversity International, Montpellier, France
   - name: Taein Lee
     initials: TL
     github: leetaei
