@@ -100,8 +100,8 @@ header-includes: |
   <meta name="dc.date" content="2024-09-11" />
   <meta name="citation_publication_date" content="2024-09-11" />
   <meta property="article:published_time" content="2024-09-11" />
-  <meta name="dc.modified" content="2024-09-11T22:09:02+00:00" />
-  <meta property="article:modified_time" content="2024-09-11T22:09:02+00:00" />
+  <meta name="dc.modified" content="2024-09-11T22:18:00+00:00" />
+  <meta property="article:modified_time" content="2024-09-11T22:18:00+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -340,9 +340,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/9dfbe3fe3b4808f3e28a73bafe803909f263026b/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/9dfbe3fe3b4808f3e28a73bafe803909f263026b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/9dfbe3fe3b4808f3e28a73bafe803909f263026b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ae8ce83de41b22c86ba63d2539ff0411743d61cd/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ae8ce83de41b22c86ba63d2539ff0411743d61cd/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ae8ce83de41b22c86ba63d2539ff0411743d61cd/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -364,9 +364,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/9dfbe3fe3b4808f3e28a73bafe803909f263026b/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/ae8ce83de41b22c86ba63d2539ff0411743d61cd/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@9dfbe3f](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/9dfbe3fe3b4808f3e28a73bafe803909f263026b)
+from [plantbreeding/BrAPI-Manuscript2@ae8ce83](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/ae8ce83de41b22c86ba63d2539ff0411743d61cd)
 on September 11, 2024.
 </em></small>
 
@@ -378,237 +378,83 @@ on September 11, 2024.
 
 
 
-**Peter Selby**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-7151-4445)^1^\*
-
-, 
-**Rafael Abbeloos**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-0177-3887)^2^
-
-, 
-**Anne-Francoise Adam-Blondon**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-3412-9086)^3,4^
-
-, 
-**Francisco J. Agosto-Pérez**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-5059-253X)^1^
-
-, 
-**Michael Alaux**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-9356-4072)^3,4^
-
-, 
-**Isabelle Alic**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-8961-6068)^5^
-
-, 
-**Khaled Al-Shamaa**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-7668-3798)^6^
-
-, 
-**Johan Steven Aparicio**^7^
-
-, 
-**Jan Erik Backlund**^8^
-
-, 
-**Aldrin Batac**^8,9^
-
-, 
-**Sebastian Beier**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-2177-8781)^10,11^
-
-, 
-**Gabriel Besombes**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0004-1359-2145)^5^
-
-, 
-**Alice Boizet**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-4096-6689)^12,13^
-
-, 
-**Matthijs Brouwer**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-8183-0484)^14^
-
-, 
-**Terry Casstevens**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-7602-0487)^15^
-
-, 
-**Arnaud Charleroy**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0009-7575-3617)^5^
-
-, 
-**Keo Corak**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-4129-3319)^16^
-
-, 
-**Chaney Courtney**^17^
-
-, 
-**Mariano Crimi**^8^
-
-, 
-**Gouripriya Davuluri**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0005-2308-0773)^18^
-
-, 
-**Kauê de Sousa**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-7571-7845)^19^
-
-, 
-**Jeremy Destin**^3,4^
-
-, 
-**Stijn Dhondt**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-4402-2191)^2^
-
-, 
-**Ajay Dhungana**^20^
-
-, 
-**Bert Droesbeke**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-0522-5674)^21^
-
-, 
-**Manuel Feser**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-6546-1818)^18,22^
-
-, 
-**Mirella Flores-Gonzalez**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-7759-1617)^23^
-
-, 
-**Valentin Guignon**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-0903-6811)^19^
-
-, 
-**Corina Habito**^8^
-
-, 
-**Asis Hallab**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-2421-5431)^10,24^
-
-, 
-**Jenna Hershberger**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-3147-6867)^17^
-
-, 
-**Puthick Hok**^25^
-
-, 
-**Amanda M. Hulse-Kemp**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-9670-9433)^16^
-
-, 
-**Lynn Carol Johnson**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-8103-2722)^15^
-
-, 
-**Sook Jung**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-3968-2769)^26^
-
-, 
-**Paul Kersey**^27^
-
-, 
-**Andrzej Kilian**^25^
-
-, 
-**Patrick König**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-8948-6793)^18^
-
-, 
-**Suman Kumar**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0005-5832-7190)^18^
-
-, 
-**Josh Lamos-Sweeney**^1^
-
-, 
-**Laszlo Lang**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0009-8936-4532)^24^
-
-, 
-**Matthias Lange**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-4316-078X)^18^
-
-, 
-**Marie-Angélique Laporte**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-8461-9745)^19^
-
-, 
-**Taein Lee**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-2000-2586)^26^
-
-, 
-**Erwan Le Floch**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-1010-6859)^3,4^
-
-, 
-**Francisco López**^28^
-
-, 
-**Brandon Madriz**^29^
-
-, 
-**Dorrie Main**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-1162-2724)^26^
-
-, 
-**Marco Marsella**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-0334-8785)^28^
-
-, 
-**Maud Marty**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0001-8764-6466)^3,4^
-
-, 
-**Célia Michotey**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-1877-1703)^3,4^
-
-, 
-**Zachary Miller**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-5454-4527)^15^
-
-, 
-**Iain Milne**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-4126-0859)^30^
-
-, 
-**Lukas A. Mueller**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-8640-1750)^23^
-
-, 
-**Moses Nderitu**^31^
-
-, 
-**Pascal Neveu**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-4189-7793)^5^
-
-, 
-**Nick Palladino**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0009-1645-297X)^32^
-
-, 
-**Tim Parsons**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-6209-2455)^32^
-
-, 
-**Cyril Pommier**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-9040-8733)^3,4^
-
-, 
-**Jean-François Rami**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-5679-3877)^12,13^
-
-, 
-**Sebastian Raubach**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-5659-247X)^30^
-
-, 
-**Trevor Rife**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-5974-6523)^17^
-
-, 
-**Kelly Robbins**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-9522-9585)^1^
-
-, 
-**Mathieu Rouard**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-0284-1885)^33^
-
-, 
-**Joseph Ruff**^27^
-
-, 
-**Guilhem Sempéré**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-7429-2091)^34,35^
-
-, 
-**Romil Mayank Shah**^36^
-
-, 
-**Paul Shaw**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-0202-1150)^30^
-
-, 
-**Becky Smith**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-8968-3383)^30^
-
-, 
-**Nahuel Soldevilla**^8,9^
-
-, 
-**Anne Tireau**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-8501-6922)^5^
-
-, 
-**Clarysabel Tovar**^8,9^
-
-, 
-**Grzegorz Uszynski**^25^
-
-, 
-**Vivian Bass Vega**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0002-2476-9888)^24^
-
-, 
-**Stephan Weise**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-4031-9131)^18^
-
-, 
-**Shawn C. Yarnes**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-1090-0403)^32^
-
-, 
-**The BrAPI Consortium**^37^
-
-.
+**Peter Selby**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-7151-4445)^1^\*, 
+**Rafael Abbeloos**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-0177-3887)^2^, 
+**Anne-Francoise Adam-Blondon**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-3412-9086)^3,4^, 
+**Francisco J. Agosto-Pérez**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-5059-253X)^1^, 
+**Michael Alaux**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-9356-4072)^3,4^, 
+**Isabelle Alic**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-8961-6068)^5^, 
+**Khaled Al-Shamaa**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-7668-3798)^6^, 
+**Johan Steven Aparicio**^7^, 
+**Jan Erik Backlund**^8^, 
+**Aldrin Batac**^8,9^, 
+**Sebastian Beier**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-2177-8781)^10,11^, 
+**Gabriel Besombes**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0004-1359-2145)^5^, 
+**Alice Boizet**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-4096-6689)^12,13^, 
+**Matthijs Brouwer**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-8183-0484)^14^, 
+**Terry Casstevens**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-7602-0487)^15^, 
+**Arnaud Charleroy**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0009-7575-3617)^5^, 
+**Keo Corak**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-4129-3319)^16^, 
+**Chaney Courtney**^17^, 
+**Mariano Crimi**^8^, 
+**Gouripriya Davuluri**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0005-2308-0773)^18^, 
+**Kauê de Sousa**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-7571-7845)^19^, 
+**Jeremy Destin**^3,4^, 
+**Stijn Dhondt**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-4402-2191)^2^, 
+**Ajay Dhungana**^20^, 
+**Bert Droesbeke**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-0522-5674)^21^, 
+**Manuel Feser**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-6546-1818)^18,22^, 
+**Mirella Flores-Gonzalez**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-7759-1617)^23^, 
+**Valentin Guignon**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-0903-6811)^19^, 
+**Corina Habito**^8^, 
+**Asis Hallab**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-2421-5431)^10,24^, 
+**Jenna Hershberger**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-3147-6867)^17^, 
+**Puthick Hok**^25^, 
+**Amanda M. Hulse-Kemp**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-9670-9433)^16^, 
+**Lynn Carol Johnson**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-8103-2722)^15^, 
+**Sook Jung**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-3968-2769)^26^, 
+**Paul Kersey**^27^, 
+**Andrzej Kilian**^25^, 
+**Patrick König**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-8948-6793)^18^, 
+**Suman Kumar**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0005-5832-7190)^18^, 
+**Josh Lamos-Sweeney**^1^, 
+**Laszlo Lang**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0009-8936-4532)^24^, 
+**Matthias Lange**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-4316-078X)^18^, 
+**Marie-Angélique Laporte**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-8461-9745)^19^, 
+**Taein Lee**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-2000-2586)^26^, 
+**Erwan Le Floch**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-1010-6859)^3,4^, 
+**Francisco López**^28^, 
+**Brandon Madriz**^29^, 
+**Dorrie Main**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-1162-2724)^26^, 
+**Marco Marsella**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-0334-8785)^28^, 
+**Maud Marty**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0001-8764-6466)^3,4^, 
+**Célia Michotey**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-1877-1703)^3,4^, 
+**Zachary Miller**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-5454-4527)^15^, 
+**Iain Milne**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-4126-0859)^30^, 
+**Lukas A. Mueller**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-8640-1750)^23^, 
+**Moses Nderitu**^31^, 
+**Pascal Neveu**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-4189-7793)^5^, 
+**Nick Palladino**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0009-1645-297X)^32^, 
+**Tim Parsons**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-6209-2455)^32^, 
+**Cyril Pommier**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-9040-8733)^3,4^, 
+**Jean-François Rami**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-5679-3877)^12,13^, 
+**Sebastian Raubach**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-5659-247X)^30^, 
+**Trevor Rife**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-5974-6523)^17^, 
+**Kelly Robbins**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-9522-9585)^1^, 
+**Mathieu Rouard**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-0284-1885)^33^, 
+**Joseph Ruff**^27^, 
+**Guilhem Sempéré**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-7429-2091)^34,35^, 
+**Romil Mayank Shah**^36^, 
+**Paul Shaw**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-0202-1150)^30^, 
+**Becky Smith**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-8968-3383)^30^, 
+**Nahuel Soldevilla**^8,9^, 
+**Anne Tireau**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0001-8501-6922)^5^, 
+**Clarysabel Tovar**^8,9^, 
+**Grzegorz Uszynski**^25^, 
+**Vivian Bass Vega**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0009-0002-2476-9888)^24^, 
+**Stephan Weise**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0003-4031-9131)^18^, 
+**Shawn C. Yarnes**[![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}](https://orcid.org/0000-0002-1090-0403)^32^, 
+**The BrAPI Consortium**^37^.
 
 
 ^1^ Cornell University
