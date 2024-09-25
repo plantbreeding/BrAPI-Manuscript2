@@ -81,7 +81,7 @@
   <meta name="author" content="Stephan Weise" />
   <meta name="author" content="Shawn C. Yarnes" />
   <meta name="author" content="The BrAPI Consortium" />
-  <meta name="dcterms.date" content="2024-09-11" />
+  <meta name="dcterms.date" content="2024-09-25" />
   <meta name="keywords" content="brapi, breeding, api, standards, community" />
   <title>BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources</title>
   <style>
@@ -126,11 +126,11 @@
   <meta name="citation_title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
   <meta property="og:title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
   <meta property="twitter:title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
-  <meta name="dc.date" content="2024-09-11" />
-  <meta name="citation_publication_date" content="2024-09-11" />
-  <meta property="article:published_time" content="2024-09-11" />
-  <meta name="dc.modified" content="2024-09-11T22:18:00+00:00" />
-  <meta property="article:modified_time" content="2024-09-11T22:18:00+00:00" />
+  <meta name="dc.date" content="2024-09-25" />
+  <meta name="citation_publication_date" content="2024-09-25" />
+  <meta property="article:published_time" content="2024-09-25" />
+  <meta name="dc.modified" content="2024-09-25T19:47:44+00:00" />
+  <meta property="article:modified_time" content="2024-09-25T19:47:44+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -369,9 +369,9 @@
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ae8ce83de41b22c86ba63d2539ff0411743d61cd/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ae8ce83de41b22c86ba63d2539ff0411743d61cd/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ae8ce83de41b22c86ba63d2539ff0411743d61cd/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e64f96db616138c0ee7537ffc9594e03ff7768c5/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e64f96db616138c0ee7537ffc9594e03ff7768c5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e64f96db616138c0ee7537ffc9594e03ff7768c5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -388,10 +388,10 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ae8ce83de41b22c86ba63d2539ff0411743d61cd/">permalink</a>)
+(<a href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e64f96db616138c0ee7537ffc9594e03ff7768c5/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/plantbreeding/BrAPI-Manuscript2/tree/ae8ce83de41b22c86ba63d2539ff0411743d61cd">plantbreeding/BrAPI-Manuscript2@ae8ce83</a>
-on September 11, 2024.
+from <a href="https://github.com/plantbreeding/BrAPI-Manuscript2/tree/e64f96db616138c0ee7537ffc9594e03ff7768c5">plantbreeding/BrAPI-Manuscript2@e64f96d</a>
+on September 25, 2024.
 </em></small></p>
 <h2 id="authors">Authors</h2>
 <p><strong>Peter Selby</strong><a href="https://orcid.org/0000-0001-7151-4445"><img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" /></a><sup>1</sup>*,
@@ -513,13 +513,24 @@ on September 11, 2024.
 E-mail: ps664@cornell.edu (PS)</p>
 </div>
 <h2 class="page_break_before" id="abstract">Abstract</h2>
-<p>Population growth and climate change necessitate extraordinary efforts to increase efficiency in breeding programs around the world.
-Recent advancements in phenotyping techniques, genotyping technologies, and prediction approaches are facilitating increased genetic gain in breeding, but they have also created a torrent of disconnected data.
+<p>Recent advancements in phenotyping techniques, genotyping technologies, and prediction approaches are facilitating increased genetic gains in breeding programs, helping researchers and breeders develop better crops at a faster rate.
+However, these advancements have also led to an overwhelming torrent of disconnected data.
 The successful implementation of these methods depends on proper data management, which is particularly challenging due to the need to integrate datasets across various types, formats, and sources.
-The Breeding API (BrAPI) project is an international effort that is enabling more efficient data management through the development of interoperable databases and tools that can be used to share and interpret breeding-related data.
+To address these challenges, the Breeding API (BrAPI) project was created and has been adopted as an accepted standard data model in the breeding domain.
+The BrAPI project is an international effort that is enabling more efficient data management through the development of interoperable databases and tools that can be used to share and interpret breeding-related data.
 This community driven standard is software agnostic, open-source, and can be used by anyone interested in plant breeding, phenotyping, germplasm, genotyping, and agronomy data management.
-This manuscript presents an overview of the BrAPI project, the substantial growth of the data standard, and the wide variety of BrAPI-compatible, community-built tools for breeding and research.</p>
+This manuscript presents an overview of the BrAPI project, the substantial growth of the data standard, and the wide variety of BrAPI-compatible, community-built tools for breeding and research.
+This manuscript provides an overview of the BrAPI project, highlighting the significant progress made in the development of the data standard and the expansion of its community.
+It also presents a showcase of the wide variety of BrAPI-compatible tools that have been built to enhance breeding and research activities, demonstrating how the project is advancing agricultural innovation and data management practices.</p>
 <h2 id="author-summary">Author Summary</h2>
+<p>Population growth and the impacts of climate change are placing increasing pressure on global agriculture and breeding programs.
+To meet the growing demand for food and resources while coping with the unpredictability of changing climates, extraordinary efforts are required to boost the efficiency of these systems.
+This increase in efficiency will in part come from better computer technology and better data management.
+The ability to share data and software is crucial to get better technology with fewer resources, allowing scientists to build on each others work more easily.
+Creating an international data standard, such as BrAPI, within the breeding and agricultural domain allows for easy data sharing and software interoperability.
+The BrAPI community combines the expertise of breeders, computational biologists, software engineers, and data scientists to build this agreed upon data standard.
+The community actively encourages collaboration between research groups, creating a network of shared technology and knowledge.
+This spirit of collaboration not only accelerates progress but also helps to use resources more efficiently, reducing duplication of effort and enabling research groups to focus on new innovations.</p>
 <h2 class="page_break_before" id="introduction">Introduction</h2>
 <p>Breeding programs aim to deliver improved lines or cultivars, the most fundamental input for farming, and are thus foundational for maintaining a productive agricultural system amidst the pressing challenges of climate change. Breeding efforts are time- and resource-intensive, with progress dependent on efficient program logistics and accurate selection decisions. While breeding programs can benefit from modern and emerging breeding techniques like genomic selection, machine learning, and high throughput phenotyping, the successful implementation of these methods depends on the ability to efficiently collect, manage, and analyze large volumes of carefully curated genomic and phenomic data<span class="citation" data-cites="YD25diXo"><sup><a href="#ref-YD25diXo" role="doc-biblioref">1</a></sup></span>. Extracting actionable knowledge from these complex datasets is time-consuming, often prohibiting the adoption of new methods, especially by under-resourced breeding programs. To facilitate the collection, management, and analysis of these datasets, it is essential to transition to digital tools. Historically, independent applications were designed to address specific problems, but in many cases, this led to separate software solutions for each breeding program task and created data silos.</p>
 <p>The <a href="https://brapi.org">Breeding Application Programming Interface (BrAPI)</a> is a standardized, representational state transfer (REST), web service, application programming interface (API) specification for breeding and related agricultural data<span class="citation" data-cites="QfGEJ6km"><sup><a href="#ref-QfGEJ6km" role="doc-biblioref">2</a></sup></span>. Since the project inception in 2014, BrAPI has become an essential part of the digital infrastructure for plant breeding, providing a domain-specific open data standard tailored to the needs of plant breeding and genetics projects. BrAPI enables interoperability between breeding software platforms, allowing groups to seamlessly share data and software tools both within and across breeding programs. It eases the merging of datasets of different types and provides access to shared trait ontologies, phenotypic data, genotypes, seed inventories, and other essential components for collaborative breeding efforts.</p>
@@ -844,7 +855,7 @@ QBMS is open-source and available on the official CRAN repository, where it has 
 <div class="csl-left-margin">8. </div><div class="csl-right-inline">Neveu, P. <em>et al.</em> <a href="https://doi.org/10.1111/nph.15385">Dealing with multi‐source and multi‐scale information in plant phenomics: the ontology‐driven Phenotyping Hybrid Information System</a>. <em>New Phytologist</em> <strong>221</strong>, 588–601 (2018).</div>
 </div>
 <div id="ref-9aM2mdF4" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">9. </div><div class="csl-right-inline">RARe - Ressources Agronomiques pour la Recherche. <a href="https://urgi.versailles.inrae.fr/faidare/">https://urgi.versailles.inrae.fr/faidare/</a>.</div>
+<div class="csl-left-margin">9. </div><div class="csl-right-inline"><a href="https://urgi.versailles.inrae.fr/faidare">https://urgi.versailles.inrae.fr/faidare</a>.</div>
 </div>
 <div id="ref-kWLsm7g6" class="csl-entry" role="doc-biblioentry">
 <div class="csl-left-margin">10. </div><div class="csl-right-inline">Papoutsoglou, E. A. <em>et al.</em> <a href="https://doi.org/10.1111/nph.16544">Enabling reusability of plant phenomic datasets with MIAPPE 1.1</a>. <em>New Phytologist</em> <strong>227</strong>, 260–273 (2020).</div>
@@ -853,7 +864,7 @@ QBMS is open-source and available on the official CRAN repository, where it has 
 <div class="csl-left-margin">11. </div><div class="csl-right-inline">PIPPA - PSB Interface for Plant Phenotype Analysis. <a href="https://pippa.psb.ugent.be/">https://pippa.psb.ugent.be/</a>.</div>
 </div>
 <div id="ref-r84WbX0P" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">12. </div><div class="csl-right-inline">WIWAM – Automated systems for plant phenotyping – WIWAM presents phenotyping platforms for plant phenotype analysis. <a href="https://www.wiwam.be/">https://www.wiwam.be/</a>.</div>
+<div class="csl-left-margin">12. </div><div class="csl-right-inline"><a href="https://www.wiwam.be">https://www.wiwam.be</a>.</div>
 </div>
 <div id="ref-al3Hd9Ml" class="csl-entry" role="doc-biblioentry">
 <div class="csl-left-margin">13. </div><div class="csl-right-inline">Morales, N. <em>et al.</em> <a href="https://doi.org/10.1093/g3journal/jkac078">Breedbase: a digital ecosystem for modern plant breeding</a>. <em>G3 Genes|Genomes|Genetics</em> <strong>12</strong>, (2022).</div>

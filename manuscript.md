@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2024-09-11'
+date-meta: '2024-09-25'
 author-meta:
 - Peter Selby
 - Rafael Abbeloos
@@ -97,11 +97,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
   <meta property="og:title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
   <meta property="twitter:title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
-  <meta name="dc.date" content="2024-09-11" />
-  <meta name="citation_publication_date" content="2024-09-11" />
-  <meta property="article:published_time" content="2024-09-11" />
-  <meta name="dc.modified" content="2024-09-11T22:18:00+00:00" />
-  <meta property="article:modified_time" content="2024-09-11T22:18:00+00:00" />
+  <meta name="dc.date" content="2024-09-25" />
+  <meta name="citation_publication_date" content="2024-09-25" />
+  <meta property="article:published_time" content="2024-09-25" />
+  <meta name="dc.modified" content="2024-09-25T19:47:44+00:00" />
+  <meta property="article:modified_time" content="2024-09-25T19:47:44+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -340,9 +340,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ae8ce83de41b22c86ba63d2539ff0411743d61cd/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ae8ce83de41b22c86ba63d2539ff0411743d61cd/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/ae8ce83de41b22c86ba63d2539ff0411743d61cd/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e64f96db616138c0ee7537ffc9594e03ff7768c5/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e64f96db616138c0ee7537ffc9594e03ff7768c5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e64f96db616138c0ee7537ffc9594e03ff7768c5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -364,10 +364,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/ae8ce83de41b22c86ba63d2539ff0411743d61cd/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/e64f96db616138c0ee7537ffc9594e03ff7768c5/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@ae8ce83](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/ae8ce83de41b22c86ba63d2539ff0411743d61cd)
-on September 11, 2024.
+from [plantbreeding/BrAPI-Manuscript2@e64f96d](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/e64f96db616138c0ee7537ffc9594e03ff7768c5)
+on September 25, 2024.
 </em></small>
 
 
@@ -542,14 +542,26 @@ E-mail: ps664@cornell.edu (PS)
 
 ## Abstract {.page_break_before}
 
-Population growth and climate change necessitate extraordinary efforts to increase efficiency in breeding programs around the world. 
-Recent advancements in phenotyping techniques, genotyping technologies, and prediction approaches are facilitating increased genetic gain in breeding, but they have also created a torrent of disconnected data. 
+Recent advancements in phenotyping techniques, genotyping technologies, and prediction approaches are facilitating increased genetic gains in breeding programs, helping researchers and breeders develop better crops at a faster rate. 
+However, these advancements have also led to an overwhelming torrent of disconnected data.
 The successful implementation of these methods depends on proper data management, which is particularly challenging due to the need to integrate datasets across various types, formats, and sources. 
-The Breeding API (BrAPI) project is an international effort that is enabling more efficient data management through the development of interoperable databases and tools that can be used to share and interpret breeding-related data. 
+To address these challenges, the Breeding API (BrAPI) project was created and has been adopted as an accepted standard data model in the breeding domain. 
+The BrAPI project is an international effort that is enabling more efficient data management through the development of interoperable databases and tools that can be used to share and interpret breeding-related data. 
 This community driven standard is software agnostic, open-source, and can be used by anyone interested in plant breeding, phenotyping, germplasm, genotyping, and agronomy data management. 
 This manuscript presents an overview of the BrAPI project, the substantial growth of the data standard, and the wide variety of BrAPI-compatible, community-built tools for breeding and research.
+This manuscript provides an overview of the BrAPI project, highlighting the significant progress made in the development of the data standard and the expansion of its community. 
+It also presents a showcase of the wide variety of BrAPI-compatible tools that have been built to enhance breeding and research activities, demonstrating how the project is advancing agricultural innovation and data management practices.
 
 ## Author Summary
+
+Population growth and the impacts of climate change are placing increasing pressure on global agriculture and breeding programs. 
+To meet the growing demand for food and resources while coping with the unpredictability of changing climates, extraordinary efforts are required to boost the efficiency of these systems.
+This increase in efficiency will in part come from better computer technology and better data management. 
+The ability to share data and software is crucial to get better technology with fewer resources, allowing scientists to build on each others work more easily. 
+Creating an international data standard, such as BrAPI, within the breeding and agricultural domain allows for easy data sharing and software interoperability. 
+The BrAPI community combines the expertise of breeders, computational biologists, software engineers, and data scientists to build this agreed upon data standard. 
+The community actively encourages collaboration between research groups, creating a network of shared technology and knowledge. 
+This spirit of collaboration not only accelerates progress but also helps to use resources more efficiently, reducing duplication of effort and enabling research groups to focus on new innovations.
 
 
 ## Introduction {.page_break_before}
