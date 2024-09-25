@@ -100,8 +100,8 @@ header-includes: |
   <meta name="dc.date" content="2024-09-25" />
   <meta name="citation_publication_date" content="2024-09-25" />
   <meta property="article:published_time" content="2024-09-25" />
-  <meta name="dc.modified" content="2024-09-25T19:47:44+00:00" />
-  <meta property="article:modified_time" content="2024-09-25T19:47:44+00:00" />
+  <meta name="dc.modified" content="2024-09-25T20:20:28+00:00" />
+  <meta property="article:modified_time" content="2024-09-25T20:20:28+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -340,9 +340,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e64f96db616138c0ee7537ffc9594e03ff7768c5/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e64f96db616138c0ee7537ffc9594e03ff7768c5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/e64f96db616138c0ee7537ffc9594e03ff7768c5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/37308571bc08daac2944ede9765be2b308d14797/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/37308571bc08daac2944ede9765be2b308d14797/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/37308571bc08daac2944ede9765be2b308d14797/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -364,9 +364,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/e64f96db616138c0ee7537ffc9594e03ff7768c5/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/37308571bc08daac2944ede9765be2b308d14797/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@e64f96d](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/e64f96db616138c0ee7537ffc9594e03ff7768c5)
+from [plantbreeding/BrAPI-Manuscript2@3730857](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/37308571bc08daac2944ede9765be2b308d14797)
 on September 25, 2024.
 </em></small>
 
@@ -1052,7 +1052,7 @@ The authors would like to acknowledge the following funding sources:
 <!-- Auto generated references here -->
 <div id="refs"></div>
 
-## Author Contributions {.page_break_before}
+<!-- ## Author Contributions {.page_break_before}
 
 + **Peter Selby**: Peter wrote and edited a significant portion of the manuscript. Peter has been the BrAPI Project Coordinator since 2017, managing the day-to-day operations of the BrAPI project.
 + **Rafael Abbeloos**: Rafael wrote the section on the PIPPA project, and has made significant contributions to the BrAPI compatibility of the PIPPA project. 
@@ -1134,3 +1134,5 @@ The authors would like to acknowledge the following funding sources:
 ## Competing Interests Statement 
 
 The authors declare no competing interests.
+ -->
+
