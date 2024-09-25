@@ -10,5 +10,6 @@ filters:
 wrap: preserve
 metadata:
   #csl: build/assets/style.csl
-  csl: https://www.zotero.org/styles/nature
+  # csl: https://www.zotero.org/styles/nature
+  csl: http://www.zotero.org/styles/vancouver
   link-citations: true
