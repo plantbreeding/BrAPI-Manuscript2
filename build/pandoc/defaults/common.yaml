@@ -11,5 +11,6 @@ wrap: preserve
 metadata:
   #csl: build/assets/style.csl
   # csl: https://www.zotero.org/styles/nature
-  csl: https://www.zotero.org/styles/plos-computational-biology
+  # csl: https://www.zotero.org/styles/plos-computational-biology
+  csl: https://www.zotero.org/styles/database
   link-citations: true
