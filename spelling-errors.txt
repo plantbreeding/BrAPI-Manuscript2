@@ -21,7 +21,6 @@ CDO
 Célia
 Charleroy
 CIAT
-comradery
 Corak
 Costa
 curation
@@ -75,7 +74,6 @@ Neveu
 NFDI
 NIRS
 NOAA
-OpenAPI
 orthophotomosaics
 Palladino
 pangenomics
@@ -94,7 +92,6 @@ Sempéré
 SEQART
 sharable
 ShinyBrAPPs
-situ
 SNP
 sommer
 SSRs
@@ -102,7 +99,6 @@ STABrAPP
 StatGen
 Stijn
 Straße
-SwaggerHub
 Tireau
 UAV
 UMR

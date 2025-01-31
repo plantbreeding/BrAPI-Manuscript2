@@ -27,8 +27,6 @@ content/03.03.01.AGENT.md:2:König
 content/03.03.01.AGENT.md:6:PGRs
 content/03.03.01.AGENT.md:7:PGRs
 content/03.03.01.AGENT.md:7:PGRs
-content/03.03.01.AGENT.md:7:situ
-content/03.03.01.AGENT.md:7:situ
 content/03.03.01.AGENT.md:9:dataflow
 content/03.03.02.FLORILEGE.md:1:Florilège
 content/03.03.02.FLORILEGE.md:4:Florilège
@@ -71,9 +69,6 @@ content/04.discussion.md:9:pangenomics
 content/04.discussion.md:11:CDO
 content/04.discussion.md:11:GeoTIFF
 content/04.discussion.md:11:NOAA
-content/05.methods.md:5:OpenAPI
-content/05.methods.md:5:SwaggerHub
-content/05.methods.md:9:comradery
 content/90.back-matter.md:7:FFAR
 content/90.back-matter.md:7:ILCI
 content/90.back-matter.md:10:BMBF
