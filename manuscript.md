@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2025-01-31'
+date-meta: '2025-02-03'
 author-meta:
 - Peter Selby
 - Rafael Abbeloos
@@ -97,11 +97,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
   <meta property="og:title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
   <meta property="twitter:title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
-  <meta name="dc.date" content="2025-01-31" />
-  <meta name="citation_publication_date" content="2025-01-31" />
-  <meta property="article:published_time" content="2025-01-31" />
-  <meta name="dc.modified" content="2025-01-31T21:17:57+00:00" />
-  <meta property="article:modified_time" content="2025-01-31T21:17:57+00:00" />
+  <meta name="dc.date" content="2025-02-03" />
+  <meta name="citation_publication_date" content="2025-02-03" />
+  <meta property="article:published_time" content="2025-02-03" />
+  <meta name="dc.modified" content="2025-02-03T20:40:28+00:00" />
+  <meta property="article:modified_time" content="2025-02-03T20:40:28+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -340,9 +340,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/471b1ef775a9d7398d2e361c6b6c8ea0b4ec34ea/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/471b1ef775a9d7398d2e361c6b6c8ea0b4ec34ea/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/471b1ef775a9d7398d2e361c6b6c8ea0b4ec34ea/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f7bd6f24b23085becf1d9eecdf9fe563af956f13/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f7bd6f24b23085becf1d9eecdf9fe563af956f13/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/f7bd6f24b23085becf1d9eecdf9fe563af956f13/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -364,10 +364,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/471b1ef775a9d7398d2e361c6b6c8ea0b4ec34ea/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/f7bd6f24b23085becf1d9eecdf9fe563af956f13/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@471b1ef](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/471b1ef775a9d7398d2e361c6b6c8ea0b4ec34ea)
-on January 31, 2025.
+from [plantbreeding/BrAPI-Manuscript2@f7bd6f2](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/f7bd6f24b23085becf1d9eecdf9fe563af956f13)
+on February 3, 2025.
 </em></small>
 
 
@@ -1012,19 +1012,19 @@ The BrAPI project only exists because of the community of software engineers, bi
 
 ## Acknowledgements 
 
-The authors would like to acknowledge the following funding sources:
+This work is supported by:
 
-+ The BrAPI Project is funded by the USDA grant NIFA-DSFAS 2022-67021-37024.
-+ 'Innovation Lab for Crop Improvement Cornell, ILCI: 7200AA19LE00005, FFAR: CA20-SS-0000000103'
-+ The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 862613.
-+ USDA National Institute of Food and Agriculture National Research Support Project 10
-+ The SHAPE3 project is funded by a grant from the German Ministry of Research and Education (BMBF, FKZ 031B1302A).
-+ USDA NIFA: 2022-51181-38449
-+ This work was supported by the Agence Nationale de la Recherche, programme Investissements d'avenir, ANR-11-INBS-0012 (Phenome)      
-+ U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
-+ This work was funded and supported by ELIXIR, the research infrastructure for life science data.
++ The U.S. Department of Agriculture, National Institute of Food and Agriculture [grant numbers 2022-67021-37024 and 2022-51181-38449].
++ The U.S. Department of Agriculture, National Institute of Food and Agriculture National Research Support Project 10.
++ The U.S. Department of Agriculture [grant numbers 8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
++ The Innovation Lab for Crop Improvement Cornell [grant number 7200AA19LE00005].
++ The Foundation for Food & Agriculture Research [grant number CA20-SS-0000000103].
++ The European Union's Horizon 2020 Research and Innovation Programme under [grant number 862613].
++ The ELIXIR initiative, the research infrastructure for life science data.
++ The German Ministry of Research and Education [grant number FKZ 031B1302A].
++ The German Research Foundation DFG [grant number 442032008] (NFDI4Biodiversity). NFDI4Biodiversity is part of the National Research Data Infrastructure in Germany ([www.nfdi.de](www.nfdi.de)).
++ The Agence Nationale de la Recherche, programme Investissements d'avenir, [grant number ANR-11-INBS-0012]
 + The French Networks of Biological Resource Centres for Agricultural, Environmental and Life Sciences, doi: 10.15454/b4ec-tf49
-+ The work was supported by the German Research Foundation DFG under the grant agreement number 442032008 (NFDI4Biodiversity). NFDI4Biodiversity is part of NFDI, the National Research Data Infrastructure in Germany ([www.nfdi.de](www.nfdi.de)).
 + The Bill and Malinda Gates Foundation in cooperation with the Excellence in Breeding Platform of the CGIAR
 
 ## References {.page_break_before}

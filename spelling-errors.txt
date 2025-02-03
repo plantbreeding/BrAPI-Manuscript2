@@ -12,7 +12,6 @@ barcodes
 Berlinstraße
 Besombes
 BioinfOmics
-BMBF
 Boizet
 boxplot
 breedwithbims
@@ -36,7 +35,6 @@ Dhungana
 Dorrie
 DSBrAPP
 EE
-FFAR
 FKZ
 Florilège
 François
@@ -50,7 +48,6 @@ Hershberger
 Hok
 Hulse
 IFB
-ILCI
 Institut
 INTERTRYP
 IRD
