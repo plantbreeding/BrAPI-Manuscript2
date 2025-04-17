@@ -7,7 +7,7 @@ keywords:
 - standards
 - community
 lang: en-US
-date-meta: '2025-04-16'
+date-meta: '2025-04-17'
 author-meta:
 - Peter Selby
 - Rafael Abbeloos
@@ -97,11 +97,11 @@ header-includes: |
   <meta name="citation_title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
   <meta property="og:title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
   <meta property="twitter:title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
-  <meta name="dc.date" content="2025-04-16" />
-  <meta name="citation_publication_date" content="2025-04-16" />
-  <meta property="article:published_time" content="2025-04-16" />
-  <meta name="dc.modified" content="2025-04-16T16:37:09+00:00" />
-  <meta property="article:modified_time" content="2025-04-16T16:37:09+00:00" />
+  <meta name="dc.date" content="2025-04-17" />
+  <meta name="citation_publication_date" content="2025-04-17" />
+  <meta property="article:published_time" content="2025-04-17" />
+  <meta name="dc.modified" content="2025-04-17T18:47:07+00:00" />
+  <meta property="article:modified_time" content="2025-04-17T18:47:07+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -340,9 +340,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/45876e02e263d44f4af9d1b29b1149de863f5c41/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/45876e02e263d44f4af9d1b29b1149de863f5c41/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/45876e02e263d44f4af9d1b29b1149de863f5c41/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0de0c7a9d5b560aeafe6b37bdc9e09ac30999437/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0de0c7a9d5b560aeafe6b37bdc9e09ac30999437/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0de0c7a9d5b560aeafe6b37bdc9e09ac30999437/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -364,10 +364,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/45876e02e263d44f4af9d1b29b1149de863f5c41/))
+([permalink](https://plantbreeding.github.io/BrAPI-Manuscript2/v/0de0c7a9d5b560aeafe6b37bdc9e09ac30999437/))
 was automatically generated
-from [plantbreeding/BrAPI-Manuscript2@45876e0](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/45876e02e263d44f4af9d1b29b1149de863f5c41)
-on April 16, 2025.
+from [plantbreeding/BrAPI-Manuscript2@0de0c7a](https://github.com/plantbreeding/BrAPI-Manuscript2/tree/0de0c7a9d5b560aeafe6b37bdc9e09ac30999437)
+on April 17, 2025.
 </em></small>
 
 
@@ -982,9 +982,9 @@ The [BrAPI2ISA](https://github.com/elixir-europe/plant-brapi-to-isa) service fun
 #### GraphQL Data-warehouse
 
 <!-- Asis Hallab -->
-Using the [Zendro](https://zendro-dev.github.io) set of automatic software code generators, a fully functional, efficient, and cloud-capable BrAPI data-warehouse has been created for the current version of the BrAPI data models. Unlike most BrAPI-compliant data sources, this data-warehouse supports a GraphQL API rather than a RESTful API. This API provides secure access to data read and write functions for all BrAPI data models. It provides create, read, update, and delete (CRUD) functions that are standardized and accept the same parameters for all data models. Zendro supports a large number of underlying database systems, allowing flexibility during installation and integration.
+Using the [Zendro](https://zendro-dev.github.io) set of automatic software code generators, a fully functional, efficient, and cloud-capable BrAPI data-warehouse has been created for the current version of the BrAPI data models. Unlike most BrAPI-compliant data sources, this data-warehouse supports a GraphQL API rather than a RESTful API. This API provides secure access to data read and write functions for all BrAPI data models. It provides create, read, update, and delete (CRUD) functions that are standardized and accept the same parameters for all data models. Zendro supports a large number of underlying database systems, allowing flexibility during installation and integration. Thus, the data warehouse created with Zendro offers similar functionalities through its GraphQL API that BrAPI offers. More specifically, this  includes secure access to create, read, update, and delete (CRUD) operations standardized across all BrAPI data models.
 
-The GraphQL server is particularly rich in features. Logical filters allow for exhaustive search queries, whose structure is highly intuitive and based around logical triplets. Such triplets consists of a BrAPI model property, a logical operator, and a value, e.g. "Study-name equals 'Nursery Study'". A large collection of operators is available and triplets can be combined to logical search trees using "and" or "or" operators. Searches can be extended over relationships between data models, thus enabling a user to query the warehouse for exactly the required data. Authorization is based on user roles and can be configured differently for each single data model read or write function. The generated graphical interface allows for the integration of interactive scientific plots and analysis tools written in JavaScript or WebAssembly.
+The warehouse includes a GraphQL server which is particularly rich in features. Logical filters allow for exhaustive search queries, whose structure is highly intuitive and based around logical triplets. Such triplets consists of a BrAPI model property, a logical operator, and a value, e.g. "Study-name equals 'Nursery Study'". A large collection of operators is available and triplets can be combined to logical search trees using "and" or "or" operators. Searches can be extended over relationships between data models, thus enabling a user to query the warehouse for exactly the required data. Authorization is based on user roles and can be configured differently for each single data model read or write function. The generated graphical interface allows for the integration of interactive scientific plots and analysis tools written in JavaScript or WebAssembly.
 
 <!-- Asis Hallab: To Do: (i) provide the link to an example running data warehouse, and (ii) include and describe example scientific plots. -->
 
