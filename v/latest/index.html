@@ -81,7 +81,7 @@
   <meta name="author" content="Stephan Weise" />
   <meta name="author" content="Shawn C. Yarnes" />
   <meta name="author" content="The BrAPI Consortium" />
-  <meta name="dcterms.date" content="2025-04-16" />
+  <meta name="dcterms.date" content="2025-04-17" />
   <meta name="keywords" content="brapi, breeding, api, standards, community" />
   <title>BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources</title>
   <style>
@@ -126,11 +126,11 @@
   <meta name="citation_title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
   <meta property="og:title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
   <meta property="twitter:title" content="BrAPI v2 - A unified framework for data integration and collaboration for breeding and genetic resources" />
-  <meta name="dc.date" content="2025-04-16" />
-  <meta name="citation_publication_date" content="2025-04-16" />
-  <meta property="article:published_time" content="2025-04-16" />
-  <meta name="dc.modified" content="2025-04-16T16:37:09+00:00" />
-  <meta property="article:modified_time" content="2025-04-16T16:37:09+00:00" />
+  <meta name="dc.date" content="2025-04-17" />
+  <meta name="citation_publication_date" content="2025-04-17" />
+  <meta property="article:published_time" content="2025-04-17" />
+  <meta name="dc.modified" content="2025-04-17T18:47:07+00:00" />
+  <meta property="article:modified_time" content="2025-04-17T18:47:07+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -369,9 +369,9 @@
   <meta name="citation_fulltext_html_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/" />
   <meta name="citation_pdf_url" content="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://plantbreeding.github.io/BrAPI-Manuscript2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/45876e02e263d44f4af9d1b29b1149de863f5c41/" />
-  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/45876e02e263d44f4af9d1b29b1149de863f5c41/" />
-  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/45876e02e263d44f4af9d1b29b1149de863f5c41/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0de0c7a9d5b560aeafe6b37bdc9e09ac30999437/" />
+  <meta name="manubot_html_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0de0c7a9d5b560aeafe6b37bdc9e09ac30999437/" />
+  <meta name="manubot_pdf_url_versioned" content="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0de0c7a9d5b560aeafe6b37bdc9e09ac30999437/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -388,10 +388,10 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/45876e02e263d44f4af9d1b29b1149de863f5c41/">permalink</a>)
+(<a href="https://plantbreeding.github.io/BrAPI-Manuscript2/v/0de0c7a9d5b560aeafe6b37bdc9e09ac30999437/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/plantbreeding/BrAPI-Manuscript2/tree/45876e02e263d44f4af9d1b29b1149de863f5c41">plantbreeding/BrAPI-Manuscript2@45876e0</a>
-on April 16, 2025.
+from <a href="https://github.com/plantbreeding/BrAPI-Manuscript2/tree/0de0c7a9d5b560aeafe6b37bdc9e09ac30999437">plantbreeding/BrAPI-Manuscript2@0de0c7a</a>
+on April 17, 2025.
 </em></small></p>
 <h2 id="authors">Authors</h2>
 <p><strong>Peter Selby</strong><a href="https://orcid.org/0000-0001-7151-4445"><img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" /></a><sup>1</sup>*,
@@ -785,8 +785,8 @@ QBMS is open-source and available on the official CRAN repository, where it has 
 <p>The <a href="https://github.com/elixir-europe/plant-brapi-to-isa">BrAPI2ISA</a> service functions as a converter between a BrAPI-compatible server and the ISA-Tab format. The tool simplifies, automates, and facilitates the archiving of data, thereby enhancing data preservation and accessibility. The BrAPI2ISA tool is compatible with BrAPI 1.3 and welcomes community contributions to support the latest versions of BrAPI.</p>
 <h4 id="graphql-data-warehouse">GraphQL Data-warehouse</h4>
 <!-- Asis Hallab -->
-<p>Using the <a href="https://zendro-dev.github.io">Zendro</a> set of automatic software code generators, a fully functional, efficient, and cloud-capable BrAPI data-warehouse has been created for the current version of the BrAPI data models. Unlike most BrAPI-compliant data sources, this data-warehouse supports a GraphQL API rather than a RESTful API. This API provides secure access to data read and write functions for all BrAPI data models. It provides create, read, update, and delete (CRUD) functions that are standardized and accept the same parameters for all data models. Zendro supports a large number of underlying database systems, allowing flexibility during installation and integration.</p>
-<p>The GraphQL server is particularly rich in features. Logical filters allow for exhaustive search queries, whose structure is highly intuitive and based around logical triplets. Such triplets consists of a BrAPI model property, a logical operator, and a value, e.g. “Study-name equals ‘Nursery Study’”. A large collection of operators is available and triplets can be combined to logical search trees using “and” or “or” operators. Searches can be extended over relationships between data models, thus enabling a user to query the warehouse for exactly the required data. Authorization is based on user roles and can be configured differently for each single data model read or write function. The generated graphical interface allows for the integration of interactive scientific plots and analysis tools written in JavaScript or WebAssembly.</p>
+<p>Using the <a href="https://zendro-dev.github.io">Zendro</a> set of automatic software code generators, a fully functional, efficient, and cloud-capable BrAPI data-warehouse has been created for the current version of the BrAPI data models. Unlike most BrAPI-compliant data sources, this data-warehouse supports a GraphQL API rather than a RESTful API. This API provides secure access to data read and write functions for all BrAPI data models. It provides create, read, update, and delete (CRUD) functions that are standardized and accept the same parameters for all data models. Zendro supports a large number of underlying database systems, allowing flexibility during installation and integration. Thus, the data warehouse created with Zendro offers similar functionalities through its GraphQL API that BrAPI offers. More specifically, this includes secure access to create, read, update, and delete (CRUD) operations standardized across all BrAPI data models.</p>
+<p>The warehouse includes a GraphQL server which is particularly rich in features. Logical filters allow for exhaustive search queries, whose structure is highly intuitive and based around logical triplets. Such triplets consists of a BrAPI model property, a logical operator, and a value, e.g. “Study-name equals ‘Nursery Study’”. A large collection of operators is available and triplets can be combined to logical search trees using “and” or “or” operators. Searches can be extended over relationships between data models, thus enabling a user to query the warehouse for exactly the required data. Authorization is based on user roles and can be configured differently for each single data model read or write function. The generated graphical interface allows for the integration of interactive scientific plots and analysis tools written in JavaScript or WebAssembly.</p>
 <!-- Asis Hallab: To Do: (i) provide the link to an example running data warehouse, and (ii) include and describe example scientific plots. -->
 <p>An <a href="https://brapi-gui.zendro-dev.org">example data warehouse</a> is publicly available and offers full read access in the graphical user interface and through the GraphQL API. The example warehouse is populated with public <a href="https://www.cassavabase.org/">CassavaBase</a> data <span class="citation" data-cites="STn93hbH">(<a href="#ref-STn93hbH" role="doc-biblioref">53</a>)</span> to create fully BrAPI-compliant example based on Zendro. Three interactive scientific example plots are available to explore the data. The first is a boxplot comparing Cassava harvest indices measured for four different experiments. Next, an interactive raincloud plot provides an alternative visualization of the same data. Finally, a scatterplot shows how Cassava fresh root yield and plant height are correlated based on data from a single study.</p>
 <h2 id="discussion">Discussion</h2>
@@ -841,16 +841,16 @@ QBMS is open-source and available on the official CRAN repository, where it has 
 <div class="csl-left-margin">8. </div><div class="csl-right-inline">Neveu, P., Tireau, A., Hilgert, N., et al. (2018) <a href="https://doi.org/10.1111/nph.15385">Dealing with multi‐source and multi‐scale information in plant phenomics: the ontology‐driven Phenotyping Hybrid Information System</a>. <em>New Phytologist</em>, <strong>221</strong>, 588–601.</div>
 </div>
 <div id="ref-9aM2mdF4" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">9. </div><div class="csl-right-inline">RARe - Ressources Agronomiques pour la Recherche <a href="https://urgi.versailles.inrae.fr/faidare/">https://urgi.versailles.inrae.fr/faidare/</a> (accessed Apr 16, 2025).</div>
+<div class="csl-left-margin">9. </div><div class="csl-right-inline">RARe - Ressources Agronomiques pour la Recherche <a href="https://urgi.versailles.inrae.fr/faidare/">https://urgi.versailles.inrae.fr/faidare/</a> (accessed Apr 17, 2025).</div>
 </div>
 <div id="ref-kWLsm7g6" class="csl-entry" role="doc-biblioentry">
 <div class="csl-left-margin">10. </div><div class="csl-right-inline">Papoutsoglou, E.A., Faria, D., Arend, D., et al. (2020) <a href="https://doi.org/10.1111/nph.16544">Enabling reusability of plant phenomic datasets with MIAPPE 1.1</a>. <em>New Phytologist</em>, <strong>227</strong>, 260–273.</div>
 </div>
 <div id="ref-okf3YI9z" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">11. </div><div class="csl-right-inline">PIPPA - PSB Interface for Plant Phenotype Analysis <a href="https://pippa.psb.ugent.be/">https://pippa.psb.ugent.be/</a> (accessed Apr 16, 2025).</div>
+<div class="csl-left-margin">11. </div><div class="csl-right-inline">PIPPA - PSB Interface for Plant Phenotype Analysis <a href="https://pippa.psb.ugent.be/">https://pippa.psb.ugent.be/</a> (accessed Apr 17, 2025).</div>
 </div>
 <div id="ref-r84WbX0P" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">12. </div><div class="csl-right-inline">Home - WIWAM (2024) <a href="https://www.wiwam.com/">https://www.wiwam.com/</a> (accessed Apr 16, 2025).</div>
+<div class="csl-left-margin">12. </div><div class="csl-right-inline">Home - WIWAM (2024) <a href="https://www.wiwam.com/">https://www.wiwam.com/</a> (accessed Apr 17, 2025).</div>
 </div>
 <div id="ref-al3Hd9Ml" class="csl-entry" role="doc-biblioentry">
 <div class="csl-left-margin">13. </div><div class="csl-right-inline">Morales, N., Ogbonna, A.C., Ellerbrock, B.J., et al. (2022) <a href="https://doi.org/10.1093/g3journal/jkac078">Breedbase: a digital ecosystem for modern plant breeding</a>. <em>G3 Genes|Genomes|Genetics</em>, <strong>12</strong>.</div>
@@ -892,7 +892,7 @@ QBMS is open-source and available on the official CRAN repository, where it has 
 <div class="csl-left-margin">25. </div><div class="csl-right-inline"><a href="https://doi.org/10.4060/cd4711en">The Third Report on The State of the World’s Plant Genetic Resources for Food and Agriculture</a> (2025)<strong>(2025) </strong>.</div>
 </div>
 <div id="ref-i0Aj9IwD" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">26. </div><div class="csl-right-inline">Global Information System <a href="https://glis.fao.org/glis/">https://glis.fao.org/glis/</a> (accessed Apr 16, 2025).</div>
+<div class="csl-left-margin">26. </div><div class="csl-right-inline">Global Information System <a href="https://glis.fao.org/glis/">https://glis.fao.org/glis/</a> (accessed Apr 17, 2025).</div>
 </div>
 <div id="ref-6DjakjNS" class="csl-entry" role="doc-biblioentry">
 <div class="csl-left-margin">27. </div><div class="csl-right-inline">Wilkinson, M.D., Dumontier, M., Aalbersberg, Ij.J., et al. (2016) <a href="https://doi.org/10.1038/sdata.2016.18">The FAIR Guiding Principles for scientific data management and stewardship</a>. <em>Sci Data</em>, <strong>3</strong>.</div>
@@ -943,7 +943,7 @@ QBMS is open-source and available on the official CRAN repository, where it has 
 <div class="csl-left-margin">42. </div><div class="csl-right-inline">Yu, J., Jung, S., Cheng, C.-H., et al. (2021) <a href="https://doi.org/10.3390/plants10122805">CottonGen: The Community Database for Cotton Genomics, Genetics, and Breeding Research</a>. <em>Plants</em>, <strong>10</strong>, 2805.</div>
 </div>
 <div id="ref-AD7jmfXG" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">43. </div><div class="csl-right-inline">Home <a href="https://hub.maizegenetics.net/">https://hub.maizegenetics.net/</a> (accessed Apr 16, 2025).</div>
+<div class="csl-left-margin">43. </div><div class="csl-right-inline">Home <a href="https://hub.maizegenetics.net/">https://hub.maizegenetics.net/</a> (accessed Apr 17, 2025).</div>
 </div>
 <div id="ref-1FDf25dDD" class="csl-entry" role="doc-biblioentry">
 <div class="csl-left-margin">44. </div><div class="csl-right-inline">Morales, N., Bauchet, G.J., Tantikanjana, T., et al. (2020) <a href="https://doi.org/10.1371/journal.pone.0240059">High density genotype storage for plant breeding in the Chado schema of Breedbase</a>. <em>PLoS ONE</em>, <strong>15</strong>, e0240059.</div>
